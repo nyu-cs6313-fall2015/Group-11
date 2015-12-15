@@ -1,0 +1,156 @@
+<!-- AES To-Do: header/filter colors, legend, filter styling, info popup, other viz styling, about, tooltip styling-->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/multiple-select.css">
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+        <style>
+           .header {
+             background-color: navy;
+             text-align: center;
+             color: white;
+           }
+
+           #listDiv {
+             float:left;
+             width:25%;
+             overflow:hidden;
+           }
+           #vizDiv {
+             float:left;
+             width:75%;
+             overflow:hidden;
+           }
+            .axis path,
+            .axis line {
+              fill: none;
+              stroke: #000;
+              shape-rendering: auto;
+            }
+            .highlight {
+             font-weight: bold;
+            }
+            .label {
+              stroke: none;
+              font-size: 14px;
+            }
+            #tooltip {
+               background-color: white;
+               border: solid 1px #000;
+               width: 140px;
+               display: none;
+               position: fixed;
+               padding: 5px;
+             }
+            rect.bordered {
+                stroke: #E6E6E6;
+                stroke-width:2px;
+              }
+              text.mono {
+                font-size: 6pt;
+                font-family: Consolas, courier;
+                fill: #aaa;
+              }
+              text.axis-workweek {
+                font-size: 6pt;
+                fill: #000;
+              }
+              text.axis-worktime {
+                fill: #000;
+              }
+              rect.legend-box {
+                fill:white;
+                stroke:black;
+                stroke-width: 0.5;
+                opacity: 0.7;
+              }
+              .legend-box {
+                display: inline-block;
+              }
+              text.dayLabel{
+                font-size: 11px;
+                font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+                fill: #337ab7;
+              }
+              text.timeLabel{
+                font-size: 11px;
+                font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+                fill: black;
+              }
+         </style>
+    </head>
+    <body>
+        <nav class="navbar navbar-primary navbar-custom" style="margin-bottom: 0px;">
+            <div class="container-fluid" style="padding-left: 40px;">
+                <div class="navbar-header">
+                  <a class="navbar-brand" href="#" style="font-size:20px;"><span><b>tru</b></span>Influence</a>
+                </div>
+            </div>
+        </nav>
+        <div class="container-fluid" style="padding-left: 40px;">
+          <div class="row">
+              <div class="col-md-12">
+                <strong> Bill Vote Outcomes & Campaign Funding </strong> | Senate Session 113 <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#demo" style="padding-left: 10px;">
+                 <span class="glyphicon glyphicon-collapse-down"></span> Show Filters
+               </button>
+               <div id="demo" class="collapse" style="padding-top: 10px;">
+                 <label style="font-weight: normal" class="control-label">Bill</label>
+                 <select id='billFilter' class="" style="width: 120px;" multiple="multiple">
+                 </select>
+                 <label style="font-weight: normal" class="control-label">Bill Status</label>
+                   <select id='billStatusFilter' class="" style="width: 120px;" multiple="multiple">
+                   </select>
+               </div>
+              </div>
+          </div>
+          <hr>
+        </div>
+
+        <div class="container-fluid" style="padding-left: 40px;">
+          <div class="row">
+              <div class="col-md-6">
+                <div sv='#scatterplot'>
+                    <svg></svg>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div id="infoDiv" class="info" style="padding-bottom: 25px; padding-top: 5px; visibility: hidden;">
+                  <div style="font-size:24px">Bill <span id="BillName"></span></div>
+                  <span id="BillStatus"></span><br>
+                  <span id="InSupport"></span> From Funders Who Support<br>
+                  <span id="InOppose"></span> From Funders Who Oppose
+                </div>
+                <div id="chart"></div>
+              </div>
+        </div>
+
+        <script>
+        $(document).ready(function(){
+          $("#demo").on("hide.bs.collapse", function(){
+            $(".btn").html('<span class="glyphicon glyphicon-collapse-down"></span> Show Filters');
+          });
+          $("#demo").on("show.bs.collapse", function(){
+            $(".btn").html('<span class="glyphicon glyphicon-collapse-up"></span> Hide Filters');
+          });
+        });
+        </script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js"></script>
+        <!-- load the d3.js library -->
+        <script src="http://d3js.org/d3.v3.min.js"></script>
+                    <script src="js/d3.legend.js"></script>
+        <script src="js/scatterplot.js"></script>
+        <script src="js/multiple-select.js"></script>
+        <script src="js/heatmap.js"></script>
+
+    </body>
+</html>
