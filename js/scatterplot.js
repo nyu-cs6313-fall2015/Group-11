@@ -160,10 +160,8 @@ function loadVisualization() {
             this.xgroup.append("text")
               .attr("class", "label")
               .attr("x", width/2)
-              .attr("y", 55)
+              .attr("y", 40)
               .style("text-anchor", "middle")
-              // .style("font-size", "12px")
-              .style("font-weight", "normal")
               .text("Funding From Supporters");
 
          // y-axis
@@ -174,11 +172,9 @@ function loadVisualization() {
               .attr("class", "label")
               .attr("transform", "rotate(-90)")
               .attr("x", -width/2)
-              .attr("y", -70)
+              .attr("y", -60)
               .attr("dy", ".71em")
               .style("text-anchor", "middle")
-              // .style("font-size", "12px")
-              .style("font-weight", "normal")
               .text("Funding From Opposers");
 
           // diagonal line
@@ -253,6 +249,7 @@ function loadVisualization() {
             var dataL = 0;
             var offset = 80;
 
+
             this.legend = this.svg.append("g")
               .attr("class","legend")
               .attr("transform","translate(360,390)")
@@ -265,6 +262,7 @@ function loadVisualization() {
                 .attr("data-style-padding",10)
                 .call(d3.legend)
             },1000);
+
         }
     };
 
