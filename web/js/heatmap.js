@@ -1,132 +1,168 @@
-var margin = { top: 150, right: 0, bottom: 100, left: 150 },
-          width = 600 - margin.left - margin.right,
-          height = 15000 - margin.top - margin.bottom,
-          gridSize = Math.floor(width / 25),
-          legendElementWidth = gridSize*2,
-          buckets = 9,
-          colors = ["#042959","#BABABA"], // alternatively colorbrewer.YlGnBu[9]
-          datasets = ["datahm.csv"],
-            hmData;
+var margin = { top: 40, right: 20, bottom: 100, left: 70 },
+          height = 600 - margin.top - margin.bottom;
 
 function loadHeatMapData(tsvFile) {
         d3.csv('/proxy.php?url='+tsvFile,
         function(d) {
           return {
             leg: d.Legislator,
-            org: d['Contributor Interest Group'],
-            legVote: getKey(d, 'Vote')== '' ? 'NA': getKey(d, 'Vote'),
-            igVote: getKey(d, 'Interest Group') == 'Support' ? true: false,
+            ig: d['Contributor Interest Group'],
+            party: d.Party,
+            legVote : getKey(d, 'Vote')== '' ? 'Yes': getKey(d, 'Vote'),
             money: +d['Contribution Amount'].replace("$", "").replace(",", "").trim(),
-            bill: '',
-            legVoted: getKey(d, 'Vote') == 'Yes' ? true: false,
-            orgSupported: getKey(d, 'Interest Group') == 'Support' ? true: false,
-            bothAgree: (getKey(d, 'Vote') == 'Yes' && getKey(d, 'Interest Group') == 'Support') || (getKey(d, 'Vote') == 'No' && getKey(d, 'Interest Group') == 'Oppose') ? true: false
+            igSupported: getKey(d, 'Interest Group')
           };
         },
         function(error,data){
-          hmData = data;
-          loadHeatMapChart(data);
+          transformData(data);
         });
       };
 
-     function loadHeatMapChart(data) {
-            legislators = _.uniq(_.pluck(data, 'leg'));
-         
-         var svg = d3.select("#chart").append("svg")
-          .attr("width", width + margin.left + margin.right)
-          .attr("height", height + margin.top + margin.bottom)
-          .attr("style","overflow:auto")
-          .append("g")
-          .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+function transformData(data){
+    var res = alasql('SELECT leg, party, legVote, igSupported, sum(money) as money \
+                        FROM ? \
+                        GROUP BY leg, party, legVote, igSupported \
+                        ORDER BY leg ASC',[data]);
 
-            var dayLabels = svg.selectAll(".dayLabel")
-                                .data(legislators)
-                                .enter().append("text")
-                                .text(function (d) { return d; })
-                                .attr("x", -70)
-                                .attr("y", function (d, i) { return i * gridSize; })
-                                .style("text-anchor", "end")
-                                .attr("transform", "translate(60," + gridSize / 1.5 + ")")
-                                .attr("class", function (d, i) { return (( i%2 == 0) ? "dayLabel mono axis axis-workweek" : "dayLabel mono axis"); })
+    var supported = _.filter(res,{'igSupported': 'Support'});
+    var opposed = _.filter(res,{'igSupported': 'Oppose'});
 
-            organization = _.uniq(_.pluck(data, 'org'));
 
-            var timeLabels = svg.selectAll(".timeLabel")
-                                .data(organization)
-                                .enter().append("text")
-                                .text(function(d) { return d; })
-                                .attr("x", 0)
-                                .attr("dx", 2)
-                                .attr("y", 0)
-                                .style("text-anchor", "start")
-                                .attr("transform", function(d, i) { return "translate(" + ((i * gridSize) + 10) + ", -6) rotate(-60)";} )
-                                .attr("class", function(d, i) { return ((i%2 == 0) ? "timeLabel mono axis axis-worktime" : "timeLabel mono axis"); });
+    var fres = alasql('SELECT COALESCE(Supported.leg,Opposed.leg) as leg, COALESCE(Supported.party,Opposed.party) as party, COALESCE(Supported.legVote,Opposed.legVote) as legVote, COALESCE(Supported.money,0) as moneyGivenInSupport, COALESCE(Opposed.money,0) as moneySpentInOppose \
+                        FROM ? AS Supported OUTER JOIN ? AS Opposed on Supported.leg = Opposed.leg \
+                        ORDER BY 1 ASC',[supported, opposed]);
 
-            var colorScale = d3.scale.ordinal()
-              .domain(_.uniq(_.pluck(data, 'bothAgree')))
-              .range(colors);
+    sc(width, height, margin, fres);
 
-          var cards = svg.selectAll(".hour")
-              .data(data, function(d) {return d.leg+':'+d.org;});
+}
 
-          cards.append("title");
+function sc(width, height, margin, data)
+{
+    var scatterplot2 = {
+        init: function(width, height, margin) {
+            _this=this;
+            // setup x
+            this.xValue = function(d) { return d.moneyGivenInSupport == 0 ? d.moneyGivenInSupport + 0 : d.moneyGivenInSupport;}; // data -> value
+            this.xScale = d3.scale.linear().range([0,width]); // value -> display
+            this.xMap = function(d) { return this.xScale(this.xValue(d));}.bind(this); // data -> display
+            this.xAxis = d3.svg.axis().scale(this.xScale).orient("bottom").tickFormat(function(d){return "$" + +d/1000 + "k"});
 
-          cards.enter().append("rect")
-              .attr("x", function(d,i) {return (_.indexOf(organization, d.org) * gridSize); })
-              .attr("y", function(d,i) { return (_.indexOf(legislators, d.leg) * gridSize); })
-              .attr("rx", 4)
-              .attr("ry", 4)
-              .attr("class", "hour bordered")
-              .attr("width", gridSize)
-              .attr("height", gridSize)
-              .style("fill", colors[0])
-              .on('mouseover', function(d){
-                    return tooltip.style("visibility", "visible").append("span")
-                    .html(" <b>Bill</b> : " + d.bill +
-                          "<br> <b>Legislator</b> : " + d.leg +
-                          "<br> <b>Did Legislator Vote for Bill?</b> : " + d.legVoted +
-                          "<br> <b>Organization</b> : " + d.org +
-                          "<br> <b>Did Organization Support the Bill?</b> : " + d.orgSupported +
-                          "<br> <b>Did legislator and Orgnaization agree?</b> : " + d.bothAgree +
-                          "<br> <b>Money received from Organization</b> : " + d3.format("$,")(d.money))})
-              .on('mouseout', function(d){
-                    return tooltip.style("visibility", "hidden").selectAll("span").remove();
-                })
-              .on("mousemove", function(){return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px")});
+            // setup y
+            this.yValue = function(d) { return d.moneySpentInOppose == 0 ? d.moneySpentInOppose + 0 : d.moneySpentInOppose;}; // data -> value
+            this.yScale = d3.scale.linear().range([height, 0]), // value -> display
+            this.yMap = function(d) { return this.yScale(this.yValue(d));}.bind(this), // data -> display
+            this.yAxis = d3.svg.axis().scale(this.yScale).orient("left").tickFormat(function(d){return "$" + +d/1000 + "k"});
 
-          cards.transition().duration(1000)
-              .style("fill", function(d) { return colorScale(d.bothAgree); });
+            // setup fill color
+            this.cValue = function(d) { return d.legVote;};
+            this.color = d3.scale.category10()
+                .range(["#D63A32", "#0A417C"]);
 
-          cards.select("title").text(function(d) { return d.bothAgree; });
+            this.svg =d3.select("#chart").append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-          cards.exit().remove();
+            // x-axis
+            this.xgroup = this.svg.append("g")
+                .attr("class", "x axis")
+                .attr("transform", "translate(0," + height + ")");
 
-          /*var legend = svg.selectAll(".legend")
-              .data([0].concat(colorScale.range()), function(d) { return d; });
+            this.xgroup.append("text")
+              .attr("class", "label")
+              .attr("x", width/2)
+              .attr("y", 40)
+              .style("text-anchor", "middle")
+              .text("Funding From Supporters");
 
-          legend.enter().append("g")
-              .attr("class", "legend");
+         // y-axis
+          this.ygroup = this.svg.append("g")
+              .attr("class", "y axis");
 
-          legend.append("rect")
-            .attr("x", function(d, i) { return legendElementWidth * i; })
-            .attr("y", height)
-            .attr("width", legendElementWidth)
-            .attr("height", gridSize / 2)
-            .style("fill", function(d, i) { return colors[i]; });
+            this.ygroup.append("text")
+              .attr("class", "label")
+              .attr("transform", "rotate(-90)")
+              .attr("x", -width/2)
+              .attr("y", -60)
+              .attr("dy", ".71em")
+              .style("text-anchor", "middle")
+              .text("Funding From Opposers");
 
-          legend.append("text")
-            .attr("class", "mono")
-            .text(function(d) { return d; })
-            .attr("x", function(d, i) { return legendElementWidth * i; })
-            .attr("y", height + gridSize);
+          // diagonal line
+          this.diagonal = this.svg.append("line")
+            .attr("x1", 0)
+            .attr("y1", 0)
+            .attr("x2", 100)
+            .attr("y2", 100)
+            .attr("stroke-width", 2)
+            .attr("stroke", "grey")
+            .attr("stroke-dasharray", "2")
+            ;
 
-          legend.exit().remove();*/
+        },
+        getItem : function(d){ return this.svg.selectAll('circle').filter(function(e){return d.leg == e.leg})},
+        mouseover: function(d){
+            this.getItem(d).attr("r",8).attr("fill", "black"); return tooltip.style("visibility", "visible").append("span")
+                .html(" <b>Legislator</b> : " + d.leg + "<br> <b>Party</b> : " + d.party +"<br> <b>Money Given In Support</b> : " + d3.format("$,")(d.moneyGivenInSupport) + "<br> <b>Money Spent In Oppose</b> : " + d3.format("$,")(d.moneySpentInOppose))},
 
-        };
+        mouseout: function(d){
+            this.getItem(d).attr("r",4).attr("fill", function(d) { return _this.color(_this.cValue(d));} ); return tooltip.style("visibility", "hidden").selectAll("span").remove();
+        },
 
+        mousemove: function(d){
+         return tooltip.style("top", (+d3.select(this.getItem(d)[0][0]).attr('cy')+160)+"px").style("left",(+d3.select(this.getItem(d)[0][0]).attr('cx')+820)+"px");
+        },
+
+        onDataUpdate: function(data)
+        {
+            this.xScale.domain([d3.min(data, this.xValue)-1,d3.max(data, this.xValue)+1]);
+            this.yScale.domain([d3.min(data, this.yValue)-1,d3.max(data, this.yValue)+1]);
+            this.xgroup.transition().call(this.xAxis);
+            this.ygroup.transition().call(this.yAxis);
+
+            this.viz = this.svg.selectAll("circle").data(data, function(d){return d.leg;});
+            this.viz.enter().append("circle").attr('data-legend', function(d) {
+                return d.legVote;
+            }).attr({
+            r: 4,
+            cx: this.xMap,
+            cy: this.yMap,
+            fill: function(d) { return _this.color(_this.cValue(d));},
+            opacity: 0.6
+            });
+            this.viz.on("mouseover", function(d) { _this.mouseover(d); })
+            .on("mouseout", function(d) { _this.mouseout(d); })
+            .on("mousemove", function(d) { _this.mousemove(d) })
+
+            this.viz.exit().remove();
+
+            this.viz.transition();
+
+            var dataL = 0;
+            var offset = 80;
+
+
+            this.legend = this.svg.append("g")
+              .attr("class","legend")
+              .attr("transform","translate(360,390)")
+              .style("font-size","12px")
+              .call(d3.legend);
+
+            setTimeout(function() {
+              this.legend = this.svg.append("circle")
+                .style("font-size","20px")
+                .attr("data-style-padding",10)
+                .call(d3.legend)
+            },1000);
+        }
+    };
+
+    scatterplot2.init(width, height, margin);
+    scatterplot2.onDataUpdate(data);
+}
 function getKey(d,KeyStr)
 {
     var cl = _.find(Object.keys(d),function(key){ return _.startsWith(key, KeyStr);});
     return d[cl];
 }
-      //loadHeatMapData(datasets[0]);
