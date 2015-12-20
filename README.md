@@ -1,23 +1,21 @@
-# php-getting-started
+#truInfluence
+<p>Ayanna Seals, Bijil Babu, Janhavi Bagwe</p>
 
-A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku.
+<h3>Screenshot</h3>
 
-This application supports the [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php) article - check it out.
+<h3>Description</h3>
 
-## Deploying
+truInfluence is a web based data visualization that provides a holistic view of federal campaign financing influence on the political system. As the 2016 elections are nearing, politics seems to be at the center of attention for nearly everyone in the United States. Majority of the Americans – 84% – believe money has too much influence on the political campaigns today, according to the New York Times/CBS News Poll. 55% of the Americans think that the candidates who eventually win and hold a public office promotes policies that directly benefits the individual or organization. But currently there is no easy way to prove that this is actually the case.
 
-Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
+Exploring a candidate’s campaign funding’s influence on the political system require time and deep investigation to find correlations between different variables. Existing tools, such as the Sunlight Foundation’s Influence Explorer, do not provide an overall assessment. Campaign funding includes monetary contributions from individuals and organizations in support of specific candidates. There exist qualitative grounds to believe that this may influence what laws are passed through Congress. However, finding trends based on quantitative data would be more effective in deciphering if the issue is real and serious enough to attempt to fix, as well as providing an interface to later measure if the solutions are effective.
 
-```sh
-$ git clone git@github.com:heroku/php-getting-started.git # or clone your own fork
-$ cd php-getting-started
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
+The difficulty in finding correlations in the dense data that exist is a problem for individuals, activists, researchers, and journalist who are interested in exploring the topic and creating legislation to protect the system against potential corruption. Solving this problem is important because it would help researchers analyze with quantitative data if the issue is real and serious enough to attempt to fix, as well as provide an interface to later measure if the solutions are effective. The goal of truInfluence is to create a data visualization that serves this purpose.
 
-## Documentation
+<h3>Video</h3>
 
-For more information about using PHP on Heroku, see these Dev Center articles:
+<h3>Live Demo</h3>
 
-- [PHP on Heroku](https://devcenter.heroku.com/categories/php)
+<h3>Final Report</h3>
+
+<h3>The Data</h3>
+>>>>>>> 6002aa266009a1e0e7b5b0abb46a06ebcd8097c5

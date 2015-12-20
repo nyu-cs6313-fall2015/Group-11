@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/multiple-select.css">
+
+    </head>
+    <body>
+        <nav class="navbar navbar-primary navbar-custom" style="margin-bottom: 0px;">
+            <div class="container-fluid" style="padding-left: 40px;">
+                <div class="navbar-header">
+                  <a class="navbar-brand" href="#"><span><b>tru</b></span>Influence</a>
+                </div>
+            </div>
+        </nav>
+        <div class="container-fluid" style="padding-left: 40px;">
+          <div class="row">
+            <div class="col-md-12" id="myGroup">
+              <strong> Bill Vote Outcomes & Campaign Funding </strong> | Senate Session 113
+              <button type="button" class="filter btn btn-link" data-toggle="collapse" data-target="#filters" style="padding-left: 10px;">
+               <span class="glyphicon glyphicon-collapse-down"></span> Filters
+              </button>
+              <button type="button" class="howTo btn btn-link" data-toggle="collapse" data-target="#howto" style="padding-left: 10px;">
+               <span class="glyphicon glyphicon-collapse-down"></span> How To Read The Visualization
+              </button>
+              <div id="filters" class="collapse" style="padding-top: 10px;">
+                <label style="font-weight: normal" class="control-label">Bill</label>
+                <select id='billFilter' class="" style="width: 120px;" multiple="multiple"></select>
+                <label style="font-weight: normal" class="control-label">Bill Status</label>
+                <select id='billStatusFilter' class="" style="width: 120px;" multiple="multiple"></select>
+             </div>
+             <div id="howto" class="collapse indent" style="padding-top: 10px;">
+               <p>truInfluence is a web based data visualization that provides a holistic view of federal campaign financing influence on the political system. </p>
+             </div>
+            </div>
+          </div>
+          <hr>
+        </div>
+
+        <div class="container-fluid" style="padding-left: 40px;">
+          <div class="row">
+              <div class="col-md-6">
+                <!-- <p> truInfluence is a web based data visualization that provides a holistic view of federal campaign financing influence on the political system. </p> -->
+                <div sv='#scatterplot'>
+                    <svg></svg>
+                </div>
+                <div id="infoDiv" class="info" style="padding-bottom: 25px; padding-top: 5px; visibility: hidden;">
+                  <div style="font-size:24px">Bill - <span id="BillName"></span></div>
+                  <span id="BillStatus"></span><br>
+                  <span id="InSupport"></span> From Funders Who Support<br>
+                  <span id="InOppose"></span> From Funders Who Oppose
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div id="chart" style="height:600px; width:600px; overflow:auto;"></div>
+              </div>
+        </div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js"></script>
+        <!-- load the d3.js library -->
+        <script src="http://d3js.org/d3.v3.min.js"></script>
+                    <script src="js/d3.legend.js"></script>
+        <script src="js/scatterplot.js"></script>
+        <script src="js/multiple-select.js"></script>
+        <script src="js/heatmap.js"></script>
+
+        <script>
+        $(document).ready(function(){
+          $("#filters").on("hide.bs.collapse", function(){
+            $(".filter").html('<span class="glyphicon glyphicon-collapse-down"></span> Filters');
+          });
+          $("#filters").on("show.bs.collapse", function(){
+            $(".filter").html('<span class="glyphicon glyphicon-collapse-up"></span> Hide Filters');
+          });
+
+          $("#howto").on("hide.bs.collapse", function(){
+            $(".howTo").html('<span class="glyphicon glyphicon-collapse-down"></span> How To Read The Visualization');
+          });
+          $("#howto").on("show.bs.collapse", function(){
+            $(".howTo").html('<span class="glyphicon glyphicon-collapse-up"></span> Hide How To Read The Visualization');
+          });
+
+          // var $myGroup = $('#myGroup');
+          // $myGroup.on('show','.collapse', function() {
+          //     $myGroup.find('.collapse.in').collapse('hide');
+          // });
+
+        });
+
+        </script>
+
+    </body>
+</html>

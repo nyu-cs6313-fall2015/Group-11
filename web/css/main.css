@@ -1,0 +1,71 @@
+.header {
+  background-color: navy;
+  text-align: center;
+  color: white;
+}
+
+a.navbar-brand {
+  font-size:20px;
+}
+
+ .axis path,
+ .axis line {
+   fill: none;
+   stroke: #000;
+   shape-rendering: auto;
+ }
+ .highlight {
+  font-weight: bold;
+ }
+ text.label {
+   stroke: none;
+   font-size: 14px;
+ }
+ #tooltip {
+    background-color: white;
+    border: solid 1px #000;
+    width: 140px;
+    display: none;
+    position: fixed;
+    padding: 5px;
+  }
+ rect.bordered {
+     stroke: #E6E6E6;
+     stroke-width:2px;
+   }
+   text.mono {
+     font-size: 6pt;
+     font-family: Consolas, courier;
+     fill: #aaa;
+   }
+   text.axis-workweek {
+     font-size: 6pt;
+     fill: #000;
+   }
+   text.axis-worktime {
+     fill: #000;
+   }
+   rect.legend-box {
+     fill:white;
+     stroke:black;
+     stroke-width: 0.5;
+     opacity: 0.7;
+   }
+   .legend-box {
+     display: inline-block;
+   }
+   text.dayLabel{
+     font-size: 11px;
+     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+     fill: #337ab7;
+   }
+   text.timeLabel{
+     font-size: 11px;
+     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+     fill: black;
+   }
+   .demo{
+     padding-top: 10px;
+   }
+   .collapse.in {
+  }
