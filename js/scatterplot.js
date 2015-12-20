@@ -262,7 +262,6 @@ function loadVisualization() {
                 .attr("data-style-padding",10)
                 .call(d3.legend)
             },1000);
-
         }
     };
 

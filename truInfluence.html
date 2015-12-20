@@ -8,7 +8,6 @@
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/multiple-select.css">
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     </head>
     <body>
         <nav class="navbar navbar-primary navbar-custom" style="margin-bottom: 0px;">
@@ -20,19 +19,24 @@
         </nav>
         <div class="container-fluid" style="padding-left: 40px;">
           <div class="row">
-              <div class="col-md-12">
-                <strong> Bill Vote Outcomes & Campaign Funding </strong> | Senate Session 113 <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#demo" style="padding-left: 10px;">
-                 <span class="glyphicon glyphicon-collapse-down"></span> Show Filters
-               </button>
-               <div id="demo" class="collapse" style="padding-top: 10px;">
-                 <label style="font-weight: normal" class="control-label">Bill</label>
-                 <select id='billFilter' class="" style="width: 120px;" multiple="multiple">
-                 </select>
-                 <label style="font-weight: normal" class="control-label">Bill Status</label>
-                   <select id='billStatusFilter' class="" style="width: 120px;" multiple="multiple">
-                   </select>
-               </div>
-              </div>
+            <div class="col-md-12" id="myGroup">
+              <strong> Bill Vote Outcomes & Campaign Funding </strong> | Senate Session 113
+              <button type="button" class="filter btn btn-link" data-toggle="collapse" data-target="#filters" style="padding-left: 10px;">
+               <span class="glyphicon glyphicon-collapse-down"></span> Filters
+              </button>
+              <button type="button" class="howTo btn btn-link" data-toggle="collapse" data-target="#howto" style="padding-left: 10px;">
+               <span class="glyphicon glyphicon-collapse-down"></span> How To Read The Visualization
+              </button>
+              <div id="filters" class="collapse" style="padding-top: 10px;">
+                <label style="font-weight: normal" class="control-label">Bill</label>
+                <select id='billFilter' class="" style="width: 120px;" multiple="multiple"></select>
+                <label style="font-weight: normal" class="control-label">Bill Status</label>
+                <select id='billStatusFilter' class="" style="width: 120px;" multiple="multiple"></select>
+             </div>
+             <div id="howto" class="collapse indent" style="padding-top: 10px;">
+               <p>truInfluence is a web based data visualization that provides a holistic view of federal campaign financing influence on the political system. </p>
+             </div>
+            </div>
           </div>
           <hr>
         </div>
@@ -40,6 +44,7 @@
         <div class="container-fluid" style="padding-left: 40px;">
           <div class="row">
               <div class="col-md-6">
+                <!-- <p> truInfluence is a web based data visualization that provides a holistic view of federal campaign financing influence on the political system. </p> -->
                 <div sv='#scatterplot'>
                     <svg></svg>
                 </div>
@@ -55,17 +60,6 @@
               </div>
         </div>
 
-        <script>
-        $(document).ready(function(){
-          $("#demo").on("hide.bs.collapse", function(){
-            $(".btn").html('<span class="glyphicon glyphicon-collapse-down"></span> Show Filters');
-          });
-          $("#demo").on("show.bs.collapse", function(){
-            $(".btn").html('<span class="glyphicon glyphicon-collapse-up"></span> Hide Filters');
-          });
-        });
-        </script>
-
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js"></script>
@@ -75,6 +69,31 @@
         <script src="js/scatterplot.js"></script>
         <script src="js/multiple-select.js"></script>
         <script src="js/heatmap.js"></script>
+
+        <script>
+        $(document).ready(function(){
+          $("#filters").on("hide.bs.collapse", function(){
+            $(".filter").html('<span class="glyphicon glyphicon-collapse-down"></span> Filters');
+          });
+          $("#filters").on("show.bs.collapse", function(){
+            $(".filter").html('<span class="glyphicon glyphicon-collapse-up"></span> Hide Filters');
+          });
+
+          $("#howto").on("hide.bs.collapse", function(){
+            $(".howTo").html('<span class="glyphicon glyphicon-collapse-down"></span> How To Read The Visualization');
+          });
+          $("#howto").on("show.bs.collapse", function(){
+            $(".howTo").html('<span class="glyphicon glyphicon-collapse-up"></span> Hide How To Read The Visualization');
+          });
+
+          // var $myGroup = $('#myGroup');
+          // $myGroup.on('show','.collapse', function() {
+          //     $myGroup.find('.collapse.in').collapse('hide');
+          // });
+
+        });
+
+        </script>
 
     </body>
 </html>
