@@ -270,12 +270,15 @@ function loadVisualization() {
 
     var billFilter = loadFilter('#billFilter', function(e, d) {return d.billName == e.billName;}, function(d){return d.billName}, spDispatcher, 'billName');
     var billStatusFilter = loadFilter('#billStatusFilter', function(e, d) {return d.billStatus == e.billStatus;}, function(d){return d.billStatus}, spDispatcher, 'billStatus');
+    var billTypeFilter = loadFilter('#billTypeFilter', function(e, d) {return d.billType == e.billType;}, function(d){return d.billType}, spDispatcher, 'billType');
     scatterplot.init(width, height, margin);
     billFilter.init();
+    billTypeFilter.init();
     billStatusFilter.init();
     spDispatcher.add(scatterplot);
     spDispatcher.add(billFilter);
     spDispatcher.add(billStatusFilter);
+    spDispatcher.add(billTypeFilter);
     spController.loadData(projectData);
 }
 
