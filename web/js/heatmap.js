@@ -151,12 +151,12 @@ function sc(width, height, margin, data)
               .style("font-size","12px")
               .call(d3.legend);
 
-            setTimeout(function() {
-              this.legend = this.svg.append("circle")
+            /*setTimeout(function() {
+              this.legend = _this.svg.append("circle")
                 .style("font-size","20px")
                 .attr("data-style-padding",10)
                 .call(d3.legend)
-            },1000);
+            },1000);*/
         }
     };   
     

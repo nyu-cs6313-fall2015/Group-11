@@ -57,14 +57,18 @@ function loadFilter(filterId, filterFn, filterValueFn, dispatcher, filterName)
                     filter: true,
                     onClick:function() {
                         this.filteredData = _.findByValues(data,filterName, $(filterId).multipleSelect('getSelects'));
+                        scatterplot.removeLegends();
                         scatterplot.onDataUpdate(this.filteredData);
 
                     },
                     onCheckAll : function(){
+                        scatterplot.removeLegends();
                         scatterplot.onDataUpdate(data);
                     },
                     onUncheckAll :function(){
+                        scatterplot.removeLegends();
                         scatterplot.onDataUpdate({});
+                        
                     }
                 });
 
@@ -192,7 +196,7 @@ function loadVisualization() {
             ;
             //this.yScale(300)
         },
-        getItem : function(d){ return d3.select('svg').selectAll('circle').filter(function(e){return d.billName == e.billName})},
+        getItem : function(d){ return _this.svg.selectAll('circle').filter(function(e){return e ? d.billName == e.billName : false; })},
         mouseover: function(d){
             this.getItem(d).attr("r",8).attr("fill", "black"); return tooltip.style("visibility", "visible").append("span")
                 .html(" <b>Bill</b> : " + d.billName + "<br> <b>Bill Status</b> : " + d.billStatus +"<br> <b>Money Given In Support</b> : " + d3.format("$,")(d.moneyGivenInSupport) + "<br> <b>Money Spent In Oppose</b> : " + d3.format("$,")(d.moneySpentInOppose))},
@@ -222,6 +226,7 @@ function loadVisualization() {
         {
             this.xScale.domain([d3.min(data, this.xValue)-1,d3.max(data, this.xValue)+1]);
             this.yScale.domain([d3.min(data, this.yValue)-1,d3.max(data, this.yValue)+1]);
+            this.color.domain(_.uniq(_.pluck(data, 'billStatus')));
             this.xgroup.transition().call(this.xAxis);
             this.ygroup.transition().call(this.yAxis);
 
@@ -258,13 +263,11 @@ function loadVisualization() {
               .attr("transform","translate(360,390)")
               .style("font-size","12px")
               .call(d3.legend);
-
-            setTimeout(function() {
-              this.legend = this.svg.append("circle")
-                .style("font-size","20px")
-                .attr("data-style-padding",10)
-                .call(d3.legend)
-            },1000);
+        },
+        
+        removeLegends: function()
+        {
+            this.svg.selectAll("g.legend").remove();
         }
     };
 
