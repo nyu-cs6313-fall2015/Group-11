@@ -1,6 +1,6 @@
-var margin = { top: 70, right: 0, bottom: 100, left: 120 },
+var margin = { top: 150, right: 0, bottom: 100, left: 150 },
           width = 600 - margin.left - margin.right,
-          height = 600 - margin.top - margin.bottom,
+          height = 15000 - margin.top - margin.bottom,
           gridSize = Math.floor(width / 25),
           legendElementWidth = gridSize*2,
           buckets = 9,
@@ -8,32 +8,36 @@ var margin = { top: 70, right: 0, bottom: 100, left: 120 },
           datasets = ["datahm.csv"],
             hmData;
 
-      var svg = d3.select("#chart").append("svg")
-          .attr("width", width + margin.left + margin.right)
-          .attr("height", height + margin.top + margin.bottom)
-          .append("g")
-          .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
 function loadHeatMapData(tsvFile) {
-        d3.csv(tsvFile,
+        d3.csv('/proxy.php?url='+tsvFile,
         function(d) {
           return {
             leg: d.Legislator,
-            org: d.Organization,
-            money: +d.Money.replace("$", "").replace(",", "").trim(),
-            bill: d.Bill,
-            legVoted: d['Legislator voted'] == 'Yes' ? true: false,
-            orgSupported: d['organization Support'] == 'Yes' ? true: false,
-            bothAgree: (d['Legislator voted'] == 'Yes' && d['organization Support'] == 'Yes') || (d['Legislator voted'] == 'No' && d['organization Support'] == 'No') ? true: false
+            org: d['Contributor Interest Group'],
+            legVote: getKey(d, 'Vote')== '' ? 'NA': getKey(d, 'Vote'),
+            igVote: getKey(d, 'Interest Group') == 'Support' ? true: false,
+            money: +d['Contribution Amount'].replace("$", "").replace(",", "").trim(),
+            bill: '',
+            legVoted: getKey(d, 'Vote') == 'Yes' ? true: false,
+            orgSupported: getKey(d, 'Interest Group') == 'Support' ? true: false,
+            bothAgree: (getKey(d, 'Vote') == 'Yes' && getKey(d, 'Interest Group') == 'Support') || (getKey(d, 'Vote') == 'No' && getKey(d, 'Interest Group') == 'Oppose') ? true: false
           };
         },
         function(error,data){
           hmData = data;
+          loadHeatMapChart(data);
         });
       };
 
      function loadHeatMapChart(data) {
             legislators = _.uniq(_.pluck(data, 'leg'));
+         
+         var svg = d3.select("#chart").append("svg")
+          .attr("width", width + margin.left + margin.right)
+          .attr("height", height + margin.top + margin.bottom)
+          .attr("style","overflow:auto")
+          .append("g")
+          .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
             var dayLabels = svg.selectAll(".dayLabel")
                                 .data(legislators)
@@ -55,7 +59,7 @@ function loadHeatMapData(tsvFile) {
                                 .attr("dx", 2)
                                 .attr("y", 0)
                                 .style("text-anchor", "start")
-                                .attr("transform", function(d, i) { return "translate(" + ((i * gridSize) + 10) + ", -6) rotate(-90)";} )
+                                .attr("transform", function(d, i) { return "translate(" + ((i * gridSize) + 10) + ", -6) rotate(-60)";} )
                                 .attr("class", function(d, i) { return ((i%2 == 0) ? "timeLabel mono axis axis-worktime" : "timeLabel mono axis"); });
 
             var colorScale = d3.scale.ordinal()
@@ -97,7 +101,7 @@ function loadHeatMapData(tsvFile) {
 
           cards.exit().remove();
 
-          var legend = svg.selectAll(".legend")
+          /*var legend = svg.selectAll(".legend")
               .data([0].concat(colorScale.range()), function(d) { return d; });
 
           legend.enter().append("g")
@@ -116,8 +120,13 @@ function loadHeatMapData(tsvFile) {
             .attr("x", function(d, i) { return legendElementWidth * i; })
             .attr("y", height + gridSize);
 
-          legend.exit().remove();
+          legend.exit().remove();*/
 
         };
 
-      loadHeatMapData(datasets[0]);
+function getKey(d,KeyStr)
+{
+    var cl = _.find(Object.keys(d),function(key){ return _.startsWith(key, KeyStr);});
+    return d[cl];
+}
+      //loadHeatMapData(datasets[0]);

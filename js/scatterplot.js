@@ -11,11 +11,14 @@ _.mixin({
 function collect(dataRow) {
 
     return {
-        billName: dataRow.Bill,
+        billName: (dataRow['Bill Title'] != '' ? dataRow['Bill Title'] : dataRow.Bill),
         moneyGivenInSupport : +dataRow['Money Given in Favor of Bill'].replace("$", "").replace(",", ""),
         moneySpentInOppose : +dataRow['Money Given in against the Bill'].replace("$", "").replace(",", ""),
         billStatus: dataRow['Bill Status'],
-        session: +dataRow.Session
+        session: +dataRow.Session,
+        billType: dataRow['Bill Type'],
+        billNum: dataRow['Bill Num'],
+        bill: dataRow.Bill
     };
 }
 
@@ -203,9 +206,9 @@ function loadVisualization() {
         },
 
         click: function(d){
-            loadHeatMapChart(_.filter(hmData, 'bill', d.billName));
-            // d3.select('#infoDiv').html(" <b>Bill</b> : " + d.billName + "<br> <b>Bill Status</b> : " + d.billStatus +"<br> <b>Money Given In Support</b> : " + d3.format("$,")(d.moneyGivenInSupport) + "<br> <b>Money Spent In Oppose</b> : " + d3.format("$,")(d.moneySpentInOppose))
-
+            d3.select("#chart").selectAll("*").remove();
+            loadHeatMapData('http://maplight.org/us-congress/bill/' + d.session + '-' + d.billType + '-' + d.billNum + '/' + d.bill + '/download.csv');
+            
             var tooltip = d3.select("#infoDiv").style("visibility", "visible");;
 
             tooltip.select("#BillName").text(d.billName);
