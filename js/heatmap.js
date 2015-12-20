@@ -56,7 +56,7 @@ function sc(width, height, margin, data)
             this.yAxis = d3.svg.axis().scale(this.yScale).orient("left").tickFormat(function(d){return "$" + +d/1000 + "k"});
 
             // setup fill color
-            this.cValue = function(d) { return d.party;};
+            this.cValue = function(d) { return d.legVote;};
             this.color = d3.scale.category10()
                 .range(["#D63A32", "#0A417C"]);
 
@@ -125,7 +125,7 @@ function sc(width, height, margin, data)
 
             this.viz = this.svg.selectAll("circle").data(data, function(d){return d.leg;});
             this.viz.enter().append("circle").attr('data-legend', function(d) {
-                return d.party;
+                return d.legVote;
             }).attr({
             r: 4,
             cx: this.xMap,
