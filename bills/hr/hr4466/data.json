@@ -1,0 +1,245 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-10", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-10", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Financial Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-10", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to House Agriculture", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on General Farm Commodities and Risk Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 25.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4466-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on General Farm Commodities and Risk Management", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Cotton, Tom", 
+      "sponsored_at": "2014-05-20", 
+      "state": "AR", 
+      "thomas_id": "02098", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Daines, Steve", 
+      "sponsored_at": "2014-07-09", 
+      "state": "MT", 
+      "thomas_id": "02138", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Duffy, Sean P.", 
+      "sponsored_at": "2014-06-26", 
+      "state": "WI", 
+      "thomas_id": "02072", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fincher, Stephen Lee", 
+      "sponsored_at": "2014-06-17", 
+      "state": "TN", 
+      "thomas_id": "02064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Fleischmann, Charles J. \"Chuck\"", 
+      "sponsored_at": "2014-07-09", 
+      "state": "TN", 
+      "thomas_id": "02061", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "sponsored_at": "2014-07-09", 
+      "state": "KS", 
+      "thomas_id": "01921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "McAllister, Vance M.", 
+      "sponsored_at": "2014-07-15", 
+      "state": "LA", 
+      "thomas_id": "02195", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McHenry, Patrick T.", 
+      "sponsored_at": "2014-05-20", 
+      "state": "NC", 
+      "thomas_id": "01792", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2014-04-10", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2014-05-20", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-10", 
+  "number": "4466", 
+  "official_title": "To require certain financial regulators to determine whether new regulations or orders are duplicative or inconsistent with existing Federal regulations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2829-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Financial Regulatory Clarity Act of 2014", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Capito, Shelley Moore", 
+    "state": "WV", 
+    "thomas_id": "01676", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-05-22", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Bank accounts, deposits, capital", 
+    "Banking and financial institutions regulation", 
+    "Commodities markets", 
+    "Commodity Futures Trading Commission", 
+    "Congressional oversight", 
+    "Consumer Financial Protection Bureau", 
+    "Department of the Treasury", 
+    "Federal Deposit Insurance Corporation (FDIC)", 
+    "Federal Reserve System", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "National Credit Union Administration", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-10", 
+    "text": "Financial Regulatory Clarity Act of 2014 - Requires the Federal Deposit Insurance Corporation (FDIC), the Office of Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Bureau of Consumer Financial Protection (CFPB), the National Credit Union Administration (NCUA), the Securities and Exchange Commission (SEC), and the Commodity Futures Trading Commission (CFTC), before issuing a regulation or order, to assess other federal regulations and orders to determine whether the agency's proposal is in conflict with, is inconsistent with, or is duplicative of such other regulations or orders and whether such other federal regulations or orders are outdated."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Financial Regulatory Clarity Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require certain financial regulators to determine whether new regulations or orders are duplicative or inconsistent with existing Federal regulations, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:35-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4466:@@@L&summ2=m&"
+}

@@ -1,0 +1,308 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1855eba5c">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To establish the Commission on Government Transformation to make recommendations to improve the economy, efficiency, and effectiveness, of Federal programs, and for other purposes.;
+   		Government Transformation Act;H.R. 2675 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-07-13</dateIngested>
+</extension>
+<titleInfo>
+ <title>To establish the Commission on Government Transformation to make recommendations to improve the economy, efficiency, and effectiveness, of Federal programs, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Government Transformation Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2675 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-07-11</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>15 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1855eba5c</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2675ih</identifier>
+<identifier type="preferred citation">H.R. 2675</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2675_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2675ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2675ih/html/BILLS-113hr2675ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2675ih/pdf/BILLS-113hr2675ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2675ih/xml/BILLS-113hr2675ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-07-13</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-02</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr2675ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Cheri Bustos</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael G. Fitzpatrick</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David N. Cicilline</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sean P. Duffy</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Coffman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kurt Schrader</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jim Matheson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Raul Ruiz</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Loebsack</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Daniel B. Maffei</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Patrick Murphy</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Charles W. Dent</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Oversight and Government Reform</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Rules</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 105</partNumber>
+  <partNumber>Title 5 Section 3109(b)</partNumber>
+  <partNumber>Title 5 Section 5315</partNumber>
+  <partNumber>Title 5 Chapter 57</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 105</identifier>
+ <identifier type="USC citation">5 U.S.C. 3109(b)</identifier>
+ <identifier type="USC citation">5 U.S.C. 5315</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 57</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr2675ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2675</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Government Transformation Act</shortTitle>
+ <action date="2013-07-11">Mrs. Bustos (for herself, Mr. Fitzpatrick, Mr. Cicilline, Mr. Duffy, Mr. Coffman, Mr. Schrader, Mr. Matheson, Mr. Ruiz, Mr. Loebsack, Mr. Maffei, Mr. Murphy of Florida, and Mr. Dent) introduced the following bill; which was referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsgo00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Oversight and Government Reform</name>
+                      <name type="authority-short">Oversight and Government Reform</name>
+                </congCommittee>
+ <congCommittee authorityId="hsru00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Rules</name>
+                      <name type="authority-short">Rules</name>
+                </congCommittee>
+ <congMember authorityId="2127" bioGuideId="B001286" chamber="H" congress="113" party="D" role="SPONSOR" state="IL">
+                      <name type="parsed">Mrs. Bustos</name>
+                      <name type="authority-fnf">Cheri Bustos</name>
+                      <name type="authority-lnf">Bustos, Cheri</name>
+                </congMember>
+ <congMember authorityId="1797" bioGuideId="F000451" chamber="H" congress="113" gpoId="8126" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Fitzpatrick</name>
+                      <name type="authority-fnf">Michael G. Fitzpatrick</name>
+                      <name type="authority-lnf">Fitzpatrick, Michael G.</name>
+                      <name type="authority-other">Mr. Michael Fitzpatrick</name>
+                </congMember>
+ <congMember authorityId="2055" bioGuideId="C001084" chamber="H" congress="113" gpoId="8139" party="D" role="COSPONSOR" state="RI">
+                      <name type="parsed">Mr. Cicilline</name>
+                      <name type="authority-fnf">David N. Cicilline</name>
+                      <name type="authority-lnf">Cicilline, David N.</name>
+                      <name type="authority-other">David Cicilline</name>
+                </congMember>
+ <congMember authorityId="2072" bioGuideId="D000614" chamber="H" congress="113" gpoId="8220" party="R" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Duffy</name>
+                      <name type="authority-fnf">Sean P. Duffy</name>
+                      <name type="authority-lnf">Duffy, Sean P.</name>
+                      <name type="authority-other">Sean Duffy</name>
+                </congMember>
+ <congMember authorityId="1912" bioGuideId="C001077" chamber="H" congress="113" gpoId="7864" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Coffman</name>
+                      <name type="authority-fnf">Mike Coffman</name>
+                      <name type="authority-lnf">Coffman, Mike</name>
+                </congMember>
+ <congMember authorityId="1950" bioGuideId="S001180" chamber="H" congress="113" gpoId="8118" party="D" role="COSPONSOR" state="OR">
+                      <name type="parsed">Mr. Schrader</name>
+                      <name type="authority-fnf">Kurt Schrader</name>
+                      <name type="authority-lnf">Schrader, Kurt</name>
+                </congMember>
+ <congMember authorityId="1671" bioGuideId="M001142" chamber="H" congress="113" gpoId="8190" party="D" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mr. Matheson</name>
+                      <name type="authority-fnf">Jim Matheson</name>
+                      <name type="authority-lnf">Matheson, Jim</name>
+                </congMember>
+ <congMember authorityId="2109" bioGuideId="R000599" chamber="H" congress="113" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Ruiz</name>
+                      <name type="authority-fnf">Raul Ruiz</name>
+                      <name type="authority-lnf">Ruiz, Raul</name>
+                </congMember>
+ <congMember authorityId="1846" bioGuideId="L000565" chamber="H" congress="113" gpoId="7915" party="D" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mr. Loebsack</name>
+                      <name type="authority-fnf">David Loebsack</name>
+                      <name type="authority-lnf">Loebsack, David</name>
+                </congMember>
+ <congMember authorityId="1943" bioGuideId="M001171" chamber="H" congress="113" gpoId="7506" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Maffei</name>
+                      <name type="authority-fnf">Daniel B. Maffei</name>
+                      <name type="authority-lnf">Maffei, Daniel B.</name>
+                      <name type="authority-other">Daniel Maffei</name>
+                </congMember>
+ <congMember authorityId="2117" bioGuideId="M001191" chamber="H" congress="113" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Murphy of Florida</name>
+                      <name type="authority-fnf">Patrick Murphy</name>
+                      <name type="authority-lnf">Murphy, Patrick</name>
+                </congMember>
+ <congMember authorityId="1799" bioGuideId="D000604" chamber="H" congress="113" gpoId="8133" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Dent</name>
+                      <name type="authority-fnf">Charles W. Dent</name>
+                      <name type="authority-lnf">Dent, Charles W.</name>
+                      <name type="authority-other">Mr. Charles Dent</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="105"></section>
+                      <section detail="(b)" number="3109"></section>
+                      <section number="5315"></section>
+                      <chapter number="57"></chapter>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,259 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-09", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-15", 
+      "committees": [
+        "SSFR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Foreign Relations. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-01-15", 
+      "committee": "Foreign Relations", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-01-15", 
+      "calendar": "Senate Legislative", 
+      "number": "295", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 295.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-01-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S491", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S491", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-01-28T10:29:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-28", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-28T10:40:00-05:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-28T17:14:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1472-1473", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-28T17:14:00-05:00", 
+      "references": [], 
+      "text": "Mr. Royce asked unanimous consent to take from the Speaker's table and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-28T17:14:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H1472-1473", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-01-28T17:14:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-04", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2014-02-12", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2014-02-12", 
+      "congress": "113", 
+      "law": "public", 
+      "number": "81", 
+      "references": [], 
+      "text": "Became Public Law No: 113-81.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1901-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Corker, Bob", 
+      "sponsored_at": "2014-01-09", 
+      "state": "TN", 
+      "thomas_id": "01825", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "113", 
+    "law_type": "public", 
+    "number": "81"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-01-15", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2014-02-12", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-01-28T17:14:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-01-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-09", 
+  "number": "1901", 
+  "official_title": "A bill to authorize the President to extend the term of the nuclear energy agreement with the Republic of Korea until March 19, 2016.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Support for United States-Republic of Korea Civil Nuclear Cooperation Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2014-02-12", 
+  "subjects": [
+    "Asia", 
+    "Congressional oversight", 
+    "International affairs", 
+    "International law and treaties", 
+    "International organizations and cooperation", 
+    "Nuclear power", 
+    "South Korea"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2014-02-12", 
+    "text": "Support for United States-Republic of Korea Civil Nuclear Cooperation Act - Authorizes the President to extend the term of the Agreement for Cooperation between the Government of the United States of America and the Government of the Republic of Korea Concerning Civil Uses of Atomic Energy to a date that is not later than March 19, 2016.\n\nDirects the President to report to Congress every 180 days on the progress of negotiations on a new U.S.-Korea civil nuclear cooperation agreement."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Support for United States-Republic of Korea Civil Nuclear Cooperation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Support for United States-Republic of Korea Civil Nuclear Cooperation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Support for United States-Republic of Korea Civil Nuclear Cooperation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Support for United States-Republic of Korea Civil Nuclear Cooperation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Support for United States-Republic of Korea Civil Nuclear Cooperation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to authorize the President to extend the term of the nuclear energy agreement with the Republic of Korea until March 19, 2016.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1901:@@@L&summ2=m&"
+}

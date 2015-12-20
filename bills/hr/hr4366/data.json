@@ -1,0 +1,359 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-02", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-04-29T12:30:00-04:00", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-424.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-29T12:31:00-04:00", 
+      "calendar": "Union", 
+      "number": "313", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 313.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-05-08T18:54:00-04:00", 
+      "references": [], 
+      "text": "Mr. Rokita moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-08T18:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3988-4001", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-08T18:55:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4366.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-08T19:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3988-3999", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-05-12", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-17", 
+      "committees": [
+        "SSHR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "committee": "Health, Education, Labor, and Pensions", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 113-275.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "calendar": "Senate Legislative", 
+      "number": "600", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 600.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4366-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Brooks, Susan W.", 
+      "sponsored_at": "2014-04-29", 
+      "state": "IN", 
+      "thomas_id": "02129", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Bucshon, Larry", 
+      "sponsored_at": "2014-04-04", 
+      "state": "IN", 
+      "thomas_id": "02018", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Byrne, Bradley", 
+      "sponsored_at": "2014-04-29", 
+      "state": "AL", 
+      "thomas_id": "02197", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Guthrie, Brett", 
+      "sponsored_at": "2014-04-29", 
+      "state": "KY", 
+      "thomas_id": "01922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "sponsored_at": "2014-04-29", 
+      "state": "NV", 
+      "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2014-04-07", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2014-04-02", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2014-04-02", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2014-04-29", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Miller, George", 
+      "sponsored_at": "2014-04-02", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Petri, Thomas E.", 
+      "sponsored_at": "2014-04-29", 
+      "state": "WI", 
+      "thomas_id": "00912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Glenn", 
+      "sponsored_at": "2014-04-29", 
+      "state": "PA", 
+      "thomas_id": "01952", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Walberg, Tim", 
+      "sponsored_at": "2014-04-29", 
+      "state": "MI", 
+      "thomas_id": "01855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Joe", 
+      "sponsored_at": "2014-04-29", 
+      "state": "SC", 
+      "thomas_id": "01688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-04-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-05-08T19:12:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-02", 
+  "number": "4366", 
+  "official_title": "To strengthen the Federal education research system to make research and evaluations more timely and relevant to State and local needs in order to increase student achievement.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Strengthening Education through Research Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Rokita, Todd", 
+    "state": "IN", 
+    "thomas_id": "02017", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-05-08T19:12:00-04:00", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Education", 
+    "Education of the disadvantaged", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Government information and archives", 
+    "Higher education", 
+    "Minority education", 
+    "Performance measurement", 
+    "Research administration and funding", 
+    "Right of privacy", 
+    "Teaching, teachers, curricula", 
+    "Vocational and technical education"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Reported to Senate amended", 
+    "date": "2014-11-17", 
+    "text": "Strengthening Education through Research Act - (Sec. 3) Amends the Education Sciences Reform Act of 2002 to require the Secretary of Education, in collecting information and data under that Act, to not duplicate other reporting requirements and to use information and data available from existing federal, state, and local sources to reduce the burden and cost to the Department of Education, states, and local educational agencies (LEAs).\n\nTitle I: Education Sciences Reform - (Sec. 102) Amends the Education Sciences Reform Act of 2002 to replace the definition of, and references to: (1) an \"historically black college or university\" with the definition of, and references to, a \"minority-serving institution,\" and (2) \"scientifically based research standards\" with the definition of, and references to, \"principles of scientific research.\" Defines \"adult education,\" \"adult education and literacy activities,\" \"English learner,\" and \"school leader.\"\n\nPart A: The Institute of Education Sciences - (Sec. 111) Requires the mission of the Institute of Education Sciences (IES) to include providing national leadership in expanding fundamental knowledge and understanding of adult education, in addition to providing that leadership with regard to education from early childhood through postsecondary study. Requires the activities of the IES to be free of disability bias.\n\n(Sec. 112) Directs the IES to widely disseminate the findings and results of its education evaluations, which are to include evaluations of impact and implementation.\n\n(Sec. 113) Allows the IES to accept requests from the Secretary to administer activities other than those assigned to it, provided they are consistent with the IES's priorities or mission. Requires the Director of the IES (Director) to be consulted during the procurement process, and with regard to contract performance management, under the Act.\n\n(Sec. 114) Allows a Director to: (1) serve for up to one year beyond his or her six-year term in office if his or her successor has not yet been appointed, and (2) be appointed to one additional term in office.\n\nAdds to the Director's duties: (1) coordinating IES research activities with the education research activities of public and private entities, and (2) coordinating with the Secretary to ensure that IES results are coordinated with and utilized by the Department of Education's technical assistance providers and dissemination networks.\n\nRequires the Director to establish and maintain a peer-review system involving highly-qualified individuals to review and evaluate: (1) each application for a grant or cooperative agreement exceeding $100,000, and (2) all reports and other products that exceed $100,000 and that are to be published and publicly released by the IES. Requires IES peer reviewers of special education research to have an understanding of special education.\n\nRequires the Director to:\n\n ensure that IES activities address significant challenges faced by practitioners and increase knowledge in the education field; ensure that IES information, products, and publications are prepared and widely disseminated in a timely, understandable, and convenient manner; promote the utilization of IES information, products, and publications; and monitor and manage all activities authorized under the Act. (Sec. 115) Requires the Director to propose to the National Board for Education Sciences (Board) the IES's priorities at least once every six years. Includes among those priorities:\n\n closing the achievement gap between disabled and nondisabled students; improving access to and the quality of early childhood education; improving elementary and secondary education, particularly among low-performing students and schools; and improving access to, opportunities for, and the completion of postsecondary education and adult education. (Sec. 116) Adds to the Board's duties:\n\n providing ongoing advice and input to the Director on IES activities; providing advice to the Director on ensuring that IES activities are free of disability bias; ensuring that IES activities are relevant to education policy and practice by soliciting, on an ongoing basis, advice and information from those in the education field; recommending to the Director ways to enhance strategic partnerships and collaborative efforts with public and private entities; and conducting a triennial evaluation of IES effectiveness. Expands the pool of entities and organizations whose advice the President is to solicit regarding appointments to the Board.\n\nRequires the Board to be composed of at least two practitioners who are knowledgeable about the education needs of the United States. Allows state leaders in adult education to be on the Board. Allows Board members to: (1) serve for up to one year beyond their four-year term if their successor has not yet been appointed, and (2) serve a full term if they are appointed to fill a vacancy in an unexpired term of office.\n\nMakes the Board independent of the Director and the other offices and officers of the IES. Provides that the Executive Director of the Board is to be appointed by the Board for a term of up to six years and may be reappointed for an additional term.\n\nAllows the Board to establish standing or temporary subcommittees to provide the Board with recommendations for carrying out activities authorized under the Act.\n\nDirects the Board to submit to the Director, the Secretary, and Congress, and make widely available to the public, a report once every five years, evaluating IES effectiveness, including an independent evaluation of the activities authorized for each of the National Education Centers. Requires interim findings to be made widely available to the public three years after the independent entity begins reviewing the work of the IES.\n\n(Sec. 117) Provides that the Commissioner of the National Center for Education Statistics, like the Commissioners of the other National Education Centers, is to be appointed by the Director and serve under the Director's supervision. (Currently that Commissioner is appointed by the President.)\n\n(Sec. 118) Requires the Director to make a description of all IES grants, contracts, or cooperative agreements over $100,000 publicly available within 120 days of their consummation.\n\n(Sec. 119) Requires IES grants, contracts, and cooperative agreements to be awarded through a peer review process.\n\nPart B: National Center for Education Research - (Sec. 131) Requires the National Center for Education Research (Research Center) to: (1) conduct research that is consistent with the IES priorities, and (2) widely disseminate and promote the utilization of its work.\n\n(Sec. 132) Adds to the Research Center's duties the carrying out of research on: (1) follow up questions provoked by previous research, (2) the impact of technology on education, and (3) the quality of the implementation of practices and strategies determined to be effective through scientifically valid research.\n\nProvides that the Research Center's research on successful state and local education reform activities may include research on social and emotional learning and the acquisition of competencies and skills.\n\nAuthorizes the Research Commissioner to award grants to, or enter into contracts or cooperative agreements with, applicants that have the ability and capacity to conduct scientifically valid research.\n\nRequires the Research Commissioner to support national research and development centers that address topics of importance and relevance in the education field that are consistent with IES priorities. Eliminates: (1) the requirement that the Research Commissioner support at least eight centers, and (2) the list of research topics eligible for support.\n\nAuthorizes the Director to renew support for a national research and development center without competition for up to two years beyond the initial period of support if the Director determines that the center's research continues to effectively address IES priorities. (Currently, that support is available for an additional period of up to five years.)\n\nRequires research conducted or supported by the Research Center, to the extent feasible and relevant to the research being conducted, to be disaggregated and cross-tabulated by age, race, gender, disability status, English learner status, socioeconomic background, and other population characteristics as determined by the Research Commissioner, so long as any reported information does not reveal individually identifiable information.\n\nPart C: National Center for Education Statistics - (Sec. 151) Directs the National Center for Education Statistics (Statistics Center) to collect, analyze, and report education information and statistics in a manner that is: (1) consistent with the Act's privacy protections; (2) free of disability bias; and (3) relevant, timely, and widely disseminated.\n\n(Sec. 152) Adds to the data the Statistics Center is to collect and disseminate, data on:\n\n secondary school graduation and completion rates; postsecondary education completion; teaching and school leadership that includes information on pre-service preparation, professional development, teacher distribution, and teacher and school leader evaluation; the supply of, and demand for, school leaders; school safety that includes data on school climate and in- and out-of-school suspensions and expulsions; access to, and use of, technology to improve elementary and secondary schools; the quality of early childhood education; students' access to summer school; and access to, and opportunities for, adult education and literacy activities. Requires the Statistics Center to provide technical assistance to states (currently, to determine voluntary standards and guidelines to assist states) in developing statewide longitudinal data systems that link individual student data, promote linkages across states, and protect student privacy to improve student academic achievement and close achievement gaps.\n\nRequires the Statistics Center to assist the Board in the preparation and dissemination of the triennial report evaluating the effectiveness of the IES.\n\nDirects the Statistics Commissioner to develop and implement a plan for Statistics Center activities that is consistent with the priorities of the IES and subject to appropriate modifications.\n\n(Sec. 153) Requires applications from entities that wish to receive a grant or enter into a contract or cooperative agreement with the Statistics Center.\n\nAuthorizes the Statistics Commissioner to renew those grants, contracts, and cooperative agreements for up to two years if the recipients demonstrate progress on the requirements of the Act's performance measurement system. (Currently, such grants, contracts, and agreements may be renewed for up to five years at the discretion of the Statistics Commissioner.)\n\n(Sec. 155) Requires the joint statistical projects the Statistic Center carries out with nonprofit entities to adhere to the Act's student privacy requirements.\n\nRequires federal agencies and other parties seeking access to educational data from the Statistics Center to describe their research-related need for such data and how the data will be protected from misuse or privacy violations.\n\nAuthorizes the Statistics Center to deny requests for access to its data if such data would: (1) be unnecessary for, or unrelated to, the proposed research; or (2) introduce the risk that the data would be misused or used to violate privacy rights. Makes that denial authority inapplicable to public use data sets.\n\n(Sec. 156) Renames \"national cooperative education statistics systems\" as \" cooperative education statistics partnerships\" between the Statistics Center and states that volunteer to participate. Provides that, rather than producing and maintaining education data, the partnerships are to review and improve data quality standards. Prohibits the partnerships from collecting student data or establishing a national student data system.\n\nPart D: National Center for Education Evaluation and Regional Assistance - (Sec. 171) Requires the National Center for Education Evaluation and Regional Assistance (Evaluation Center) to evaluate federal education programs administered by the Secretary and, as time and resources allow, the impact and implementation of those programs.\n\nRequires the Evaluation Center to support the wide dissemination and utilization of all its evaluations, research, and products.\n\n(Sec. 172) Requires the Evaluation Center to assist the Board in the preparation and dissemination of the triennial report evaluating the effectiveness of the IES.\n\nDirects the Evaluation and Regional Assistance Commissioner (Evaluation Commissioner) to propose to the Director and implement, subject to the Director's approval, a plan for Evaluation Center activities that is consistent with IES priorities and subject to appropriate modifications.\n\nAuthorizes the Evaluation Commissioner to award grants, contracts, or cooperative agreements on a competitive basis for up to five years and renew them for up to two years if their recipients demonstrate progress on the requirements of the Act's performance measurement system.\n\nAuthorizes the Evaluation Commissioner to establish a National Library of Education within the Evaluation Center.\n\n(Sec. 173) Requires the Evaluation Center, in addition to its existing duties, to: (1) provide its findings in an understandable, easily accessible, and usable format to support program improvement; and (2) support the Director's evaluation activities. Requires the Evaluation Center to:\n\n examine evaluations conducted or supported by others, with the Director's approval; review and supplement federal education program evaluations; conduct implementation evaluations that promote continuous improvement and inform policy making; evaluate the short- and long-term effects and cost efficiencies of federal education programs; and synthesize the results of evaluation studies for and across federal education programs, policies, and practices. (Sec. 174) Requires the Evaluation Commissioner (currently, the Director) to enter into grants, contracts, or cooperative agreements with public or private, nonprofit or for-profit research organizations, other organizations, or institutions of higher education (IHEs) to establish a networked system of ten regional educational laboratories that serve the needs of each region of the United States.\n\nAuthorizes the Evaluation Commissioner to determine that establishing ten regional educational laboratories is unnecessary and grant an alternative number of awards or reorganize such laboratories, which may include not basing the awards on the regions, if an insufficient number of regional educational laboratories: (1) are meeting the needs of the regions, or (2) are meeting or have the capacity to meet specified performance indicators.\n\nRequires the Evaluation Commissioner to give priority to applicants that will provide a portion of nonfederal funds to maximize support for the regional educational laboratories.\n\nRequires each regional educational laboratory to: (1) conduct applied research, development, data analysis, and evaluation activities with states, LEAs, and Indian schools; (2) widely disseminate such work; and (3) develop the capacity of states, LEAs, and Indian schools to carry out such activities.\n\nAuthorizes each regional educational laboratory to establish an advisory board to support the priorities of such laboratory. (Currently, each regional educational laboratory is required to establish a governing board.) Prohibits such an advisory board from exceeding 25 members. Requires each advisory board to include a state official, LEA representatives, researchers, and at least one representative from the advisory board of a comprehensive center servicing the region, if applicable.\n\nDirects the Evaluation Commissioner to conduct ongoing summative and interim evaluations of each of the regional educational laboratories that assess how well each laboratory is meeting measurable performance indicators. Reserves 16.13% of the funds authorized to be appropriated under the Act for such regional educational laboratories.\n\nPart E: National Center for Special Education Research - (Sec. 175) Adds to the mission of the National Center for Special Education Research the promotion of scientifically valid special education research.\n\n(Sec. 176) Includes disabled youth on the list of the Special Education Research Commissioner's required subjects of expertise.\n\n(Sec. 177) Adds to the duties of the Special Education Research Center:\n\n examining the participation and outcomes of disabled students in secondary and postsecondary career and technical education programs; assisting the Board in the preparation and dissemination of the triennial report evaluating the effectiveness of the IES; examining the needs of disabled children who are English learners, who are gifted and talented, or who have other unique learning needs; and examining innovations in the special education field, such as multi-tiered systems of support. Authorizes the Special Education Research Commissioner to award grants, contracts, or cooperative agreements on a competitive basis for up to five years and renew them for up to two years if their recipients demonstrate progress on the requirements of the Act's performance measurement system.\n\nDirects the Special Education Research Center to synthesize, disseminate, and promote the utilization of the special education research it conducts or supports.\n\nReauthorizes appropriations for the Special Education Research Center through FY2020.\n\nPart F: General Provisions - (Sec. 181) Prohibits the Act's provisions from being construed to authorize the federal government to mandate, direct, or control the specific academic achievement or content standards or assessments of a state, LEA, or school.\n\nProhibits the use of IES funding to endorse, approve, or sanction any curriculum designed to be used in early education or in an elementary school, secondary school, or IHE.\n\n(Sec. 182) Allows IES data to disclose information regarding individual schools so long as no individually identifiable information is disclosed. Subjects IES volunteers or those who provide the IES with uncompensated services to punishment for privacy violations.\n\n(Sec. 183) Requires IES data to be made available to the public through electronic means, such as posting to the IES's website in an easily accessible manner.\n\n(Sec. 184) Requires the Director to establish a performance management system to promote the continuous improvement of activities authorized under the Act and ensure the effective use of federal funds by:\n\n developing and using measurable performance indicators, including time lines, to evaluate and improve those activities; using the performance indicators to inform funding decisions; establishing and improving formal stakeholder feedback mechanisms; and promoting the wide dissemination and utilization of IHE information, products, and publications. (Sec. 185) Requires the Director to provide the Secretary and other relevant offices with an advance copy of IES publications before their public release.\n\n(Sec. 186) Repeals provisions dealing with: (1) filling vacancies on the Board and within the IES; and (2) removing the Commissioners of the National Education Centers, the Director, and Board members.\n\n(Sec. 187) Establishes as the goal of the Director's research, evaluation, and statistics fellowships at IHEs, improving this nation's capacity to carry out high-quality research, evaluation, and statistics related to education and the mission of each National Education Center.\n\n(Sec. 188) Reauthorizes appropriations for activities under the Act through FY2020.\n\nPart G: Technical and Conforming Amendments - (Sec. 191) Makes technical and conforming amendments to the Carl D. Perkins Career and Technical Education Act of 2006, the Elementary and Secondary Education Act of 1965, and the Individuals with Disabilities Education Act.\n\nTitle II: Educational Technical Assistance - (Sec. 202) Amends the Educational Technical Assistance Act of 2002 to define \"school leader.\"\n\n(Sec. 203) Directs the Secretary to award 17 competitive grants, contracts, or cooperative agreements to public or private, nonprofit or for-profit research organizations, other organizations, or IHEs to establish comprehensive centers to provide states and LEAs with technical assistance, analysis, and training to build their capacity to implement federal educational laws and research-based practices.\n\nDirects the Secretary to establish at least one comprehensive center for each of the 10 geographic regions served by the regional educational laboratories established under the Educational Research, Development, Dissemination, and Improvement Act of 1994. Allows the Secretary to establish additional comprehensive centers serving one or more of those regions or the nation as a whole.\n\nAuthorizes the Secretary to determine that establishing 17 comprehensive centers is unnecessary and grant an alternative number of awards or reorganize such centers, which may include organizing the centers around content areas instead of by regions, if an insufficient number of centers: (1) are meeting the needs of the regions, or (2) are meeting or have the capacity to meet specified performance indicators.\n\nRequires the Secretary to give priority to applicants that will provide a portion of nonfederal funds to maximize support for the comprehensive centers.\n\nRequires the comprehensive centers to consider the number of low-performing schools in an area when considering an area's need for assistance.\n\nIncludes in the training, professional development, and technical assistance provided by comprehensive centers, the replication and adaptation of exemplary practices and innovative methods that have an evidence base of effectiveness.\n\nAuthorizes (currently, requires) each comprehensive center to establish an advisory board to support the priorities of such center. Prohibits such an advisory board from exceeding 25 members. Requires each advisory board to include a state official, LEA representatives, researchers, and at least one representative from the advisory board of a regional educational laboratory in the region being served by the center.\n\nRequires the annual report each comprehensive center provides to the Secretary to include: (1) a description of how well the center is meeting the educational needs of its region, using measurable performance indicators; and (2) any changes to its plan to improve its effectiveness.\n\n(Sec. 204) Requires the Secretary to: (1) provide for an interim and summative evaluation of each comprehensive center at the midpoint and at the end of the grant, contract, or cooperative agreement that established such center; and (2) transmit the results of such evaluations to Congress, the Director, and the public.\n\n(Sec. 206) Repeals the requirement that the Secretary establish a regional advisory committee for each region of this country served by a regional educational laboratory.\n\n(Sec. 207) Requires the Director and the Secretary to establish priorities for the regional educational laboratories and comprehensive centers using the results of relevant regional and national surveys of educational needs. (Sec. 208) Allows states that receive competitive grants to design, develop, and implement statewide, longitudinal data systems to provide subgrants to LEAs for their role in those activities. Requires those data systems to be consistent with the requirements of the Elementary and Secondary Education Act of 1965 (ESEA), the Higher Education Act of 1965, and the Individuals with Disabilities Education Act. Requires the Secretary, before awarding such grants, to establish measurable performance indicators for use in assessing the ongoing progress and performance of state grantees in designing, developing, and implementing those systems.\n\nRequires the peer review process used in awarding such grants to:\n\n promote the generation and use of the data needed to align statewide longitudinal data systems from early education through postsecondary education and the workforce, ensure the protection of student privacy, ensure that state grantees support professional development that enables teachers and school leaders to use data effectively; and give priority to states that leverage the use of such systems to improve student achievement and growth, including by demonstrating the capacity to share teacher and school leader performance data with LEAs and teacher and school leader preparation programs. Authorizes the Secretary to renew such grants for up to three years if the state demonstrates progress on the measurable performance indicators.\n\nDirects the Secretary to make a report publicly available, one year after this Act's enactment and every three years thereafter, on the implementation and effectiveness of the activities carried out by the state grantees.\n\n(Sec. 209) Reauthorizes appropriations for activities under the Act through FY2020.\n\nTitle III: National Assessment of Educational Progress - (Sec. 302) Amends the National Assessment of Educational Progress Authorization Act to require the National Assessment Governing Board (Assessment Board) to oversee and set policies for the National Assessment of Educational Progress consistent with its duties and accepted professional standards.\n\nIncludes one elementary school leader and one secondary school leader on the Assessment Board. (This replaces the requirement that school principals be selected.)\n\n Directs the Secretary to fill vacancies on the Assessment Board from among individuals who are nominated by the Assessment Board.\n\nRequires the Assessment Board to consult with the Statistics Commissioner in carrying out its functions.\n\nDirects the Assessment Board, in selecting the subject areas to be assessed, to select the grades or ages being assessed and the year in which such assessments will be conducted.\n\nRequires school leaders to be involved in the assessment review process.\n\nDirects the Assessment Board to provide input to the Director on annual budget requests for the National Assessment of Educational Progress.\n\n(Sec. 303) Directs the Statistics Commissioner to carry out the National Assessment of Educational Progress in a manner consistent with accepted professional standards and the policies set forth by the Assessment Board.\n\nAdds to the Statistics Commissioner's duties determining the content of initial and subsequent National Assessment of Educational Progress reports and ensuring their validity and reliability.\n\nRequires LEAs participating in the school improvement program under part A of title I of the ESEA to participate in the National Assessment of Educational Progress.\n\nEliminates the option allowing the Assessment Board to develop appropriate achievement levels for each age, rather than grade level, for each subject area being tested. Directs the Assessment Board to use a national consensus approach in establishing the appropriate student achievement levels, providing for the active participation of teachers, school leaders, curriculum specialists, local school administrators, parents, and concerned members of the public.\n\n(Sec. 304) Defines a \"school leader.\"\n\n(Sec. 305) Reauthorizes appropriations for activities under the Act through FY2020.\n\nTitle IV: Evaluation Plan - (Sec. 401) Requires the IES to be the primary entity for conducting research on and evaluations of federal education programs within the Department of Education to ensure the rigor and independence of such research and evaluations.\n\nAuthorizes the Secretary to reserve and consolidate specified percentages of funds from ESEA programs to: (1) carry out high-quality evaluations of programs authorized under the ESEA, and (2) increase the usefulness of those evaluations or assist ESEA program grantees in collecting and analyzing data and other activities related to the evaluations. Prohibits the Secretary from being required to evaluate each ESEA program each year. Requires the Secretary or the Director to disseminate the findings from such evaluations.\n\nRequires the Director, on a biennial basis, to develop, submit to Congress, and make publicly available an evaluation plan that: (1) describes the specific activities that will be carried out with the reserved funds over the two years of the plan, (2) contains the results of the activities carried out with such funds for the most recent two-year period, and (3) describes how ESEA programs will be regularly evaluated."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Strengthening Education through Research Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Strengthening Education through Research Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Strengthening Education through Research Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Strengthening Education through Research Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To strengthen the Federal education research system to make research and evaluations more timely and relevant to State and local needs in order to increase student achievement.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4366:@@@L&summ2=m&"
+}

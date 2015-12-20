@@ -1,0 +1,282 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-08-01", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-10-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on the Constitution and Civil Justice Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-05", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-05-06T14:25:00-04:00", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 113-434.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-06T14:26:00-04:00", 
+      "calendar": "Union", 
+      "number": "322", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 322.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-05-06T17:55:00-04:00", 
+      "references": [], 
+      "text": "Mr. Chabot moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-06T17:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3430-3433", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-06T17:55:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2919.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-06T18:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3430-3431", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-05-07", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2919-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bishop, Rob", 
+      "sponsored_at": "2014-03-13", 
+      "state": "UT", 
+      "thomas_id": "01753", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2013-08-01", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Collins, Doug", 
+      "sponsored_at": "2013-08-01", 
+      "state": "GA", 
+      "thomas_id": "02121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Daines, Steve", 
+      "sponsored_at": "2013-10-16", 
+      "state": "MT", 
+      "thomas_id": "02138", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Garcia, Joe", 
+      "sponsored_at": "2013-08-01", 
+      "state": "FL", 
+      "thomas_id": "02120", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2014-03-13", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "sponsored_at": "2013-10-16", 
+      "state": "OR", 
+      "thomas_id": "01950", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-02-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-05-06T18:10:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-08-01", 
+  "number": "2919", 
+  "official_title": "To amend titles 5 and 28, United States Code, to require annual reports to Congress on, and the maintenance of databases on, awards of fees and other expenses to prevailing parties in certain administrative proceedings and court cases to which the United States is a party, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2770-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Open Book on Equal Access to Justice Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lummis, Cynthia M.", 
+    "state": "WY", 
+    "thomas_id": "01960", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-05-06T18:10:00-04:00", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Congressional oversight", 
+    "Government information and archives", 
+    "Government liability", 
+    "Law", 
+    "Legal fees and court costs"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2014-05-06", 
+    "text": "Open Book on Equal Access to Justice Act - Amends the Equal Access to Justice Act and the federal judicial code to require the Chairman of the Administrative Conference of the United States to report to Congress annually on the amount of fees and other expenses awarded to prevailing parties other than the United States in certain administrative proceedings and civil action court cases (excluding tort cases) to which the United States is a party, including settlement agreements.\n\nRequires that such reports: (1) describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information that may aid Congress in evaluating the scope and impact of such awards; and (2) be made available to the public online.\n\nDirects the Chairman to create and maintain online a searchable database containing specified information with respect to each award including the name of the agency involved, the name of each party to whom the award was made, the amount of the award, and the basis for finding that the position of the agency concerned was not substantially justified.\n\nDirects the head of each agency (including, with respect to court cases, the Attorney General [DOJ] and the Director of the Administrative Office of the United States Courts) to provide the Chairman all information requested to produce such reports."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Open Book on Equal Access to Justice Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Open Book on Equal Access to Justice Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Open Book on Equal Access to Justice Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend titles 5 and 28, United States Code, to require annual reports to Congress on, and the maintenance of databases on, awards of fees and other expenses to prevailing parties in certain administrative proceedings and court cases to which the United States is a party, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:19:55-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR2919:@@@L&summ2=m&"
+}

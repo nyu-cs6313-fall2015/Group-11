@@ -1,0 +1,113 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-20", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-11-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3565-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2013-11-20", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-11-20", 
+  "number": "3565", 
+  "official_title": "To amend the Department of Energy Organization Act to establish a biennial commission to develop a comprehensive energy policy for the United States.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Biennial Commission on Energy Policy Act of 2013", 
+  "sponsor": {
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "thomas_id": "02074", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-11-20", 
+  "subjects": [
+    "Advisory bodies", 
+    "Alternative and renewable resources", 
+    "Coal", 
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Energy storage, supplies, demand", 
+    "Executive agency funding and structure", 
+    "General energy matters", 
+    "Nuclear power", 
+    "Oil and gas"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-11-20", 
+    "text": "Biennial Commission on Energy Policy Act of 2013 - Amends the Department of Energy Organization Act to establish the Biennial Commission on Energy Policy.\n\nDirects the Commission to: (1) analyze the accessibility, affordability, reliability, resiliency, and sustainability of energy sources in the United States, including coal, oil, natural gas, wind, solar, nuclear, hydropower, geothermal, and biofuels; (2) assess policy options to increase domestic energy supplies and energy efficiency; (3) evaluate energy storage, transmission, and distribution requirements including intermittent energy sources; (4) analyze the prospective role of stakeholders in creating an integrated and comprehensive energy policy, including academia, industry representatives, the public, and federal laboratories and agencies; (5) assess the effectiveness of and need for energy programs, including tax incentives, funding mechanisms, and energy subsidies; and (6) make recommendations for changes to the organization of executive branch entities to facilitate the development and implementation of national energy objectives."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Biennial Commission on Energy Policy Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Department of Energy Organization Act to establish a biennial commission to develop a comprehensive energy policy for the United States.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3565:@@@L&summ2=m&"
+}

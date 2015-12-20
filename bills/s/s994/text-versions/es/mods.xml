@@ -1,0 +1,159 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18832c36b">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To expand the Federal Funding Accountability and Transparency Act of 2006 to increase accountability and transparency in Federal spending, and for other purposes.;
+   		Digital Accountability and Transparency Act of 2014;Digital Accountability and Transparency Act of 2014;S. 994 (ES)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-04-10</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To expand the Federal Funding Accountability and Transparency Act of 2006 to increase accountability and transparency in Federal spending, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Digital Accountability and Transparency Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>DATA Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 994 (ES)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-04-10</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>22 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18832c36b</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s994es</identifier>
+<identifier type="preferred citation">S. 994</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s994_es.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s994es/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s994es/html/BILLS-113s994es.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s994es/pdf/BILLS-113s994es.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s994es/xml/BILLS-113s994es.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-04-10</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-04-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s994es</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 105</partNumber>
+  <partNumber>Title 5 Section 552a</partNumber>
+  <partNumber>Title 5 Section 552</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 105</identifier>
+ <identifier type="USC citation">5 U.S.C. 552a</identifier>
+ <identifier type="USC citation">5 U.S.C. 552</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1002</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1002</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1105(a)</partNumber>
+  <partNumber>Title 31 Section 1115(h)</partNumber>
+  <partNumber>Title 31 Section 1531</partNumber>
+  <partNumber>Title 31 Section 3512(a)(1)</partNumber>
+  <partNumber>Title 31 Section 3521(f)</partNumber>
+  <partNumber>Title 31 Section 3716(c)(6)</partNumber>
+  <partNumber>Title 31 Section 6101note</partNumber>
+  <partNumber>Title 31 Section 9105(a)(3)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1105(a)</identifier>
+ <identifier type="USC citation">31 U.S.C. 1115(h)</identifier>
+ <identifier type="USC citation">31 U.S.C. 1531</identifier>
+ <identifier type="USC citation">31 U.S.C. 3512(a)(1)</identifier>
+ <identifier type="USC citation">31 U.S.C. 3521(f)</identifier>
+ <identifier type="USC citation">31 U.S.C. 3716(c)(6)</identifier>
+ <identifier type="USC citation">31 U.S.C. 6101note</identifier>
+ <identifier type="USC citation">31 U.S.C. 9105(a)(3)</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s994es</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>994</billNumber>
+ <billVersion reprint="false">es</billVersion>
+ <fileSuffix>es</fileSuffix>
+ <shortTitle>Digital Accountability and Transparency Act of 2014</shortTitle>
+ <shortTitle>DATA Act</shortTitle>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="105"></section>
+                      <section number="552a"></section>
+                      <section number="552"></section>
+                </USCode>
+ <USCode title="20">
+                      <section number="1002"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="(a)" number="1105"></section>
+                      <section detail="(h)" number="1115"></section>
+                      <section number="1531"></section>
+                      <section detail="(a)(1)" number="3512"></section>
+                      <section detail="(f)" number="3521"></section>
+                      <section detail="(c)(6)" number="3716"></section>
+                      <section detail="note" number="6101"></section>
+                      <section detail="(a)(3)" number="9105"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,58 @@
+<bill session="113" type="h" number="2942" updated="2015-09-01T10:19:56-04:00">
+  <state datetime="2014-05-28T17:55:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-05-28T17:55:00-04:00"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to reestablish the Professional Certification and Licensure Advisory Committee of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412286"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-08-13">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2014-03-25">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2014-05-28T17:45:00-04:00">
+      <text>Mr. Miller (FL) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-05-28T17:46:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4861-4863" label="consideration"/>
+    </action>
+    <action datetime="2014-05-28T17:46:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2942.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-05-28T17:55:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4861-4862" label="text"/>
+    </vote>
+    <action datetime="2014-06-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1796"/>
+    <bill relation="unknown" session="113" type="s" number="700"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Advisory bodies"/>
+    <term name="Licensing and registrations"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/2014--Passed House without amendment.
+Reestablishes the Professional Certification and Licensure Advisory Committee of the Department of Veterans Affairs (VA) through December 31, 2019. (The Committee terminated on December 31, 2006.)</summary>
+</bill>

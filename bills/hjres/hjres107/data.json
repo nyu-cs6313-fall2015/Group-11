@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-16", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres107-113", 
+  "bill_type": "hjres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2014-01-16", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2014-01-16", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Sarbanes, John P.", 
+      "sponsored_at": "2014-01-16", 
+      "state": "MD", 
+      "thomas_id": "01854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-16", 
+  "number": "107", 
+  "official_title": "Proposing an amendment to the Constitution of the United States relating to contributions and expenditures with respect to Federal elections.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Yarmuth, John A.", 
+    "state": "KY", 
+    "thomas_id": "01853", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-01-16", 
+  "subjects": [
+    "Constitution and constitutional amendments", 
+    "Elections, voting, political campaign regulation", 
+    "First Amendment rights", 
+    "Government operations and politics", 
+    "Political advertising"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-16", 
+    "text": "Constitutional Amendment - Denies as protected speech any financial expenditures, or in kind equivalents, with respect to a candidate for federal office, without regard to whether or not a communication expressly advocates the election or defeat of a specified candidate in the election.\n\nGives Congress the power to enact a mandatory public financing system to provide funds to qualified candidates in federal elections, which shall be the sole source of funds raised or spent with respect to federal elections."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Proposing an amendment to the Constitution of the United States relating to contributions and expenditures with respect to Federal elections.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HJ107:@@@L&summ2=m&"
+}

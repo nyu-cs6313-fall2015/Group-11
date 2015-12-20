@@ -1,0 +1,349 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183ebadb7">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To appropriately limit sequestration, to eliminate tax loopholes, and for other purposes.;
+   		American Family Economic Protection Act of 2013;S. 388 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To appropriately limit sequestration, to eliminate tax loopholes, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>American Family Economic Protection Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 388 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-02-26</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>40 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee183ebadb7</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s388pcs</identifier>
+<identifier type="preferred citation">S. 388</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s388_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s388pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s388pcs/html/BILLS-113s388pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s388pcs/pdf/BILLS-113s388pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s388pcs/xml/BILLS-113s388pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s388pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Harry Reid</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara A. Mikulski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Patty Murray</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Harry Reid</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 900(c)(4)</partNumber>
+  <partNumber>Title 2 Section 900et seq.</partNumber>
+  <partNumber>Title 2 Section 901A</partNumber>
+  <partNumber>Title 2 Section 901a(1)</partNumber>
+  <partNumber>Title 2 Section 901a(6)</partNumber>
+  <partNumber>Title 2 Section 901(c)</partNumber>
+  <partNumber>Title 2 Section 933(d)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 900(c)(4)</identifier>
+ <identifier type="USC citation">2 U.S.C. 900et seq.</identifier>
+ <identifier type="USC citation">2 U.S.C. 901A</identifier>
+ <identifier type="USC citation">2 U.S.C. 901a(1)</identifier>
+ <identifier type="USC citation">2 U.S.C. 901a(6)</identifier>
+ <identifier type="USC citation">2 U.S.C. 901(c)</identifier>
+ <identifier type="USC citation">2 U.S.C. 933(d)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 1508</partNumber>
+  <partNumber>Title 7 Section 1508(b)</partNumber>
+  <partNumber>Title 7 Section 1531</partNumber>
+  <partNumber>Title 7 Section 1632a(b)(7)</partNumber>
+  <partNumber>Title 7 Section 2008s(d)</partNumber>
+  <partNumber>Title 7 Section 2025(h)(1)(A)</partNumber>
+  <partNumber>Title 7 Section 2036a(d)(1)</partNumber>
+  <partNumber>Title 7 Section 2279(a)(4)(A)</partNumber>
+  <partNumber>Title 7 Section 3005(e)(1)</partNumber>
+  <partNumber>Title 7 Section 3319f(h)</partNumber>
+  <partNumber>Title 7 Section 5925b(f)</partNumber>
+  <partNumber>Title 7 Section 5925c(d)</partNumber>
+  <partNumber>Title 7 Section 612c</partNumber>
+  <partNumber>Title 7 Section 6523(d)(1)</partNumber>
+  <partNumber>Title 7 Section 7333</partNumber>
+  <partNumber>Title 7 Section 7632(h)</partNumber>
+  <partNumber>Title 7 Section 7761(e)(1)</partNumber>
+  <partNumber>Title 7 Section 8102(h)(1)(B)</partNumber>
+  <partNumber>Title 7 Section 8103(h)(1)</partNumber>
+  <partNumber>Title 7 Section 8105(g)(1)</partNumber>
+  <partNumber>Title 7 Section 8106(d)(1)</partNumber>
+  <partNumber>Title 7 Section 8107(g)(1)</partNumber>
+  <partNumber>Title 7 Section 8108(h)(1)</partNumber>
+  <partNumber>Title 7 Section 8111(f)</partNumber>
+  <partNumber>Title 7 Section 8702(11)</partNumber>
+  <partNumber>Title 7 Section 8751(5)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 1508</identifier>
+ <identifier type="USC citation">7 U.S.C. 1508(b)</identifier>
+ <identifier type="USC citation">7 U.S.C. 1531</identifier>
+ <identifier type="USC citation">7 U.S.C. 1632a(b)(7)</identifier>
+ <identifier type="USC citation">7 U.S.C. 2008s(d)</identifier>
+ <identifier type="USC citation">7 U.S.C. 2025(h)(1)(A)</identifier>
+ <identifier type="USC citation">7 U.S.C. 2036a(d)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 2279(a)(4)(A)</identifier>
+ <identifier type="USC citation">7 U.S.C. 3005(e)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 3319f(h)</identifier>
+ <identifier type="USC citation">7 U.S.C. 5925b(f)</identifier>
+ <identifier type="USC citation">7 U.S.C. 5925c(d)</identifier>
+ <identifier type="USC citation">7 U.S.C. 612c</identifier>
+ <identifier type="USC citation">7 U.S.C. 6523(d)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 7333</identifier>
+ <identifier type="USC citation">7 U.S.C. 7632(h)</identifier>
+ <identifier type="USC citation">7 U.S.C. 7761(e)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 8102(h)(1)(B)</identifier>
+ <identifier type="USC citation">7 U.S.C. 8103(h)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 8105(g)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 8106(d)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 8107(g)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 8108(h)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 8111(f)</identifier>
+ <identifier type="USC citation">7 U.S.C. 8702(11)</identifier>
+ <identifier type="USC citation">7 U.S.C. 8751(5)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 3838g(d)(1)</partNumber>
+  <partNumber>Title 16 Section 3839bb-5</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 3838g(d)(1)</identifier>
+ <identifier type="USC citation">16 U.S.C. 3839bb-5</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 2211note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 2211note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 125 Page 584</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">125 Stat.	584</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 126 Page 1313</partNumber>
+  <partNumber>Volume 126 Page 2313</partNumber>
+  <partNumber>Volume 126 Page 2362</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">126 Stat.	1313</identifier>
+ <identifier type="Statute citation">126 Stat.	2313</identifier>
+ <identifier type="Statute citation">126 Stat.	2362</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-171</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-171</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-55</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-55</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-175</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-175</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-240</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-240</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 18</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s388pcs</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>388</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>PCS</fileSuffix>
+ <shortTitle>American Family Economic Protection Act of 2013</shortTitle>
+ <action date="2013-02-26">Mr. Reid (for Ms. Mikulski (for herself, Mrs. Murray, and Mr. Reid)) introduced the following bill; which was read twice and placed on the calendar pursuant to the order of February 14, 2013</action>
+ <congMember authorityId="952" bioGuideId="R000146" chamber="S" congress="113" gpoId="8271" party="D" role="SPONSOR" state="NV">
+                      <name type="parsed">Mr. Reid</name>
+                      <name type="authority-fnf">Harry Reid</name>
+                      <name type="authority-lnf">Reid, Harry</name>
+                      <name type="authority-other">Harry M. Reid</name>
+                </congMember>
+ <congMember authorityId="802" bioGuideId="M000702" chamber="S" congress="113" gpoId="8240" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Ms. Mikulski</name>
+                      <name type="authority-fnf">Barbara A. Mikulski</name>
+                      <name type="authority-lnf">Mikulski, Barbara A.</name>
+                      <name type="authority-other">Barbara Ann Mikulski</name>
+                </congMember>
+ <congMember authorityId="1409" bioGuideId="M001111" chamber="S" congress="113" gpoId="8237" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mrs. Murray</name>
+                      <name type="authority-fnf">Patty Murray</name>
+                      <name type="authority-lnf">Murray, Patty</name>
+                </congMember>
+ <congMember authorityId="952" bioGuideId="R000146" chamber="S" congress="113" gpoId="8271" party="D" role="COSPONSOR" state="NV">
+                      <name type="parsed">Mr. Reid</name>
+                      <name type="authority-fnf">Harry Reid</name>
+                      <name type="authority-lnf">Reid, Harry</name>
+                      <name type="authority-other">Harry M. Reid</name>
+                </congMember>
+ <law congress="107" isPrivate="false" number="171"></law>
+ <law congress="112" isPrivate="false" number="55"></law>
+ <law congress="112" isPrivate="false" number="175"></law>
+ <law congress="112" isPrivate="false" number="240"></law>
+ <congCalendar congress="113" number="18" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section detail="(c)(4)" number="900"></section>
+                      <section detail="et seq." number="900"></section>
+                      <section number="901A"></section>
+                      <section detail="(1)" number="901a"></section>
+                      <section detail="(6)" number="901a"></section>
+                      <section detail="(c)" number="901"></section>
+                      <section detail="(d)" number="933"></section>
+                </USCode>
+ <USCode title="7">
+                      <section number="1508"></section>
+                      <section detail="(b)" number="1508"></section>
+                      <section number="1531"></section>
+                      <section detail="(b)(7)" number="1632a"></section>
+                      <section detail="(d)" number="2008s"></section>
+                      <section detail="(h)(1)(A)" number="2025"></section>
+                      <section detail="(d)(1)" number="2036a"></section>
+                      <section detail="(a)(4)(A)" number="2279"></section>
+                      <section detail="(e)(1)" number="3005"></section>
+                      <section detail="(h)" number="3319f"></section>
+                      <section detail="(f)" number="5925b"></section>
+                      <section detail="(d)" number="5925c"></section>
+                      <section number="612c"></section>
+                      <section detail="(d)(1)" number="6523"></section>
+                      <section number="7333"></section>
+                      <section detail="(h)" number="7632"></section>
+                      <section detail="(e)(1)" number="7761"></section>
+                      <section detail="(h)(1)(B)" number="8102"></section>
+                      <section detail="(h)(1)" number="8103"></section>
+                      <section detail="(g)(1)" number="8105"></section>
+                      <section detail="(d)(1)" number="8106"></section>
+                      <section detail="(g)(1)" number="8107"></section>
+                      <section detail="(h)(1)" number="8108"></section>
+                      <section detail="(f)" number="8111"></section>
+                      <section detail="(11)" number="8702"></section>
+                      <section detail="(5)" number="8751"></section>
+                </USCode>
+ <USCode title="16">
+                      <section detail="(d)(1)" number="3838g"></section>
+                      <section number="3839bb-5"></section>
+                </USCode>
+ <USCode title="43">
+                      <section detail="note" number="2211"></section>
+                </USCode>
+ <statuteAtLarge volume="125">
+                      <pages pages="584"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="126">
+                      <pages pages="1313"></pages>
+                      <pages pages="2313"></pages>
+                      <pages pages="2362"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

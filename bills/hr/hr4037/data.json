@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-11", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-25", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4037-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-11", 
+  "number": "4037", 
+  "official_title": "To amend title 38, United States Code, to make certain improvements in the laws administered by the Secretary of Veterans Affairs relating to training and rehabilitation for veterans with service-connected disabilities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Improving Veterans' Access to Vocational Rehabilitation and Employment Act of 2014", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Flores, Bill", 
+    "state": "TX", 
+    "thomas_id": "02065", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-02-11", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Disability and paralysis", 
+    "Housing for the elderly and disabled", 
+    "Veterans' education, employment, rehabilitation", 
+    "Veterans' loans, housing, homeless programs"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-02-11", 
+    "text": "Improving Veterans' Access to Vocational Rehabilitation and Employment Act of 2014 - Requires the Secretary of Veterans Affairs (VA), when calculating the rate of veterans determined to be rehabilitated to the point of employability, to divide the number of veterans who participated in VA vocational rehabilitation programs whom the Secretary determines to have been so rehabilitated by the total number of veterans who: (1) participated in such programs during that fiscal year, and (2) were entitled to participate in such programs during such fiscal year but who did not complete a program.\n\nAllows a course of education and training to be pursued by a veteran as part of a rehabilitation program only if the course is approved under VA vocational rehabilitation requirements.\n\nMakes veterans enrolled in a VA vocational rehabilitation program eligible for VA specially adapted housing, when appropriate.\n\nAuthorizes the Secretary to prioritize VA vocational rehabilitation services based on need upon consideration of disability ratings, the severity of employment handicaps, qualification for a program of independent living, income, and other factors determined appropriate."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Improving Veterans' Access to Vocational Rehabilitation and Employment Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to make certain improvements in the laws administered by the Secretary of Veterans Affairs relating to training and rehabilitation for veterans with service-connected disabilities, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:24-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4037:@@@L&summ2=m&"
+}

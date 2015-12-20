@@ -1,0 +1,74 @@
+<bill session="113" type="h" number="5806" updated="2015-09-01T10:21:06-04:00">
+  <state datetime="2014-12-11T12:27:00-05:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2014-12-11T12:27:00-05:00"/>
+  </status>
+  <introduced datetime="2014-12-08"/>
+  <titles>
+    <title type="short" as="introduced">Supporting America's Charities Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to modify and make permanent certain expiring provisions related to charitable contributions.</title>
+  </titles>
+  <sponsor id="400058"/>
+  <cosponsors>
+    <cosponsor id="400147" joined="2014-12-09"/>
+    <cosponsor id="412465" joined="2014-12-09"/>
+    <cosponsor id="412393" joined="2014-12-09"/>
+    <cosponsor id="412314" joined="2014-12-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-12-08" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-12-08">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-12-08">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2014-12-10T17:25:00-05:00">
+      <text>Mr. Camp moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-12-10T17:25:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8998-9002" label="consideration"/>
+      <reference ref="CR H8998-8999" label="text as introduced in House"/>
+    </action>
+    <action datetime="2014-12-10T17:25:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5806.</text>
+    </action>
+    <action datetime="2014-12-10T17:58:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-12-11T12:17:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H9075" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="562" datetime="2014-12-11T12:27:00-05:00" where="h" result="fail" suspension="1" state="PROV_KILL:SUSPENSIONFAILED">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 275 - 149 (Roll no. 562).</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="4719"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alaska"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Charitable contributions"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Food assistance and relief"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax exclusion"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land use and conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/8/2014--Introduced.
+Supporting America's Charities Act - Amends the Internal Revenue Code to make permanent: (1) the tax deduction for charitable contributions by individuals and corporations of real property interests for conservation purposes, and (2) tax-free distributions from individual retirement accounts (IRAs) for charitable purposes. Allows a tax deduction for charitable contributions for conservation purposes&#160;of property conveyed under the Alaska Native Claims Settlement Act by an Alaska Native Corporation.
+
+Modifies the tax deduction for charitiable contributions of food inventory to: (1) increase the amount of deductible food inventory contributions that taxpayers other than C corporations may make in any taxable year from 10% to 15% of their aggregate net income and to limit such amount for a C corporation to 15% of its taxable income; (2) permit a taxpayer who is not required to account for inventories or capitalize indirect costs to elect, solely for purposes of computing the amount of such deduction, to treat the basis of any apparently wholesome food (as defined in the Bill Emerson Good Samaritan Food Donation Act) as equal to 25% of the fair market value of such food and to set forth a formula for determining the fair market value of such food; and (3) make such deduction, as modified, permanent.</summary>
+</bill>

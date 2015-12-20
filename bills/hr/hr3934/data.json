@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-27", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3934-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Hanabusa, Colleen W.", 
+      "sponsored_at": "2014-01-27", 
+      "state": "HI", 
+      "thomas_id": "02010", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Young, Don", 
+      "sponsored_at": "2014-01-27", 
+      "state": "AK", 
+      "thomas_id": "01256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-27", 
+  "number": "3934", 
+  "official_title": "To amend title 49, United States Code, to exempt certain flights from increased aviation security service fees.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1964-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Passenger Fee Restructuring Exemptions Act of 2014", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Gabbard, Tulsi", 
+    "state": "HI", 
+    "thomas_id": "02122", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-01-27", 
+  "subjects": [
+    "Alaska", 
+    "Aviation and airports", 
+    "Hawaii", 
+    "Rural conditions and development", 
+    "Transportation and public works", 
+    "Transportation programs funding", 
+    "Transportation safety and security", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-27", 
+    "text": "Passenger Fee Restructuring Exemptions Act of 2014 - Revises aviation security service fee requirements.\n\nMakes an exception to the $5.60 per one-way trip fee for certain passengers for domestic flights that originate at a U.S. airport.\n\nLimits such fees to $2.50 per enplanement, with the total not to exceed $5.00 per one-way trip, for any passengers: (1) boarding to an eligible small community for which essential air service compensation is paid; or (2) on flights, including flight segments, between two or more points in Hawaii or two or more points in Alaska."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Passenger Fee Restructuring Exemptions Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 49, United States Code, to exempt certain flights from increased aviation security service fees.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:22-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3934:@@@L&summ2=m&"
+}

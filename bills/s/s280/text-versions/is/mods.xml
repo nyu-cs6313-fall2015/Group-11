@@ -1,0 +1,294 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb9ffe">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To ensure effective control over the Congressional budget process.;
+   		S. 280 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To ensure effective control over the Congressional budget process.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 280 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-02-12</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>44 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee183eb9ffe</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s280is</identifier>
+<identifier type="preferred citation">S. 280</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s280_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s280is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s280is/html/BILLS-113s280is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s280is/pdf/BILLS-113s280is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s280is/xml/BILLS-113s280is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s280is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>John Thune</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Rob Portman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Saxby Chambliss</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Vitter</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on the Budget</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 1 Section 105</partNumber>
+</titleInfo>
+ <identifier type="USC citation">1 U.S.C. 105</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 621(2)</partNumber>
+  <partNumber>Title 2 Section 621et seq.</partNumber>
+  <partNumber>Title 2 Section 622</partNumber>
+  <partNumber>Title 2 Section 622(13)</partNumber>
+  <partNumber>Title 2 Section 622(4)</partNumber>
+  <partNumber>Title 2 Section 631</partNumber>
+  <partNumber>Title 2 Section 632(a)</partNumber>
+  <partNumber>Title 2 Section 632(b)</partNumber>
+  <partNumber>Title 2 Section 632(d)</partNumber>
+  <partNumber>Title 2 Section 632(e)</partNumber>
+  <partNumber>Title 2 Section 632(f)</partNumber>
+  <partNumber>Title 2 Section 632(g)(1)</partNumber>
+  <partNumber>Title 2 Section 633</partNumber>
+  <partNumber>Title 2 Section 634(a)</partNumber>
+  <partNumber>Title 2 Section 635</partNumber>
+  <partNumber>Title 2 Section 636(b)(3)</partNumber>
+  <partNumber>Title 2 Section 638</partNumber>
+  <partNumber>Title 2 Section 640</partNumber>
+  <partNumber>Title 2 Section 641</partNumber>
+  <partNumber>Title 2 Section 642(a)</partNumber>
+  <partNumber>Title 2 Section 643</partNumber>
+  <partNumber>Title 2 Section 907d(b)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 621(2)</identifier>
+ <identifier type="USC citation">2 U.S.C. 621et seq.</identifier>
+ <identifier type="USC citation">2 U.S.C. 622</identifier>
+ <identifier type="USC citation">2 U.S.C. 622(13)</identifier>
+ <identifier type="USC citation">2 U.S.C. 622(4)</identifier>
+ <identifier type="USC citation">2 U.S.C. 631</identifier>
+ <identifier type="USC citation">2 U.S.C. 632(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 632(b)</identifier>
+ <identifier type="USC citation">2 U.S.C. 632(d)</identifier>
+ <identifier type="USC citation">2 U.S.C. 632(e)</identifier>
+ <identifier type="USC citation">2 U.S.C. 632(f)</identifier>
+ <identifier type="USC citation">2 U.S.C. 632(g)(1)</identifier>
+ <identifier type="USC citation">2 U.S.C. 633</identifier>
+ <identifier type="USC citation">2 U.S.C. 634(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 635</identifier>
+ <identifier type="USC citation">2 U.S.C. 636(b)(3)</identifier>
+ <identifier type="USC citation">2 U.S.C. 638</identifier>
+ <identifier type="USC citation">2 U.S.C. 640</identifier>
+ <identifier type="USC citation">2 U.S.C. 641</identifier>
+ <identifier type="USC citation">2 U.S.C. 642(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 643</identifier>
+ <identifier type="USC citation">2 U.S.C. 907d(b)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 306</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 306</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1105(a)</partNumber>
+  <partNumber>Title 31 Section 1115</partNumber>
+  <partNumber>Title 31 Section 1115(b)</partNumber>
+  <partNumber>Title 31 Section 1116</partNumber>
+  <partNumber>Title 31 Section 9703</partNumber>
+  <partNumber>Title 31 Chapter 13</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1105(a)</identifier>
+ <identifier type="USC citation">31 U.S.C. 1115</identifier>
+ <identifier type="USC citation">31 U.S.C. 1115(b)</identifier>
+ <identifier type="USC citation">31 U.S.C. 1116</identifier>
+ <identifier type="USC citation">31 U.S.C. 9703</identifier>
+ <identifier type="USC citation">31 U.S.C. Chapter 13</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 39 Section 2802</partNumber>
+  <partNumber>Title 39 Section 2803(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">39 U.S.C. 2802</identifier>
+ <identifier type="USC citation">39 U.S.C. 2803(a)</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s280is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>280</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>IS</fileSuffix>
+ <action date="2013-02-12">Mr. Thune (for himself, Mr. Portman, Mr. Chambliss, and Mr. Vitter) introduced the following bill; which was read twice and referred to the Committee on the Budget</action>
+ <congCommittee authorityId="ssbu00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on the Budget</name>
+                      <name type="authority-short">Budget</name>
+                </congCommittee>
+ <congMember authorityId="1534" bioGuideId="T000250" chamber="S" congress="113" gpoId="8257" party="R" role="SPONSOR" state="SD">
+                      <name type="parsed">Mr. Thune</name>
+                      <name type="authority-fnf">John Thune</name>
+                      <name type="authority-lnf">Thune, John</name>
+                      <name type="authority-other">John R. Thune</name>
+                </congMember>
+ <congMember authorityId="924" bioGuideId="P000449" chamber="S" congress="113" gpoId="8266" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Portman</name>
+                      <name type="authority-fnf">Rob Portman</name>
+                      <name type="authority-lnf">Portman, Rob</name>
+                </congMember>
+ <congMember authorityId="188" bioGuideId="C000286" chamber="S" congress="113" gpoId="8284" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Chambliss</name>
+                      <name type="authority-fnf">Saxby Chambliss</name>
+                      <name type="authority-lnf">Chambliss, Saxby</name>
+                </congMember>
+ <congMember authorityId="1609" bioGuideId="V000127" chamber="S" congress="113" gpoId="8267" party="R" role="COSPONSOR" state="LA">
+                      <name type="parsed">Mr. Vitter</name>
+                      <name type="authority-fnf">David Vitter</name>
+                      <name type="authority-lnf">Vitter, David</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="1">
+                      <section number="105"></section>
+                </USCode>
+ <USCode title="2">
+                      <section detail="(2)" number="621"></section>
+                      <section detail="et seq." number="621"></section>
+                      <section number="622"></section>
+                      <section detail="(13)" number="622"></section>
+                      <section detail="(4)" number="622"></section>
+                      <section number="631"></section>
+                      <section detail="(a)" number="632"></section>
+                      <section detail="(b)" number="632"></section>
+                      <section detail="(d)" number="632"></section>
+                      <section detail="(e)" number="632"></section>
+                      <section detail="(f)" number="632"></section>
+                      <section detail="(g)(1)" number="632"></section>
+                      <section number="633"></section>
+                      <section detail="(a)" number="634"></section>
+                      <section number="635"></section>
+                      <section detail="(b)(3)" number="636"></section>
+                      <section number="638"></section>
+                      <section number="640"></section>
+                      <section number="641"></section>
+                      <section detail="(a)" number="642"></section>
+                      <section number="643"></section>
+                      <section detail="(b)(1)" number="907d"></section>
+                </USCode>
+ <USCode title="5">
+                      <section number="306"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="(a)" number="1105"></section>
+                      <section number="1115"></section>
+                      <section detail="(b)" number="1115"></section>
+                      <section number="1116"></section>
+                      <section number="9703"></section>
+                      <chapter number="13"></chapter>
+                </USCode>
+ <USCode title="39">
+                      <section number="2802"></section>
+                      <section detail="(a)" number="2803"></section>
+                </USCode>
+</extension>
+</mods>

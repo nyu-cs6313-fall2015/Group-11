@@ -1,0 +1,232 @@
+<bill session="113" type="h" number="4194" updated="2015-09-01T10:20:27-04:00">
+  <state datetime="2014-11-26">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-11-26"/>
+  </status>
+  <introduced datetime="2014-03-11"/>
+  <titles>
+    <title type="short" as="introduced">Government Reports Elimination Act of 2014</title>
+    <title type="short" as="reported to house">Government Reports Elimination Act of 2014</title>
+    <title type="short" as="passed house">Government Reports Elimination Act of 2014</title>
+    <title type="short" as="reported to senate">Government Reports Elimination Act of 2014</title>
+    <title type="short" as="passed senate">Government Reports Elimination Act of 2014</title>
+    <title type="short" as="enacted">Government Reports Elimination Act of 2014</title>
+    <title type="official" as="introduced">To provide for the elimination or modification of Federal reporting requirements.</title>
+  </titles>
+  <sponsor id="400196"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2014-03-11"/>
+    <cosponsor id="412416" joined="2014-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-11" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-03-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-03-12" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-04-28T16:13:00-04:00">
+      <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 113-419.</text>
+    </action>
+    <calendar datetime="2014-04-28T16:13:00-04:00" calendar="Union" number="309">
+      <text>Placed on the Union Calendar, Calendar No. 309.</text>
+    </calendar>
+    <action datetime="2014-04-28T16:53:00-04:00">
+      <text>Mr. Issa moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-04-28T16:53:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3209-3212" label="consideration"/>
+    </action>
+    <action datetime="2014-04-28T16:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4194.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-04-28T17:00:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3209-3212" label="text"/>
+    </vote>
+    <action datetime="2014-04-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2014-06-25">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-07-31">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-232.</text>
+    </action>
+    <calendar datetime="2014-07-31" calendar="Senate Legislative" under="General Orders" number="505">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.</text>
+    </calendar>
+    <action datetime="2014-09-16">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S5644-5647" label="consideration"/>
+    </action>
+    <action datetime="2014-09-16">
+      <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+      <reference ref="CR S5644-5646" label="text"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-09-16" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-09-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-11-12T16:00:00-05:00">
+      <text>Mr. Issa moved that the House suspend the rules and agree to the Senate amendment.</text>
+      <reference ref="CR H7907-7910" label="consideration"/>
+    </action>
+    <action datetime="2014-11-12T16:00:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 4194.</text>
+    </action>
+    <action datetime="2014-11-12T16:11:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-11-12T18:55:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7915-7916" label="consideration"/>
+    </action>
+    <vote how="roll" type="pingpong" roll="516" datetime="2014-11-12T18:55:00-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 516).</text>
+      <reference ref="CR H7907-7909" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2014-11-12T18:55:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2014-11-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-11-26" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-188" type="public" datetime="2014-11-26">
+      <text>Became Public Law No: 113-188.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="2109"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Advisory bodies"/>
+    <term name="Agricultural prices, subsidies, credit"/>
+    <term name="Agricultural trade"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Asia"/>
+    <term name="Aviation and airports"/>
+    <term name="Bolivia"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Colombia"/>
+    <term name="Customs enforcement"/>
+    <term name="Defense spending"/>
+    <term name="Ecuador"/>
+    <term name="Education programs funding"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Emergency communications systems"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Energy revenues and royalties"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Europe"/>
+    <term name="Financial crises and stabilization"/>
+    <term name="Foreign loans and debt"/>
+    <term name="Free trade and trade barriers"/>
+    <term name="Government information and archives"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Government studies and investigations"/>
+    <term name="Great Lakes"/>
+    <term name="Higher education"/>
+    <term name="Homeland security"/>
+    <term name="Housing and community development funding"/>
+    <term name="Human rights"/>
+    <term name="International monetary system and foreign exchange"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Medicare"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Multilateral development programs"/>
+    <term name="National and community service"/>
+    <term name="Noise pollution"/>
+    <term name="North America"/>
+    <term name="North Korea"/>
+    <term name="Nuclear weapons"/>
+    <term name="Oil and gas"/>
+    <term name="Peru"/>
+    <term name="Pipelines"/>
+    <term name="Rural conditions and development"/>
+    <term name="Sanctions"/>
+    <term name="Science and engineering education"/>
+    <term name="Securities"/>
+    <term name="Small business"/>
+    <term name="Student aid and college costs"/>
+    <term name="Trade restrictions"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+    <term name="User charges and fees"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3820"/>
+  </amendments>
+  <summary>11/26/2014--Public Law.
+Government Reports Elimination Act of 2014 - Provides for the elimination or modification of reporting and notification requirements of specified federal agencies and departments.
+
+Title I: Department of Agriculture - Eliminates:
+
+ peanut base acres data collection and publication under the Food, Conservation, and Energy Act of 2008; the report on export credit guarantees to emerging markets; the evaluation of the rural development, business and industry guaranteed loan program financing of locally or regionally produced food products; quarterly reports on export assistance provided by the Commodity Credit Corporation and the Secretary of Agriculture; annual progress reports in achieving benchmarks established in the regional investment strategy of the Rural Collaborative Investment Program; and the annual report on the foreign market development cooperator program. Title II: Department of Commerce - Eliminates: (1) the annual report on efforts and progress of colleges, universities, institutions, associations, and alliances to be designated as Sea Grant Colleges or Institutes; (2) the annual report on Enterprise Integration Standardization and Implementation activities under the Enterprise Integration Act of 2001; (3) the biennial report on efforts to ensure equal access to the Sea Grant Fellowship Program; (4) the annual reports on activities of the Technology Innovation Program (TIP) and on the Technology Innovation Program Advisory Board; and (5) the annual report on activities of the Northwest Atlantic Fisheries Commission and related entities.
+
+Title III: Corporation for National and Community Service - Eliminates: (1) the reporting requirements of federal agencies and departments to the Corporation for National and Community Service, and (2) the impact study and report on service-learning activities.
+
+Title IV: Department of Defense (DOD) - Eliminates: (1) the requirement for submission with the annual DOD budget of a display that covers all programs and activities of the Air Sovereignty Alert Mission of the Air Force, and (2) the annual report on the reliability of DOD financial statements.
+
+Title V: Department of Education - Eliminates the report of the Secretary of Education justifying the award of school facility emergency and modernization grants.
+
+Title VI Department of Energy (DOE) - Eliminates reports on: (1) the science and engineering education pilot program, (2) the development of strategic unconventional fuels, and (3) energy efficiency standards for industrial equipment.
+
+Title VII: Environmental Protection Agency (EPA) - Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to eliminate the comprehensive report on Great Lakes management.
+
+Title VIII: Executive Office of the President - Eliminates the notification requirement and the report on waivers of sanctions by the President against North Korea.
+
+Title IX: Government Accountability Office (GAO) - (Sec. 901) Eliminates reports on: (1) expenditures of local educational agencies under the Elementary and Secondary Education Act of 1965, and (2) the use of funds under the American Recovery and Reinvestment Act of 2009 by states and local governments.
+
+Amends the Help America Vote Act of 2002 to eliminate the mandatory audit of all funds provided by such Act.
+
+Amends the Small Business Jobs Act of 2010 to eliminate the audits and reports on the state small business credit initiative and the small business lending fund program.
+
+Amends the Food, Conservation, and Energy Act of 2008 to eliminate the audit and report on assistance to the Housing Assistance Council.
+
+(Sec. 902) Amends the Patient Protection and Affordable Care Act to make the Secretary of Health and Human Resources (HHS) (currently, the Secretary and the Comptroller General) responsible for surveying the public with respect to health and health care.
+
+Requires the Comptroller General to publish on the GAO website (currently, deliver to Congress) lists of GAO reports.
+
+Amends the Congressional Award Act to provide for a independent public accountant (currently, the Comptroller General) to conduct the annual audit of the financial records of the Congressional Award Board. Requires the Comptroller General to review, and report on, each annual audit.
+
+Amends title XVIII (Medicare) of the Social Security Act to terminate at the end of 2014 the review by the Comptroller General of the threshold amount for injury-related liabilities under Medicare.
+
+Title X: Department of Homeland Security (DHS) - Eliminates: (1) reporting requirements under the Tariff Act of 1930 relating to the prohibition on importation of products made with dog or cat fur, (2) the biennial Port of Entry Infrastructure Assessment Study, (3) the biennial National Land Border Security Plan, (4) reporting requirements with respect to fees for customs services, and (5) the status report on the modernization of the National Distress and Response System.
+
+Title XI: Department of the Interior - Eliminates reporting requirements of the program on oil and gas royalties in-kind.
+
+Title XII: Department of Labor - Eliminates the continuing study by the Secretary of Labor on the impact of the Andean trade preference on U.S. labor.
+
+Title XIII: Office of the Director of National Intelligence (DNI) - Eliminates the report on the Treaty on Conventional Armed Forces in Europe.
+
+Title XIV: Department of State - Eliminates the annual State Department report on nuclear proliferation in South Asia and efforts to achieve a regional agreement on nuclear non-proliferation.
+
+Title XV: Department of Transportation (DOT) - (Sec. 1601) Eliminates: (1) the reporting requirements of the Air Traffic Services Committee, (2) the annual summaries of airport financial reports, (3) the annual report on pipeline safety information grants to communities, (4) the annual report on the pilot program for innovative financing of air traffic control equipment and the reports on justifications for air defense identification zones under the Vision 100 -- Century of Aviation Reauthorization Act, and (5) the annual report on the application of new standards or technologies to reduce aircraft noise levels under the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century.
+
+(Sec. 1502) Eliminates the requirement for an annual evaluation and audit of the programs and expenditures of the National Transportation Safety Board (NTSB), allowing such evaluation and audit to be conducted as determined necessary by the Comptroller General.
+
+Title XVI: Department of the Treasury - Eliminates: (1) the annual report on the North American Development Bank, (2) the annual report on loans considered by the Boards of Executive Directors of international financial institutions engaged in activities to promote the cause of human rights, (3) the report on new International Monetary Fund (IMF) borrowing arrangements regarding rates and maturities, and (4) the requirement for notification to Congress of any significant modifications in the auction process for issuing Treasury obligations.
+
+Title XVII: Department of Veterans Affairs (VA) - Eliminates the annual report on procurement of health care items by VA medical facilities.</summary>
+</bill>

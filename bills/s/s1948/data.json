@@ -1,0 +1,240 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-16", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-18", 
+      "committee": "Committee on Indian Affairs", 
+      "committees": [
+        "SLIA"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Indian Affairs. Hearings held.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-07-30", 
+      "committees": [
+        "SLIA"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-08-26", 
+      "committee": "Indian Affairs", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "text": "Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with an amendment in the nature of a substitute. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-08-26", 
+      "calendar": "Senate Legislative", 
+      "number": "538", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 538.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-10-01", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "text": "By Senator Tester from Committee on Indian Affairs filed written report under authority of the order of the Senate of 09/18/2014. Report No. 113-265.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1948-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2014-11-13", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Baucus, Max", 
+      "sponsored_at": "2014-01-16", 
+      "state": "MT", 
+      "thomas_id": "00066", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2014-01-16", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heinrich, Martin", 
+      "sponsored_at": "2014-05-22", 
+      "state": "NM", 
+      "thomas_id": "01937", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heitkamp, Heidi", 
+      "sponsored_at": "2014-03-10", 
+      "state": "ND", 
+      "thomas_id": "02174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johnson, Tim", 
+      "sponsored_at": "2014-01-16", 
+      "state": "SD", 
+      "thomas_id": "00604", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murkowski, Lisa", 
+      "sponsored_at": "2014-02-04", 
+      "state": "AK", 
+      "thomas_id": "01694", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "sponsored_at": "2014-01-16", 
+      "state": "HI", 
+      "thomas_id": "02173", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Udall, Tom", 
+      "sponsored_at": "2014-01-27", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Walsh, John E.", 
+      "sponsored_at": "2014-05-14", 
+      "state": "MT", 
+      "thomas_id": "02198", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-06-18", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-16", 
+  "number": "1948", 
+  "official_title": "A bill to promote the academic achievement of American Indian, Alaska Native, and Native Hawaiian children with the establishment of a Native American language grant program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4214-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Native Language Immersion Student Achievement Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Tester, Jon", 
+    "state": "MT", 
+    "thomas_id": "01829", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-07-30", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Foreign language and bilingual programs", 
+    "Minority education", 
+    "Native Americans", 
+    "Teaching, teachers, curricula"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-16", 
+    "text": "Native Language Immersion Student Achievement Act - Amends the Elementary and Secondary Education Act of 1965 to authorize the Secretary of Education to award grants to schools and private or tribal nonprofit organizations to develop and maintain, or improve and expand, programs that support the use by schools, from the prekindergarten through postsecondary level, of Native American languages as their primary language of instruction.\n\nRequires grant applicants to present the Secretary with specified assurances and demonstrations that the schools they will support have the capacity to provide education primarily through a Native American language.\n\nRequires grantees to:\n\n support Native American language education and development; develop or refine instructional curricula for the schools they support, including distinctive teaching materials and activities; fund training opportunities for school staff that strengthen the overall language and academic goals of their schools; and engage in other activities that promote Native American language education and development."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Native Language Immersion Student Achievement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Native Language Immersion Student Achievement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to promote the academic achievement of American Indian, Alaska Native, and Native Hawaiian children with the establishment of a Native American language grant program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1948:@@@L&summ2=m&"
+}

@@ -1,0 +1,307 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee189c2a14b">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To reauthorize Federal support for passenger rail programs, and for other purposes.;
+   		H.R. 5449 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-09-16</dateIngested>
+</extension>
+<titleInfo>
+ <title>To reauthorize Federal support for passenger rail programs, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5449 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-09-11</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>76 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee189c2a14b</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5449ih</identifier>
+<identifier type="preferred citation">H.R. 5449</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5449_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5449ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5449ih/html/BILLS-113hr5449ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5449ih/pdf/BILLS-113hr5449ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5449ih/xml/BILLS-113hr5449ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-09-16</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-09-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr5449ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Bill Shuster</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Nick J. Rahall II</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Denham</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Corrine Brown</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Transportation and Infrastructure</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 632</partNumber>
+  <partNumber>Title 15 Section 637(d)</partNumber>
+  <partNumber>Title 15 Section 78c(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 632</identifier>
+ <identifier type="USC citation">15 U.S.C. 637(d)</identifier>
+ <identifier type="USC citation">15 U.S.C. 78c(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 470f</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 470f</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 24101note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 24101note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 45 Section 801et seq.</partNumber>
+  <partNumber>Title 45 Section 822</partNumber>
+  <partNumber>Title 45 Section 822(c)(1)</partNumber>
+  <partNumber>Title 45 Section 822(d)</partNumber>
+  <partNumber>Title 45 Section 822(h)(2)</partNumber>
+  <partNumber>Title 45 Section 822(h)(3)</partNumber>
+  <partNumber>Title 45 Section 822(i)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">45 U.S.C. 801et seq.</identifier>
+ <identifier type="USC citation">45 U.S.C. 822</identifier>
+ <identifier type="USC citation">45 U.S.C. 822(c)(1)</identifier>
+ <identifier type="USC citation">45 U.S.C. 822(d)</identifier>
+ <identifier type="USC citation">45 U.S.C. 822(h)(2)</identifier>
+ <identifier type="USC citation">45 U.S.C. 822(h)(3)</identifier>
+ <identifier type="USC citation">45 U.S.C. 822(i)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Section 20157(i)</partNumber>
+  <partNumber>Title 49 Section 24101note</partNumber>
+  <partNumber>Title 49 Section 24102</partNumber>
+  <partNumber>Title 49 Section 24102(3)</partNumber>
+  <partNumber>Title 49 Section 24102(5)</partNumber>
+  <partNumber>Title 49 Section 24104</partNumber>
+  <partNumber>Title 49 Section 24319(a)(1)</partNumber>
+  <partNumber>Title 49 Section 24319(a)(2)</partNumber>
+  <partNumber>Title 49 Section 24402</partNumber>
+  <partNumber>Title 49 Section 24405</partNumber>
+  <partNumber>Title 49 Section 24405(a)</partNumber>
+  <partNumber>Title 49 Section 24407</partNumber>
+  <partNumber>Title 49 Section 24702note</partNumber>
+  <partNumber>Title 49 Section 24711</partNumber>
+  <partNumber>Title 49 Section 24906</partNumber>
+  <partNumber>Title 49 Section 24906(a)</partNumber>
+  <partNumber>Title 49 Section 303</partNumber>
+  <partNumber>Title 49 Section 4312note</partNumber>
+  <partNumber>Title 49 Chapter 243</partNumber>
+  <partNumber>Title 49 Chapter 244</partNumber>
+  <partNumber>Title 49 Chapter 247</partNumber>
+  <partNumber>Title 49 Chapter 249</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. 20157(i)</identifier>
+ <identifier type="USC citation">49 U.S.C. 24101note</identifier>
+ <identifier type="USC citation">49 U.S.C. 24102</identifier>
+ <identifier type="USC citation">49 U.S.C. 24102(3)</identifier>
+ <identifier type="USC citation">49 U.S.C. 24102(5)</identifier>
+ <identifier type="USC citation">49 U.S.C. 24104</identifier>
+ <identifier type="USC citation">49 U.S.C. 24319(a)(1)</identifier>
+ <identifier type="USC citation">49 U.S.C. 24319(a)(2)</identifier>
+ <identifier type="USC citation">49 U.S.C. 24402</identifier>
+ <identifier type="USC citation">49 U.S.C. 24405</identifier>
+ <identifier type="USC citation">49 U.S.C. 24405(a)</identifier>
+ <identifier type="USC citation">49 U.S.C. 24407</identifier>
+ <identifier type="USC citation">49 U.S.C. 24702note</identifier>
+ <identifier type="USC citation">49 U.S.C. 24711</identifier>
+ <identifier type="USC citation">49 U.S.C. 24906</identifier>
+ <identifier type="USC citation">49 U.S.C. 24906(a)</identifier>
+ <identifier type="USC citation">49 U.S.C. 303</identifier>
+ <identifier type="USC citation">49 U.S.C. 4312note</identifier>
+ <identifier type="USC citation">49 U.S.C. Chapter 243</identifier>
+ <identifier type="USC citation">49 U.S.C. Chapter 244</identifier>
+ <identifier type="USC citation">49 U.S.C. Chapter 247</identifier>
+ <identifier type="USC citation">49 U.S.C. Chapter 249</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-432</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-432</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr5449ih</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5449</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <action date="2014-09-11">Mr. Shuster (for himself, Mr. Rahall, Mr. Denham, and Ms. Brown of Florida) introduced the following bill; which was referred to the Committee on Transportation and Infrastructure</action>
+ <congCommittee authorityId="hspw00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Transportation and Infrastructure</name>
+                      <name type="authority-short">Transportation</name>
+                </congCommittee>
+ <congMember authorityId="1681" bioGuideId="S001154" chamber="H" congress="113" gpoId="8127" party="R" role="SPONSOR" state="PA">
+                      <name type="parsed">Mr. Shuster</name>
+                      <name type="authority-fnf">Bill Shuster</name>
+                      <name type="authority-lnf">Shuster, Bill</name>
+                </congMember>
+ <congMember authorityId="940" bioGuideId="R000011" chamber="H" congress="113" gpoId="8224" party="D" role="COSPONSOR" state="WV">
+                      <name type="parsed">Mr. Rahall</name>
+                      <name type="authority-fnf">Nick J. Rahall II</name>
+                      <name type="authority-lnf">Rahall, Nick J., II</name>
+                      <name type="authority-other">Nick Rahall II</name>
+                </congMember>
+ <congMember authorityId="1995" bioGuideId="D000612" chamber="H" congress="113" gpoId="7824" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Denham</name>
+                      <name type="authority-fnf">Jeff Denham</name>
+                      <name type="authority-lnf">Denham, Jeff</name>
+                </congMember>
+ <congMember authorityId="132" bioGuideId="B000911" chamber="H" congress="113" gpoId="7875" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Ms. Brown of Florida</name>
+                      <name type="authority-fnf">Corrine Brown</name>
+                      <name type="authority-lnf">Brown, Corrine</name>
+                </congMember>
+ <law congress="110" isPrivate="false" number="432"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="15">
+                      <section number="632"></section>
+                      <section detail="(d)" number="637"></section>
+                      <section detail="(a)" number="78c"></section>
+                </USCode>
+ <USCode title="16">
+                      <section number="470f"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="note" number="24101"></section>
+                </USCode>
+ <USCode title="45">
+                      <section detail="et seq." number="801"></section>
+                      <section number="822"></section>
+                      <section detail="(c)(1)" number="822"></section>
+                      <section detail="(d)" number="822"></section>
+                      <section detail="(h)(2)" number="822"></section>
+                      <section detail="(h)(3)" number="822"></section>
+                      <section detail="(i)" number="822"></section>
+                </USCode>
+ <USCode title="49">
+                      <section detail="(i)" number="20157"></section>
+                      <section detail="note" number="24101"></section>
+                      <section number="24102"></section>
+                      <section detail="(3)" number="24102"></section>
+                      <section detail="(5)" number="24102"></section>
+                      <section number="24104"></section>
+                      <section detail="(a)(1)" number="24319"></section>
+                      <section detail="(a)(2)" number="24319"></section>
+                      <section number="24402"></section>
+                      <section number="24405"></section>
+                      <section detail="(a)" number="24405"></section>
+                      <section number="24407"></section>
+                      <section detail="note" number="24702"></section>
+                      <section number="24711"></section>
+                      <section number="24906"></section>
+                      <section detail="(a)" number="24906"></section>
+                      <section number="303"></section>
+                      <section detail="note" number="4312"></section>
+                      <chapter number="243"></chapter>
+                      <chapter number="244"></chapter>
+                      <chapter number="247"></chapter>
+                      <chapter number="249"></chapter>
+                </USCode>
+</extension>
+</mods>

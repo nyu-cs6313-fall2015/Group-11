@@ -1,0 +1,255 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-05", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Transportation Security Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-07-03T13:37:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-512.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-03T13:37:00-04:00", 
+      "calendar": "Union", 
+      "number": "384", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 384.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-07-22T16:20:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hudson moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6606-6609", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:20:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4802.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:29:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6607", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:29:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-23", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4802-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2014-06-10", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2014-06-09", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2014-06-25", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-06-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-07-22T16:29:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-05", 
+  "number": "4802", 
+  "official_title": "To improve intergovernmental planning for and communication during security incidents at domestic airports, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Gerardo Hernandez Airport Security Act of 2014", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Hudson, Richard", 
+    "state": "NC", 
+    "thomas_id": "02140", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-07-22T16:29:00-04:00", 
+  "subjects": [
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Emergency communications systems", 
+    "Emergency planning and evacuation", 
+    "First responders and emergency personnel", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Homeland security", 
+    "Law enforcement administration and funding", 
+    "Terrorism", 
+    "Transportation and public works", 
+    "Transportation employees", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-07-22", 
+    "text": "Gerardo Hernandez Airport Security Act of 2014 - (Sec. 3) Directs the Assistant Secretary of Homeland Security (Transportation Security) of the Department of Homeland Security (DHS) to: (1) conduct outreach to all U.S. airports at which the Transportation Security Administration (TSA) performs, or oversees the implementation and performance of, security measures; and (2) give necessary technical assistance to verify that such airports have in place individualized working plans for responding to security incidents inside the airport perimeter, including active shooters, acts of terrorism, and incidents that target passenger-screening checkpoints.\n\nRequires the Assistant Secretary to report to Congress on the outreach findings, including an analysis of the level of preparedness such airports have to respond to such incidents.\n\n (Sec. 4) Requires the Assistant Secretary to: (1) identify best practices that exist across airports for security incident planning, management, and training; and (2) establish a mechanism through which to share those best practices with other airport operators nationwide.\n\n(Sec. 5) Requires the Assistant Secretary also to: (1) certify annually to specified congressional committees that all screening personnel have participated in practical training exercises for active shooter scenarios, and (2) analyze for those same committees how TSA can use cost savings achieved through efficiencies to increase over the next five fiscal years the funding available for checkpoint screening law enforcement support reimbursable agreements.\n\n(Sec. 7) Declares that no additional appropriations are authorized to carry out this Act. Requires this Act to be carried out using amounts otherwise available.\n\n(Sec. 8) Requires the Assistant Secretary to review the interoperable communications capabilities of law enforcement, fire, and medical personnel responsible for responding to security incidents at all U.S. airports at which the TSA performs, or oversees the implementation and performance of, security measures."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Airport Security Enhancement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Gerardo Hernandez Airport Security Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Gerardo Hernandez Airport Security Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve intergovernmental planning for and communication during security incidents at domestic airports, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4802:@@@L&summ2=m&"
+}

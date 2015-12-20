@@ -1,0 +1,146 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-10-29", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Introduction and Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-18", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-11-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-21", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 24.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-02-06T13:36:00-05:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 113-347.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-06T13:36:00-05:00", 
+      "calendar": "Union", 
+      "number": "257", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 257.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3519-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-11-21", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-11-18", 
+  "number": "3519", 
+  "official_title": "To amend the Consumer Financial Protection Act of 2010 to make the Bureau of Consumer Financial Protection an independent agency.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3192-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Bureau of Consumer Financial Protection Accountability and Transparency Act of 2013", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Neugebauer, Randy", 
+    "state": "TX", 
+    "thomas_id": "01758", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2013-11-21", 
+  "subjects": [
+    "Appropriations", 
+    "Consumer Financial Protection Bureau", 
+    "Consumer affairs", 
+    "Executive agency funding and structure", 
+    "Federal Reserve System", 
+    "Finance and financial sector", 
+    "Financial services and investments"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2014-02-06", 
+    "text": "Bureau of Consumer Financial Protection Accountability Act and Transparency Act of 2013 - (Sec. 2) Amends the Consumer Financial Protection Act of 2010 to: (1) rename the Consumer Financial Protection Bureau (CFPB) the Financial Product Safety Commission (FPSC) , (2) remove it from the Federal Reserve System, and (3) repeal the authority of the FPSC Director to establish regional offices in cities in which either Federal Reserve Banks or their branches are located.\n\nRepeals the requirement that not fewer than six members of the Consumer Advisory Board be appointed to it by the FPSC Director on a rotating basis upon the recommendation of the regional Federal Reserve Bank Presidents. (Sec. 3) Repeals the mandatory annual transfer of funds to the CFPB from the Board of Governors of the Federal Reserve System. Subjects the FPSC to the regular authorization, budget, and appropriations process of the Department of the Treasury. Eliminates the Consumer Financial Protection Fund. Authorizes appropriations for each of FY2014 and FY2015. (Sec. 4) Deems any reference in any record of the United States to the CFPB to be a reference to the FPSC."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bureau of Consumer Financial Protection Accountability and Transparency Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Bureau of Consumer Financial Protection Accountability and Transparency Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Consumer Financial Protection Act of 2010 to make the Bureau of Consumer Financial Protection an independent agency.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3519:@@@L&summ2=m&"
+}

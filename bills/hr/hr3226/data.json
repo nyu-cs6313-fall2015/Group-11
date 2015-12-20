@@ -1,0 +1,148 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-10-01", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-10-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:32:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-636.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:32:00-05:00", 
+      "calendar": "Union", 
+      "number": "476", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 476.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3226-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs", 
+      "subcommittee_id": "22"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-04-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-10-01", 
+  "number": "3226", 
+  "official_title": "To remove from the John H. Chafee Coastal Barrier Resources System certain properties in South Carolina.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3227-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Rice, Tom", 
+    "state": "SC", 
+    "thomas_id": "02160", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Marine and coastal resources, fisheries", 
+    "Public lands and natural resources", 
+    "South Carolina"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2014-12-01", 
+    "text": "Revises the boundaries of the Long Pond Unit SC-01 in the John H. Chafee Coastal Barrier Resources System in South Carolina."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To remove from the John H. Chafee Coastal Barrier Resources System certain properties in South Carolina.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:02-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3226:@@@L&summ2=m&"
+}

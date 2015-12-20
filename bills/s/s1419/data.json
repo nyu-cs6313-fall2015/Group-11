@@ -1,0 +1,203 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-08-01", 
+      "references": [
+        {
+          "reference": "CR S6211-6213", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-08-01", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6213-6214", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-27", 
+      "committee": "Committee on Energy and Natural Resources Senate Subcommittee on Water and Power", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 113-284.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-10", 
+      "committee": "Energy and Natural Resources", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-294.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-12-10", 
+      "calendar": "Senate Legislative", 
+      "number": "634", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 634.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1419-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "King, Angus S. Jr.", 
+      "sponsored_at": "2013-09-30", 
+      "state": "ME", 
+      "thomas_id": "02185", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2013-11-13", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murkowski, Lisa", 
+      "sponsored_at": "2013-08-01", 
+      "state": "AK", 
+      "thomas_id": "01694", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "sponsored_at": "2013-12-11", 
+      "state": "HI", 
+      "thomas_id": "02173", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-02-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-08-01", 
+  "number": "1419", 
+  "official_title": "A bill to promote research, development, and demonstration of marine and hydrokinetic renewable energy technologies, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Marine and Hydrokinetic Renewable Energy Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Wyden, Ron", 
+    "state": "OR", 
+    "thomas_id": "01247", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-11-13", 
+  "subjects": [
+    "Alternative and renewable resources", 
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Energy research", 
+    "Energy storage, supplies, demand", 
+    "Environmental assessment, monitoring, research", 
+    "International organizations and cooperation", 
+    "Lakes and rivers", 
+    "Licensing and registrations", 
+    "Marine and coastal resources, fisheries", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Technology assessment", 
+    "Technology transfer and commercialization"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-08-01", 
+    "text": "Marine and Hydrokinetic Renewable Energy Act of 2013 - Amends the Energy Independence and Security Act of 2007 to redefine \"marine and hydrokinetic renewable energy\" as energy (currently electrical energy) from: (1) waves, tides, and currents in oceans, estuaries, and tidal areas; (2) free flowing water in rivers, lakes, and streams; (3) free flowing water in man-made channels; and (4) differentials in ocean temperature (ocean thermal energy conversion).\n\nRequires the Secretary of Energy (DOE), in addition to current consulting requirements, to consult with the Federal Energy Regulatory Commission (FERC) in carrying out the program of research, development, demonstration, and commercial application to expand marine and hydrokinetic renewable energy production.\n\nExpands such program, including by: (1) adding as a purpose the support of in-water testing and demonstration of marine and hydrokinetic renewable energy technologies; (2) incorporating technology development assistance to improve the components, processes, and systems used for power generation from such resources; (3) establishing critical testing infrastructure; (4) increasing the reliability and survivability of such technologies; and (5) supporting in-water technology development with international partners.\n\nExtends the authorization of funding for such program through FY2017.\n\nAmends the Federal Power Act to authorize FERC to issue a pilot license: (1) to construct, operate, and maintain a hydrokinetic pilot project that meets the criteria listed in this Act; and (2) for such a project located in the ocean if the project covers a surface area of not more than one square nautical mile. Authorizes FERC to grant a pilot license for a project that covers a larger surface area for good cause."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Marine and Hydrokinetic Renewable Energy Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Marine and Hydrokinetic Renewable Energy Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to promote research, development, and demonstration of marine and hydrokinetic renewable energy technologies, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1419:@@@L&summ2=m&"
+}

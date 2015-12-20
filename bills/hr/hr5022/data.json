@@ -1,0 +1,130 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-08", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5022-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2014-12-10", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2014-12-10", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-08", 
+  "number": "5022", 
+  "official_title": "To amend title 38, United States Code, to improve dental health care for veterans, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1586-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Enhanced Dental Care for Veterans Act of 2014", 
+  "sponsor": {
+    "district": "51", 
+    "name": "Vargas, Juan", 
+    "state": "CA", 
+    "thomas_id": "02112", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-08", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Dental care", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Health care quality", 
+    "Health information and medical records", 
+    "Health promotion and preventive care", 
+    "Home and outpatient care", 
+    "Indian social and development programs", 
+    "Minority health", 
+    "Rural conditions and development", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-08", 
+    "text": "Enhanced Dental Care for Veterans Act of 2014 - Authorizes the Secretary of Veterans Affairs (VA) to furnish additional dental services and treatment, and dental appliances, needed to restore functioning in a veteran that is lost due to VA services or treatment furnished to such veteran.\n\nDirects the Secretary to: (1) carry out a three-year pilot program for furnishing dental care to veterans not otherwise eligible for dental services and treatment under current VA programs, (2) carry out a program of education to promote dental health for veterans, and (3) enable private sector dental care providers to submit information on dental care provided to veterans under the pilot program for inclusion in VA electronic medical records."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Enhanced Dental Care for Veterans Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to improve dental health care for veterans, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:49-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5022:@@@L&summ2=m&"
+}

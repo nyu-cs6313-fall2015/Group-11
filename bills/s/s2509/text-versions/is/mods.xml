@@ -1,0 +1,202 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1896db328">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To ensure compliance with the 1980 Hague Convention on the Civil Aspects of International Child Abduction, to establish procedures for the prompt return of children abducted to other countries, and for other purposes.;
+   		S. 2509 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-06-30</dateIngested>
+</extension>
+<titleInfo>
+ <title>To ensure compliance with the 1980 Hague Convention on the Civil Aspects of International Child Abduction, to establish procedures for the prompt return of children abducted to other countries, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2509 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-06-19</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>44 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee1896db328</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s2509is</identifier>
+<identifier type="preferred citation">S. 2509</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2509_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s2509is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2509is/html/BILLS-113s2509is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2509is/pdf/BILLS-113s2509is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2509is/xml/BILLS-113s2509is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-06-30</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s2509is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Robert Menendez</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bob Corker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Edward J. Markey</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Foreign Relations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 101note</partNumber>
+  <partNumber>Title 6 Section 231et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 101note</identifier>
+ <identifier type="USC citation">6 U.S.C. 231et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 1204(b)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 1204(b)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 2151n</partNumber>
+  <partNumber>Title 22 Section 2304</partNumber>
+  <partNumber>Title 22 Section 2346et seq.</partNumber>
+  <partNumber>Title 22 Section 2414(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 2151n</identifier>
+ <identifier type="USC citation">22 U.S.C. 2304</identifier>
+ <identifier type="USC citation">22 U.S.C. 2346et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 2414(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 11611</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 11611</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s2509is</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2509</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <action date="2014-06-19">Mr. Menendez (for himself, Mr. Corker, and Mr. Markey) introduced the following bill; which was read twice and referred to the Committee on Foreign Relations</action>
+ <congCommittee authorityId="ssfr00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Foreign Relations</name>
+                      <name type="authority-short">Foreign Relations</name>
+                </congCommittee>
+ <congMember authorityId="791" bioGuideId="M000639" chamber="S" congress="113" gpoId="8239" party="D" role="SPONSOR" state="NJ">
+                      <name type="parsed">Mr. Menendez</name>
+                      <name type="authority-fnf">Robert Menendez</name>
+                      <name type="authority-lnf">Menendez, Robert</name>
+                </congMember>
+ <congMember authorityId="1825" bioGuideId="C001071" chamber="S" congress="113" gpoId="8294" party="R" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. Corker</name>
+                      <name type="authority-fnf">Bob Corker</name>
+                      <name type="authority-lnf">Corker, Bob</name>
+                </congMember>
+ <congMember authorityId="735" bioGuideId="M000133" chamber="S" congress="113" gpoId="7972" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Markey</name>
+                      <name type="authority-fnf">Edward J. Markey</name>
+                      <name type="authority-lnf">Markey, Edward J.</name>
+                      <name type="authority-other">Edward Markey</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="6">
+                      <section detail="note" number="101"></section>
+                      <section detail="et seq." number="231"></section>
+                </USCode>
+ <USCode title="18">
+                      <section detail="(b)(1)" number="1204"></section>
+                </USCode>
+ <USCode title="22">
+                      <section number="2151n"></section>
+                      <section number="2304"></section>
+                      <section detail="et seq." number="2346"></section>
+                      <section detail="(c)" number="2414"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="11611"></section>
+                </USCode>
+</extension>
+</mods>

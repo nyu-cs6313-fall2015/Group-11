@@ -1,0 +1,358 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee184f4e363">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To eliminate racial profiling by law enforcement, and for other purposes.;
+   		S. 1038 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-05-31</dateIngested>
+</extension>
+<titleInfo>
+ <title>To eliminate racial profiling by law enforcement, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1038 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-05-23</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>21 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee184f4e363</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1038is</identifier>
+<identifier type="preferred citation">S. 1038</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1038_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1038is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1038is/html/BILLS-113s1038is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1038is/pdf/BILLS-113s1038is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1038is/xml/BILLS-113s1038is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-05-31</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1038is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Benjamin L. Cardin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Durbin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Blumenthal</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Christopher A. Coons</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom Harkin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert Menendez</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Debbie Stabenow</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Carl Levin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara A. Mikulski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Elizabeth Warren</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Boxer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kirsten E. Gillibrand</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Frank R. Lautenberg</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mazie K. Hirono</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 552</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 552</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1001</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1001</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 479a</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 479a</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 14141</partNumber>
+  <partNumber>Title 42 Section 1983</partNumber>
+  <partNumber>Title 42 Section 2000d</partNumber>
+  <partNumber>Title 42 Section 3701et seq.</partNumber>
+  <partNumber>Title 42 Section 3750et seq.</partNumber>
+  <partNumber>Title 42 Section 3796ddet seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 14141</identifier>
+ <identifier type="USC citation">42 U.S.C. 1983</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000d</identifier>
+ <identifier type="USC citation">42 U.S.C. 3701et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 3750et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 3796ddet seq.</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1038is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1038</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <action date="2013-05-23">Mr. Cardin (for himself, Mr. Durbin, Mr. Blumenthal, Mr. Coons, Mr. Harkin, Mr. Menendez, Ms. Stabenow, Mr. Levin, Ms. Mikulski, Ms. Warren, Mrs. Boxer, Mrs. Gillibrand, Mr. Lautenberg, and Ms. Hirono) introduced the following bill; which was read twice and referred to the Committee on the Judiciary</action>
+ <congCommittee authorityId="ssju00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember authorityId="174" bioGuideId="C000141" chamber="S" congress="113" gpoId="8287" party="D" role="SPONSOR" state="MD">
+                      <name type="parsed">Mr. Cardin</name>
+                      <name type="authority-fnf">Benjamin L. Cardin</name>
+                      <name type="authority-lnf">Cardin, Benjamin L.</name>
+                      <name type="authority-other">Benjamin Cardin</name>
+                </congMember>
+ <congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="113" gpoId="8326" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Durbin</name>
+                      <name type="authority-fnf">Richard Durbin</name>
+                      <name type="authority-lnf">Durbin, Richard</name>
+                      <name type="authority-other">Richard J. Durbin</name>
+                </congMember>
+ <congMember authorityId="2076" bioGuideId="B001277" chamber="S" congress="113" gpoId="8332" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Mr. Blumenthal</name>
+                      <name type="authority-fnf">Richard Blumenthal</name>
+                      <name type="authority-lnf">Blumenthal, Richard</name>
+                </congMember>
+ <congMember authorityId="1984" bioGuideId="C001088" chamber="S" congress="113" gpoId="8297" party="D" role="COSPONSOR" state="DE">
+                      <name type="parsed">Mr. Coons</name>
+                      <name type="authority-fnf">Christopher A. Coons</name>
+                      <name type="authority-lnf">Coons, Christopher A.</name>
+                      <name type="authority-other">Christopher Coons</name>
+                </congMember>
+ <congMember authorityId="501" bioGuideId="H000206" chamber="S" congress="113" gpoId="8317" party="D" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mr. Harkin</name>
+                      <name type="authority-fnf">Tom Harkin</name>
+                      <name type="authority-lnf">Harkin, Tom</name>
+                      <name type="authority-other">Thomas Richard Harkin</name>
+                </congMember>
+ <congMember authorityId="791" bioGuideId="M000639" chamber="S" congress="113" gpoId="8239" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Menendez</name>
+                      <name type="authority-fnf">Robert Menendez</name>
+                      <name type="authority-lnf">Menendez, Robert</name>
+                </congMember>
+ <congMember authorityId="1531" bioGuideId="S000770" chamber="S" congress="113" gpoId="8261" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Ms. Stabenow</name>
+                      <name type="authority-fnf">Debbie Stabenow</name>
+                      <name type="authority-lnf">Stabenow, Debbie</name>
+                      <name type="authority-other">Deborah Ann Stabenow</name>
+                </congMember>
+ <congMember authorityId="1384" bioGuideId="L000261" chamber="S" congress="113" gpoId="8243" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Levin</name>
+                      <name type="authority-fnf">Carl Levin</name>
+                      <name type="authority-lnf">Levin, Carl</name>
+                      <name type="authority-other">Carl Milton Levin</name>
+                </congMember>
+ <congMember authorityId="802" bioGuideId="M000702" chamber="S" congress="113" gpoId="8240" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Ms. Mikulski</name>
+                      <name type="authority-fnf">Barbara A. Mikulski</name>
+                      <name type="authority-lnf">Mikulski, Barbara A.</name>
+                      <name type="authority-other">Barbara Ann Mikulski</name>
+                </congMember>
+ <congMember authorityId="2182" bioGuideId="W000817" chamber="S" congress="113" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Ms. Warren</name>
+                      <name type="authority-fnf">Elizabeth Warren</name>
+                      <name type="authority-lnf">Warren, Elizabeth</name>
+                      <name type="authority-other">Elizabeth A. Warren</name>
+                </congMember>
+ <congMember authorityId="116" bioGuideId="B000711" chamber="S" congress="113" gpoId="8306" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Boxer</name>
+                      <name type="authority-fnf">Barbara Boxer</name>
+                      <name type="authority-lnf">Boxer, Barbara</name>
+                </congMember>
+ <congMember authorityId="1866" bioGuideId="G000555" chamber="S" congress="113" gpoId="8336" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mrs. Gillibrand</name>
+                      <name type="authority-fnf">Kirsten E. Gillibrand</name>
+                      <name type="authority-lnf">Gillibrand, Kirsten E.</name>
+                      <name type="authority-other">Mrs. Kirsten Gillibrand</name>
+                </congMember>
+ <congMember authorityId="1381" bioGuideId="L000123" chamber="S" congress="113" gpoId="8245" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Lautenberg</name>
+                      <name type="authority-fnf">Frank R. Lautenberg</name>
+                      <name type="authority-lnf">Lautenberg, Frank R.</name>
+                      <name type="authority-other">Frank Lautenberg</name>
+                </congMember>
+ <congMember authorityId="1844" bioGuideId="H001042" chamber="S" congress="113" gpoId="7913" party="D" role="COSPONSOR" state="HI">
+                      <name type="parsed">Ms. Hirono</name>
+                      <name type="authority-fnf">Mazie K. Hirono</name>
+                      <name type="authority-lnf">Hirono, Mazie K.</name>
+                      <name type="authority-other">Ms. Mazie Hirono</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="552"></section>
+                </USCode>
+ <USCode title="20">
+                      <section number="1001"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="479a"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="14141"></section>
+                      <section number="1983"></section>
+                      <section number="2000d"></section>
+                      <section detail="et seq." number="3701"></section>
+                      <section detail="et seq." number="3750"></section>
+                      <section detail="et seq." number="3796dd"></section>
+                </USCode>
+</extension>
+</mods>

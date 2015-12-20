@@ -1,0 +1,221 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-11", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-26T16:09:00-04:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-388.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-26T16:09:00-04:00", 
+      "calendar": "House", 
+      "number": "94", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 94.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-04-01T17:43:00-04:00", 
+      "references": [], 
+      "text": "Mr. Barletta moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-01T17:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2779-2781", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-01T17:43:00-04:00", 
+      "bill_ids": [
+        "hcres92-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 92.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-01T17:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2779-2780", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-07", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2201", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres92-113", 
+  "bill_type": "hconres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "sponsored_at": "2014-03-11", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-13", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-04-01T17:48:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-04-07", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-11", 
+  "number": "92", 
+  "official_title": "Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "11", 
+    "name": "Barletta, Lou", 
+    "state": "PA", 
+    "thomas_id": "02054", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2014-04-07", 
+  "subjects": [
+    "Congress", 
+    "Law enforcement officers", 
+    "Military personnel and dependents", 
+    "Museums, exhibitions, cultural centers", 
+    "U.S. Capitol", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2014-04-07", 
+    "text": "Permits the Grand Lodge of the Fraternal Order of Police and its auxiliary to sponsor a free public event on the Capitol grounds, namely:\n\n the National Honor Guard and Pipe Band Exhibition on May 14, 2014, to allow law enforcement representatives to exhibit their ability to demonstrate Honor Guard programs and provide for a bag pipe exhibition; and the 33rd Annual National Peace Officers' Memorial Service on May 15, 2014, to honor the law enforcement officers who died in the line of duty during 2013."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:13-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HC92:@@@L&summ2=m&"
+}

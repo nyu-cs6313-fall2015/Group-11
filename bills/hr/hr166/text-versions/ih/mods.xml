@@ -1,0 +1,176 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb0306">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To prevent the evasion of antidumping and countervailing duty orders, and for other purposes.;
+   		H.R. 166 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To prevent the evasion of antidumping and countervailing duty orders, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 166 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-04</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>22 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee183eb0306</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr166ih</identifier>
+<identifier type="preferred citation">H.R. 166</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h166_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr166ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr166ih/html/BILLS-113hr166ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr166ih/pdf/BILLS-113hr166ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr166ih/xml/BILLS-113hr166ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr166ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Charles W. Boustany Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cedric L. Richmond</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 19 Section 1675(a)(2)(B)</partNumber>
+  <partNumber>Title 19 Section 1677(1)</partNumber>
+  <partNumber>Title 19 Section 1677(2)</partNumber>
+  <partNumber>Title 19 Section 1677f(b)(1)(A)(ii)</partNumber>
+  <partNumber>Title 19 Section 2071note</partNumber>
+  <partNumber>Title 19 Section 2072(d)</partNumber>
+  <partNumber>Title 19 Section 3438</partNumber>
+</titleInfo>
+ <identifier type="USC citation">19 U.S.C. 1675(a)(2)(B)</identifier>
+ <identifier type="USC citation">19 U.S.C. 1677(1)</identifier>
+ <identifier type="USC citation">19 U.S.C. 1677(2)</identifier>
+ <identifier type="USC citation">19 U.S.C. 1677f(b)(1)(A)(ii)</identifier>
+ <identifier type="USC citation">19 U.S.C. 2071note</identifier>
+ <identifier type="USC citation">19 U.S.C. 2072(d)</identifier>
+ <identifier type="USC citation">19 U.S.C. 3438</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 44 Page 1381</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">44 Stat.	1381</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr166ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>166</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <action date="2013-01-04">Mr. Boustany (for himself and Mr. Richmond) introduced the following bill; which was referred to the Committee on Ways and Means</action>
+ <congCommittee authorityId="hswm00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="1787" bioGuideId="B001255" chamber="H" congress="113" gpoId="7965" party="R" role="SPONSOR" state="LA">
+                      <name type="parsed">Mr. Boustany</name>
+                      <name type="authority-fnf">Charles W. Boustany Jr.</name>
+                      <name type="authority-lnf">Boustany, Charles W., Jr.</name>
+                      <name type="authority-other">Mr. Charles Boustany Jr.</name>
+                </congMember>
+ <congMember authorityId="2023" bioGuideId="R000588" chamber="H" congress="113" gpoId="7960" party="D" role="COSPONSOR" state="LA">
+                      <name type="parsed">Mr. Richmond</name>
+                      <name type="authority-fnf">Cedric L. Richmond</name>
+                      <name type="authority-lnf">Richmond, Cedric L.</name>
+                      <name type="authority-other">Cedric Richmond</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="19">
+                      <section detail="(a)(2)(B)" number="1675"></section>
+                      <section detail="(1)" number="1677"></section>
+                      <section detail="(2)" number="1677"></section>
+                      <section detail="(b)(1)(A)(ii)" number="1677f"></section>
+                      <section detail="note" number="2071"></section>
+                      <section detail="(d)" number="2072"></section>
+                      <section number="3438"></section>
+                </USCode>
+ <statuteAtLarge volume="44">
+                      <pages pages="1381"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

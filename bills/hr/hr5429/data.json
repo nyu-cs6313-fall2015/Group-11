@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-09", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Communications and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5429-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Communications and Technology", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-09", 
+  "number": "5429", 
+  "official_title": "To amend the Telecommunications Act of 1996 to restore the authority of the Federal Communications Commission to adopt certain rules relating to preserving the open Internet and to direct the Commission to take all actions necessary to restore to effect vacated portions of such rules.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3982-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1981-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Open Internet Act of 2014", 
+  "sponsor": {
+    "district": "52", 
+    "name": "Peters, Scott H.", 
+    "state": "CA", 
+    "thomas_id": "02113", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-09", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Federal Communications Commission (FCC)", 
+    "Internet and video services", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-09", 
+    "text": "Open Internet Act of 2014 - Amends the Telecommunications Act of 1996 to authorize the Federal Communications Commission (FCC) to adopt the rules adopted on December 21, 2010, in the Report and Order in the matter of preserving the open Internet and broadband industry practices. Requires the FCC to restore portions of such rules that were vacated by the U.S. Court of Appeals for the D.C. Circuit in Verizon v. Federal Communications Commission (decided on January 14, 2014)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Open Internet Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Telecommunications Act of 1996 to restore the authority of the Federal Communications Commission to adopt certain rules relating to preserving the open Internet and to direct the Commission to take all actions necessary to restore to effect vacated portions of such rules.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:00-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5429:@@@L&summ2=m&"
+}

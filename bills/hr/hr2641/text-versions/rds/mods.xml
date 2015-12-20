@@ -1,0 +1,140 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18a7e4d86">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To provide for improved coordination of agency actions in the preparation and adoption of environmental documents for permitting determinations, and for other purposes.;
+   		Responsibly And Professionally Invigorating Development Act of 2014;Responsibly And Professionally Invigorating Development Act of 2014;H.R. 2641 (RDS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-12-18</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To provide for improved coordination of agency actions in the preparation and adoption of environmental documents for permitting determinations, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Responsibly And Professionally Invigorating Development Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>RAPID Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2641 (RDS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-03-10</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>33 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18a7e4d86</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2641rds</identifier>
+<identifier type="preferred citation">H.R. 2641</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2641_rds.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2641rds/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2641rds/html/BILLS-113hr2641rds.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2641rds/pdf/BILLS-113hr2641rds.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2641rds/xml/BILLS-113hr2641rds.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-12-18</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-12-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr2641rds</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 560(d)(2)(A)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 560(d)(2)(A)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 4321et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 4321et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-141</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-141</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr2641rds</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2641</billNumber>
+ <billVersion reprint="false">rds</billVersion>
+ <fileSuffix>rds</fileSuffix>
+ <shortTitle>Responsibly And Professionally Invigorating Development Act of 2014</shortTitle>
+ <shortTitle>RAPID Act</shortTitle>
+ <action date="2014-03-10">Received</action>
+ <law congress="112" isPrivate="false" number="141"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(d)(2)(A)" number="560"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="4321"></section>
+                </USCode>
+</extension>
+</mods>

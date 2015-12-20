@@ -1,0 +1,154 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-01-15", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-01-31", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-16", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:30:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-634.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-01T16:30:00-05:00", 
+      "calendar": "Union", 
+      "number": "474", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 474.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr277-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs", 
+      "subcommittee_id": "22"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-04-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-01-15", 
+  "number": "277", 
+  "official_title": "To revise the boundaries of John H. Chafee Coastal Barrier Resources System Sachuest Point Unit RI-04P, Easton Beach Unit RI-05P, Almy Pond Unit RI-06, and Hazards Beach Unit RI-07 in Rhode Island.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4222-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2926-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Cicilline, David N.", 
+    "state": "RI", 
+    "thomas_id": "02055", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-07-16", 
+  "subjects": [
+    "Marine and coastal resources, fisheries", 
+    "Public lands and natural resources", 
+    "Rhode Island"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2014-12-01", 
+    "text": "Revises the boundaries of the Sachuest Point Unit RI-04P, Easton Beach Unit RI-05P, Almy Pond Unit RI-06, Hazards Beach Unit RI-07 in the John H. Chafee Coastal Barrier Resources System in Rhode Island."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To revise the boundaries of John H. Chafee Coastal Barrier Resources System Sachuest Point Unit RI-04P, Easton Beach Unit RI-05P, Almy Pond Unit RI-06, and Hazards Beach Unit RI-07 in Rhode Island.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:18:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR277:@@@L&summ2=m&"
+}

@@ -1,0 +1,128 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-14", 
+      "references": [
+        {
+          "reference": "CR E1580", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-14", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5713-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs", 
+      "subcommittee_id": "22"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Benishek, Dan", 
+      "sponsored_at": "2014-11-14", 
+      "state": "MI", 
+      "thomas_id": "02027", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-14", 
+  "number": "5713", 
+  "official_title": "To require the Under Secretary of Commerce for Oceans and Atmosphere to conduct an assessment of cultural and historic resources in the waters of the Great Lakes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2556-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Great Lakes Maritime Heritage Assessment Act of 2014", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Kaptur, Marcy", 
+    "state": "OH", 
+    "thomas_id": "00616", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-14", 
+  "subjects": [
+    "Archaeology and anthropology", 
+    "Congressional oversight", 
+    "Economic development", 
+    "Government studies and investigations", 
+    "Great Lakes", 
+    "Historic sites and heritage areas", 
+    "Historical and cultural resources", 
+    "Transportation and public works", 
+    "Travel and tourism"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-11-14", 
+    "text": "Great Lakes Maritime Heritage Assessment Act of 2014 - Requires the Under Secretary of Commerce for Oceans and Atmosphere to assess and report on the cultural and historic resources in the waters of the Great Lakes. Directs the Under Secretary to make recommendations in the report on whether: (1) underwater geographic areas in the Great Lakes should be designated as national marine sanctuaries to protect resources of historical and archeological significance; and (2) the designation of a network of underwater Great Lakes areas that protect those resources could bring significant educational opportunities, economic development, jobs, and tourism to the Great Lakes region."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Great Lakes Maritime Heritage Assessment Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Under Secretary of Commerce for Oceans and Atmosphere to conduct an assessment of cultural and historic resources in the waters of the Great Lakes, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:05-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5713:@@@L&summ2=m&"
+}

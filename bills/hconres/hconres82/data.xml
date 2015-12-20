@@ -1,0 +1,46 @@
+<bill session="113" type="hc" number="82" updated="2015-09-01T10:21:13-04:00">
+  <state datetime="2014-02-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2014-02-12"/>
+  </status>
+  <introduced datetime="2014-02-11"/>
+  <titles>
+    <title type="official" as="introduced">Providing a correction in the enrollment of S. 540.</title>
+  </titles>
+  <sponsor id="412280"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-02-11T17:42:00-05:00">
+      <text>Mr. Harper asked unanimous consent to consider as introduced.</text>
+    </action>
+    <action datetime="2014-02-11T17:42:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H1759" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote" datetime="2014-02-11T17:42:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H1759" label="text"/>
+    </vote>
+    <action datetime="2014-02-11T17:42:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-02-12" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S963" label="consideration"/>
+    </vote>
+    <action datetime="2014-02-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="540"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Budget deficits and national debt"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2014--Passed Senate without amendment.
+Directs the Secretary of the Senate to correct the enrollment of S. 540 by amending the title.</summary>
+</bill>

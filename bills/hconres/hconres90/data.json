@@ -1,0 +1,187 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-06", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-07T19:08:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Miller (MI) asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-07T19:08:00-04:00", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Committee on House Administration discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-07T19:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2986", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-07T19:08:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H2986", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-04-07T19:08:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2287", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-04-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres90-113", 
+  "bill_type": "hconres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2014-03-06", 
+      "state": "NY", 
+      "thomas_id": "02041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2014-03-06", 
+      "state": "NY", 
+      "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "2014-03-06", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-04-07T19:08:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-04-07T19:08:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-04-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-06", 
+  "number": "90", 
+  "official_title": "Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres14-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Meehan, Patrick", 
+    "state": "PA", 
+    "thomas_id": "02052", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2014-04-08", 
+  "subjects": [
+    "Commemorative events and holidays", 
+    "Congress", 
+    "Crime victims", 
+    "Religion", 
+    "U.S. Capitol", 
+    "War crimes, genocide, crimes against humanity"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2014-04-08", 
+    "text": "Authorizes the use of Emancipation Hall in the Capitol Visitor Center on April 30, 2014, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:13-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HC90:@@@L&summ2=m&"
+}

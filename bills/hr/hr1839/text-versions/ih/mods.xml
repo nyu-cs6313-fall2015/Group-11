@@ -1,0 +1,202 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee184a24cde">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To designate certain Federal land in the San Juan National Forest in the State of Colorado as wilderness, and for other purposes.;
+   		Hermosa Creek Watershed Protection Act of 2013;H.R. 1839 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-05-08</dateIngested>
+</extension>
+<titleInfo>
+ <title>To designate certain Federal land in the San Juan National Forest in the State of Colorado as wilderness, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Hermosa Creek Watershed Protection Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1839 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-05-06</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>19 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee184a24cde</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1839ih</identifier>
+<identifier type="preferred citation">H.R. 1839</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1839_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1839ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1839ih/html/BILLS-113hr1839ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1839ih/pdf/BILLS-113hr1839ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1839ih/xml/BILLS-113hr1839ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-05-08</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-05</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr1839ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Scott Tipton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1131et seq.</partNumber>
+  <partNumber>Title 16 Section 1132note</partNumber>
+  <partNumber>Title 16 Section 1133(d)(1)</partNumber>
+  <partNumber>Title 16 Section 1600et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1131et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1132note</identifier>
+ <identifier type="USC citation">16 U.S.C. 1133(d)(1)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1600et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1712</partNumber>
+  <partNumber>Title 43 Section 1782</partNumber>
+  <partNumber>Title 43 Section 1782(c)</partNumber>
+  <partNumber>Title 43 Section 869et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1712</identifier>
+ <identifier type="USC citation">43 U.S.C. 1782</identifier>
+ <identifier type="USC citation">43 U.S.C. 1782(c)</identifier>
+ <identifier type="USC citation">43 U.S.C. 869et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 107 Page 756</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">107 Stat.	756</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 114 Page 1955</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">114 Stat.	1955</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 116 Page 1055</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">116 Stat.	1055</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 103-77</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 103-77</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr1839ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1839</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Hermosa Creek Watershed Protection Act of 2013</shortTitle>
+ <action date="2013-05-06">Mr. Tipton introduced the following bill; which was referred to the Committee on Natural Resources</action>
+ <congCommittee authorityId="hsii00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="1997" bioGuideId="T000470" chamber="H" congress="113" gpoId="7861" party="R" role="SPONSOR" state="CO">
+                      <name type="parsed">Mr. Tipton</name>
+                      <name type="authority-fnf">Scott Tipton</name>
+                      <name type="authority-lnf">Tipton, Scott</name>
+                </congMember>
+ <law congress="103" isPrivate="false" number="77"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section detail="et seq." number="1131"></section>
+                      <section detail="note" number="1132"></section>
+                      <section detail="(d)(1)" number="1133"></section>
+                      <section detail="et seq." number="1600"></section>
+                </USCode>
+ <USCode title="43">
+                      <section number="1712"></section>
+                      <section number="1782"></section>
+                      <section detail="(c)" number="1782"></section>
+                      <section detail="et seq." number="869"></section>
+                </USCode>
+ <statuteAtLarge volume="107">
+                      <pages pages="756"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="114">
+                      <pages pages="1955"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="116">
+                      <pages pages="1055"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

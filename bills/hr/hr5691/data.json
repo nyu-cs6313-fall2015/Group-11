@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-12", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5691-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-12", 
+  "number": "5691", 
+  "official_title": "To release wilderness study areas administered by the Bureau of Land Management in Luna and Hidalgo Counties, New Mexico that are not suitable for wilderness designation from continued management as de facto wilderness areas.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Luna and Hidalgo Counties Wilderness Study Area Release Act of 2014", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Pearce, Stevan", 
+    "state": "NM", 
+    "thomas_id": "01738", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-12", 
+  "subjects": [
+    "Government studies and investigations", 
+    "Land use and conservation", 
+    "New Mexico", 
+    "Public lands and natural resources", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-11-12", 
+    "text": "Luna and Hidalgo Counties Wilderness Study Area Release Act of 2014 - Releases specified wilderness study areas in the Luna and Hidalgo Counties in New Mexico from further study for designation as wilderness."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Luna and Hidalgo Counties Wilderness Study Area Release Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To release wilderness study areas administered by the Bureau of Land Management in Luna and Hidalgo Counties, New Mexico that are not suitable for wilderness designation from continued management as de facto wilderness areas.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:04-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5691:@@@L&summ2=m&"
+}

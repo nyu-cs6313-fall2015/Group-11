@@ -1,0 +1,137 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-08-01", 
+      "references": [
+        {
+          "reference": "CR S6217-6218", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-08-01", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6218", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-09-10", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6335", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Finance discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-09-10", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on the Judiciary by unanimous consent.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1427-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Franken, Al", 
+      "sponsored_at": "2013-08-01", 
+      "state": "MN", 
+      "thomas_id": "01969", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-09-10", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-08-01", 
+  "number": "1427", 
+  "official_title": "A bill to amend title 11 of the United States Code to clarify the rule allowing discharge as a nonpriority claim of governmental claims arising from the disposition of farm assets under chapter 12 bankruptcies.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Family Farmer Bankruptcy Clarification Act of 2013", 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-08-01", 
+  "subjects": [
+    "Agricultural prices, subsidies, credit", 
+    "Bankruptcy", 
+    "Finance and financial sector"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-08-01", 
+    "text": "Family Farmer Bankruptcy Clarification Act of 2013 - Amends chapter 12 of federal bankruptcy law (Debt Adjustment of a Family Farmer or Fisherman with Regular Annual Income) with respect to discharge of governmental claims based upon the disposition of property used in a farming operation.\n\nTreats any unsecured claim of a governmental unit against the debtor or debtor's estate as an unsecured debt (hence, not entitled to priority payment), if it results from the sale, transfer, exchange, or other disposition of any property used in the debtor's farming operation and it arises either: (1) before the petition in bankruptcy is filed, or (2) after such filing but before the debtor's discharge.\n\nAuthorizes a governmental unit to file a proof for a claim that arises after the date on which the petition is filed.\n\nRequires such debt to be discharged in accordance with specified discharge procedures.\n\nStates that, for purposes of applying procedures governing plan confirmation, discharge, and modification after plan confirmation, the amount that would be paid on the claim if the estate were liquidated under chapter 7 shall be the amount that would be paid by the estate in a chapter 7 case if the claim were an unsecured claim arising before the date on which the petition was filed and not entitled to priority payment status."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Family Farmer Bankruptcy Clarification Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 11 of the United States Code to clarify the rule allowing discharge as a nonpriority claim of governmental claims arising from the disposition of farm assets under chapter 12 bankruptcies.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1427:@@@L&summ2=m&"
+}

@@ -1,0 +1,80 @@
+<bill session="113" type="h" number="4626" updated="2015-09-01T10:20:38-04:00">
+  <state datetime="2014-07-29T14:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-29T14:04:00-04:00"/>
+  </status>
+  <introduced datetime="2014-05-09"/>
+  <titles>
+    <title type="short" as="introduced">SAFE Act Confidentiality and Privilege Enhancement Act</title>
+    <title type="short" as="passed house">SAFE Act Confidentiality and Privilege Enhancement Act</title>
+    <title type="official" as="introduced">To ensure access to certain information for financial services industry regulators, and for other purposes.</title>
+  </titles>
+  <sponsor id="400061"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2014-06-17"/>
+    <cosponsor id="412541" joined="2014-06-26"/>
+    <cosponsor id="400063" joined="2014-07-22"/>
+    <cosponsor id="412544" joined="2014-07-28"/>
+    <cosponsor id="412215" joined="2014-06-26"/>
+    <cosponsor id="412479" joined="2014-07-09"/>
+    <cosponsor id="412257" joined="2014-07-09"/>
+    <cosponsor id="400653" joined="2014-06-17"/>
+    <cosponsor id="412584" joined="2014-07-25"/>
+    <cosponsor id="412437" joined="2014-06-05"/>
+    <cosponsor id="400247" joined="2014-07-22"/>
+    <cosponsor id="412292" joined="2014-07-22"/>
+    <cosponsor id="400251" joined="2014-06-26"/>
+    <cosponsor id="400644" joined="2014-07-28"/>
+    <cosponsor id="400271" joined="2014-07-25"/>
+    <cosponsor id="400661" joined="2014-06-05"/>
+    <cosponsor id="400441" joined="2014-07-22"/>
+    <cosponsor id="412192" joined="2014-07-09"/>
+    <cosponsor id="400363" joined="2014-07-09"/>
+    <cosponsor id="400367" joined="2014-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-09" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.</text>
+    </action>
+    <action datetime="2014-07-29T13:55:00-04:00">
+      <text>Mrs. Capito moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-07-29T13:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6997-6998" label="consideration"/>
+    </action>
+    <action datetime="2014-07-29T13:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4626.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-29T14:04:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6997" label="text"/>
+    </vote>
+    <action datetime="2014-07-29T14:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2014-07-30" calendar="Senate Legislative" under="General Orders" number="500">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 500.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee activity="Hearings" code="HSBA15" subcommittee="Financial Institutions and Consumer Credit" name="House Financial Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="947"/>
+    <bill relation="unknown" session="113" type="s" number="947"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Financial services and investments"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2014--Passed House without amendment.
+SAFE Act Confidentiality and Privilege Enhancement Act - Amends the S.A.F.E. Mortgage Licensing Act of 2008 to extend to state and federal regulatory officials having financial services oversight authority (currently only those having mortgage oversight authority) access to any information provided to the Nationwide Mortgage Licensing System and Registry (or any system established by the Director of the Consumer Financial Protection Bureau [CFPB]) without the loss of privilege or confidentiality protections provided by federal and state laws.</summary>
+</bill>

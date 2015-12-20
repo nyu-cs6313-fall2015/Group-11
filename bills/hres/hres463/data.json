@@ -1,0 +1,130 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-27", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres463-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Enyart, William L.", 
+      "sponsored_at": "2014-02-03", 
+      "state": "IL", 
+      "thomas_id": "02125", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Hahn, Janice", 
+      "sponsored_at": "2014-01-27", 
+      "state": "CA", 
+      "thomas_id": "02089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2014-01-27", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Veasey, Marc A.", 
+      "sponsored_at": "2014-02-05", 
+      "state": "TX", 
+      "thomas_id": "02166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-27", 
+  "number": "463", 
+  "official_title": "Supporting the goals and ideals of Black History Month and honoring the outstanding contributions of African-American Medal of Honor recipients.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Beatty, Joyce", 
+    "state": "OH", 
+    "thomas_id": "02153", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-01-27", 
+  "subjects": [
+    "Civil rights and liberties, minority issues", 
+    "Commemorative events and holidays", 
+    "Congressional tributes", 
+    "Military personnel and dependents", 
+    "Racial and ethnic relations", 
+    "U.S. history", 
+    "Veterans' organizations and recognition"
+  ], 
+  "subjects_top_term": "Civil rights and liberties, minority issues", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-27", 
+    "text": "Recognizes the significance of Black History Month for recognizing the contributions of African-Americans in the nation's history.\n\nHonors the contributions of African-American service members, including the 87 who have been awarded the Medal of Honor for military valor."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Supporting the goals and ideals of Black History Month and honoring the outstanding contributions of African-American Medal of Honor recipients.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:18:39-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE463:@@@L&summ2=m&"
+}

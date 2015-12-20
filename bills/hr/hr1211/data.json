@@ -1,0 +1,259 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-03-15", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-07-16T19:25:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-155.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-07-16T19:25:00-04:00", 
+      "calendar": "Union", 
+      "number": "112", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 112.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-02-25T15:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1887", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Issa moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-25T15:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1887-1891", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-25T15:03:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1211.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-25T15:17:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-25T18:30:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1921-1922", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-25T19:01:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1887-1890", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "63", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 63).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-02-26", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1211-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2013-03-15", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2013-04-15", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-03-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-02-25T19:01:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-03-15", 
+  "number": "1211", 
+  "official_title": "To amend section 552 of title 5, United States Code (commonly known as the Freedom of Information Act), to provide for greater public access to information, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2520-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "FOIA Act", 
+  "sponsor": {
+    "district": "49", 
+    "name": "Issa, Darrell E.", 
+    "state": "CA", 
+    "thomas_id": "01640", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-02-25T19:01:00-05:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Congressional oversight", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Freedom of information", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "National Archives and Records Administration", 
+    "Performance measurement"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-02-25", 
+    "text": "FOIA Oversight and Implementation Act of 2014 or the FOIA ACT - (Sec. 2) Amends the Freedom of Information Act (FOIA) to:\n\n require federal agencies to make disclosable public records available in an electronic, publicly accessible format; require the Office of Management and Budget (OMB) to ensure the existence and operation of a single, free website for submitting requests for records, receiving automated information about the status of a FOIA request, and filing appeals; prohibit an agency from withholding information under FOIA unless such agency reasonably foresees that disclosure would cause specific identifiable harm to an interest protected by an exemption under FOIA or if disclosure is prohibited by law (presumption of openess); expand the functions and reporting requirements of the Office of Government Information Services within the National Archives and Record Administration (NARA); require the Office of Government Information Services to offer mediation services to resolve disputes concerning the disclosure of information under FOIA; expand the rights of individuals making a FOIA request to appeal an adverse determination; require agencies to determine whether the release of agency records would contribute significantly to public understanding of the operations or activities of government; require agencies to document additional search or duplication fees; require agencies to submit annual FOIA reports to the Director of the Office of Government Information Services, in addition to the Attorney General; expand the duties of the Chief FOIA Officer of each agency to require an annual compliance review of FOIA requirements; establish the Chief FOIA Officers Council to develop recommendations for increasing compliance with FOIA requirements; and require each agency to update its FOIA regulations within 180 days of the enactment of this Act. Requires the Director of the Office of Information Policy of the Department of Justice (DOJ) to submit biennial reports to the House Committee on Oversight and Government Reform and the Senate Committees on Homeland Security and Governmental Affairs and the Judiciary identifying categories of records that would be appropriate for proactive disclosure under FOIA.\n\n(Sec. 3) Requires OMB to establish: (1) a three-year pilot program to review the benefits of a centralized portal to process requests and release information as required by FOIA, and (2) a plan to evaluate the functionality and benefits of such a portal to receive and track FOIA requests by selecting no fewer than three agencies that have not previously participated in such a portal.\n\nRequires the head of each federal agency participating in the pilot program to: (1) report to Congress on the impact of the program on agency processes under FOIA and on whether the agency will continue to participate in the centralized portal, and (2) make such report available in an electronic, publicly accessible format.\n\n(Sec. 4) Requires the Inspector General of each federal agency to: (1) periodically review compliance with FOIA disclosure requirements, including the timely processing of requests, the assessment of fees and fee waivers, and the use of disclosure exemptions; and (2) make recommendations to the head of an agency, including recommendations for disciplinary action. Makes the improper withholding of information under FOIA a basis for disciplinary action.\n\n(Sec. 5) Directs the Archivist of the Untied States to establish an Open Government Advisory Committee as an independent advisory committee to make recommendations for improving government transparency.\n\n(Sec. 6) Prohibits the authorization of additional funds to carry out the requirements of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FOIA Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FOIA Oversight and Implementation Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "FOIA Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "FOIA Oversight and Implementation Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "FOIA Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "FOIA Oversight and Implementation Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend section 552 of title 5, United States Code (commonly known as the Freedom of Information Act), to provide for greater public access to information, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:19:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR1211:@@@L&summ2=m&"
+}

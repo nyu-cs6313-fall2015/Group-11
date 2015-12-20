@@ -1,0 +1,53 @@
+<bill session="113" type="hc" number="100" updated="2015-09-01T10:21:14-04:00">
+  <state datetime="2014-06-10">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2014-06-10"/>
+  </status>
+  <introduced datetime="2014-05-22"/>
+  <titles>
+    <title type="official" as="introduced">Authorizing the use of the rotunda of the Capitol for a ceremony to commemorate the 50th anniversary of the enactment of the Civil Rights Act of 1964.</title>
+  </titles>
+  <sponsor id="412327"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-05-22" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2014-06-09T17:30:00-04:00">
+      <text>Mrs. Miller (MI) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2014-06-09T17:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5134-5136" label="consideration"/>
+    </action>
+    <action datetime="2014-06-09T17:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 100.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-06-09T17:50:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5134" label="text"/>
+    </vote>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-06-10" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3551" label="consideration"/>
+    </vote>
+    <action datetime="2014-06-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Human rights"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. Capitol"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2014--Passed Senate without amendment.
+Authorizes the use of the Capitol rotunda on June 24, 2014, for a ceremony to commemorate the 50th anniversary of the Civil Rights Act of 1964.</summary>
+</bill>

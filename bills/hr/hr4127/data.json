@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-28", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4127-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Bera, Ami", 
+      "sponsored_at": "2014-02-28", 
+      "state": "CA", 
+      "thomas_id": "02102", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "sponsored_at": "2014-02-28", 
+      "state": "CA", 
+      "thomas_id": "02107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Garamendi, John", 
+      "sponsored_at": "2014-02-28", 
+      "state": "CA", 
+      "thomas_id": "01973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "sponsored_at": "2014-02-28", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-28", 
+  "number": "4127", 
+  "official_title": "To authorize the construction of the Upper San Joaquin River Storage in California.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Upper San Joaquin River Storage Act of 2014", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Costa, Jim", 
+    "state": "CA", 
+    "thomas_id": "01774", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-02-28", 
+  "subjects": [
+    "California", 
+    "Water resources development", 
+    "Water resources funding", 
+    "Water storage"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-02-28", 
+    "text": "Upper San Joaquin River Storage Act of 2014 - Amends the Calfed Bay-Delta Authorization Act to authorize the Secretary of the Interior to carry out a project for Upper San Joaquin River storage in Fresno and Madera Counties, California, if the Secretary determines that such project is feasible."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Upper San Joaquin River Storage Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the construction of the Upper San Joaquin River Storage in California.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4127:@@@L&summ2=m&"
+}

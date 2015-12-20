@@ -1,0 +1,111 @@
+<bill session="113" type="s" number="2040" updated="2015-09-01T10:22:12-04:00">
+  <state datetime="2014-12-16">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-12-16"/>
+  </status>
+  <introduced datetime="2014-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Blackfoot River Land Exchange Act of 2014</title>
+    <title type="short" as="passed house">Blackfoot River Land Exchange Act of 2014</title>
+    <title type="short" as="reported to senate">Blackfoot River Land Exchange Act of 2014</title>
+    <title type="short" as="passed senate">Blackfoot River Land Exchange Act of 2014</title>
+    <title type="short" as="enacted">Blackfoot River Land Exchange Act of 2014</title>
+    <title type="official" as="introduced">A bill to exchange trust and fee land to resolve land disputes created by the realignment of the Blackfoot River along the boundary of the Fort Hall Indian Reservation, and for other purposes.</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="412322" joined="2014-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <action datetime="2014-05-07">
+      <text>Committee on Indian Affairs. Hearings held.</text>
+    </action>
+    <calendar datetime="2014-05-21" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-08-05">
+      <text>Committee on Indian Affairs. Reported by Senator Tester without amendment. With written report No. 113-242.</text>
+    </action>
+    <calendar datetime="2014-08-05" calendar="Senate Legislative" under="General Orders" number="530">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 530.</text>
+    </calendar>
+    <action datetime="2014-09-18">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S5872-5873" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-09-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-09-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-09-19T12:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-09-19T14:25:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2014-12-01T16:38:00-05:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-12-01T16:38:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8187-8188" label="consideration"/>
+    </action>
+    <action datetime="2014-12-01T16:38:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2040.</text>
+    </action>
+    <action datetime="2014-12-01T16:43:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-12-02T12:55:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8237-8238" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote2" roll="534" datetime="2014-12-02T13:25:00-05:00" where="h" result="pass" suspension="1" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 534).</text>
+      <reference ref="CR 12/1/2014 H8187-8188" label="text"/>
+    </vote>
+    <action datetime="2014-12-02T13:25:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2014-12-08">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-12-16" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-232" type="public" datetime="2014-12-16">
+      <text>Became Public Law No: 113-232.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="5049"/>
+    <bill relation="unknown" session="113" type="h" number="5049"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Floods and storm protection"/>
+    <term name="Idaho"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3932"/>
+  </amendments>
+  <summary>12/2/2014--Passed House without amendment.
+Blackfoot River Land Exchange Act of 2014 - (Sec. 4) Extinguishes all claims and all right, title, and interest in specified Indian and non-Indian land as part of the settlement of disputes within the Fort Hall Indian Reservation of the Shoshone-Bannock Indian Tribes in Idaho resulting from the realignment of the Blackfoot River by the Corps of Engineers in 1964.
+
+(Sec. 5) Requires the non-Indian land to be held in trust by the United States for the Tribes.
+
+(Sec. 6) Directs the Secretary of the Interior to transfer the Indian land to the Blackfoot River Flood Control District No. 7 for use or sale. Requires any proceeds from the sale of the land to be used to compensate: (1) each non-Indian landowner at fair market value for his or her loss of land resulting from this Act's implementation, and (2) the Blackfoot River Flood Control District No. 7 for any expenses it incurs in carrying out this Act.
+
+Authorizes the Blackfoot River Flood Control District No. 7 to dispose of the land or proceeds that remain in any manner it determines to be appropriate.</summary>
+</bill>

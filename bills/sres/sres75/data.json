@@ -1,0 +1,464 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-03-12", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [
+        {
+          "reference": "CR S1713-1714", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-12-18", 
+      "committees": [
+        "SSFR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Foreign Relations. Ordered to be reported with amendments favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-12-18", 
+      "committee": "Foreign Relations", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Relations. Reported by Senator Menendez with an amendment and with an amended preamble. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2013-12-18", 
+      "calendar": "Senate Legislative", 
+      "number": "269", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 269.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2013-12-20", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S9111-9114", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9111-9113", 
+          "type": "text of measure as reported in Senate"
+        }, 
+        {
+          "reference": "CR S9113-9114", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "text": "Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sres75-113", 
+  "bill_type": "sres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2013-06-11", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bennet, Michael F.", 
+      "sponsored_at": "2013-03-13", 
+      "state": "CO", 
+      "thomas_id": "01965", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2013-04-08", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boozman, John", 
+      "sponsored_at": "2013-04-18", 
+      "state": "AR", 
+      "thomas_id": "01687", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2013-12-17", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cantwell, Maria", 
+      "sponsored_at": "2013-05-20", 
+      "state": "WA", 
+      "thomas_id": "00172", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2013-04-08", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2013-03-18", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coburn, Tom", 
+      "sponsored_at": "2013-10-07", 
+      "state": "OK", 
+      "thomas_id": "00212", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cochran, Thad", 
+      "sponsored_at": "2013-12-17", 
+      "state": "MS", 
+      "thomas_id": "00213", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "sponsored_at": "2013-06-03", 
+      "state": "ME", 
+      "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2013-03-12", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "2013-05-20", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "sponsored_at": "2013-10-02", 
+      "state": "IA", 
+      "thomas_id": "00457", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heller, Dean", 
+      "sponsored_at": "2013-04-18", 
+      "state": "NV", 
+      "thomas_id": "01863", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2013-07-23", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Inhofe, James M.", 
+      "sponsored_at": "2013-07-18", 
+      "state": "OK", 
+      "thomas_id": "00583", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johanns, Mike", 
+      "sponsored_at": "2013-03-18", 
+      "state": "NE", 
+      "thomas_id": "01899", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kaine, Tim", 
+      "sponsored_at": "2013-05-21", 
+      "state": "VA", 
+      "thomas_id": "02176", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2013-06-03", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2013-04-08", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2013-06-03", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "2013-10-28", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Moran, Jerry", 
+      "sponsored_at": "2013-05-15", 
+      "state": "KS", 
+      "thomas_id": "01507", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murphy, Christopher S.", 
+      "sponsored_at": "2013-12-20", 
+      "state": "CT", 
+      "thomas_id": "01837", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pryor, Mark L.", 
+      "sponsored_at": "2013-11-07", 
+      "state": "AR", 
+      "thomas_id": "01701", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "sponsored_at": "2013-03-13", 
+      "state": "FL", 
+      "thomas_id": "02084", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2013-06-19", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "sponsored_at": "2013-06-27", 
+      "state": "HI", 
+      "thomas_id": "02173", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Shaheen, Jeanne", 
+      "sponsored_at": "2013-09-10", 
+      "state": "NH", 
+      "thomas_id": "01901", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Tester, Jon", 
+      "sponsored_at": "2013-12-17", 
+      "state": "MT", 
+      "thomas_id": "01829", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Toomey, Pat", 
+      "sponsored_at": "2013-09-12", 
+      "state": "PA", 
+      "thomas_id": "02085", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "sponsored_at": "2013-06-06", 
+      "state": "MA", 
+      "thomas_id": "02182", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2013-03-13", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "sponsored_at": "2013-04-08", 
+      "state": "OR", 
+      "thomas_id": "01247", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-12-18", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2013-12-20", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-03-12", 
+  "number": "75", 
+  "official_title": "A resolution condemning the Government of Iran for its state-sponsored persecution of its Baha'i minority and its continued violation of the International Covenants on Human Rights.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres109-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Kirk, Mark Steven", 
+    "state": "IL", 
+    "thomas_id": "01647", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2013-12-20", 
+  "subjects": [
+    "Detention of persons", 
+    "Human rights", 
+    "International affairs", 
+    "Iran", 
+    "Middle East", 
+    "Religion", 
+    "Sanctions"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2013-12-20", 
+    "text": "(This measure has not been amended since it was reported to the Senate on December 18, 2013. The summary of that version is repeated here.)\n\nCondemns Iran for its state-sponsored persecution of its Baha'i minority and its continued violation of the International Covenants on Human Rights.\n\n Calls on Iran to release the 7 imprisoned leaders, the 12 imprisoned educators, and all other prisoners held solely on account of their religion.\n\nCalls on the President and Secretary of State, in cooperation with responsible nations, to condemn Iran's continued violation of human rights and demand the release of prisoners held solely on account of their religion.\n\nUrges the President and Secretary to utilize all available authorities, including the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, to impose sanctions on Iranian government officials and other individuals directly responsible for serious human rights abuses, including abuses against the Baha'i community of Iran."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A resolution condemning the Government of Iran for its state-sponsored persecution of its Baha'i minority and its continued violation of the International Covenants on Human Rights.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:16-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SE75:@@@L&summ2=m&"
+}

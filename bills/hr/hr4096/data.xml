@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="4096" updated="2015-09-01T10:20:26-04:00">
+  <state datetime="2014-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-26"/>
+  </status>
+  <introduced datetime="2014-02-26"/>
+  <titles>
+    <title type="short" as="introduced">American Heroes COLA Act of 2014</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for annual cost-of-living adjustments to be made automatically by law each year in the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of certain service-connected disabled veterans.</title>
+  </titles>
+  <sponsor id="412449"/>
+  <cosponsors>
+    <cosponsor id="412318" joined="2014-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-03-07">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="569"/>
+    <bill relation="unknown" session="113" type="h" number="570"/>
+    <bill relation="unknown" session="113" type="h" number="4095"/>
+    <bill relation="unknown" session="113" type="s" number="893"/>
+    <bill relation="unknown" session="113" type="s" number="2258"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability assistance"/>
+    <term name="Inflation and prices"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2014--Introduced.
+American Heroes COLA Act of 2014 - Requires that, whenever there is an increase in benefit amounts payable under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act, the Secretary of Veterans Affairs (VA) shall increase by the same percentage the amounts payable as veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled adult children, and dependency and indemnity compensation for surviving spouses and children.</summary>
+</bill>

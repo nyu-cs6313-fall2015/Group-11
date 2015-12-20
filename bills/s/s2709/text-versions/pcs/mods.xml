@@ -1,0 +1,241 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1899ea242">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To extend and reauthorize the Export-Import Bank of the United States, and for other purposes.;
+   		S. 2709 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-08-05</dateIngested>
+</extension>
+<titleInfo>
+ <title>To extend and reauthorize the Export-Import Bank of the United States, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2709 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-07-31</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>10 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee1899ea242</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s2709pcs</identifier>
+<identifier type="preferred citation">S. 2709</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2709_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s2709pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2709pcs/html/BILLS-113s2709pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2709pcs/pdf/BILLS-113s2709pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2709pcs/xml/BILLS-113s2709pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-08-05</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s2709pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Joe Manchin III</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Steven Kirk</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Roy Blunt</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joe Donnelly</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark R. Warner</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Maria Cantwell</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tim Johnson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tim  Kaine</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 635a-5(b)</partNumber>
+  <partNumber>Title 12 Section 635a(j)</partNumber>
+  <partNumber>Title 12 Section 635(b)(9)(B)(iii)</partNumber>
+  <partNumber>Title 12 Section 635note</partNumber>
+  <partNumber>Title 12 Section 635e(a)(2)</partNumber>
+  <partNumber>Title 12 Section 635f</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 635a-5(b)</identifier>
+ <identifier type="USC citation">12 U.S.C. 635a(j)</identifier>
+ <identifier type="USC citation">12 U.S.C. 635(b)(9)(B)(iii)</identifier>
+ <identifier type="USC citation">12 U.S.C. 635note</identifier>
+ <identifier type="USC citation">12 U.S.C. 635e(a)(2)</identifier>
+ <identifier type="USC citation">12 U.S.C. 635f</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 103-428</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 103-428</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 502</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s2709pcs</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2709</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <action date="2014-07-30">Mr. Manchin (for himself, Mr. Kirk, Mr. Blunt, Mr. Donnelly, Mr. Warner, Ms. Cantwell, Mr. Johnson of South Dakota, and Mr. Kaine) introduced the following bill; which was read the first time</action>
+ <action date="2014-07-31">Read the second time and placed on the calendar</action>
+ <congMember authorityId="1983" bioGuideId="M001183" chamber="S" congress="113" gpoId="8256" party="D" role="SPONSOR" state="WV">
+                      <name type="parsed">Mr. Manchin</name>
+                      <name type="authority-fnf">Joe Manchin III</name>
+                      <name type="authority-lnf">Manchin, Joe, III</name>
+                      <name type="authority-other">Joe Manchin III</name>
+                </congMember>
+ <congMember authorityId="1647" bioGuideId="K000360" chamber="S" congress="113" gpoId="8285" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Kirk</name>
+                      <name type="authority-fnf">Mark Steven Kirk</name>
+                      <name type="authority-lnf">Kirk, Mark Steven</name>
+                      <name type="authority-other">Mark Kirk</name>
+                </congMember>
+ <congMember authorityId="1464" bioGuideId="B000575" chamber="S" congress="113" gpoId="8313" party="R" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mr. Blunt</name>
+                      <name type="authority-fnf">Roy Blunt</name>
+                      <name type="authority-lnf">Blunt, Roy</name>
+                </congMember>
+ <congMember authorityId="1850" bioGuideId="D000607" chamber="S" congress="113" gpoId="7941" party="D" role="COSPONSOR" state="IN">
+                      <name type="parsed">Mr. Donnelly</name>
+                      <name type="authority-fnf">Joe Donnelly</name>
+                      <name type="authority-lnf">Donnelly, Joe</name>
+                </congMember>
+ <congMember authorityId="1897" bioGuideId="W000805" chamber="S" congress="113" gpoId="8269" party="D" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Warner</name>
+                      <name type="authority-fnf">Mark R. Warner</name>
+                      <name type="authority-lnf">Warner, Mark R.</name>
+                      <name type="authority-other">Mark Warner</name>
+                </congMember>
+ <congMember authorityId="172" bioGuideId="C000127" chamber="S" congress="113" gpoId="8288" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Ms. Cantwell</name>
+                      <name type="authority-fnf">Maria Cantwell</name>
+                      <name type="authority-lnf">Cantwell, Maria</name>
+                </congMember>
+ <congMember authorityId="604" bioGuideId="J000177" chamber="S" congress="113" gpoId="8319" party="D" role="COSPONSOR" state="SD">
+                      <name type="parsed">Mr. Johnson of South Dakota</name>
+                      <name type="authority-fnf">Tim Johnson</name>
+                      <name type="authority-lnf">Johnson, Tim</name>
+                </congMember>
+ <congMember authorityId="2176" bioGuideId="K000384" chamber="S" congress="113" party="D" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Kaine</name>
+                      <name type="authority-fnf">Tim  Kaine</name>
+                      <name type="authority-lnf">Kaine, Tim</name>
+                      <name type="authority-other">Timothy Michael Kaine</name>
+                </congMember>
+ <law congress="103" isPrivate="false" number="428"></law>
+ <congCalendar congress="113" number="502" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="12">
+                      <section detail="(b)" number="635a-5"></section>
+                      <section detail="(j)" number="635a"></section>
+                      <section detail="(b)(9)(B)(iii)" number="635"></section>
+                      <section detail="note" number="635"></section>
+                      <section detail="(a)(2)" number="635e"></section>
+                      <section number="635f"></section>
+                </USCode>
+</extension>
+</mods>

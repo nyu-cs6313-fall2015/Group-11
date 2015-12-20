@@ -1,0 +1,154 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-10-23", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Introduction and Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-06", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-14", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 51 - 5.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4164-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2014-03-24", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2014-04-02", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "sponsored_at": "2014-03-06", 
+      "state": "AL", 
+      "thomas_id": "01988", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-06", 
+  "number": "4164", 
+  "official_title": "To exempt smaller public companies from requirements relating to the use of Extensible Business Reporting Language for periodic reporting to the Securities and Exchange Commission, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5405-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Small Company Disclosure Simplification Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hurt, Robert", 
+    "state": "VA", 
+    "thomas_id": "02069", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-03-14", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business investment and capital", 
+    "Business records", 
+    "Competition and antitrust", 
+    "Congressional oversight", 
+    "Corporate finance and management", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Government studies and investigations", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)", 
+    "Small business"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-03-06", 
+    "text": "Small Company Disclosure Simplification Act - Exempts emerging growth companies and issuers with total annual gross revenues of less than $250 million from the requirements to use Extensible Business Reporting Language (XBRL) for financial statements and other mandatory periodic reporting filed with the Securities and Exchange Commission (SEC). Allows such companies, however, to elect to use XBRL for such reporting.\n\nDirects the SEC to: (1) analyze the costs and benefits to such issuers of the requirements to use XBRL for financial statements and other mandatory periodic reporting; and (2) report to certain congressional committees on the results of such analysis as well as on progress in implementing XBRL reporting within the SEC, and use of XBRL data by the SEC and by investors."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Small Company Disclosure Simplification Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To exempt smaller public companies from requirements relating to the use of Extensible Business Reporting Language for periodic reporting to the Securities and Exchange Commission, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4164:@@@L&summ2=m&"
+}

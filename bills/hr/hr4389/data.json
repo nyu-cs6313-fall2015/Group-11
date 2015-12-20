@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-03", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4389-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "McClintock, Tom", 
+      "sponsored_at": "2014-07-15", 
+      "state": "CA", 
+      "thomas_id": "01908", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-03", 
+  "number": "4389", 
+  "official_title": "To prohibit the Secretary of Homeland Security from granting a work authorization to an alien found to have been unlawfully present in the United States.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Equal Protection for American Workers Act", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Burgess, Michael C.", 
+    "state": "TX", 
+    "thomas_id": "01751", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-03", 
+  "subjects": [
+    "Border security and unlawful immigration", 
+    "Foreign labor", 
+    "Immigration", 
+    "Immigration status and procedures"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-03", 
+    "text": "Equal Protection for American Workers Act - Prohibits the Secretary of Homeland Security (DHS) from granting a work authorization to an alien who has been determined, in a valid immigration proceeding during which due process was afforded, to have been at any time unlawfully present in the United States."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Equal Protection for American Workers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the Secretary of Homeland Security from granting a work authorization to an alien found to have been unlawfully present in the United States.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4389:@@@L&summ2=m&"
+}

@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="4287" updated="2015-09-01T10:20:30-04:00">
+  <state datetime="2014-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-24"/>
+  </status>
+  <introduced datetime="2014-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Independent Innovator and Repurposing Act</title>
+    <title type="official" as="introduced">To advance the public health by encouraging independent innovators to pursue drug repurposing research and develop new treatments and cures by providing appropriate intellectual property protections for those innovations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412576"/>
+  <cosponsors>
+    <cosponsor id="400137" joined="2014-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-24" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-04-16">
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Intellectual Property, and the Internet" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="2150"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Intellectual property"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2014--Introduced.
+Independent Innovator and Repurposing Act - Establishes procedures under which the term of an unexpired patent claiming a method of using a biological product shall be extended for five years from its original expiration date.
+
+ Requires an application for such an extension to demonstrate that: (1) the patent was issued to an independent innovator, and (2) the owner of record is the independent innovator or a small business (with fewer than 500 employees and which is not affiliated with the holder of the marketing application approved under licensing requirements of the Public Health Service Act for the commercial marketing of such biological product) in which the independent innovator has an ownership interest.
+
+Defines "independent innovator" as a person or entity that obtains a method of use patent for a biological product and is not, at the time of invention or patent filing, affiliated with the holder of an approved application for the commercial marketing of the product.</summary>
+</bill>

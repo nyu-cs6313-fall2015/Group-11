@@ -1,0 +1,668 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-04", 
+      "references": [
+        {
+          "reference": "CR S3428", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-04", 
+      "references": [], 
+      "text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-05", 
+      "calendar": "Senate Legislative", 
+      "number": "409", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 409.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-06-09", 
+      "references": [
+        {
+          "reference": "CR S3481-3482", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09", 
+      "references": [
+        {
+          "reference": "CR S3491-3492", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3491", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on the motion to proceed to the measure presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10", 
+      "references": [
+        {
+          "reference": "CR S3511", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "references": [
+        {
+          "reference": "CR S3553-3557, S3557-3564", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to measure considered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S3557", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "185", 
+      "status": "PROV_KILL:CLOTUREFAILED", 
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 56 - 38. Record Vote Number: 185.", 
+      "type": "vote-aux", 
+      "vote_type": "cloture", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "references": [
+        {
+          "reference": "CR S3557", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote No. 185) entered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-31", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "committees": [
+        "SSBK"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-09-11", 
+      "references": [
+        {
+          "reference": "CR S5531, S5539, S5541, S5541-5543", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-15", 
+      "references": [
+        {
+          "reference": "CR S5573-5574", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-16", 
+      "references": [
+        {
+          "reference": "CR S5595-5597", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "references": [
+        {
+          "reference": "CR S5725-5726", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3232-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3232"
+    }
+  ], 
+  "bill_id": "s2432-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2014-06-04", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2014-06-04", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bennet, Michael F.", 
+      "sponsored_at": "2014-06-04", 
+      "state": "CO", 
+      "thomas_id": "01965", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2014-06-04", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Booker, Cory A.", 
+      "sponsored_at": "2014-06-04", 
+      "state": "NJ", 
+      "thomas_id": "02194", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2014-06-04", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2014-06-04", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cantwell, Maria", 
+      "sponsored_at": "2014-06-05", 
+      "state": "WA", 
+      "thomas_id": "00172", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-06-04", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2014-06-10", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-06-04", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "2014-06-04", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Franken, Al", 
+      "sponsored_at": "2014-06-04", 
+      "state": "MN", 
+      "thomas_id": "01969", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "sponsored_at": "2014-06-04", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hagan, Kay R.", 
+      "sponsored_at": "2014-06-04", 
+      "state": "NC", 
+      "thomas_id": "01902", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2014-06-04", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heinrich, Martin", 
+      "sponsored_at": "2014-06-04", 
+      "state": "NM", 
+      "thomas_id": "01937", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heitkamp, Heidi", 
+      "sponsored_at": "2014-06-04", 
+      "state": "ND", 
+      "thomas_id": "02174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2014-06-04", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johnson, Tim", 
+      "sponsored_at": "2014-06-09", 
+      "state": "SD", 
+      "thomas_id": "00604", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2014-06-04", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Landrieu, Mary L.", 
+      "sponsored_at": "2014-06-04", 
+      "state": "LA", 
+      "thomas_id": "01546", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2014-06-05", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "2014-06-05", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Manchin, Joe, III", 
+      "sponsored_at": "2014-06-09", 
+      "state": "WV", 
+      "thomas_id": "01983", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-06-04", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCaskill, Claire", 
+      "sponsored_at": "2014-06-09", 
+      "state": "MO", 
+      "thomas_id": "01820", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2014-06-04", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2014-06-04", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "2014-06-05", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murphy, Christopher S.", 
+      "sponsored_at": "2014-06-04", 
+      "state": "CT", 
+      "thomas_id": "01837", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murray, Patty", 
+      "sponsored_at": "2014-06-04", 
+      "state": "WA", 
+      "thomas_id": "01409", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reed, Jack", 
+      "sponsored_at": "2014-06-04", 
+      "state": "RI", 
+      "thomas_id": "00949", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reid, Harry", 
+      "sponsored_at": "2014-06-04", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rockefeller, John D., IV", 
+      "sponsored_at": "2014-06-04", 
+      "state": "WV", 
+      "thomas_id": "01424", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2014-06-04", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "sponsored_at": "2014-06-04", 
+      "state": "HI", 
+      "thomas_id": "02173", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2014-06-04", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Shaheen, Jeanne", 
+      "sponsored_at": "2014-06-04", 
+      "state": "NH", 
+      "thomas_id": "01901", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2014-06-04", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Udall, Mark", 
+      "sponsored_at": "2014-06-04", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Udall, Tom", 
+      "sponsored_at": "2014-06-04", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2014-06-04", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "sponsored_at": "2014-06-09", 
+      "state": "OR", 
+      "thomas_id": "01247", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-06-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_cloture_result": "fail", 
+    "senate_cloture_result_at": "2014-06-11", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-04", 
+  "number": "2432", 
+  "official_title": "A bill to amend the Higher Education Act of 1965 to provide for the refinancing of certain Federal student loans, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr766-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4582-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s321-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2292-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2789-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Bank on Students Emergency Loan Refinancing Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warren, Elizabeth", 
+    "state": "MA", 
+    "thomas_id": "02182", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:CLOTUREFAILED", 
+  "status_at": "2014-06-11", 
+  "subjects": [
+    "Budget deficits and national debt", 
+    "Education", 
+    "Government lending and loan guarantees", 
+    "Higher education", 
+    "Income tax deductions", 
+    "Income tax rates", 
+    "Inflation and prices", 
+    "Interest, dividends, interest rates", 
+    "Social work, volunteer service, charitable organizations", 
+    "Student aid and college costs", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-04", 
+    "text": "Bank on Students Emergency Loan Refinancing Act - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to direct the Secretary of Education to establish a program to refinance the unpaid principal, accrued unpaid interest, and late charges on: (1) the William D. Ford Federal Direct Loans (DLs) of qualified borrowers if the DLs were first disbursed or, in the case of Direct Consolidation Loans, applied for, before July 1, 2013; and (2) the Federal Family Education Loans (FFEL) of qualified borrowers as DLs. (FFELs were not disbursed after June 30, 2010.)\n\nRefinances the FFELs as Federal Direct Stafford, Unsubsidized Stafford, PLUS, or Consolidated Loans depending on the categorization of the FFEL as a Stafford, Unsubsidized Stafford, PLUS, or Consolidated Loan.\n\nSets the interest rate on the refinanced loans, other than the Federal Direct Consolidation Loans, at the rate for the 12 months beginning on July 1, 2013, based on: (1) the DL's categorization; and (2) in the case of Stafford Loans, whether the loan was issued to an undergraduate or graduate student.\n\nDetermines a refinanced Consolidation Loan's interest rate by: (1) weighing the proportion of the unpaid balance of the Consolidation Loan that each component loan represents, (2) setting the interest rate on each component loan at the lesser of the rate on the component loan for the 12 months beginning on July 1, 2013, or its original rate, and (3) applying the weighted average of the interest rates on those loans as the interest rate on the Consolidation Loan.\n\nFixes the interest rate on the refinanced loans for the period of such loans.\n\nDirects the Secretary to establish eligibility requirements that are based on a borrower's income or debt-to-income ratio and that take into consideration providing access to refinancing for borrowers who have the greatest financial need.\n\nRequires the Secretary to establish a program to refinance the unpaid principal, accrued unpaid interest, and late charges on private education loans as Federal Direct Refinanced Private Loans if the private education loans were first disbursed to qualified borrowers before July 1, 2013, and were for their postsecondary educational expenses.\n\nSets the interest rate on Federal Direct Refinanced Private Loans at the rate applicable for the 12 months beginning on July 1, 2013, to: (1) Direct Stafford and Unsubsidized Stafford Loans issued to undergraduates if the private education loan was issued for undergraduate expenses, (2) Direct Unsubsidized Stafford Loans issued to graduate or professional students if the private education loan was issued for graduate or professional studies, or (3) Direct PLUS Loans if the private education loan was issued for undergraduate and graduate or professional studies.\n\nFixes the interest rate on such loans for the period of such loans.\n\nDirects the Secretary to establish eligibility requirements that: (1) are based on a borrower's income or debt-to-income ratio and take into consideration providing access to refinancing for borrowers who have the greatest financial need, (2) ensure eligibility only for borrowers in good standing, (3) minimize inequities between Federal Direct Refinanced Private Loans and other federal student loans, and (4) preclude windfall profits for private educational lenders.\n\nRequires qualified borrowers of such loans to undergo loan counseling before their private education loan is refinanced.\n\nRequires private educational lenders to report specified loan information to the Secretary, Congress, the Secretary of the Treasury, and the Director of the Consumer Financial Protection Bureau (CFPB) in order to allow for an assessment of the private education loan market.\n\nDirects the Secretary to undertake a campaign to alert borrowers that they may be eligible for refinancing under this Act.\n\nAmends the Internal Revenue Code to require an individual taxpayer whose adjusted gross income exceeds $1 million to pay a minimum tax rate of 30% of the excess of the taxpayer's adjusted gross income over the taxpayer's modified charitable contribution deduction for the taxable year (tentative fair share tax). Establishes the amount of such tax as the excess (if any) of the tentative fair share tax over the excess of: (1) the sum of the taxpayer's regular tax liability, the alternative minimum tax (AMT) amount, and the payroll tax for the taxable year; over (2) certain tax credits. Provides for a phase-in of such tax. Requires an inflation adjustment to the $1 million income threshold for taxable years beginning after 2015.\n\nRequires the Secretary to terminate this Act's refinancing programs on the earlier of the date: (1) when the net cost of carrying out the programs is equal to the Secretary's estimate of the amount of additional revenue generated during the 10-year period beginning on the date of this Act's enactment due to the fair share tax, or (2) that is two years after this Act's enactment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bank on Students Emergency Loan Refinancing Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Higher Education Act of 1965 to provide for the refinancing of certain Federal student loans, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:20-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2432:@@@L&summ2=m&"
+}

@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="5750" updated="2015-09-01T10:21:05-04:00">
+  <state datetime="2014-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-20"/>
+  </status>
+  <introduced datetime="2014-11-20"/>
+  <titles>
+    <title type="short" as="introduced">Orphan Product Extensions Now Accelerating Cures and Treatments Act of 2014</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to authorize a 6-month extension of certain exclusivity periods in the case of approved drugs that are subsequently approved for a new indication to prevent, diagnose, or treat a rare disease or condition, and for other purposes.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2014-11-20"/>
+    <cosponsor id="400170" joined="2014-11-20"/>
+    <cosponsor id="400654" joined="2014-11-20"/>
+    <cosponsor id="412331" joined="2014-12-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-20" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-11-21">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-12-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H8938"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Drug therapy"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="Government information and archives"/>
+    <term name="Intellectual property"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+</bill>

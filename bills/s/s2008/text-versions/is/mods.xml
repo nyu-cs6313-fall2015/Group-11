@@ -1,0 +1,186 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1870615a9">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To strengthen resources for entrepreneurs by improving the SCORE program, and for other purposes.;
+   		SCORE for Small Business Act of 2014;S. 2008 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-02-12</dateIngested>
+</extension>
+<titleInfo>
+ <title>To strengthen resources for entrepreneurs by improving the SCORE program, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>SCORE for Small Business Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2008 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-02-10</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>8 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee1870615a9</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s2008is</identifier>
+<identifier type="preferred citation">S. 2008</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2008_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s2008is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2008is/html/BILLS-113s2008is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2008is/pdf/BILLS-113s2008is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2008is/xml/BILLS-113s2008is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-02-12</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s2008is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mary L. Landrieu</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James E. Risch</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Small Business and Entrepreneurship</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 631</partNumber>
+  <partNumber>Title 15 Section 631note</partNumber>
+  <partNumber>Title 15 Section 636(m)(3)(A)(i)(VIII)</partNumber>
+  <partNumber>Title 15 Section 637</partNumber>
+  <partNumber>Title 15 Section 637(b)(1)(B)</partNumber>
+  <partNumber>Title 15 Section 649</partNumber>
+  <partNumber>Title 15 Section 657p</partNumber>
+  <partNumber>Title 15 Section 6901</partNumber>
+  <partNumber>Title 15 Section 6901et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 631</identifier>
+ <identifier type="USC citation">15 U.S.C. 631note</identifier>
+ <identifier type="USC citation">15 U.S.C. 636(m)(3)(A)(i)(VIII)</identifier>
+ <identifier type="USC citation">15 U.S.C. 637</identifier>
+ <identifier type="USC citation">15 U.S.C. 637(b)(1)(B)</identifier>
+ <identifier type="USC citation">15 U.S.C. 649</identifier>
+ <identifier type="USC citation">15 U.S.C. 657p</identifier>
+ <identifier type="USC citation">15 U.S.C. 6901</identifier>
+ <identifier type="USC citation">15 U.S.C. 6901et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 6307(d)(2)(A)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 6307(d)(2)(A)</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s2008is</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2008</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>SCORE for Small Business Act of 2014</shortTitle>
+ <action date="2014-02-10">Ms. Landrieu (for herself and Mr. Risch) introduced the following bill; which was read twice and referred to the Committee on Small Business and Entrepreneurship</action>
+ <congCommittee authorityId="sssb00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Small Business and Entrepreneurship</name>
+                      <name type="authority-short">Small Business</name>
+                </congCommittee>
+ <congMember authorityId="1546" bioGuideId="L000550" chamber="S" congress="113" gpoId="8251" party="D" role="SPONSOR" state="LA">
+                      <name type="parsed">Ms. Landrieu</name>
+                      <name type="authority-fnf">Mary L. Landrieu</name>
+                      <name type="authority-lnf">Landrieu, Mary L.</name>
+                      <name type="authority-other">Mrs. Mary Landrieu</name>
+                </congMember>
+ <congMember authorityId="1896" bioGuideId="R000584" chamber="S" congress="113" gpoId="8274" party="R" role="COSPONSOR" state="ID">
+                      <name type="parsed">Mr. Risch</name>
+                      <name type="authority-fnf">James E. Risch</name>
+                      <name type="authority-lnf">Risch, James E.</name>
+                      <name type="authority-other">James Risch</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="15">
+                      <section number="631"></section>
+                      <section detail="note" number="631"></section>
+                      <section detail="(m)(3)(A)(i)(VIII)" number="636"></section>
+                      <section number="637"></section>
+                      <section detail="(b)(1)(B)" number="637"></section>
+                      <section number="649"></section>
+                      <section number="657p"></section>
+                      <section number="6901"></section>
+                      <section detail="et seq." number="6901"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(d)(2)(A)" number="6307"></section>
+                </USCode>
+</extension>
+</mods>

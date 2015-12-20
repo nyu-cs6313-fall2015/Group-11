@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="5816" updated="2015-09-01T10:21:07-04:00">
+  <state datetime="2014-12-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-12-18"/>
+  </status>
+  <introduced datetime="2014-12-09"/>
+  <titles>
+    <title type="official" as="introduced">To extend the authorization for the United States Commission on International Religious Freedom.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-09" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-12-10T18:13:00-05:00">
+      <text>Mr. Royce asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2014-12-10T18:13:00-05:00">
+      <text>Committee on Foreign Affairs discharged.</text>
+    </action>
+    <action datetime="2014-12-10T18:13:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H9016-9017" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote" datetime="2014-12-10T18:13:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H9016" label="text"/>
+    </vote>
+    <action datetime="2014-12-10T18:14:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-12-11">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-12-15" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6840" label="consideration"/>
+    </vote>
+    <action datetime="2014-12-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2014-12-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-12-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-271" type="public" datetime="2014-12-18">
+      <text>Became Public Law No: 113-271.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="4653"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Advisory bodies"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Human rights"/>
+    <term name="Religion"/>
+    <term name="U.S. Commission on International Religious Freedom"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/2014--Public Law.
+Amends the International Religious Freedom Act of 1998 to extend through FY2015 the authorization for the U.S. Commission on International Religious Freedom.</summary>
+</bill>

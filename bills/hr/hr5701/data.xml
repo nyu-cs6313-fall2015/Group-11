@@ -1,0 +1,83 @@
+<bill session="113" type="h" number="5701" updated="2015-09-01T10:21:05-04:00">
+  <state datetime="2014-12-09T13:06:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-12-09T13:06:00-05:00"/>
+  </status>
+  <introduced datetime="2014-11-13"/>
+  <titles>
+    <title type="short" as="introduced">Western Oregon Indian Tribal Lands Act</title>
+    <title type="short" as="introduced" partial="1">Cow Creek Umpqua Land Conveyance Act</title>
+    <title type="short" as="introduced" partial="1">Oregon Coastal Lands Act</title>
+    <title type="short" as="passed house">Western Oregon Indian Tribal Lands Act</title>
+    <title type="short" as="passed house" partial="1">Cow Creek Umpqua Land Conveyance Act</title>
+    <title type="short" as="passed house" partial="1">Oregon Coastal Lands Act</title>
+    <title type="official" as="introduced">To require that certain Federal lands be held in trust by the United States for the benefit of federally recognized tribes in the State of Oregon, and for other purposes.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="412315" joined="2014-11-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-11-17">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2014-12-09T12:52:00-05:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-12-09T12:52:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8882-8886" label="consideration"/>
+    </action>
+    <action datetime="2014-12-09T12:52:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5701.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-12-09T13:06:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8882-8885" label="text"/>
+    </vote>
+    <action datetime="2014-12-09T13:06:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-12-10">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="841"/>
+    <bill relation="unknown" session="113" type="h" number="931"/>
+    <bill relation="unknown" session="113" type="h" number="5511"/>
+    <bill relation="unknown" session="113" type="h" number="5512"/>
+    <bill relation="unknown" session="113" type="s" number="402"/>
+    <bill relation="unknown" session="113" type="s" number="416"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Gambling"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+    <term name="Oregon"/>
+  </subjects>
+  <amendments/>
+  <summary>11/13/2014--Introduced.
+Western Oregon Indian Tribal Lands Act - Authorizes the Secretary of the Interior to accept title to any additional acres of real property located within the boundaries of the original 1857 reservation of the Confederated Tribes of the Grand Ronde Community of Oregon (comprising land within the political boundaries of Polk and Yamhill Counties, Oregon), if such real property is conveyed or otherwise transferred to the United States by or on behalf of the Tribe.
+
+ Oregon Coastal Lands Act - Holds in trust for the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians all interest of the United States in and to approximately 14,408 acres of land.
+
+ Cow Creek Umpqua Land Conveyance Act - Holds in trust for the Cow Creek Band of Umpqua Tribe of Indians all interest of the United States in and to approximately 17,519 acres of federal land.
+
+Amends the Siletz Tribe Indian Restoration Act to authorize the Secretary to take into trust for the Siletz Tribe additional lands that lie within the original 1855 Siletz Coast Reservation and are located in Benton, Douglas, Lane, Lincoln, Tillamook, or Yamhill County in Oregon.
+
+Amends the Coquille Restoration Act to give the United States District Court for the District of Oregon jurisdiction over actions between Oregon and the Coquille Tribe arising out of claims of breach of the memorandum of agreement for the management of the Coquille Forest.</summary>
+</bill>

@@ -1,0 +1,168 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee185f37523">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide higher-quality, lower-cost health care to seniors.;
+   		Congressional Health Care for Seniors Act of 2013;S. 1469 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-08-13</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide higher-quality, lower-cost health care to seniors.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Congressional Health Care for Seniors Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1469 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-08-01</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>22 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee185f37523</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1469is</identifier>
+<identifier type="preferred citation">S. 1469</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1469_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1469is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1469is/html/BILLS-113s1469is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1469is/pdf/BILLS-113s1469is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1469is/xml/BILLS-113s1469is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-08-13</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1469is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Rand Paul</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Finance</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 8901</partNumber>
+  <partNumber>Title 5 Chapter 89</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 8901</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 89</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1395et seq.</partNumber>
+  <partNumber>Title 42 Section 1395i</partNumber>
+  <partNumber>Title 42 Section 300gg-8</partNumber>
+  <partNumber>Title 42 Section 401</partNumber>
+  <partNumber>Title 42 Section 402</partNumber>
+  <partNumber>Title 42 Section 423</partNumber>
+  <partNumber>Title 42 Section 426</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1395et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395i</identifier>
+ <identifier type="USC citation">42 U.S.C. 300gg-8</identifier>
+ <identifier type="USC citation">42 U.S.C. 401</identifier>
+ <identifier type="USC citation">42 U.S.C. 402</identifier>
+ <identifier type="USC citation">42 U.S.C. 423</identifier>
+ <identifier type="USC citation">42 U.S.C. 426</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1469is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1469</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Congressional Health Care for Seniors Act of 2013</shortTitle>
+ <action date="2013-08-01">Mr. Paul introduced the following bill; which was read twice and referred to the Committee on Finance</action>
+ <congCommittee authorityId="ssfi00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Finance</name>
+                      <name type="authority-short">Finance</name>
+                </congCommittee>
+ <congMember authorityId="2082" bioGuideId="P000603" chamber="S" congress="113" gpoId="8308" party="R" role="SPONSOR" state="KY">
+                      <name type="parsed">Mr. Paul</name>
+                      <name type="authority-fnf">Rand Paul</name>
+                      <name type="authority-lnf">Paul, Rand</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="8901"></section>
+                      <chapter number="89"></chapter>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="1395"></section>
+                      <section number="1395i"></section>
+                      <section number="300gg-8"></section>
+                      <section number="401"></section>
+                      <section number="402"></section>
+                      <section number="423"></section>
+                      <section number="426"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,241 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1855e9fb7">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To establish a partnership between States that produce energy onshore and offshore for our country with the Federal Government.;
+   		Fixing America&apos;s Inequities with Revenues Act of 2013;Fixing America&apos;s Inequities with Revenues Act of 2013;S. 1273 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-07-12</dateIngested>
+</extension>
+<titleInfo>
+ <title>To establish a partnership between States that produce energy onshore and offshore for our country with the Federal Government.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Fixing America&apos;s Inequities with Revenues Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>FAIR Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1273 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-07-10</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>15 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee1855e9fb7</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1273is</identifier>
+<identifier type="preferred citation">S. 1273</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1273_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1273is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1273is/html/BILLS-113s1273is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1273is/pdf/BILLS-113s1273is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1273is/xml/BILLS-113s1273is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-07-12</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1273is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Lisa Murkowski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mary L. Landrieu</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Begich</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Heidi  Heitkamp</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Energy and Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1453</partNumber>
+  <partNumber>Title 16 Section 4601-5</partNumber>
+  <partNumber>Title 16 Section 4601-8</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1453</identifier>
+ <identifier type="USC citation">16 U.S.C. 4601-5</identifier>
+ <identifier type="USC citation">16 U.S.C. 4601-8</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 30 Section 191</partNumber>
+</titleInfo>
+ <identifier type="USC citation">30 U.S.C. 191</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1331note</partNumber>
+  <partNumber>Title 43 Section 1337</partNumber>
+  <partNumber>Title 43 Section 1338</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1331note</identifier>
+ <identifier type="USC citation">43 U.S.C. 1337</identifier>
+ <identifier type="USC citation">43 U.S.C. 1338</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 125 Page 994</partNumber>
+  <partNumber>Volume 125 Page 995</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">125 Stat.	994</identifier>
+ <identifier type="Statute citation">125 Stat.	995</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-432</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-432</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-74</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-74</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1273is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1273</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Fixing America&apos;s Inequities with Revenues Act of 2013</shortTitle>
+ <shortTitle>FAIR Act of 2013</shortTitle>
+ <action date="2013-07-10">Ms. Murkowski (for herself, Ms. Landrieu, Mr. Begich, and Ms. Heitkamp) introduced the following bill; which was read twice and referred to the Committee on Energy and Natural Resources</action>
+ <congCommittee authorityId="sseg00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Energy and Natural Resources</name>
+                      <name type="authority-short">Energy and Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="1694" bioGuideId="M001153" chamber="S" congress="113" gpoId="8234" party="R" role="SPONSOR" state="AK">
+                      <name type="parsed">Ms. Murkowski</name>
+                      <name type="authority-fnf">Lisa Murkowski</name>
+                      <name type="authority-lnf">Murkowski, Lisa</name>
+                </congMember>
+ <congMember authorityId="1546" bioGuideId="L000550" chamber="S" congress="113" gpoId="8251" party="D" role="COSPONSOR" state="LA">
+                      <name type="parsed">Ms. Landrieu</name>
+                      <name type="authority-fnf">Mary L. Landrieu</name>
+                      <name type="authority-lnf">Landrieu, Mary L.</name>
+                      <name type="authority-other">Mrs. Mary Landrieu</name>
+                </congMember>
+ <congMember authorityId="1898" bioGuideId="B001265" chamber="S" congress="113" gpoId="8301" party="D" role="COSPONSOR" state="AK">
+                      <name type="parsed">Mr. Begich</name>
+                      <name type="authority-fnf">Mark Begich</name>
+                      <name type="authority-lnf">Begich, Mark</name>
+                </congMember>
+ <congMember authorityId="2174" bioGuideId="H001069" chamber="S" congress="113" party="D" role="COSPONSOR" state="ND">
+                      <name type="parsed">Ms. Heitkamp</name>
+                      <name type="authority-fnf">Heidi  Heitkamp</name>
+                      <name type="authority-lnf">Heitkamp, Heidi</name>
+                      <name type="authority-other">Mary Kathryn Heitkamp</name>
+                </congMember>
+ <law congress="109" isPrivate="false" number="432"></law>
+ <law congress="112" isPrivate="false" number="74"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section number="1453"></section>
+                      <section number="4601-5"></section>
+                      <section number="4601-8"></section>
+                </USCode>
+ <USCode title="30">
+                      <section number="191"></section>
+                </USCode>
+ <USCode title="43">
+                      <section detail="note" number="1331"></section>
+                      <section number="1337"></section>
+                      <section number="1338"></section>
+                </USCode>
+ <statuteAtLarge volume="125">
+                      <pages pages="994"></pages>
+                      <pages pages="995"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

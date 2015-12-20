@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-10", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-29", 
+      "references": [
+        {
+          "reference": "CR H3252", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres554-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-10", 
+  "number": "554", 
+  "official_title": "Recognizing the alarming mortality rate of African-American breast cancer patients.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "44", 
+    "name": "Hahn, Janice", 
+    "state": "CA", 
+    "thomas_id": "02089", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-10", 
+  "subjects": [
+    "Cancer", 
+    "Health", 
+    "Health care coverage and access", 
+    "Medical tests and diagnostic methods", 
+    "Minority health", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-10", 
+    "text": "Recognizes the disparity in treatment rates of African-American breast cancer patients and affirms that such disparity is unacceptable and should be addressed.\n\nCalls for immediate action to be taken to: (1) raise awareness of breast cancer screening for all women in the United States, and (2) expand access to treatment for all breast cancer patients regardless of race."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Recognizing the alarming mortality rate of African-American breast cancer patients.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:18:42-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE554:@@@L&summ2=m&"
+}

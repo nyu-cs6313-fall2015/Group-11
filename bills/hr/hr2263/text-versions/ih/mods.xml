@@ -1,0 +1,258 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee184f9f64c">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To abolish the Export-Import Bank of the United States, and for other purposes.;
+   		Export-Import Bank Termination Act;H.R. 2263 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-06-08</dateIngested>
+</extension>
+<titleInfo>
+ <title>To abolish the Export-Import Bank of the United States, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Export-Import Bank Termination Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2263 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-06-05</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>16 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee184f9f64c</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2263ih</identifier>
+<identifier type="preferred citation">H.R. 2263</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2263_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2263ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2263ih/html/BILLS-113hr2263ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2263ih/pdf/BILLS-113hr2263ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2263ih/xml/BILLS-113hr2263ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-06-08</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-05</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr2263ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Justin Amash</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom McClintock</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Thomas Massie</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Financial Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 3109</partNumber>
+  <partNumber>Title 5 Section 5314</partNumber>
+  <partNumber>Title 5 Section 5315</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 3109</identifier>
+ <identifier type="USC citation">5 U.S.C. 5314</identifier>
+ <identifier type="USC citation">5 U.S.C. 5315</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 635--635i-9</partNumber>
+  <partNumber>Title 12 Section 635a-1</partNumber>
+  <partNumber>Title 12 Section 635a-2</partNumber>
+  <partNumber>Title 12 Section 635a-3</partNumber>
+  <partNumber>Title 12 Section 635a-4</partNumber>
+  <partNumber>Title 12 Section 635note</partNumber>
+  <partNumber>Title 12 Section 635gnote</partNumber>
+  <partNumber>Title 12 Section 635i-3note</partNumber>
+  <partNumber>Title 12 Section 635j</partNumber>
+  <partNumber>Title 12 Section 635n</partNumber>
+  <partNumber>Title 12 Section 635o-635t</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 635--635i-9</identifier>
+ <identifier type="USC citation">12 U.S.C. 635a-1</identifier>
+ <identifier type="USC citation">12 U.S.C. 635a-2</identifier>
+ <identifier type="USC citation">12 U.S.C. 635a-3</identifier>
+ <identifier type="USC citation">12 U.S.C. 635a-4</identifier>
+ <identifier type="USC citation">12 U.S.C. 635note</identifier>
+ <identifier type="USC citation">12 U.S.C. 635gnote</identifier>
+ <identifier type="USC citation">12 U.S.C. 635i-3note</identifier>
+ <identifier type="USC citation">12 U.S.C. 635j</identifier>
+ <identifier type="USC citation">12 U.S.C. 635n</identifier>
+ <identifier type="USC citation">12 U.S.C. 635o-635t</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1105(a)</partNumber>
+  <partNumber>Title 31 Section 9101(3)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1105(a)</identifier>
+ <identifier type="USC citation">31 U.S.C. 9101(3)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 90-390</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 90-390</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 100-418</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 100-418</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 101-167</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 101-167</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 101-179</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 101-179</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 101-240</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 101-240</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr2263ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2263</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Export-Import Bank Termination Act</shortTitle>
+ <action date="2013-06-05">Mr. Amash (for himself, Mr. McClintock, and Mr. Massie) introduced the following bill; which was referred to the Committee on Financial Services</action>
+ <congCommittee authorityId="hsba00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Financial Services</name>
+                      <name type="authority-short">Financial Services</name>
+                </congCommittee>
+ <congMember authorityId="2029" bioGuideId="A000367" chamber="H" congress="113" gpoId="7988" party="R" role="SPONSOR" state="MI">
+                      <name type="parsed">Mr. Amash</name>
+                      <name type="authority-fnf">Justin Amash</name>
+                      <name type="authority-lnf">Amash, Justin</name>
+                </congMember>
+ <congMember authorityId="1908" bioGuideId="M001177" chamber="H" congress="113" gpoId="7809" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. McClintock</name>
+                      <name type="authority-fnf">Tom McClintock</name>
+                      <name type="authority-lnf">McClintock, Tom</name>
+                </congMember>
+ <congMember authorityId="2094" bioGuideId="M001184" chamber="H" congress="113" gpoId="8371" party="R" role="COSPONSOR" state="KY">
+                      <name type="parsed">Mr. Massie</name>
+                      <name type="authority-fnf">Thomas Massie</name>
+                      <name type="authority-lnf">Massie, Thomas</name>
+                      <name type="authority-other">Thomas Harold Massie</name>
+                </congMember>
+ <law congress="90" isPrivate="false" number="390"></law>
+ <law congress="100" isPrivate="false" number="418"></law>
+ <law congress="101" isPrivate="false" number="167"></law>
+ <law congress="101" isPrivate="false" number="179"></law>
+ <law congress="101" isPrivate="false" number="240"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="3109"></section>
+                      <section number="5314"></section>
+                      <section number="5315"></section>
+                </USCode>
+ <USCode title="12">
+                      <section number="635--635i-9"></section>
+                      <section number="635a-1"></section>
+                      <section number="635a-2"></section>
+                      <section number="635a-3"></section>
+                      <section number="635a-4"></section>
+                      <section detail="note" number="635"></section>
+                      <section detail="note" number="635g"></section>
+                      <section detail="note" number="635i-3"></section>
+                      <section number="635j"></section>
+                      <section number="635n"></section>
+                      <section number="635o-635t"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="(a)" number="1105"></section>
+                      <section detail="(3)" number="9101"></section>
+                </USCode>
+</extension>
+</mods>

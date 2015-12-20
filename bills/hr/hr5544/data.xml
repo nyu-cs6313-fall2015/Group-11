@@ -1,0 +1,81 @@
+<bill session="113" type="h" number="5544" updated="2015-09-01T10:21:01-04:00">
+  <state datetime="2014-11-17T15:21:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-11-17T15:21:00-05:00"/>
+  </status>
+  <introduced datetime="2014-09-18"/>
+  <titles>
+    <title type="short" as="introduced">Low-Dose Radiation Research Act of 2014</title>
+    <title type="short" as="passed house">Low-Dose Radiation Research Act of 2014</title>
+    <title type="official" as="introduced">To increase the understanding of the health effects of low doses of ionizing radiation.</title>
+  </titles>
+  <sponsor id="412252"/>
+  <cosponsors>
+    <cosponsor id="412427" joined="2014-09-18"/>
+    <cosponsor id="412563" joined="2014-09-18"/>
+    <cosponsor id="412555" joined="2014-11-13"/>
+    <cosponsor id="412257" joined="2014-11-14"/>
+    <cosponsor id="412422" joined="2014-11-13"/>
+    <cosponsor id="412460" joined="2014-09-18"/>
+    <cosponsor id="400630" joined="2014-11-13"/>
+    <cosponsor id="412443" joined="2014-11-14"/>
+    <cosponsor id="412309" joined="2014-11-13"/>
+    <cosponsor id="400343" joined="2014-11-13"/>
+    <cosponsor id="400365" joined="2014-11-13"/>
+    <cosponsor id="400381" joined="2014-09-18"/>
+    <cosponsor id="412574" joined="2014-11-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-18" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2014-11-17T15:15:00-05:00">
+      <text>Mr. Broun (GA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-11-17T15:15:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8011-8012" label="consideration"/>
+    </action>
+    <action datetime="2014-11-17T15:15:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5544.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-11-17T15:21:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8011" label="text"/>
+    </vote>
+    <action datetime="2014-11-17T15:21:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-11-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="4159"/>
+    <bill relation="unknown" session="113" type="h" number="4869"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cell biology and embryology"/>
+    <term name="Energy research"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Radiation"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>11/17/2014--Passed House amended.
+Low-Dose Radiation Research Act of 2014 - Requires the Director of the Department of Energy (DOE) Office of Science to carry out a research program on low dose radiation to enhance the scientific understanding of and reduce uncertainties associated with the effects of exposure to low dose radiation.
+
+Requires the Director to enter into an agreement with the National Academies to conduct a study assessing the current status and development of a long-term strategy for low dose radiation research.
+
+Requires such study to:
+
+ identify current scientific challenges for understanding the long-term effects of ionizing radiation, assess the status of current low dose radiation research, formulate overall scientific goals for the future of low-dose radiation research, recommend a long-term strategic and prioritized research agenda to address scientific research goals for overcoming the identified scientific challenges in coordination with other research efforts, define the essential components of a research program that would address this research agenda within the universities and the National Laboratories, and assess the effectiveness of such a program. Directs the Secretary of Energy to deliver to Congress a five-year research plan that responds to the study's findings and recommendations and identifies and prioritizes research needs.
+
+Makes DOE's limitation on human research inapplicable to research under this Act.</summary>
+</bill>

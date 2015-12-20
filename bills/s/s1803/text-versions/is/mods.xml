@@ -1,0 +1,255 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee186b4bc0f">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To require certain protections for student loan borrowers, and for other purposes.;
+   		Student Loan Borrower Bill of Rights;S. 1803 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-12-18</dateIngested>
+</extension>
+<titleInfo>
+ <title>To require certain protections for student loan borrowers, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Student Loan Borrower Bill of Rights</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1803 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-12-11</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>46 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee186b4bc0f</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1803is</identifier>
+<identifier type="preferred citation">S. 1803</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1803_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1803is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1803is/html/BILLS-113s1803is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1803is/pdf/BILLS-113s1803is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1803is/xml/BILLS-113s1803is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-12-18</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1803is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Richard Durbin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Elizabeth Warren</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Boxer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jack Reed</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 101(d)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 101(d)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 1601et seq.</partNumber>
+  <partNumber>Title 15 Section 1638</partNumber>
+  <partNumber>Title 15 Section 1638(e)</partNumber>
+  <partNumber>Title 15 Section 1638(e)(3)</partNumber>
+  <partNumber>Title 15 Section 1650</partNumber>
+  <partNumber>Title 15 Section 1650(a)(7)(A)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 1601et seq.</identifier>
+ <identifier type="USC citation">15 U.S.C. 1638</identifier>
+ <identifier type="USC citation">15 U.S.C. 1638(e)</identifier>
+ <identifier type="USC citation">15 U.S.C. 1638(e)(3)</identifier>
+ <identifier type="USC citation">15 U.S.C. 1650</identifier>
+ <identifier type="USC citation">15 U.S.C. 1650(a)(7)(A)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1001et seq.</partNumber>
+  <partNumber>Title 20 Section 1019(8)(A)(ii)</partNumber>
+  <partNumber>Title 20 Section 1083</partNumber>
+  <partNumber>Title 20 Section 1087e(d)</partNumber>
+  <partNumber>Title 20 Section 1088et seq.</partNumber>
+  <partNumber>Title 20 Section 1094(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1001et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 1019(8)(A)(ii)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1083</identifier>
+ <identifier type="USC citation">20 U.S.C. 1087e(d)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1088et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 1094(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 292et seq.</partNumber>
+  <partNumber>Title 42 Section 296et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 292et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 296et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Appendix 501</partNumber>
+  <partNumber>Title 50 Appendix 501</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. App. 501</identifier>
+ <identifier type="USC citation">50 U.S.C. App. 501</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1803is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1803</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Student Loan Borrower Bill of Rights</shortTitle>
+ <action date="2013-12-11">Mr. Durbin (for himself, Ms. Warren, Mrs. Boxer, and Mr. Reed) introduced the following bill; which was read twice and referred to the Committee on Health, Education, Labor, and Pensions</action>
+ <congCommittee authorityId="sshr00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+                      <name type="authority-short">HELP</name>
+                </congCommittee>
+ <congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="113" gpoId="8326" party="D" role="SPONSOR" state="IL">
+                      <name type="parsed">Mr. Durbin</name>
+                      <name type="authority-fnf">Richard Durbin</name>
+                      <name type="authority-lnf">Durbin, Richard</name>
+                      <name type="authority-other">Richard J. Durbin</name>
+                </congMember>
+ <congMember authorityId="2182" bioGuideId="W000817" chamber="S" congress="113" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Ms. Warren</name>
+                      <name type="authority-fnf">Elizabeth Warren</name>
+                      <name type="authority-lnf">Warren, Elizabeth</name>
+                      <name type="authority-other">Elizabeth A. Warren</name>
+                </congMember>
+ <congMember authorityId="116" bioGuideId="B000711" chamber="S" congress="113" gpoId="8306" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Boxer</name>
+                      <name type="authority-fnf">Barbara Boxer</name>
+                      <name type="authority-lnf">Boxer, Barbara</name>
+                </congMember>
+ <congMember authorityId="949" bioGuideId="R000122" chamber="S" congress="113" gpoId="8272" party="D" role="COSPONSOR" state="RI">
+                      <name type="parsed">Mr. Reed</name>
+                      <name type="authority-fnf">Jack Reed</name>
+                      <name type="authority-lnf">Reed, Jack</name>
+                      <name type="authority-other">John Reed</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section detail="(d)(1)" number="101"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="et seq." number="1601"></section>
+                      <section number="1638"></section>
+                      <section detail="(e)" number="1638"></section>
+                      <section detail="(e)(3)" number="1638"></section>
+                      <section number="1650"></section>
+                      <section detail="(a)(7)(A)" number="1650"></section>
+                </USCode>
+ <USCode title="20">
+                      <section detail="et seq." number="1001"></section>
+                      <section detail="(8)(A)(ii)" number="1019"></section>
+                      <section number="1083"></section>
+                      <section detail="(d)" number="1087e"></section>
+                      <section detail="et seq." number="1088"></section>
+                      <section detail="(a)" number="1094"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="292"></section>
+                      <section detail="et seq." number="296"></section>
+                </USCode>
+ <USCode title="50">
+                      <appendix detail="et seq." number="501"></appendix>
+                      <appendix number="501"></appendix>
+                </USCode>
+</extension>
+</mods>

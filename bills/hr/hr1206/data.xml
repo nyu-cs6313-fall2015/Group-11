@@ -1,0 +1,125 @@
+<bill session="113" type="h" number="1206" updated="2015-09-01T10:19:17-04:00">
+  <state datetime="2014-12-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-12-18"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title type="short" as="introduced">Permanent Electronic Duck Stamp Act of 2013</title>
+    <title type="short" as="reported to house">Permanent Electronic Duck Stamp Act of 2013</title>
+    <title type="short" as="passed house">Permanent Electronic Duck Stamp Act of 2013</title>
+    <title type="short" as="reported to senate">Permanent Electronic Duck Stamp Act of 2013</title>
+    <title type="short" as="passed senate">Permanent Electronic Duck Stamp Act of 2013</title>
+    <title type="short" as="enacted">Permanent Electronic Duck Stamp Act of 2013</title>
+    <title type="official" as="introduced">To grant the Secretary of the Interior permanent authority to authorize States to issue electronic duck stamps, and for other purposes.</title>
+  </titles>
+  <sponsor id="412255"/>
+  <cosponsors>
+    <cosponsor id="400218" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-14" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-03-26">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-04-24" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2013-05-17T14:48:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-67.</text>
+    </action>
+    <calendar datetime="2013-05-17T14:48:00-04:00" calendar="Union" number="43">
+      <text>Placed on the Union Calendar, Calendar No. 43.</text>
+    </calendar>
+    <action datetime="2013-06-03T17:03:00-04:00">
+      <text>Mr. Wittman moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-06-03T17:03:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2994-2996" label="consideration"/>
+    </action>
+    <action datetime="2013-06-03T17:03:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1206.</text>
+    </action>
+    <action datetime="2013-06-03T17:08:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-06-03T18:30:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3000-3001" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="184" datetime="2013-06-03T18:56:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 184).</text>
+      <reference ref="CR H2994-2995" label="text"/>
+    </vote>
+    <action datetime="2013-06-03T18:56:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-06-04">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar datetime="2014-02-06">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-04-01">
+      <text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 113-145.</text>
+    </action>
+    <calendar datetime="2014-04-01" calendar="Senate Legislative" under="General Orders" number="343">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-12-15" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6840" label="consideration"/>
+    </vote>
+    <action datetime="2014-12-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2014-12-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-12-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-239" type="public" datetime="2014-12-18">
+      <text>Became Public Law No: 113-239.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="3197"/>
+    <bill relation="unknown" session="113" type="h" number="3590"/>
+    <bill relation="unknown" session="113" type="h" number="3590"/>
+    <bill relation="identical" session="113" type="s" number="738"/>
+    <bill relation="unknown" session="113" type="s" number="1335"/>
+    <bill relation="unknown" session="113" type="s" number="1660"/>
+    <bill relation="unknown" session="113" type="s" number="1996"/>
+    <bill relation="unknown" session="113" type="s" number="2363"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Birds"/>
+    <term name="Hunting and fishing"/>
+    <term name="Licensing and registrations"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/2014--Public Law.
+Permanent Electronic Duck Stamp Act of 2013 - Grants the Secretary of the Interior permanent authority to authorize any state to issue electronic duck stamps.
+
+Sets forth state electronic duck stamp application requirements. Allows the Secretary to determine the number of new states permitted per year to participate in the electronic duck stamp program.
+
+Instructs the Secretary to require electronic stamp revenue and customer information collected by each state to be transmitted in accordance with a written agreement between the Secretary and the state.</summary>
+</bill>

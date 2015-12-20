@@ -1,0 +1,165 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1862229a0">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend the Communications Act of 1934 to consolidate the reporting obligations of the Federal Communications Commission in order to improve congressional oversight and reduce reporting burdens.;
+   		Federal Communications Commission Consolidated Reporting Act of 2013;H.R. 2844 (EH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-09-10</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend the Communications Act of 1934 to consolidate the reporting obligations of the Federal Communications Commission in order to improve congressional oversight and reduce reporting burdens.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Federal Communications Commission Consolidated Reporting Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2844 (EH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-09-09</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>12 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1862229a0</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2844eh</identifier>
+<identifier type="preferred citation">H.R. 2844</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2844_eh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2844eh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2844eh/html/BILLS-113hr2844eh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2844eh/pdf/BILLS-113hr2844eh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2844eh/xml/BILLS-113hr2844eh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-09-10</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-02</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr2844eh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 450b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 450b</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 47 Section 1302</partNumber>
+  <partNumber>Title 47 Section 1303</partNumber>
+  <partNumber>Title 47 Section 151et seq.</partNumber>
+  <partNumber>Title 47 Section 154</partNumber>
+  <partNumber>Title 47 Section 257</partNumber>
+  <partNumber>Title 47 Section 332(c)(1)(C)</partNumber>
+  <partNumber>Title 47 Section 533(a)(3)</partNumber>
+  <partNumber>Title 47 Section 543</partNumber>
+  <partNumber>Title 47 Section 548</partNumber>
+  <partNumber>Title 47 Section 703</partNumber>
+  <partNumber>Title 47 Section 765e</partNumber>
+</titleInfo>
+ <identifier type="USC citation">47 U.S.C. 1302</identifier>
+ <identifier type="USC citation">47 U.S.C. 1303</identifier>
+ <identifier type="USC citation">47 U.S.C. 151et seq.</identifier>
+ <identifier type="USC citation">47 U.S.C. 154</identifier>
+ <identifier type="USC citation">47 U.S.C. 257</identifier>
+ <identifier type="USC citation">47 U.S.C. 332(c)(1)(C)</identifier>
+ <identifier type="USC citation">47 U.S.C. 533(a)(3)</identifier>
+ <identifier type="USC citation">47 U.S.C. 543</identifier>
+ <identifier type="USC citation">47 U.S.C. 548</identifier>
+ <identifier type="USC citation">47 U.S.C. 703</identifier>
+ <identifier type="USC citation">47 U.S.C. 765e</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 114 Page 57</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">114 Stat.	57</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-34</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-34</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr2844eh</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2844</billNumber>
+ <billVersion reprint="false">eh</billVersion>
+ <fileSuffix>eh</fileSuffix>
+ <shortTitle>Federal Communications Commission Consolidated Reporting Act of 2013</shortTitle>
+ <law congress="109" isPrivate="false" number="34"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="25">
+                      <section number="450b"></section>
+                </USCode>
+ <USCode title="47">
+                      <section number="1302"></section>
+                      <section number="1303"></section>
+                      <section detail="et seq." number="151"></section>
+                      <section number="154"></section>
+                      <section number="257"></section>
+                      <section detail="(c)(1)(C)" number="332"></section>
+                      <section detail="(a)(3)" number="533"></section>
+                      <section number="543"></section>
+                      <section number="548"></section>
+                      <section number="703"></section>
+                      <section number="765e"></section>
+                </USCode>
+ <statuteAtLarge volume="114">
+                      <pages pages="57"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

@@ -1,0 +1,86 @@
+<bill session="113" type="s" number="2440" updated="2015-09-01T17:51:00-04:00">
+  <state datetime="2014-09-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-09-16"/>
+  </status>
+  <introduced datetime="2014-06-05"/>
+  <titles>
+    <title type="short" as="introduced">BLM Permit Processing Improvement Act of 2014</title>
+    <title type="short" as="passed senate">BLM Permit Processing Improvement Act of 2014</title>
+    <title type="official" as="introduced">A bill to expand and extend the program to improve permit coordination by the Bureau of Land Management, and for other purposes.</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2014-06-05"/>
+    <cosponsor id="412330" joined="2014-07-17"/>
+    <cosponsor id="300041" joined="2014-06-05"/>
+    <cosponsor id="300052" joined="2014-06-18"/>
+    <cosponsor id="412281" joined="2014-06-05"/>
+    <cosponsor id="412554" joined="2014-06-05"/>
+    <cosponsor id="412218" joined="2014-06-05"/>
+    <cosponsor id="412494" joined="2014-06-05"/>
+    <cosponsor id="300055" joined="2014-06-05"/>
+    <cosponsor id="412495" joined="2014-06-16"/>
+    <cosponsor id="412244" joined="2014-06-10"/>
+    <cosponsor id="400412" joined="2014-06-05"/>
+    <cosponsor id="412602" joined="2014-06-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 113-491.</text>
+    </action>
+    <action datetime="2014-09-16">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2014-09-16">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S5649" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-09-16" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S5649" label="text"/>
+    </vote>
+    <action datetime="2014-09-17T10:33:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-09-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-09-17T15:42:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="3979"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of the Interior"/>
+    <term name="Government trust funds"/>
+    <term name="Licensing and registrations"/>
+    <term name="Oil and gas"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3822"/>
+  </amendments>
+  <summary>9/16/2014--Passed Senate amended.
+BLM Permit Processing Improvement Act of 2014 - Amends the Energy Policy Act of 2005 to make the Federal Permit Streamlining Project program permanent.
+
+ Amends the Mineral Leasing Act to direct the Secretary of the Interior to collect for each of FY2016-FY2026 a fee of $9,500 for each new application for a drilling permit. Allocates specified percentages of such fees to: (1) the field offices that collected the fees used to process protests, leases, and permits; and (2) the BLM Permit Processing Improvement Fund, now divided into a Rental Account and a Fee Account.
+
+Prohibits the Secretary, during FY2016-FY2026, from implementing a rulemaking that would enable an increase in fees to recover additional costs related to processing applications for drilling permits.
+
+Makes the Fund available to the Secretary for expenditure for the coordination and processing of oil and gas use authorizations on Indian trust mineral estate land (as well as onshore federal land, as under current law).
+
+Directs the Secretary to use: (1) the Rental Account and the Fee Account for this coordination and processing of oil and gas use authorizations, and (2) the Rental Account also for training for development of expertise related to coordinating and processing these authorizations.
+
+Amends the Federal Oil and Gas Royalty Management Act of 1982 to make the rate of interest allowed and paid or credited for any royalty overpayment equal to the sum of the federal short-term rate plus one percentage point.</summary>
+</bill>

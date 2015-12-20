@@ -1,0 +1,138 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-12", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4861-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "DelBene, Suzan K.", 
+      "sponsored_at": "2014-06-12", 
+      "state": "WA", 
+      "thomas_id": "02096", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Kilmer, Derek", 
+      "sponsored_at": "2014-06-12", 
+      "state": "WA", 
+      "thomas_id": "02169", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-12", 
+  "number": "4861", 
+  "official_title": "To establish the Commission on Access to Care to undertake a comprehensive evaluation and assessment of access to health care at the Department of Veterans Affairs.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2413-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2422-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2450-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Commission for Our Veterans' Care Act", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Heck, Denny", 
+    "state": "WA", 
+    "thomas_id": "02170", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-12", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advisory bodies", 
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Government employee pay, benefits, personnel management", 
+    "Government studies and investigations", 
+    "Health care coverage and access", 
+    "Health care quality", 
+    "Health personnel", 
+    "Performance measurement", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-12", 
+    "text": "Commission for Our Veterans' Care Act - Establishes the Commission on Access to Care to undertake a comprehensive evaluation and assessment of access to health care at the Department of Veterans Affairs (VA).\n\nIncludes among the matters to be evaluated and assessed by the Commission:\n\n the appropriateness of the VA's current standards concerning access to health care, the measurement of such standards, the appropriateness of performance standards and incentives in relation to the VA's current standards for access to health care, staffing levels throughout the Veterans Health Administration (VHA) and whether they are sufficient to meet current demand. Directs the President to require the VA Secretary and the heads of other relevant federal agencies to implement each recommendation that the President considers feasible and advisable and determines can be implemented without further legislative action."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Commission for Our Veterans' Care Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Commission on Access to Care to undertake a comprehensive evaluation and assessment of access to health care at the Department of Veterans Affairs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4861:@@@L&summ2=m&"
+}

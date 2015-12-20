@@ -1,0 +1,176 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18820fea4">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Fair Labor Standards Act of 1938 to provide more effective remedies to victims of discrimination in the payment of wages on the basis of sex, and for other purposes.;
+   		Paycheck Fairness Act;S. 2199 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-04-03</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Fair Labor Standards Act of 1938 to provide more effective remedies to victims of discrimination in the payment of wages on the basis of sex, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Paycheck Fairness Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2199 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-04-02</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>22 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18820fea4</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s2199pcs</identifier>
+<identifier type="preferred citation">S. 2199</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2199_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s2199pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2199pcs/html/BILLS-113s2199pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2199pcs/pdf/BILLS-113s2199pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2199pcs/xml/BILLS-113s2199pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-04-03</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s2199pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Barbara A. Mikulski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1001et seq.</partNumber>
+  <partNumber>Title 20 Section 2301et seq.</partNumber>
+  <partNumber>Title 20 Section 6301et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1001et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 2301et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 6301et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 201et seq.</partNumber>
+  <partNumber>Title 29 Section 206(d)</partNumber>
+  <partNumber>Title 29 Section 206(d)(1)</partNumber>
+  <partNumber>Title 29 Section 215(a)(3)</partNumber>
+  <partNumber>Title 29 Section 216(b)</partNumber>
+  <partNumber>Title 29 Section 216(c)</partNumber>
+  <partNumber>Title 29 Section 2801et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 201et seq.</identifier>
+ <identifier type="USC citation">29 U.S.C. 206(d)</identifier>
+ <identifier type="USC citation">29 U.S.C. 206(d)(1)</identifier>
+ <identifier type="USC citation">29 U.S.C. 215(a)(3)</identifier>
+ <identifier type="USC citation">29 U.S.C. 216(b)</identifier>
+ <identifier type="USC citation">29 U.S.C. 216(c)</identifier>
+ <identifier type="USC citation">29 U.S.C. 2801et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 2000aet seq.</partNumber>
+  <partNumber>Title 42 Section 2000e-8</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 2000aet seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000e-8</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 345</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s2199pcs</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2199</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <shortTitle>Paycheck Fairness Act</shortTitle>
+ <action date="2014-04-01">Ms. Mikulski introduced the following bill; which was read the first time</action>
+ <action date="2014-04-02">Read the second time and placed on the calendar</action>
+ <congMember authorityId="802" bioGuideId="M000702" chamber="S" congress="113" gpoId="8240" party="D" role="SPONSOR" state="MD">
+                      <name type="parsed">Ms. Mikulski</name>
+                      <name type="authority-fnf">Barbara A. Mikulski</name>
+                      <name type="authority-lnf">Mikulski, Barbara A.</name>
+                      <name type="authority-other">Barbara Ann Mikulski</name>
+                </congMember>
+ <congCalendar congress="113" number="345" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="20">
+                      <section detail="et seq." number="1001"></section>
+                      <section detail="et seq." number="2301"></section>
+                      <section detail="et seq." number="6301"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="et seq." number="201"></section>
+                      <section detail="(d)" number="206"></section>
+                      <section detail="(d)(1)" number="206"></section>
+                      <section detail="(a)(3)" number="215"></section>
+                      <section detail="(b)" number="216"></section>
+                      <section detail="(c)" number="216"></section>
+                      <section detail="et seq." number="2801"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="2000a"></section>
+                      <section number="2000e-8"></section>
+                </USCode>
+</extension>
+</mods>

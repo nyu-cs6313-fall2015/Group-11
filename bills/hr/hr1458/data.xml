@@ -1,0 +1,71 @@
+<bill session="113" type="h" number="1458" updated="2015-09-01T10:19:22-04:00">
+  <state datetime="2014-06-17T15:11:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-06-17T15:11:00-04:00"/>
+  </status>
+  <introduced datetime="2013-04-10"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 1 Walter Hammond Place in Waldwick, New Jersey, as the "Staff Sergeant Joseph D'Augustine Post Office Building".</title>
+  </titles>
+  <sponsor id="400145"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2013-04-10"/>
+    <cosponsor id="400142" joined="2013-04-10"/>
+    <cosponsor id="400184" joined="2013-04-10"/>
+    <cosponsor id="412290" joined="2013-04-10"/>
+    <cosponsor id="400244" joined="2013-04-10"/>
+    <cosponsor id="400308" joined="2013-04-10"/>
+    <cosponsor id="400309" joined="2013-04-10"/>
+    <cosponsor id="412506" joined="2013-04-10"/>
+    <cosponsor id="412449" joined="2013-04-10"/>
+    <cosponsor id="412186" joined="2013-04-10"/>
+    <cosponsor id="400380" joined="2013-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-10" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-03-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-03-12" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-06-17T15:03:00-04:00">
+      <text>Mr. Meadows moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-06-17T15:03:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5378-5379" label="consideration"/>
+    </action>
+    <action datetime="2014-06-17T15:03:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1458.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-06-17T15:11:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5378" label="text"/>
+    </vote>
+    <action datetime="2014-06-17T15:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-06-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, In Committee"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="New Jersey"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2013--Introduced.
+Designates the facility of the United States Postal Service located at 1 Walter Hammond Place in Waldwick, New Jersey, as the "Staff Sergeant Joseph D'Augustine Post Office Building."</summary>
+</bill>

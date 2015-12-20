@@ -1,0 +1,157 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-18", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4066-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Butterfield, G. K.", 
+      "sponsored_at": "2014-02-28", 
+      "state": "NC", 
+      "thomas_id": "01761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Latta, Robert E.", 
+      "sponsored_at": "2014-02-18", 
+      "state": "OH", 
+      "thomas_id": "01885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Matheson, Jim", 
+      "sponsored_at": "2014-02-18", 
+      "state": "UT", 
+      "thomas_id": "01671", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "sponsored_at": "2014-02-26", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2014-02-18", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-18", 
+  "number": "4066", 
+  "official_title": "To modify the efficiency standards for grid-enabled water heaters.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1739-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2074-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2971-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Whitfield, Ed", 
+    "state": "KY", 
+    "thomas_id": "01222", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-02-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business records", 
+    "Department of Energy", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Energy storage, supplies, demand", 
+    "Fraud offenses and financial crimes", 
+    "Government information and archives", 
+    "Lighting and heating"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-02-18", 
+    "text": "Amends the Energy Policy and Conservation Act (EPCA) to provide additional energy conservation standards applicable to grid-enabled water heaters (those intended for use as part of an electric thermal storage or demand response program).\n\nRequires annual reports from: (1) manufacturers of such water heaters regarding the quantity of the products shipped each year, and (2) utilities and other demand response and thermal storage program operators regarding the quantity of products activated for their programs.\n\nRequires the Secretary of Energy (DOE) to publish analyses of data collected from such reports and to establish procedures to prevent product diversion if sales of the products exceed by at least 15% the quantity activated for use in the demand response and thermal storage programs annually.\n\nMaintains the standards and publication procedures established by this Act until the Secretary determines that such water heaters do not require a separate efficiency requirement.\n\nRequires the Secretary to consider the impact of EPCA electric water heater standards on thermal storage and demand response programs, including on energy savings, electric bills, electric reliability, integration of renewable resources, and the environment.\n\nMakes unlawful, with respect to grid-enabled water heaters not used as part of an electric thermal storage or demand response program, the knowing and repeated distribution of activation keys, enabling of full operation of the products, or removing or making illegible their labels."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To modify the efficiency standards for grid-enabled water heaters.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:25-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4066:@@@L&summ2=m&"
+}

@@ -1,0 +1,548 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-06", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-07", 
+      "references": [
+        {
+          "reference": "CR S2785-2786", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2295-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Alexander, Lamar", 
+      "sponsored_at": "2014-05-06", 
+      "state": "TN", 
+      "thomas_id": "01695", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Barrasso, John", 
+      "sponsored_at": "2014-05-07", 
+      "state": "WY", 
+      "thomas_id": "01881", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boozman, John", 
+      "sponsored_at": "2014-05-21", 
+      "state": "AR", 
+      "thomas_id": "01687", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Burr, Richard", 
+      "sponsored_at": "2014-05-08", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-05-06", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2014-05-13", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cochran, Thad", 
+      "sponsored_at": "2014-05-06", 
+      "state": "MS", 
+      "thomas_id": "00213", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-05-06", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Crapo, Mike", 
+      "sponsored_at": "2014-05-06", 
+      "state": "ID", 
+      "thomas_id": "00250", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Donnelly, Joe", 
+      "sponsored_at": "2014-05-06", 
+      "state": "IN", 
+      "thomas_id": "01850", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-05-21", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Enzi, Michael B.", 
+      "sponsored_at": "2014-05-13", 
+      "state": "WY", 
+      "thomas_id": "01542", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Franken, Al", 
+      "sponsored_at": "2014-05-15", 
+      "state": "MN", 
+      "thomas_id": "01969", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "sponsored_at": "2014-05-13", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Graham, Lindsey", 
+      "sponsored_at": "2014-05-06", 
+      "state": "SC", 
+      "thomas_id": "00452", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "sponsored_at": "2014-05-06", 
+      "state": "IA", 
+      "thomas_id": "00457", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2014-05-12", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hatch, Orrin G.", 
+      "sponsored_at": "2014-05-21", 
+      "state": "UT", 
+      "thomas_id": "01351", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heinrich, Martin", 
+      "sponsored_at": "2014-05-14", 
+      "state": "NM", 
+      "thomas_id": "01937", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heitkamp, Heidi", 
+      "sponsored_at": "2014-05-14", 
+      "state": "ND", 
+      "thomas_id": "02174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2014-05-15", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hoeven, John", 
+      "sponsored_at": "2014-05-21", 
+      "state": "ND", 
+      "thomas_id": "02079", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johanns, Mike", 
+      "sponsored_at": "2014-05-06", 
+      "state": "NE", 
+      "thomas_id": "01899", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johnson, Tim", 
+      "sponsored_at": "2014-05-07", 
+      "state": "SD", 
+      "thomas_id": "00604", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2014-05-15", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lee, Mike", 
+      "sponsored_at": "2014-05-06", 
+      "state": "UT", 
+      "thomas_id": "02080", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Manchin, Joe, III", 
+      "sponsored_at": "2014-05-06", 
+      "state": "WV", 
+      "thomas_id": "01983", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-05-06", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2014-05-07", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2014-06-17", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "2014-05-06", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Moran, Jerry", 
+      "sponsored_at": "2014-05-07", 
+      "state": "KS", 
+      "thomas_id": "01507", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pryor, Mark L.", 
+      "sponsored_at": "2014-05-07", 
+      "state": "AR", 
+      "thomas_id": "01701", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Risch, James E.", 
+      "sponsored_at": "2014-05-06", 
+      "state": "ID", 
+      "thomas_id": "01896", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Roberts, Pat", 
+      "sponsored_at": "2014-05-06", 
+      "state": "KS", 
+      "thomas_id": "00968", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rockefeller, John D., IV", 
+      "sponsored_at": "2014-05-13", 
+      "state": "WV", 
+      "thomas_id": "01424", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "sponsored_at": "2014-05-21", 
+      "state": "FL", 
+      "thomas_id": "02084", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2014-05-22", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "sponsored_at": "2014-05-08", 
+      "state": "HI", 
+      "thomas_id": "02173", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2014-05-22", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2014-05-12", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Tester, Jon", 
+      "sponsored_at": "2014-05-06", 
+      "state": "MT", 
+      "thomas_id": "01829", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Thune, John", 
+      "sponsored_at": "2014-05-12", 
+      "state": "SD", 
+      "thomas_id": "01534", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Toomey, Pat", 
+      "sponsored_at": "2014-06-12", 
+      "state": "PA", 
+      "thomas_id": "02085", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Walsh, John E.", 
+      "sponsored_at": "2014-05-06", 
+      "state": "MT", 
+      "thomas_id": "02198", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "sponsored_at": "2014-05-21", 
+      "state": "MA", 
+      "thomas_id": "02182", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wicker, Roger F.", 
+      "sponsored_at": "2014-05-12", 
+      "state": "MS", 
+      "thomas_id": "01226", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "sponsored_at": "2014-05-06", 
+      "state": "OR", 
+      "thomas_id": "01247", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-06", 
+  "number": "2295", 
+  "official_title": "A bill to establish the National Commission on the Future of the Army, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3930-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2410-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "National Commission on the Future of the Army Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-05-06", 
+  "subjects": [
+    "Advisory bodies", 
+    "Appropriations", 
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Defense spending", 
+    "Department of Defense", 
+    "Disaster relief and insurance", 
+    "Executive agency funding and structure", 
+    "Government studies and investigations", 
+    "Homeland security", 
+    "Military civil functions", 
+    "Military command and structure", 
+    "Military education and training", 
+    "Military facilities and property", 
+    "Military personnel and dependents", 
+    "Military readiness", 
+    "National Guard and reserves"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-05-06", 
+    "text": "National Commission on the Future of the Army Act of 2014 - Prohibits the use of funds made available for FY2015 for the Army to: (1) reduce Army personnel below the authorized fiscal year end strengths of 450,000 for active duty personnel of the Army, 345,000 for the Army National Guard, and 195,000 for the Army Reserve; or (2) divest, retire, or transfer any AH-64 Apache aircraft assigned to units of the Army National Guard as of January 15, 2014, or to reduce related personnel below the levels of such personnel as of September 30, 2014.\n\nDirects the Secretary of the Army to ensure the continuing readiness of the AH-64 Apache aircraft and crews during FY2015.\n\nPermits the use of such funds, after the Commission established by this Act submits its interim report, to prepare for the transfer of not more than 72 AH-64 Apache aircraft from the Army National Guard to the regular Army if the Secretary of Defense (DOD) certifies that such a transfer would not: (1) degrade the strategic depth or regeneration capacities of the Army, (2) degrade the Army National Guard in its role as the combat reserve of the Army, and (3) occur before October 1, 2014.\n\nEstablishes the National Commission on the Future of the Army, which shall: (1) undertake a comprehensive study of the structure of the Army and policy assumptions related to its size and force mixture in order to make recommendations on how the structure should be modified to best fulfill mission requirements in a manner consistent with available resources, and (2) submit a final report to the President and the congressional defense committees by February 1, 2016. Directs the Commission to study and submit an interim report on the feasibility and advisability of a partial transfer of Army National Guard AH-64 Apache aircraft from the Army National Guard to the regular Army."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Commission on the Future of the Army Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish the National Commission on the Future of the Army, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2295:@@@L&summ2=m&"
+}

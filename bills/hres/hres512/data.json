@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-11", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres512-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-11", 
+  "number": "512", 
+  "official_title": "Recognizing linemen, the profession of linemen, the contributions of these brave men and women who protect public safety, and expressing support for the designation of March 31, 2014, as National Lineman Appreciation Day.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres25-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres553-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "sres95-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "5", 
+    "name": "Mulvaney, Mick", 
+    "state": "SC", 
+    "thomas_id": "02059", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-03-11", 
+  "subjects": [
+    "Commemorative events and holidays", 
+    "Congressional tributes", 
+    "Electric power generation and transmission", 
+    "Energy"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-03-11", 
+    "text": "Recognizes the efforts of linemen in keeping the electrical power on and protecting public safety.\n\n Expresses support for the designation of National Linemen Appreciation Day."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Recognizing linemen, the profession of linemen, the contributions of these brave men and women who protect public safety, and expressing support for the designation of March 31, 2014, as National Lineman Appreciation Day.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:18:41-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE512:@@@L&summ2=m&"
+}

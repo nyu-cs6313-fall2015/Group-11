@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-01", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-21", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 27.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4539-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Financial Institutions and Consumer Credit", 
+      "subcommittee_id": "15"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-21", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-01", 
+  "number": "4539", 
+  "official_title": "To require the Bureau of Consumer Financial Protection, when issuing a research paper, to include all studies, data, and other analyses on which the paper was based.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Bureau Research Transparency Act", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Fitzpatrick, Michael G.", 
+    "state": "PA", 
+    "thomas_id": "01797", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-06-11", 
+  "subjects": [
+    "Consumer affairs", 
+    "Consumer credit", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-05-01", 
+    "text": "Bureau Research Transparency Act - Amends the Consumer Financial Protection Act of 2010 to require the Consumer Financial Protection Bureau (CFPB), any time it issues a research paper available to the public, to accompany it with all studies, data, and other analyses on which it was based."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bureau Research Transparency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Bureau of Consumer Financial Protection, when issuing a research paper, to include all studies, data, and other analyses on which the paper was based.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:36-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4539:@@@L&summ2=m&"
+}

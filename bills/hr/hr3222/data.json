@@ -1,0 +1,238 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-09-30", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-10-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-26", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Public Lands and Environmental Regulation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-04-01T14:51:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-395.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-01T14:52:00-04:00", 
+      "calendar": "Union", 
+      "number": "294", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 294.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-09-15T19:23:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-15T19:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7494-7495", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-15T19:23:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3222.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-15T19:29:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7494", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-09-15T19:29:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-16", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3222-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Holt, Rush", 
+      "sponsored_at": "2014-03-13", 
+      "state": "NJ", 
+      "thomas_id": "01580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-02-26", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-09-15T19:29:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-09-30", 
+  "number": "3222", 
+  "official_title": "To authorize the Secretary of the Interior to conduct a special resource study of sites associated with the 1657 signing of the Flushing Remonstrance in Queens, New York, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Flushing Remonstrance Study Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Meng, Grace", 
+    "state": "NY", 
+    "thomas_id": "02148", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-09-15T19:29:00-04:00", 
+  "subjects": [
+    "Government studies and investigations", 
+    "Historic sites and heritage areas", 
+    "Historical and cultural resources", 
+    "New York City", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Religion"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-09-15", 
+    "text": "Flushing Remonstrance Study Act - Directs the Secretary of the Interior to conduct a special resource study of the John Bowne House in Queens, New York, the Friends Meeting House at 137-17 Northern Boulevard, Queens, and other resources in the vicinity of Flushing related to the history of religious freedom during the era of the 1657 signing of the Flushing Remonstrance (the study area).\n\nRequires the Secretary to: (1) evaluate the national significance of the study area's resources; (2) determine the suitability and feasibility of designating resources within the study area as a unit of the National Park System (NPS); (3) identify properties related to the John Bowne House that could potentially meet criteria for designation as a National Historic Landmark; (4) evaluate the impact of the proposed action on the flow of commerce and commercial activity, job opportunities, and any adverse economic effects that could not be avoided if the proposal is implemented; (5) analyze the effect of the designation of the study area as an NPS unit on existing recreational activities, and on the authorization, construction, operation, maintenance, or improvement of energy production and transmission infrastructure, and the authority of state and local governments to manage those activities; and (6) identify any authorities, including condemnation, that will compel or permit the Secretary to influence or participate in local land use decisions (such as zoning) or place restrictions on non-federal lands if the study area is designated as an NPS unit.\n\nRequires the owners of private property in or adjacent to the study area to be notified of such study's commencement and scope."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Flushing Remonstrance Study Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Flushing Remonstrance Study Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Flushing Remonstrance Study Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Secretary of the Interior to conduct a special resource study of sites associated with the 1657 signing of the Flushing Remonstrance in Queens, New York, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:02-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3222:@@@L&summ2=m&"
+}

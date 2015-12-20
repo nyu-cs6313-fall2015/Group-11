@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="5695" updated="2015-09-01T10:21:04-04:00">
+  <state datetime="2014-11-12">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-12"/>
+  </status>
+  <introduced datetime="2014-11-12"/>
+  <titles>
+    <title type="short" as="introduced">Treason and Passport Revocation Act of 2014</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to include foreign terrorist organizations as enemies of the United States for purposes of treason, and for other purposes.</title>
+  </titles>
+  <sponsor id="412522"/>
+  <cosponsors>
+    <cosponsor id="412523" joined="2014-11-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-12" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-11-12">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-11-12">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2014-12-09">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2014-12-09">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5406"/>
+    <bill relation="unknown" session="113" type="h" number="5408"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Espionage and treason"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Terrorism"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="5865" updated="2015-09-01T10:21:07-04:00">
+  <state datetime="2014-12-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-12-11"/>
+  </status>
+  <introduced datetime="2014-12-11"/>
+  <titles>
+    <title type="short" as="introduced">CAM Act of 2014</title>
+    <title type="short" as="introduced">Camera Authorization and Maintenance Act of 2014</title>
+    <title type="official" as="introduced">To establish a grant program providing for the acquisition, operation, and maintenance of body-worn cameras for law enforcement officers.</title>
+  </titles>
+  <sponsor id="400639"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-11" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-12-11">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-12-11">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2014-12-18">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

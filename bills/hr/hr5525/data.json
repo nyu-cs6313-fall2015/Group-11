@@ -1,0 +1,151 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-10-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-10-28", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5525-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2014-09-18", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "CA", 
+      "thomas_id": "02113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2014-09-18", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "5525", 
+  "official_title": "To amend the Lobbying Disclosure Act of 1995 to require the disclosure of political intelligence activities, to amend title 18, United States Code, to provide for restrictions on former officers, employees, and elected officials of the executive and legislative branches regarding political intelligence contacts, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Political Intelligence Transparency Act of 2014", 
+  "sponsor": {
+    "district": "25", 
+    "name": "Slaughter, Louise McIntosh", 
+    "state": "NY", 
+    "thomas_id": "01069", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Commodities markets", 
+    "Congressional operations and organization", 
+    "Federal officials", 
+    "Financial services and investments", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Licensing and registrations", 
+    "Members of Congress", 
+    "Public participation and lobbying", 
+    "Securities"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Political Intelligence Transparency Act of 2014 - Amends the Lobbying Disclosure Act of 1995 (LDA) to require the disclosure of political intelligence activities, particularly relating to information useful for analyzing securities or commodities markets.\n\nRequires political intelligence consultants or their employing organizations to register with the Secretary of the Senate and the Clerk of the House of Representatives, and make quarterly reports on political intelligence activities.\n\nRequires any person or entity that makes an oral or written political intelligence contact with a covered legislative branch or executive branch official on the official's request to: (1) state whether such person or entity is registered under the LDA, (2) identify the client on behalf of whom the contact is made, and (3) state whether such client is a foreign entity, and make any related disclosures.\n\nAmends the federal criminal code to subject to a fine or imprisonment, or both, certain former officers, employees, and elected officials of the executive and legislative branches who knowingly make any communication to or appearance before any officer or employee of a federal or District of Columbia agency or court in violation of certain permanent or temporary restrictions, and with the intent to gain information for use in analyzing securities or commodities markets, or in informing investment decisions in these markets.\n\nExcludes from such prohibition any communication made by a representative of a media organization to gather and disseminate news and information to the public."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Political Intelligence Transparency Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Lobbying Disclosure Act of 1995 to require the disclosure of political intelligence activities, to amend title 18, United States Code, to provide for restrictions on former officers, employees, and elected officials of the executive and legislative branches regarding political intelligence contacts, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:01-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5525:@@@L&summ2=m&"
+}

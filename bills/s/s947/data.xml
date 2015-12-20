@@ -1,0 +1,61 @@
+<bill session="113" type="s" number="947" updated="2015-09-01T10:21:47-04:00">
+  <state datetime="2013-12-17">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2013-12-17"/>
+  </status>
+  <introduced datetime="2013-05-14"/>
+  <titles>
+    <title type="short" as="introduced">SAFE Act Confidentiality and Privilege Enhancement Act</title>
+    <title type="short" as="passed senate">SAFE Act Confidentiality and Privilege Enhancement Act</title>
+    <title type="official" as="introduced">A bill to ensure access to certain information for financial services industry regulators, and for other purposes.</title>
+  </titles>
+  <sponsor id="412324"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2013-12-11"/>
+    <cosponsor id="412554" joined="2013-06-13"/>
+    <cosponsor id="412320" joined="2013-05-14"/>
+    <cosponsor id="300058" joined="2013-12-11"/>
+    <cosponsor id="412391" joined="2013-05-14"/>
+    <cosponsor id="412325" joined="2013-05-15"/>
+    <cosponsor id="400408" joined="2013-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2013-12-17">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S8817" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-12-17" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8917" label="text"/>
+    </vote>
+    <action datetime="2013-12-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-12-19T11:02:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-12-19">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Discharged, In Committee"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="4626"/>
+    <bill relation="unknown" session="113" type="h" number="4626"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Financial services and investments"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>12/17/2013--Passed Senate without amendment.
+SAFE Act Confidentiality and Privilege Enhancement Act - Amends the S.A.F.E. Mortgage Licensing Act of 2008 to extend to state and federal regulatory officials having financial services oversight authority (currently only those having mortgage oversight authority) access to any information provided to the Nationwide Mortgage Licensing System and Registry (or any system established by the Director of the Consumer Financial Protection Bureau [CFPB]) without the loss of privilege or confidentiality protections provided by federal and state laws.</summary>
+</bill>

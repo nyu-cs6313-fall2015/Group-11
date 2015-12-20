@@ -1,0 +1,242 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-10-23", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-10-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-09", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Public Lands and Environmental Regulation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-12T17:00:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-615.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-12T17:02:00-05:00", 
+      "calendar": "Union", 
+      "number": "457", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 457.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-11-13T12:29:00-05:00", 
+      "references": [], 
+      "text": "Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T12:29:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7949-7950", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T12:29:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3326.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13T12:33:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7949", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-11-13T12:33:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3326-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "LaMalfa, Doug", 
+      "sponsored_at": "2013-12-19", 
+      "state": "CA", 
+      "thomas_id": "02100", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-09-09", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-11-13T12:33:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-10-23", 
+  "number": "3326", 
+  "official_title": "To provide for an exchange of land between the United States and the Trinity Public Utilities District of Trinity County, California, involving a parcel of National Forest System land in Shasta-Trinity National Forest.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3979-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Trinity County Land Exchange Act of 2014", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Huffman, Jared", 
+    "state": "CA", 
+    "thomas_id": "02101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-11-13T12:33:00-05:00", 
+  "subjects": [
+    "California", 
+    "Forests, forestry, trees", 
+    "Land transfers", 
+    "Public lands and natural resources", 
+    "Public utilities and utility rates"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-11-13", 
+    "text": "Trinity County Land Exchange Act of 2014 - Provides for the exchange of approximately 47 acres of land known as the Sky Ranch Parcel and owned by the Trinity Public Utilities District of Trinity County, California, for approximately 100 acres of land in the Shasta-Trinity National Forest near the Weaverville Airport in Trinity County.\n\nIntends for such land exchange to be an equal value exchange. Provides for cash equalization if the parcels are not of equal value. Requires any cash equalization payment received under this Act to be deposited into the fund established under the Sisk Act and the deposited amounts to be used for the improvement, maintenance, reconstruction, or construction of a facility or improvement for the National Forest System.\n\nRequires the Bureau of Land Management (BLM) to administer the Sky Ranch parcel as public land, except that public recreation and public access to and for recreation shall be the highest and best use of such parcel."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Trinity County Land Exchange Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Trinity County Land Exchange Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Trinity County Land Exchange Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for an exchange of land between the United States and the Trinity Public Utilities District of Trinity County, California, involving a parcel of National Forest System land in Shasta-Trinity National Forest.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T17:49:20-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3326:@@@L&summ2=m&"
+}

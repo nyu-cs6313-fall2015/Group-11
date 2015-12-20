@@ -1,0 +1,303 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-03-25", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-04-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-04-10", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-04-25", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-04-25", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-10T14:18:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7615", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-10T14:18:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7614-7617", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-10T14:18:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1402.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-10T14:30:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-10T16:27:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7618-7619", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-10T16:34:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7615-7616", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "631", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 353 - 0 (Roll no. 631).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2013-12-10T16:34:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-11", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-18", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8964", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2013-12-19", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-19", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2013-12-20", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2013-12-20", 
+      "congress": "113", 
+      "law": "public", 
+      "number": "59", 
+      "references": [], 
+      "text": "Became Public Law No: 113-59.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1402-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2013-05-15", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "sponsored_at": "2013-03-25", 
+      "state": "CA", 
+      "thomas_id": "02110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "113", 
+    "law_type": "public", 
+    "number": "59"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-04-10", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2013-12-20", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2013-12-10T16:34:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2013-12-18", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-03-25", 
+  "number": "1402", 
+  "official_title": "To amend title 38, United States Code, to extend certain expiring provisions of law, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s695-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "VA Expiring Authorities Extension Act of 2013", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Coffman, Mike", 
+    "state": "CO", 
+    "thomas_id": "01912", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2013-12-20", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Athletes", 
+    "Disability assistance", 
+    "Olympic games", 
+    "Veterans' pensions and compensation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2013-12-20", 
+    "text": "(This measure has not been amended since it was passed by the House on December 10, 2013. The summary of that version is repeated here.)\n\nVA Expiring Authorities Extension Act of 2013 - (Sec. 4) Extends through FY2015 the authorization of appropriations to the Department of Veterans Affairs (VA) for: (1) payment by the VA Secretary of a monthly assistance allowance to disabled veterans (veterans) and members of the Armed Forces (members) training or competing for the U.S. Paralympic Team, and (2) a program for establishing and carrying out related programs and events.\n\n(Sec. 5) Allows any entity with significant experience in managing large-scale adaptive sports programs (under current law, only the United States Olympic Committee) to receive VA grants for planning, developing, managing, and implementing programs to provide adaptive sports opportunities for veterans and members. Extends funding assistance to include any such opportunities occurring during FY2010-FY2016. Requires a report from the Comptroller General on the use of such funds during the first program year after the date of enactment of this Act.\n\n(Sec. 6) Extends through 2014: (1) VA authority to transport individuals to and from VA facilities in connection with vocational rehabilitation, counseling, examination, treatment, or care; (2) VA authority to operate a regional office in the Republic of the Philippines; (3) the VA requirement to provide nursing home care to any veteran with a service-connected disability rated at 70% or more and in need of such care; (4) VA authority to provide treatment, rehabilitation, and related services for seriously mentally ill and homeless veterans; (5) VA authority to provide expanded services and housing assistance to homeless veterans; (6) the Advisory Committee on Homeless Veterans; (7) the Veterans' Advisory Commission on Education; and (8) the temporary authority for the performance of VA medical disability examinations by contract physicians.\n\n(Sec. 13) Extends through FY2014 VA requirements resulting from default on VA-guaranteed loans."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Paralympic Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "VA Expiring Authorities Extension Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "VA Expiring Authorities Extension Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "VA Expiring Authorities Extension Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to extend the authorization of appropriations for the Secretary of Veterans Affairs to pay a monthly assistance allowance to disabled veterans training or competing for the Paralympic Team and the authorization of appropriations for the Secretary of Veterans Affairs to provide assistance to United States Paralympics, Inc.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to extend certain expiring provisions of law, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:19:21-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR1402:@@@L&summ2=m&"
+}

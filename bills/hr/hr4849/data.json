@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-12", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4849-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-12", 
+  "number": "4849", 
+  "official_title": "To amend the Clean Air Act to allow advanced biofuel, biomass-based diesel, and cellulosic biofuel to satisfy the mandates of the renewable fuel program only if domestically produced, to eliminate the corn ethanol mandate under such program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1807-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Phantom Fuels Elimination Act of 2014", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lankford, James", 
+    "state": "OK", 
+    "thomas_id": "02050", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-12", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Air quality", 
+    "Alternative and renewable resources", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Motor fuels"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-12", 
+    "text": "Phantom Fuels Elimination Act of 2014 - Amends the Clean Air Act to revise the renewable fuel program by requiring advanced biofuel, biomass-based diesel, and cellulosic biofuel to be produced in the United States.\n\nDirects the Environmental Protection Agency (EPA), for any year in which the projected volume of advanced biofuel and biomass-based diesel production is less than the applicable volume standard established under the program, to reduce the volume of advanced biofuel and biomass-based diesel required to be blended into transportation fuel to the projected volume available for that year.\n\nDirects the Energy Information Administration to provide the EPA an estimate, with respect to the following year, of the volumes of advanced biofuel projected to be sold or introduced into commerce.\n\nEliminates the volume standards under the program applicable to corn-starch ethanol."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Phantom Fuels Elimination Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Clean Air Act to allow advanced biofuel, biomass-based diesel, and cellulosic biofuel to satisfy the mandates of the renewable fuel program only if domestically produced, to eliminate the corn ethanol mandate under such program, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4849:@@@L&summ2=m&"
+}

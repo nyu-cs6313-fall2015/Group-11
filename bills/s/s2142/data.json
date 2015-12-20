@@ -1,0 +1,316 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-13", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-20", 
+      "committees": [
+        "SSFR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Foreign Relations. Ordered to be reported with an amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "committee": "Foreign Relations", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Relations. Reported by Senator Menendez with amendments. With written report No. 113-175.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "calendar": "Senate Legislative", 
+      "number": "401", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 401.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-12-08", 
+      "references": [
+        {
+          "reference": "CR S6396-6398", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-08", 
+      "how": "by Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S6396-6398", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-12-09T10:42:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-09T15:57:00-05:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T18:26:00-05:00", 
+      "references": [], 
+      "text": "Ms. Ros-Lehtinen moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T18:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9020-9023", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T18:26:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 2142.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T18:42:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9020-9021", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-10T18:42:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-12", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2014-12-18", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2014-12-18", 
+      "congress": "113", 
+      "law": "public", 
+      "number": "278", 
+      "references": [], 
+      "text": "Became Public Law No: 113-278.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3974-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3974"
+    }
+  ], 
+  "bill_id": "s2142-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2014-03-13", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCain, John", 
+      "sponsored_at": "2014-04-09", 
+      "state": "AZ", 
+      "thomas_id": "00754", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Nelson, Bill", 
+      "sponsored_at": "2014-03-13", 
+      "state": "FL", 
+      "thomas_id": "00859", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "sponsored_at": "2014-03-13", 
+      "state": "FL", 
+      "thomas_id": "02084", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "113", 
+    "law_type": "public", 
+    "number": "278"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-22", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2014-12-18", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-10T18:42:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-13", 
+  "number": "2142", 
+  "official_title": "A bill to impose targeted sanctions on persons responsible for violations of human rights of antigovernment protesters in Venezuela, to strengthen civil society in Venezuela, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Venezuela Defense of Human Rights and Civil Society Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2014-12-18", 
+  "subjects": [
+    "Congressional oversight", 
+    "Detention of persons", 
+    "Europe", 
+    "European Union", 
+    "Foreign property", 
+    "Human rights", 
+    "International affairs", 
+    "Internet and video services", 
+    "Judicial procedure and administration", 
+    "Latin America", 
+    "News media and reporting", 
+    "Protest and dissent", 
+    "Rule of law and government transparency", 
+    "Sanctions", 
+    "Venezuela", 
+    "Violent crime", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2014-12-18", 
+    "text": "Venezuela Defense of Human Rights and Civil Society Act of 2014 - (Sec. 3) Expresses the sense of Congress that:\n\n the United States aspires to a mutually beneficial relationship with Venezuela based on respect for human rights and the rule of law, and a productive relationship on issues of public security, including counter narcotics and counterterrorism; the United States supports the efforts of the people of Venezuela to realize their economic potential and advance representative democracy; the government of Venezuela's mismanagement of its economy has produced conditions of economic hardship; the government's failure to guarantee public security has led Venezuela to become one of the most violent countries in the world; the government continues to remove checks and balances on the executive, politicize the judiciary, undermine the independence of the legislature, persecute its political opponents, curtail freedom of the press, and limit the free expression of its citizens; the people of Venezuela have turned out in demonstrations throughout the country to protest the government's inability to ensure their political and economic well-being; and the use of violence by the National Guard and security personnel is intolerable and the use of unprovoked violence by protesters is also a matter of serious concern. (Sec. 4) States that it is U.S. policy to:\n\n support the people of Venezuela in their aspiration to live under peace and representative democracy, work with the Organization of American States (OAS) and the European Union (EU) to ensure the peaceful resolution of the situation in Venezuela and the cessation of violence against antigovernment protestors, hold accountable government and security officials in Venezuela responsible for or complicit in the use of force against antigovernment protests, and support the development of democratic political processes and independent civil society in Venezuela. (Sec. 5) Directs the President to impose U.S. asset blocking and U.S. exclusion sanctions against any person, including a current or former government of Venezuela official or a person acting on behalf of such government, who has:\n\n perpetrated or is responsible for otherwise directing significant acts of violence or serious human rights abuses against persons associated with the antigovernment protests in Venezuela that began on February 4, 2014; directed or ordered the arrest or prosecution of a person primarily because of the person's legitimate exercise of freedom of expression or assembly; or knowingly materially assisted or provided significant financial, material, or technological support for the commission of such acts. Sets forth related penalty requirements.\n\nStates that: (1) asset blocking sanctions shall not authorize the imposition of sanctions on imported goods, and (2) U.S. exclusion sanctions shall not apply if necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations or other applicable international obligations.\n\nAuthorizes the President to waive sanctions if in U.S. national security interests, and with congressional notification.\n\n Terminates the requirement to impose sanctions on December 31, 2016.\n\n(Sec. 6) Directs the Chairman of the Broadcasting Board of Governors to report to Congress:\n\n an evaluation of the governmental, political, and technological obstacles faced by the people of Venezuela in their efforts to obtain accurate news and information; an assessment of efforts relating to broadcasting, information distribution, and circumvention technology distribution in Venezuela by the U.S. government and otherwise; and a strategy for expanding such efforts in Venezuela."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Venezuela Defense of Human Rights and Civil Society Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Venezuela Defense of Human Rights and Civil Society Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Venezuela Defense of Human Rights and Civil Society Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Venezuela Defense of Human Rights and Civil Society Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Venezuela Defense of Human Rights and Civil Society Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to impose targeted sanctions on persons responsible for violations of human rights of antigovernment protesters in Venezuela, to strengthen civil society in Venezuela, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2142:@@@L&summ2=m&"
+}

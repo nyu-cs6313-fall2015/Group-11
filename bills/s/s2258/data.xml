@@ -1,0 +1,104 @@
+<bill session="113" type="s" number="2258" updated="2015-09-01T10:22:16-04:00">
+  <state datetime="2014-09-26">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-09-26"/>
+  </status>
+  <introduced datetime="2014-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Compensation Cost-of-Living Adjustment Act of 2014</title>
+    <title type="short" as="passed house">Veterans' Compensation Cost-of-Living Adjustment Act of 2014</title>
+    <title type="short" as="passed senate">Veterans' Compensation Cost-of-Living Adjustment Act of 2014</title>
+    <title type="short" as="enacted">Veterans' Compensation Cost-of-Living Adjustment Act of 2014</title>
+    <title type="official" as="introduced">A bill to provide for an increase, effective December 1, 2014, in the rates of compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for the survivors of certain disabled veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="412326"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2014-04-28"/>
+    <cosponsor id="400040" joined="2014-04-28"/>
+    <cosponsor id="400050" joined="2014-04-28"/>
+    <cosponsor id="400054" joined="2014-04-28"/>
+    <cosponsor id="412324" joined="2014-09-11"/>
+    <cosponsor id="412218" joined="2014-04-28"/>
+    <cosponsor id="412200" joined="2014-04-28"/>
+    <cosponsor id="400194" joined="2014-04-28"/>
+    <cosponsor id="412320" joined="2014-04-28"/>
+    <cosponsor id="300063" joined="2014-09-11"/>
+    <cosponsor id="300072" joined="2014-09-10"/>
+    <cosponsor id="400284" joined="2014-04-28"/>
+    <cosponsor id="300076" joined="2014-04-28"/>
+    <cosponsor id="300080" joined="2014-09-09"/>
+    <cosponsor id="300084" joined="2014-04-28"/>
+    <cosponsor id="400357" joined="2014-04-28"/>
+    <cosponsor id="412244" joined="2014-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-09-11">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S5570-5571" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-09-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5571" label="text"/>
+    </vote>
+    <action datetime="2014-09-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-09-15T14:09:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-09-15T18:23:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2014-09-16T19:44:00-04:00">
+      <text>Mr. Lamborn moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-09-16T19:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7587-7588" label="consideration"/>
+    </action>
+    <action datetime="2014-09-16T19:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2258.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2014-09-16T19:52:00-04:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7587" label="text"/>
+    </vote>
+    <action datetime="2014-09-16T19:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2014-09-18">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-09-26" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-181" type="public" datetime="2014-09-26">
+      <text>Became Public Law No: 113-181.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="357"/>
+    <bill relation="unknown" session="113" type="h" number="569"/>
+    <bill relation="unknown" session="113" type="h" number="570"/>
+    <bill relation="unknown" session="113" type="h" number="4095"/>
+    <bill relation="unknown" session="113" type="h" number="4096"/>
+    <bill relation="unknown" session="113" type="s" number="893"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability assistance"/>
+    <term name="Inflation and prices"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2014--Public Law.
+Veterans' Compensation Cost-of-Living Adjustment Act of 2014 - Directs the Secretary of Veterans Affairs (VA) to increase, as of December 1, 2014, the rates of veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children.
+
+Requires each such increase to be the same percentage as the increase in benefits provided under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act, on the same effective date.</summary>
+</bill>

@@ -1,0 +1,145 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18994b8fc">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To establish a demonstration program for competency-based education.;
+   		Advancing Competency-Based Education Demonstration Project Act of 2014;H.R. 3136 (RFS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-07-28</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To establish a demonstration program for competency-based education.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Advancing Competency-Based Education Demonstration Project Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3136 (RFS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-07-24</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>24 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18994b8fc</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3136rfs</identifier>
+<identifier type="preferred citation">H.R. 3136</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3136_rfs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3136rfs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3136rfs/html/BILLS-113hr3136rfs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3136rfs/pdf/BILLS-113hr3136rfs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3136rfs/xml/BILLS-113hr3136rfs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-07-28</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-07-29</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr3136rfs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1001et seq.</partNumber>
+  <partNumber>Title 20 Section 1002</partNumber>
+  <partNumber>Title 20 Section 1088et seq.</partNumber>
+  <partNumber>Title 20 Section 1090</partNumber>
+  <partNumber>Title 20 Section 1098</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1001et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 1002</identifier>
+ <identifier type="USC citation">20 U.S.C. 1088et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 1090</identifier>
+ <identifier type="USC citation">20 U.S.C. 1098</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr3136rfs</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>3136</billNumber>
+ <billVersion reprint="false">rfs</billVersion>
+ <fileSuffix>rfs</fileSuffix>
+ <shortTitle>Advancing Competency-Based Education Demonstration Project Act of 2014</shortTitle>
+ <action date="2014-07-24">Received; read twice and referred to the Committee on Health, Education, Labor, and Pensions</action>
+ <congCommittee authorityId="sshr00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+                      <name type="authority-short">HELP</name>
+                </congCommittee>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="20">
+                      <section detail="et seq." number="1001"></section>
+                      <section number="1002"></section>
+                      <section detail="et seq." number="1088"></section>
+                      <section number="1090"></section>
+                      <section number="1098"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="5397" updated="2015-09-01T10:20:59-04:00">
+  <state datetime="2014-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-08-01"/>
+  </status>
+  <introduced datetime="2014-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Yosemite National Park Public Access Preservation and Boundary Modification Act</title>
+    <title type="official" as="introduced">To modify the boundary of Yosemite National Park, and for other purposes.</title>
+  </titles>
+  <sponsor id="412295"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-08-19">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1677"/>
+    <bill relation="unknown" session="113" type="s" number="781"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Fires"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Property rights"/>
+  </subjects>
+  <amendments/>
+</bill>

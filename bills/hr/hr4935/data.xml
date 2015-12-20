@@ -1,0 +1,93 @@
+<bill session="113" type="h" number="4935" updated="2015-09-01T10:20:47-04:00">
+  <state datetime="2014-07-25T12:38:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-25T12:38:00-04:00"/>
+  </status>
+  <introduced datetime="2014-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Child Tax Credit Improvement Act of 2014</title>
+    <title type="short" as="reported to house">Child Tax Credit Improvement Act of 2014</title>
+    <title type="short" as="passed house">Child Tax Credit Improvement Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make improvements to the child tax credit.</title>
+  </titles>
+  <sponsor id="412284"/>
+  <cosponsors>
+    <cosponsor id="412465" joined="2014-06-23"/>
+    <cosponsor id="400297" joined="2014-06-23"/>
+    <cosponsor id="412393" joined="2014-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-23" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2014-06-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-06-25" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 22 - 15.</text>
+    </calendar>
+    <action datetime="2014-07-17T11:44:00-04:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-527.</text>
+    </action>
+    <calendar datetime="2014-07-17T11:44:00-04:00" calendar="Union" number="393">
+      <text>Placed on the Union Calendar, Calendar No. 393.</text>
+    </calendar>
+    <action datetime="2014-07-23T17:40:00-04:00">
+      <text>Rules Committee Resolution H. Res. 680 Reported to House. The rule provides for the consideration of H.R. 3393 and H.R. 4935 under a closed rules.</text>
+    </action>
+    <action datetime="2014-07-24T15:09:00-04:00">
+      <text>Rule H. Res. 680 passed House.</text>
+    </action>
+    <action datetime="2014-07-25T11:05:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 680.</text>
+      <reference ref="CR H6825-6833" label="consideration"/>
+    </action>
+    <action datetime="2014-07-25T11:05:00-04:00">
+      <text>The rule provides for the consideration of H.R. 3393 and H.R. 4935 under a closed rule.</text>
+    </action>
+    <action datetime="2014-07-25T11:06:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 4935.</text>
+    </action>
+    <action datetime="2014-07-25T12:10:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H6832" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="451" datetime="2014-07-25T12:38:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 237 - 173 (Roll no. 451).</text>
+      <reference ref="CR H6825" label="text"/>
+    </vote>
+    <action datetime="2014-07-25T12:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-25T13:00:00-04:00">
+      <text>Pursuant to the provisions of H. Res. 680, the text of H.R. 4935 as passed by the House is appended at the end of the engrossment of H.R. 3393 as new matter.</text>
+    </action>
+    <action datetime="2014-07-25T13:00:00-04:00">
+      <text>Pursuant to the provisions of H. Res. 680, H.R. 4935 is laid on the table.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="113" type="hr" number="680"/>
+    <bill relation="caused-action" session="113" type="hr" number="680"/>
+    <bill relation="unknown" session="113" type="h" number="3393"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax credits"/>
+    <term name="Inflation and prices"/>
+    <term name="Marriage and family status"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1124"/>
+  </amendments>
+  <summary>7/25/2014--Passed House amended.
+Child Tax Credit Improvement Act of 2014 - Amends the Internal Revenue Code, with respect to the child tax credit, to: (1) increase from $110,00 to $150,000 ($75,000 for individual taxpayers and married taxpayers filing separately) the threshold amount applicable to married couples filing joint tax returns above which such tax credit is reduced, and (2) allow an inflation adjustment to the threshold amounts and the $1,000 credit amount beginning after 2014.
+
+Requires taxpayers to include their social security numbers on their tax returns to claim the refundable portion of the child tax credit.
+
+Prohibits the entry of the budgetary effects of this Act on any PAYGO (pay-as-you-go) scorecard.</summary>
+</bill>

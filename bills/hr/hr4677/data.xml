@@ -1,0 +1,53 @@
+<bill session="113" type="h" number="4677" updated="2015-09-01T10:20:40-04:00">
+  <state datetime="2014-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-19"/>
+  </status>
+  <introduced datetime="2014-05-19"/>
+  <titles>
+    <title type="short" as="introduced">State Exchange Accountability Act</title>
+    <title type="official" as="introduced">To amend the Patient Protection and Affordable Care Act to require States with failed American Health Benefit Exchanges to reimburse the Federal Government for amounts provided under grants for the establishment and operation of such Exchanges.</title>
+  </titles>
+  <sponsor id="412393"/>
+  <cosponsors>
+    <cosponsor id="412216" joined="2014-07-03"/>
+    <cosponsor id="412478" joined="2014-05-19"/>
+    <cosponsor id="400116" joined="2014-07-03"/>
+    <cosponsor id="412284" joined="2014-05-19"/>
+    <cosponsor id="412462" joined="2014-06-09"/>
+    <cosponsor id="412261" joined="2014-05-19"/>
+    <cosponsor id="400406" joined="2014-05-19"/>
+    <cosponsor id="412416" joined="2014-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-05-23">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="2339"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Medicaid"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2014--Introduced.
+State Exchange Accountability Act - Amends the Patient Protection and Affordable Care Act to require a state to reimburse the federal government for the amount of establishment or early innovator grants the state received to operate a health care exchange if it operated an exchange in 2014 but subsequently elected to provide for enrollment in qualified health plans solely through the federal health care exchange.
+
+Requires that: (1) reimbursement be made in full within 10 years of such election, pursuant to an agreement with the Department of Health and Human Services (HHS); and (2) in case of failure to enter such an agreement, the Secretary of HHS shall reduce the state's Medicaid funding for 10 fiscal years in an aggregate amount equal to the reimbursement amount.</summary>
+</bill>

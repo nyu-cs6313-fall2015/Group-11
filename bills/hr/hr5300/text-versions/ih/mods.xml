@@ -1,0 +1,218 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1899faff3">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To require the Administrator of the Environmental Protection Agency to primarily consider, and to separately report, the domestic benefits of any rule that addresses emissions of carbon dioxide from any existing source or new source that is an electric utility generating unit, in any such rule, and in the regulatory impact analysis for such rule, and for other purposes.;
+   		The EPA Regulatory Domestic Benefit Act of 2014;H.R. 5300 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-08-07</dateIngested>
+</extension>
+<titleInfo>
+ <title>To require the Administrator of the Environmental Protection Agency to primarily consider, and to separately report, the domestic benefits of any rule that addresses emissions of carbon dioxide from any existing source or new source that is an electric utility generating unit, in any such rule, and in the regulatory impact analysis for such rule, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>The EPA Regulatory Domestic Benefit Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5300 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-07-30</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1899faff3</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5300ih</identifier>
+<identifier type="preferred citation">H.R. 5300</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5300_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5300ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5300ih/html/BILLS-113hr5300ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5300ih/pdf/BILLS-113hr5300ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5300ih/xml/BILLS-113hr5300ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-08-07</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-08-07</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr5300ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Ann Wagner</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Blaine Luetkemeyer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Billy Long</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jason T. Smith</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Shelley Moore Capito</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David B. McKinley</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brett Guthrie</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 7411(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 7411(a)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr5300ih</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5300</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>The EPA Regulatory Domestic Benefit Act of 2014</shortTitle>
+ <action date="2014-07-30">Mrs. Wagner (for herself, Mr. Luetkemeyer, Mr. Long, Mr. Smith of Missouri, Mrs. Capito, Mr. McKinley, and Mr. Guthrie) introduced the following bill; which was referred to the Committee on Energy and Commerce</action>
+ <congCommittee authorityId="hsif00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congMember authorityId="2137" bioGuideId="W000812" chamber="H" congress="113" party="R" role="SPONSOR" state="MO">
+                      <name type="parsed">Mrs. Wagner</name>
+                      <name type="authority-fnf">Ann Wagner</name>
+                      <name type="authority-lnf">Wagner, Ann</name>
+                </congMember>
+ <congMember authorityId="1931" bioGuideId="L000569" chamber="H" congress="113" gpoId="8017" party="R" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mr. Luetkemeyer</name>
+                      <name type="authority-fnf">Blaine Luetkemeyer</name>
+                      <name type="authority-lnf">Luetkemeyer, Blaine</name>
+                </congMember>
+ <congMember authorityId="2033" bioGuideId="L000576" chamber="H" congress="113" gpoId="8015" party="R" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mr. Long</name>
+                      <name type="authority-fnf">Billy Long</name>
+                      <name type="authority-lnf">Long, Billy</name>
+                </congMember>
+ <congMember authorityId="2191" bioGuideId="S001195" chamber="H" congress="113" party="R" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mr. Smith of Missouri</name>
+                      <name type="authority-fnf">Jason T. Smith</name>
+                      <name type="authority-lnf">Smith, Jason T.</name>
+                      <name type="authority-other">Mr. Jason Smith</name>
+                </congMember>
+ <congMember authorityId="1676" bioGuideId="C001047" chamber="H" congress="113" gpoId="8223" party="R" role="COSPONSOR" state="WV">
+                      <name type="parsed">Mrs. Capito</name>
+                      <name type="authority-fnf">Shelley Moore Capito</name>
+                      <name type="authority-lnf">Capito, Shelley Moore</name>
+                      <name type="authority-other">Shelley Capito</name>
+                </congMember>
+ <congMember authorityId="2074" bioGuideId="M001180" chamber="H" congress="113" gpoId="8222" party="R" role="COSPONSOR" state="WV">
+                      <name type="parsed">Mr. McKinley</name>
+                      <name type="authority-fnf">David B. McKinley</name>
+                      <name type="authority-lnf">McKinley, David B.</name>
+                      <name type="authority-other">David Mckinley</name>
+                </congMember>
+ <congMember authorityId="1922" bioGuideId="G000558" chamber="H" congress="113" gpoId="7954" party="R" role="COSPONSOR" state="KY">
+                      <name type="parsed">Mr. Guthrie</name>
+                      <name type="authority-fnf">Brett Guthrie</name>
+                      <name type="authority-lnf">Guthrie, Brett</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section detail="(a)" number="7411"></section>
+                </USCode>
+</extension>
+</mods>

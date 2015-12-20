@@ -1,0 +1,397 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-17", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 27.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-07-16T17:03:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 113-523.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-16T17:04:00-04:00", 
+      "calendar": "Union", 
+      "number": "391", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 391.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4871-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "2014-06-18", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Carter, John R.", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TX", 
+      "thomas_id": "01752", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Culberson, John Abney", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TX", 
+      "thomas_id": "01670", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Duffy, Sean P.", 
+      "sponsored_at": "2014-06-30", 
+      "state": "WI", 
+      "thomas_id": "02072", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fincher, Stephen Lee", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TN", 
+      "thomas_id": "02064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Garrett, Scott", 
+      "sponsored_at": "2014-06-18", 
+      "state": "NJ", 
+      "thomas_id": "01737", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Granger, Kay", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TX", 
+      "thomas_id": "01487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huizenga, Bill", 
+      "sponsored_at": "2014-06-26", 
+      "state": "MI", 
+      "thomas_id": "02028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hurt, Robert", 
+      "sponsored_at": "2014-07-14", 
+      "state": "VA", 
+      "thomas_id": "02069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Jolly, David W.", 
+      "sponsored_at": "2014-07-15", 
+      "state": "FL", 
+      "thomas_id": "02199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Luetkemeyer, Blaine", 
+      "sponsored_at": "2014-06-30", 
+      "state": "MO", 
+      "thomas_id": "01931", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McHenry, Patrick T.", 
+      "sponsored_at": "2014-06-18", 
+      "state": "NC", 
+      "thomas_id": "01792", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "sponsored_at": "2014-06-18", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "sponsored_at": "2014-07-14", 
+      "state": "AL", 
+      "thomas_id": "01704", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2014-06-26", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2014-06-18", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2014-06-18", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Stockman, Steve", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TX", 
+      "thomas_id": "01114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Thornberry, Mac", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TX", 
+      "thomas_id": "01155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Weber, Randy K. Sr.", 
+      "sponsored_at": "2014-06-26", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Westmoreland, Lynn A.", 
+      "sponsored_at": "2014-06-17", 
+      "state": "GA", 
+      "thomas_id": "01779", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-06-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-17", 
+  "number": "4871", 
+  "official_title": "To reauthorize the Terrorism Risk Insurance Act of 2002, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2146-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "TRIA Reform Act of 2014", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Neugebauer, Randy", 
+    "state": "TX", 
+    "thomas_id": "01758", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-06-20", 
+  "subjects": [
+    "Advisory bodies", 
+    "Competition and antitrust", 
+    "Congressional oversight", 
+    "Consumer affairs", 
+    "Criminal justice information and records", 
+    "Disaster relief and insurance", 
+    "Finance and financial sector", 
+    "Government corporations and government-sponsored enterprises", 
+    "Government studies and investigations", 
+    "Insurance industry and regulation", 
+    "Licensing and registrations", 
+    "Life, casualty, property insurance", 
+    "State and local government operations", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2014-07-16", 
+    "text": "TRIA Reform Act of 2014 - Title I: TRIA Reform - (Sec. 102) Amends the Terrorism Risk Insurance Act of 2002 (TRIA) to extend the Terrorism Insurance Program through December 31, 2019, and to revise requirements for the Program.\n\n (Sec. 103) Requires the Secretary of the Treasury (Secretary), before certifying an act of terrorism, to consult with the Secretary of Homeland Security (DHS) instead of obtaining concurrence with the Secretary of State (as under current law). Repeals the prohibition against certifying an act of terrorism if resulting property and casualty insurance losses do not exceed $5 million.\n\nRequires a preliminary notice that an act is expected to be certified within 15 days after its occurrence or after receipt of an insurer's petition for a preliminary decision. Requires a final certification within 90 days after occurrence or receipt of such a petition.\n\nRequires treatment of a particular act as not being an act of terrorism if the Secretary neither certifies nor determines not to certify the act within the 90-day period.\n\n(Sec. 104) Requires each certification of an act of terrorism, beginning January 1, 2016, to include a determination of whether it involves nuclear, biological, chemical, or radiological (NBCR) terrorism. Requires the federal share of payments thereafter for: (1) non-NBCR acts of terrorism to be reduced annually to 80% of insured losses by 2019, and (2) NBCR acts of terrorism to be 85% of insured losses.\n\nIncreases Program minimum aggregate loss trigger levels for the payment of compensation for non-NBCR acts of terrorism each year from 2016 to 2019. Sets the minimum trigger level for acts of NCBR terrorism at $100 million. Prohibits the Secretary, in determining such aggregate losses, from considering any act resulting, in the aggregate, in less than $50 million in insured losses.\n\n(Sec. 105) Requires the Secretary to promulgate regulations to allow small insurers voluntarily to opt-out of TRIA's mandatory availability requirement if the state's insurance regulatory authority determines that the insurer meets requirements for financial hardship or financial infeasibility for providing coverage for insured losses.\n\n(Sec. 106) Increases from 133% to 150% of any mandatory recoupment amount the terrorism loss risk-spreading premium (surcharge) collected for repayment of federal financial assistance provided in connection with all acts of terrorism (or acts of war, in the case of workers compensation).\n\n(Sec. 107) Revises the formula for determining the annual insurance marketplace aggregate retention amount after January 1, 2016.\n\n(Sec. 108) Requires the Secretary to begin collecting terrorism loss risk-spreading premiums within 18 months after the occurrence of the certified act for which they are imposed.\n\n(Sec. 109) Requires the Secretary to establish an Advisory Committee to encourage the creation and development of risk-sharing mechanisms by insurers to reinsure voluntarily among themselves terrorism losses that are not subject to reimbursement under the Program.\n\n(Sec. 110) Directs the Secretary to: (1) require insurers participating in the Program to submit appropriate information regarding insurance coverage for their terrorism losses, and (2) use this information to analyze Program effectiveness.\n\n(Sec. 111) Requires insurers to disclose to the policyholder the premium charged for covered insured losses and the federal share of compensation for insured losses only at the time of offer and renewal (currently, also at the time of purchase) of the policy.\n\n(Sec. 113) Requires the Secretary to conduct an annual study of small insurers participating in the Program to identify any competitive challenges small insurers face in the terrorism risk insurance marketplace.\n\n(Sec. 114) Requires the Directors of the Congressional Budget Office (CBO) and the Office of Management and Budget (OMB) to study the feasibility of applying accrual accounting concepts to budgeting for the costs of this and other federal insurance programs.\n\n (Sec. 115) Directs the Comptroller General (GAO) to study the viability of: (1) federal assessment and collection of upfront premiums from insurers that participate in the Program; and (2) creation of a capital reserve fund, requiring participating insurers to dedicate capital specifically for terrorism losses before they are incurred.\n\nTitle II: National Association of Registered Agents and Brokers Reform - National Association of Registered Agents and Brokers Reform Act of 2014 - (Sec. 202) Amends the Gramm-Leach-Bliley Act to repeal the contingent conditions under which the National Association of Registered Agents and Brokers (NARAB) shall not be established. Establishes the NARAB without contingent conditions as an independent nonprofit corporation to prescribe, on a multi-state basis, licensing and insurance producer qualification requirements and conditions.\n\nProhibits the NARAB from merging with or into any other private or public entity.\n\nRequires the NARAB, without affecting state regulatory authority, to provide a mechanism for the adoption and multi-state application of requirements and conditions pertaining to: (1) licensing, continuing education, and other qualifications of non-NARAB insurance producers; (2) resident or nonresident insurance producer appointments; (3) supervision and disciplining of such producers; and (4) the setting of licensing fees for insurance producers.\n\nMakes any state-licensed insurance producer eligible to join the NARAB, except during a period of license suspension or revocation. Requires an individual insurance producer to undergo a criminal history record check by the Federal Bureau of Investigation (FBI). Requires the NARAB to submit to the FBI identification information obtained from the insurance producer, upon producer request, as well as a request of its own for the criminal history record check.\n\nAuthorizes the NARAB to: (1) establish membership criteria; and (2) deny membership to an individual state-licensed insurance producer on the basis of the criminal history information obtained, or where the producer has been subject to certain disciplinary action.\n\nPrescribes procedures governing a criminal history record check, including the rights of applicants denied membership.\n\nAuthorizes the NARAB to establish membership criteria, including separate classes of membership and membership criteria for business entities; but prohibits it from establishing criteria that unfairly limit the ability of a small insurance producer to become a member of the NARAB, including discriminatory membership fees.\n\nAuthorizes the NARAB to establish separate categories of membership for insurance producers and for other persons or entities within each class, based on the types of licensing categories that exist under state laws.\n\nProhibits the NARAB from establishing special categories of membership, including distinct membership criteria for members that are depository institutions or for their employees, agents, or affiliates.\n\nProhibits the NARAB from adopting any qualification less protective to the public than that contained in the National Association of Insurance Commissioners (NAIC) Producer Licensing Model Act.\n\nPrescribes procedures for authorized information sharing pursuant to a request by a licensed insurance producer.\n\nAuthorizes the NARAB to deny membership to any state-licensed insurance producer for failure to meet membership criteria.\n\nStates that NARAB membership authorizes an insurance producer to engage in the business of insurance in any state for any lines of insurance specified in the producer's home state license, including claims adjustments and settlement, risk management, and specified insurance-related consulting activities.\n\nMakes NARAB membership equivalent to a nonresident insurance producer license for specified purposes.\n\nEmpowers the NARAB to act as agent for any member for the purpose of remitting licensing fees to a state.\n\nRequires the NARAB to disclose to states, including state insurance regulators and the NAIC, on an ongoing basis, a list of the states in which each member is authorized to operate.\n\nRetains state regulatory jurisdiction regarding: (1) consumer protection and market conduct, and (2) state disciplinary authority.\n\nRequires the NARAB to establish, as a condition of membership, continuing education requirements comparable to the continuing education requirements under the licensing laws of a majority of the states.\n\nProhibits the NARAB from offering continuing education courses for insurance producers.\n\nGrants the NARAB disciplinary enforcement powers.\n\nRequires the NARAB to: (1) receive and investigate consumer complaints, and to maintain a toll-free telephone number; and (2) refer any such complaint to the state insurance regulator. Prescribes information- sharing procedures and limitations with the NAIC or governmental entities.\n\nAuthorizes the NARAB to establish: (1) a central clearinghouse, or utilize NAIC as a central clearinghouse through which NARAB members may disclose their intent to operate in one or more states; and (2) a national database for the collection of regulatory information concerning the activities of insurance producers.\n\nEstablishes the NARAB board of directors, whose membership shall include state insurance commissioners. Sets forth terms and procedures for appointment of members by the President. Authorizes reappointment to successive terms. Prohibits compensation on account of Board membership.\n\nDeclares that the NARAB shall not be deemed to be an insurer or insurance producer within the meaning of any state law, rule, regulation, or order regulating or taxing insurers, insurance producers, or other entities engaged in the business of insurance.\n\nSets forth procedures for presidential oversight of the NARAB, including removal of the entire existing Board.\n\nSets forth a limited preemption of state laws purporting to regulate insurance producers.\n\nDirects the NARAB to coordinate with the Financial Industry Regulatory Authority (FINRA) in order to ease administrative burdens that fall on NARAB members subject to regulation by FINRA.\n\nAuthorizes any person aggrieved by a NARAB decision or action to commence a civil action in an appropriate federal district court.\n\nProhibits federal funding of the NARAB."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "TRIA Reform Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "TRIA Reform Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": true, 
+      "title": "National Association of Registered Agents and Brokers Reform Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize the Terrorism Risk Insurance Act of 2002, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4871:@@@L&summ2=m&"
+}

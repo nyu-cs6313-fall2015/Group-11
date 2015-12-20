@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="3879" updated="2015-09-01T10:20:21-04:00">
+  <state datetime="2014-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-15"/>
+  </status>
+  <introduced datetime="2014-01-15"/>
+  <titles>
+    <title type="official" as="introduced">To make permanent the Payments in Lieu of Taxes program.</title>
+  </titles>
+  <sponsor id="412286"/>
+  <cosponsors>
+    <cosponsor id="412535" joined="2014-01-15"/>
+    <cosponsor id="412530" joined="2014-01-15"/>
+    <cosponsor id="412559" joined="2014-01-16"/>
+    <cosponsor id="408211" joined="2014-03-05"/>
+    <cosponsor id="412308" joined="2014-01-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-15" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-01-17">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1913"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Property tax"/>
+    <term name="State and local finance"/>
+    <term name="State and local taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2014--Introduced.
+Makes permanent the Payment in Lieu of Taxes (PILT) Program (under which counties or other eligible units of local government in which U.S.-owned entitlement land is located are entitled to certain payments under such program which may be used for any governmental purpose).</summary>
+</bill>

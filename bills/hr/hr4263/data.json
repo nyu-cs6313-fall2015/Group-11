@@ -1,0 +1,282 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-14", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Emergency Preparedness, Response and Communications.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-27", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-27", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-06-19T13:20:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-480.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-19T13:20:00-04:00", 
+      "calendar": "Union", 
+      "number": "356", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 356.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-07-08T17:09:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Brooks (IN) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-08T17:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5854-5856", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-08T17:10:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4263.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-08T17:19:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-08T18:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5860-5861", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-08T18:58:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5854-5855", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "369", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 19 (Roll no. 369).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-07-09", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4263-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Emergency Preparedness, Response, and Communications", 
+      "subcommittee_id": "12"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2014-05-19", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "sponsored_at": "2014-03-14", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "sponsored_at": "2014-03-14", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2014-03-14", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-07-08T18:58:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-14", 
+  "number": "4263", 
+  "official_title": "To amend the Homeland Security Act of 2002 to authorize the Department of Homeland Security to establish a social media working group, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Social Media Working Group Act of 2014", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Brooks, Susan W.", 
+    "state": "IN", 
+    "thomas_id": "02129", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-07-08T18:58:00-04:00", 
+  "subjects": [
+    "Advisory bodies", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Emergency communications systems", 
+    "Emergency management", 
+    "Emergency planning and evacuation", 
+    "Executive agency funding and structure", 
+    "Homeland security", 
+    "Internet and video services", 
+    "Telephone and wireless communication", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-07-08", 
+    "text": "Social Media Working Group Act of 2014 - Amends the Homeland Security Act of 2002 to direct the Secretary of Homeland Security to establish within the Department of Homeland Security (DHS) a social media working group (the Group) to provide guidance and best practices to the emergency preparedness and response community on the use of social media technologies before, during, and after a terrorist attack or other emergency.\n\nRequires the Group to submit an annual report that includes: (1) a review of current and emerging social media technologies being used to support preparedness and response activities related to terrorist attacks and other emergencies; (2) a review of best practices and lessons learned on the use of social media during the response to terrorist attacks and other emergencies that occurred during the period covered by the report; (3) recommendations to improve DHS's use of social media for emergency management purposes, to improve public awareness of the type of information disseminated through social media and how to access such information during a terrorist attack or other emergency, and to improve information sharing among DHS and its components and among state and local governments; (4) a review of available training for government officials on the use of social media in response to a terrorist attack or other emergency; and (5) a summary of coordination efforts with the private sector to discuss and resolve legal, operational, technical, privacy, and security concerns."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Social Media Working Group Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Social Media Working Group Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Social Media Working Group Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to authorize the Department of Homeland Security to establish a social media working group, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4263:@@@L&summ2=m&"
+}

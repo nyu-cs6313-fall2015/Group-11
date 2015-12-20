@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="5420" updated="2015-09-01T10:20:59-04:00">
+  <state datetime="2014-09-16T21:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-09-16T21:04:00-04:00"/>
+  </status>
+  <introduced datetime="2014-09-09"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to permit the release of information regarding the status of certain investigations.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors>
+    <cosponsor id="412465" joined="2014-09-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-09" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2014-09-16T21:01:00-04:00">
+      <text>Mr. Boustany moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-09-16T21:01:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7599" label="consideration"/>
+    </action>
+    <action datetime="2014-09-16T21:01:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5420.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-09-16T21:04:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7599" label="text"/>
+    </vote>
+    <action datetime="2014-09-16T21:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-09-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="3520"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Department of the Treasury"/>
+    <term name="Employee performance"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2014--Passed House without amendment.
+Amends the Internal Revenue Code to authorize the Secretary of the Treasury to disclose to any person who provides information indicating a violation of internal revenue laws relating to unauthorized disclosure or inspection of tax information or to unlawful acts of revenue officers or agents: (1) whether an investigation based on such information has been initiated and is open or closed; (2) whether any such investigation substantiated a violation; and (3) whether any action has been taken against a violator, including a referral for prosection.</summary>
+</bill>

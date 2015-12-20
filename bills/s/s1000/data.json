@@ -1,0 +1,293 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-05-21", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Environment and Public Works discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "references": [
+        {
+          "reference": "CR S6246-6248", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-12-02T17:36:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T18:18:00-05:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-09T12:22:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hastings (WA) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-09T12:23:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8878-8880", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-09T12:23:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 1000.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-09T12:33:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T14:28:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8967-8968", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T14:38:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T14:38:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 12/9/2014 H8878", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "555", 
+      "status": "PASSED:BILL", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 555).", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-12", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2014-12-18", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2014-12-18", 
+      "congress": "113", 
+      "law": "public", 
+      "number": "273", 
+      "references": [], 
+      "text": "Became Public Law No: 113-273.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3965-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3965"
+    }
+  ], 
+  "bill_id": "s1000-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged", 
+        "in committee"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Kaine, Tim", 
+      "sponsored_at": "2013-06-12", 
+      "state": "VA", 
+      "thomas_id": "02176", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "113", 
+    "law_type": "public", 
+    "number": "273"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-12-02", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2014-12-18", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-10T14:38:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-02", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-05-21", 
+  "number": "1000", 
+  "official_title": "A bill to require the Director of the Office of Management and Budget to prepare a crosscut budget for restoration activities in the Chesapeake Bay watershed, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr739-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr739-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2954-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Chesapeake Bay Accountability and Recovery Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, Mark R.", 
+    "state": "VA", 
+    "thomas_id": "01897", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2014-12-18", 
+  "subjects": [
+    "Aquatic ecology", 
+    "Chesapeake Bay", 
+    "Congressional oversight", 
+    "Delaware", 
+    "District of Columbia", 
+    "Environmental assessment, monitoring, research", 
+    "Marine and coastal resources, fisheries", 
+    "Marine pollution", 
+    "Maryland", 
+    "New York State", 
+    "Pennsylvania", 
+    "Public lands and natural resources", 
+    "Public participation and lobbying", 
+    "Virginia", 
+    "Water quality", 
+    "Water resources funding", 
+    "Watersheds", 
+    "West Virginia", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-05-21", 
+    "text": "Chesapeake Bay Accountability and Recovery Act of 2013 - Requires the Director of the Office of Management and Budget (OMB), in consultation with the Chesapeake Executive Council, the chief executive of each Chesapeake Bay state, and the Chesapeake Bay Commission, to submit to Congress, annually, a financial report containing: (1) an interagency crosscut budget for restoration activities that protect, conserve, or restore living resources, habitat, water resources, or water quality in the Chesapeake Bay watershed; (2) an accounting of funds received and obligated by each federal agency for restoration activities; (3) an accounting from each state of all funds received and obligated from a federal agency for restoration activities; and (4) a description of each of the proposed federal and state restoration activities. Requires: (1) such report to describe only federal restoration activities that have funding amounts of at least $100,000 and state restoration activities that have funding amounts of at least $50,000, and (2) the Director to submit the report no later than 30 days after the submission of the President's annual budget to Congress.\n\nRequires the Administrator of the Environmental Protection Agency (EPA) to develop, implement, and update biennially an adaptive management plan for restoration activities in the Chesapeake Bay watershed that includes: (1) a definition of specific and measurable objectives to improve water quality, habitat, and fisheries; (2) a process for stakeholder participation; (3) monitoring, modeling, experimentation, and other research and evaluation practices; (4) a process for modification of restoration activities that have not attained or will not attain such objectives; and (5) a process for prioritizing restoration activities and programs to which adaptive management shall be applied. Requires the Administrator to: (1) report annually to Congress on implementation of such plan, and (2) include such plan in the Chesapeake Bay Annual Action Plan and Annual Progress Report.\n\nRequires an Independent Evaluator for the Chesapeake Bay watershed, who shall review and report to Congress biennially on restoration activities and the use of adaptive management in such activities and any related topics that are suggested by the Chesapeake Executive Council. Requires the Evaluator to be appointed by the Administrator from among nominees submitted by the Chesapeake Executive Council."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Chesapeake Bay Accountability and Recovery Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Chesapeake Bay Accountability and Recovery Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Chesapeake Bay Accountability and Recovery Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Chesapeake Bay Accountability and Recovery Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the Director of the Office of Management and Budget to prepare a crosscut budget for restoration activities in the Chesapeake Bay watershed, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:48-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1000:@@@L&summ2=m&"
+}

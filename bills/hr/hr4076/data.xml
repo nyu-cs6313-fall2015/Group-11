@@ -1,0 +1,126 @@
+<bill session="113" type="h" number="4076" updated="2015-09-01T10:20:25-04:00">
+  <state datetime="2014-03-21">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-03-21"/>
+  </status>
+  <introduced datetime="2014-02-25"/>
+  <titles>
+    <title type="short" as="introduced">HHEATT Act of 2014</title>
+    <title type="short" as="introduced">Home Heating Emergency Assistance Through Transportation Act of 2014</title>
+    <title type="short" as="passed house">HHEATT Act of 2014</title>
+    <title type="short" as="passed house">Home Heating Emergency Assistance Through Transportation Act of 2014</title>
+    <title type="short" as="passed senate">HHEATT Act of 2014</title>
+    <title type="short" as="passed senate">Home Heating Emergency Assistance Through Transportation Act of 2014</title>
+    <title type="short" as="enacted">HHEATT Act of 2014</title>
+    <title type="short" as="enacted">Home Heating Emergency Assistance Through Transportation Act of 2014</title>
+    <title type="official" as="introduced">To address shortages and interruptions in the availability of propane and other home heating fuels in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="409888"/>
+  <cosponsors>
+    <cosponsor id="412427" joined="2014-02-27"/>
+    <cosponsor id="400061" joined="2014-02-27"/>
+    <cosponsor id="412555" joined="2014-02-27"/>
+    <cosponsor id="412400" joined="2014-03-04"/>
+    <cosponsor id="412549" joined="2014-02-27"/>
+    <cosponsor id="412536" joined="2014-02-27"/>
+    <cosponsor id="400648" joined="2014-02-25"/>
+    <cosponsor id="412488" joined="2014-02-25"/>
+    <cosponsor id="412406" joined="2014-02-27"/>
+    <cosponsor id="400158" joined="2014-03-04"/>
+    <cosponsor id="412401" joined="2014-03-04"/>
+    <cosponsor id="412454" joined="2014-02-27"/>
+    <cosponsor id="412444" joined="2014-02-27"/>
+    <cosponsor id="412550" joined="2014-03-04"/>
+    <cosponsor id="400209" joined="2014-02-27"/>
+    <cosponsor id="412465" joined="2014-02-27"/>
+    <cosponsor id="400218" joined="2014-02-25"/>
+    <cosponsor id="400224" joined="2014-02-27"/>
+    <cosponsor id="412256" joined="2014-02-25"/>
+    <cosponsor id="400630" joined="2014-02-27"/>
+    <cosponsor id="412292" joined="2014-02-27"/>
+    <cosponsor id="400274" joined="2014-03-04"/>
+    <cosponsor id="400276" joined="2014-02-27"/>
+    <cosponsor id="412568" joined="2014-02-27"/>
+    <cosponsor id="408211" joined="2014-02-27"/>
+    <cosponsor id="412303" joined="2014-03-04"/>
+    <cosponsor id="400318" joined="2014-02-25"/>
+    <cosponsor id="412489" joined="2014-02-25"/>
+    <cosponsor id="412426" joined="2014-03-04"/>
+    <cosponsor id="412570" joined="2014-03-04"/>
+    <cosponsor id="400352" joined="2014-02-25"/>
+    <cosponsor id="412596" joined="2014-03-04"/>
+    <cosponsor id="412317" joined="2014-02-27"/>
+    <cosponsor id="412538" joined="2014-02-25"/>
+    <cosponsor id="412214" joined="2014-02-25"/>
+    <cosponsor id="400627" joined="2014-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-25" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-02-26">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2014-03-04T14:14:00-05:00">
+      <text>Mr. Shuster moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-03-04T14:15:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2103-2106" label="consideration"/>
+    </action>
+    <action datetime="2014-03-04T14:15:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4076.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-03-04T14:30:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2103" label="text"/>
+    </vote>
+    <action datetime="2014-03-05">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-03-13" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1667-1668" label="consideration"/>
+    </vote>
+    <action datetime="2014-03-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2014-03-18">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-03-21" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-90" type="public" datetime="2014-03-21">
+      <text>Became Public Law No: 113-90.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="2085"/>
+    <bill relation="unknown" session="113" type="s" number="2086"/>
+    <bill relation="unknown" session="113" type="s" number="2086"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Transportation"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Labor standards"/>
+    <term name="Lighting and heating"/>
+    <term name="Motor carriers"/>
+    <term name="Oil and gas"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2014--Public Law.
+Home Heating Emergency Assistance Through Transportation Act of 2014 or HHEATT Act of 2014 - Declares that a covered emergency exemption from federal motor carrier safety regulations issued by the Federal Motor Carrier Safety Administration (FMCSA) shall remain in effect until May 31, 2014, unless the Secretary of Transportation (DOT) determines that the emergency for which the exemption was provided ends before that date.
+
+Defines "covered emergency exemption" as one issued or extended between February 5, 2014, and the date of enactment of this Act to effect regulatory relief for commercial motor vehicle operations directly assisting the delivery of propane and home heating fuels.
+
+States that nothing in this Act may be construed to prohibit the FMCSA from issuing or extending a covered emergency exemption beyond May 31, 2014, under other federal law.</summary>
+</bill>

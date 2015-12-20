@@ -1,0 +1,116 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-05", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-27", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3669-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2014-07-28", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-12-05", 
+  "number": "3669", 
+  "official_title": "To amend title 18, United States Code, to provide for increased supervision of persons required to wear an electronic monitoring device as a condition of release from prison, to criminalize disabling such an electronic monitoring device, to establish the Office of the Inspector General for Probation and Pretrial Services, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Federal Probation System Reform Act", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Maffei, Daniel B.", 
+    "state": "NY", 
+    "thomas_id": "01943", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-12-05", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Correctional facilities and imprisonment", 
+    "Crime and law enforcement", 
+    "Criminal procedure and sentencing", 
+    "Employment discrimination and employee rights", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government studies and investigations", 
+    "Judicial procedure and administration", 
+    "Law enforcement administration and funding", 
+    "Supreme Court"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-12-05", 
+    "text": "Federal Probation System Reform Act - Amends the federal criminal code to require the Director of the Administrative Office of the United States Courts to ensure that an appropriate probation or pretrial services officer supervises a person convicted of a federal offense who has been sentenced to probation, placed on probation, or placed on supervised release, or a person accused of such an offense who has been released pending trial, sentence, or appeal, and who is required to wear an electronic monitoring device as a condition of such probation or release, including by: (1) conducting a daily review of any data produced by such device; and (2) conducting an investigation immediately following an electronic monitoring system alert that the Director determines requires investigation.\n\nProhibits, and sets penalties for, intentionally disabling such a device or allowing another person to disable such device.\n\nEstablishes within the United States Probation and Pretrial Services System the Office of the Inspector General for Probation and Pretrial Services, which shall: (1) conduct investigations of alleged misconduct; (2) conduct and supervise audits and investigations; (3) prevent and detect waste, fraud, and abuse; (4) recommend changes in laws or regulations governing probation and pretrial services; and (5) report expeditiously to the Attorney General whenever there are reasonable grounds to believe there has been a violation of federal criminal law. Provides whistleblower protection for an employee who provides information to or otherwise assists the Inspector General in an investigation of a possible violation of federal law or misconduct by a pretrial services or probation officer."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Probation System Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 18, United States Code, to provide for increased supervision of persons required to wear an electronic monitoring device as a condition of release from prison, to criminalize disabling such an electronic monitoring device, to establish the Office of the Inspector General for Probation and Pretrial Services, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3669:@@@L&summ2=m&"
+}

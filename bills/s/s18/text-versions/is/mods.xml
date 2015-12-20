@@ -1,0 +1,313 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb943c">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Balanced Budget and Emergency Deficit Control Act of 1985 to replace the sequester established by the Budget Control Act of 2011.;
+   		S. 18 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Balanced Budget and Emergency Deficit Control Act of 1985 to replace the sequester established by the Budget Control Act of 2011.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 18 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-02-27</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>31 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee183eb943c</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s18is</identifier>
+<identifier type="preferred citation">S. 18</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s18_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s18is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s18is/html/BILLS-113s18is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s18is/pdf/BILLS-113s18is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s18is/xml/BILLS-113s18is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s18is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Kelly Ayotte</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John McCain</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lindsey Graham</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James M. Inhofe</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Finance</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 31</partNumber>
+  <partNumber>Title 2 Section 933(d)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 31</identifier>
+ <identifier type="USC citation">2 U.S.C. 933(d)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 5303note</partNumber>
+  <partNumber>Title 5 Section 8334(a)(1)(B)</partNumber>
+  <partNumber>Title 5 Section 8334(c)</partNumber>
+  <partNumber>Title 5 Section 8421(a)</partNumber>
+  <partNumber>Title 5 Section 8422(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 5303note</identifier>
+ <identifier type="USC citation">5 U.S.C. 8334(a)(1)(B)</identifier>
+ <identifier type="USC citation">5 U.S.C. 8334(c)</identifier>
+ <identifier type="USC citation">5 U.S.C. 8421(a)</identifier>
+ <identifier type="USC citation">5 U.S.C. 8422(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 2014</partNumber>
+  <partNumber>Title 7 Section 2014(e)</partNumber>
+  <partNumber>Title 7 Section 2014(e)(6)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 2014</identifier>
+ <identifier type="USC citation">7 U.S.C. 2014(e)</identifier>
+ <identifier type="USC citation">7 U.S.C. 2014(e)(6)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 5497</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 5497</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 4045(a)</partNumber>
+  <partNumber>Title 22 Section 4045note</partNumber>
+  <partNumber>Title 22 Section 4071e(a)(2)(A)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 4045(a)</identifier>
+ <identifier type="USC citation">22 U.S.C. 4045note</identifier>
+ <identifier type="USC citation">22 U.S.C. 4071e(a)(2)(A)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 37 Section 204</partNumber>
+</titleInfo>
+ <identifier type="USC citation">37 U.S.C. 204</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 18071</partNumber>
+  <partNumber>Title 42 Section 8624(f)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 18071</identifier>
+ <identifier type="USC citation">42 U.S.C. 8624(f)(2)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 2021(a)(2)(A)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 2021(a)(2)(A)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 114 Page 1356A-54</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">114 Stat.	1356A-54</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 105-33</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 105-33</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 106-346</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 106-346</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-242</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-242</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-175</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-175</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s18is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>18</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>IS</fileSuffix>
+ <action date="2013-02-27">Ms. Ayotte (for herself, Mr. McCain, Mr. Graham, and Mr. Inhofe) introduced the following bill; which was read twice and referred to the Committee on Finance</action>
+ <congCommittee authorityId="ssfi00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Finance</name>
+                      <name type="authority-short">Finance</name>
+                </congCommittee>
+ <congMember authorityId="2075" bioGuideId="A000368" chamber="S" congress="113" gpoId="8315" party="R" role="SPONSOR" state="NH">
+                      <name type="parsed">Ms. Ayotte</name>
+                      <name type="authority-fnf">Kelly Ayotte</name>
+                      <name type="authority-lnf">Ayotte, Kelly</name>
+                </congMember>
+ <congMember authorityId="754" bioGuideId="M000303" chamber="S" congress="113" gpoId="8253" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. McCain</name>
+                      <name type="authority-fnf">John McCain</name>
+                      <name type="authority-lnf">McCain, John</name>
+                      <name type="authority-other">John Sidney Mccain III</name>
+                </congMember>
+ <congMember authorityId="452" bioGuideId="G000359" chamber="S" congress="113" gpoId="8335" party="R" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Graham</name>
+                      <name type="authority-fnf">Lindsey Graham</name>
+                      <name type="authority-lnf">Graham, Lindsey</name>
+                      <name type="authority-other">Lindsey O. Graham</name>
+                </congMember>
+ <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="113" gpoId="8322" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Inhofe</name>
+                      <name type="authority-fnf">James M. Inhofe</name>
+                      <name type="authority-lnf">Inhofe, James M.</name>
+                      <name type="authority-other">James Inhofe</name>
+                </congMember>
+ <law congress="105" isPrivate="false" number="33"></law>
+ <law congress="106" isPrivate="false" number="346"></law>
+ <law congress="111" isPrivate="false" number="242"></law>
+ <law congress="112" isPrivate="false" number="175"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section number="31"></section>
+                      <section detail="(d)" number="933"></section>
+                </USCode>
+ <USCode title="5">
+                      <section detail="note" number="5303"></section>
+                      <section detail="(a)(1)(B)" number="8334"></section>
+                      <section detail="(c)" number="8334"></section>
+                      <section detail="(a)" number="8421"></section>
+                      <section detail="(a)" number="8422"></section>
+                </USCode>
+ <USCode title="7">
+                      <section number="2014"></section>
+                      <section detail="(e)" number="2014"></section>
+                      <section detail="(e)(6)" number="2014"></section>
+                </USCode>
+ <USCode title="12">
+                      <section number="5497"></section>
+                </USCode>
+ <USCode title="22">
+                      <section detail="(a)" number="4045"></section>
+                      <section detail="note" number="4045"></section>
+                      <section detail="(a)(2)(A)" number="4071e"></section>
+                </USCode>
+ <USCode title="37">
+                      <section number="204"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="18071"></section>
+                      <section detail="(f)(2)" number="8624"></section>
+                </USCode>
+ <USCode title="50">
+                      <section detail="(a)(2)(A)" number="2021"></section>
+                </USCode>
+ <statuteAtLarge volume="114">
+                      <pages pages="1356A-54"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

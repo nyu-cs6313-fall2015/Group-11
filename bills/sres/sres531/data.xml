@@ -1,0 +1,52 @@
+<bill session="113" type="sr" number="531" updated="2015-09-01T10:21:25-04:00">
+  <state datetime="2014-12-03">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2014-12-03"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">A resolution honoring the life, accomplishments, and legacy of Louis Zamperini and expressing condolences on his passing.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="300071" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S5234" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2014-12-03">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2014-12-03">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6307" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-12-03" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S6307" label="text"/>
+    </vote>
+    <action datetime="2014-12-08">
+      <text>Star Print ordered on the resolution.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="hr" number="744"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Olympic games"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3971"/>
+  </amendments>
+  <summary>12/3/2014--Passed Senate amended.
+Honors the life and accomplishments of Louis Zamperini.</summary>
+</bill>

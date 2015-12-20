@@ -1,0 +1,270 @@
+<bill session="113" type="s" number="1926" updated="2015-09-01T10:22:09-04:00">
+  <state datetime="2014-01-30">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-01-30"/>
+  </status>
+  <introduced datetime="2014-01-14"/>
+  <titles>
+    <title type="short" as="introduced" partial="1">Homeowner Flood Insurance Affordability Act of 2014</title>
+    <title type="short" as="introduced" partial="1">National Association of Registered Agents and Brokers Reform Act of 2014</title>
+    <title type="short" as="passed senate" partial="1">Homeowner Flood Insurance Affordability Act of 2014</title>
+    <title type="short" as="passed senate" partial="1">National Association of Registered Agents and Brokers Reform Act of 2014</title>
+    <title type="official" as="introduced">A bill to delay the implementation of certain provisions of the Biggert-Waters Flood Insurance Reform Act of 2012 and to reform the National Association of Registered Agents and Brokers, and for other purposes.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2014-01-27"/>
+    <cosponsor id="412490" joined="2014-01-27"/>
+    <cosponsor id="412598" joined="2014-01-27"/>
+    <cosponsor id="412246" joined="2014-01-27"/>
+    <cosponsor id="300023" joined="2014-01-27"/>
+    <cosponsor id="300025" joined="2014-01-29"/>
+    <cosponsor id="412378" joined="2014-01-28"/>
+    <cosponsor id="412223" joined="2014-01-27"/>
+    <cosponsor id="300047" joined="2014-01-28"/>
+    <cosponsor id="412324" joined="2014-01-27"/>
+    <cosponsor id="412554" joined="2014-01-27"/>
+    <cosponsor id="412494" joined="2014-01-27"/>
+    <cosponsor id="400194" joined="2014-01-16"/>
+    <cosponsor id="412242" joined="2014-01-27"/>
+    <cosponsor id="300063" joined="2014-01-16"/>
+    <cosponsor id="412391" joined="2014-01-27"/>
+    <cosponsor id="400253" joined="2014-01-27"/>
+    <cosponsor id="412325" joined="2014-01-27"/>
+    <cosponsor id="300075" joined="2014-01-27"/>
+    <cosponsor id="300078" joined="2014-01-28"/>
+    <cosponsor id="300081" joined="2014-01-27"/>
+    <cosponsor id="412507" joined="2014-01-27"/>
+    <cosponsor id="300087" joined="2014-01-27"/>
+    <cosponsor id="400418" joined="2014-01-16"/>
+    <cosponsor id="412542" joined="2014-01-27"/>
+    <cosponsor id="412247" joined="2014-01-27"/>
+    <cosponsor id="400432" joined="2014-01-27"/>
+    <cosponsor id="300100" joined="2014-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-14">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2014-01-15" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="294">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 294.</text>
+    </calendar>
+    <action datetime="2014-01-16">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S383-385, S425-432" label="consideration"/>
+    </action>
+    <action datetime="2014-01-16">
+      <text>Cloture motion on the motion to proceed to the bill presented in Senate.</text>
+      <reference ref="CR S432" label="consideration"/>
+      <reference ref="CR S432" label="text"/>
+    </action>
+    <action datetime="2014-01-27">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S467-481" label="consideration"/>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="14" datetime="2014-01-27" where="s" result="pass">
+      <text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 86 - 13. Record Vote Number: 14.</text>
+      <reference ref="CR S478-479" label="consideration"/>
+    </vote-aux>
+    <action datetime="2014-01-28">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S495-505, S505-516" label="consideration"/>
+    </action>
+    <action datetime="2014-01-29">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S565" label="consideration"/>
+    </action>
+    <action datetime="2014-01-29">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.</text>
+    </action>
+    <action datetime="2014-01-29">
+      <text>Measure laid before Senate by motion.</text>
+      <reference ref="CR S565-593" label="consideration"/>
+    </action>
+    <action datetime="2014-01-29">
+      <text>Point of order that the measure violates the Congressional Budget Act raised in Senate.</text>
+    </action>
+    <action datetime="2014-01-29">
+      <text>Motion to waive all applicable budgetary discipline with respect to the measure made in Senate.</text>
+      <reference ref="CR S573, S588" label="consideration"/>
+    </action>
+    <action datetime="2014-01-29">
+      <text>Motion to waive all applicable budgetary discipline with respect to the measure agreed to in Senate by Yea-Nay Vote. 64 - 35. Record Vote Number: 15.</text>
+    </action>
+    <action datetime="2014-01-30">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S613-619,  S619-627" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="19" datetime="2014-01-30" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Yea-Nay Vote. 67 - 32. Record Vote Number: 19.</text>
+      <reference ref="CR S619-626" label="text"/>
+    </vote>
+    <action datetime="2014-01-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-01-31T15:03:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-01-31T15:22:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1064"/>
+    <bill relation="unknown" session="113" type="h" number="1155"/>
+    <bill relation="unknown" session="113" type="h" number="3370"/>
+    <bill relation="unknown" session="113" type="h" number="3511"/>
+    <bill relation="unknown" session="113" type="h" number="3834"/>
+    <bill relation="unknown" session="113" type="s" number="534"/>
+    <bill relation="unknown" session="113" type="s" number="1601"/>
+    <bill relation="unknown" session="113" type="s" number="1610"/>
+    <bill relation="unknown" session="113" type="s" number="1846"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Floods and storm protection"/>
+    <term name="Government corporations and government-sponsored enterprises"/>
+    <term name="Government studies and investigations"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Residential rehabilitation and home repair"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2692"/>
+    <amendment number="s2693"/>
+    <amendment number="s2694"/>
+    <amendment number="s2695"/>
+    <amendment number="s2696"/>
+    <amendment number="s2697"/>
+    <amendment number="s2698"/>
+    <amendment number="s2699"/>
+    <amendment number="s2700"/>
+    <amendment number="s2702"/>
+    <amendment number="s2703"/>
+    <amendment number="s2704"/>
+    <amendment number="s2705"/>
+    <amendment number="s2706"/>
+    <amendment number="s2707"/>
+    <amendment number="s2708"/>
+    <amendment number="s2709"/>
+    <amendment number="s2710"/>
+    <amendment number="s2711"/>
+  </amendments>
+  <summary>1/30/2014--Passed Senate amended.
+Title I: Homeowner Flood Insurance Affordability Act - Homeowner Flood Insurance Affordability Act of 2014 - (Sec. 103) Prohibits the Administrator of the Federal Emergency Management Agency (FEMA) from implementing during a specified six-month period a requirement of the National Flood Insurance Act of 1968 (NFIA) that would: (1) increase flood insurance risk premium rates to reflect the current risk of flood for property located in specified areas subject to a certain mandatory premium adjustment, or (2) a prohibition against extending subsidies for property not insured by the flood insurance program as of July 6, 2012 (the date of enactment of the Biggert-Waters Flood Insurance Reform Act of 2012), or any policy that has lapsed because the property was no longer being required to retain coverage (Pre-Flood Insurance Rate Map or pre-FIRM properties).
+
+(A pre-FIRM property contains a structure neither constructed nor substantially improved after the later of December 31, 1974, or the effective date of the initial flood insurance rate map published by the FEMA Administrator under NFIA for the pertinent area.) Declares that such prohibitions shall expire six months after the later of: (1) the date on which the Administrator proposes a certain draft flood insurance affordability framework; or (2) the date on which the Administrator certifies to Congress that FEMA has implemented a flood mapping approach that, when applied, results in technically credible flood hazard data in all areas where Flood Insurance Rate Maps are prepared or updated.
+
+Amends NFIA to prohibit the Administrator from providing flood insurance to prospective insureds at rates less than those estimated for any property purchased after the expiration of such six-month period (currently, any property purchased after July 6, 2012).
+
+Prohibits FEMA from reducing the risk premium rate subsidy for flood insurance for property purchased on or before the expiration of the six-month period set forth in this Act based on the fact that: (1) the property was not insured by the flood insurance program as of July 6, 2012; or (2) on or before the expiration of that six-month period the policy for the property had lapsed in coverage as a result of the deliberate choice of the policy holder because the property was no longer required to retain coverage.
+
+Directs FEMA to: (1) restore during that six-month period specified estimated risk premium rate subsidies for flood insurance for properties denied an extension of subsidy, and (2) submit to certain congressional committees a draft affordability framework addressing the affordability of flood insurance sold under the National Flood Insurance Program.
+
+Permits FEMA to enter into an agreement with another federal agency either to complete the affordability study or prepare the draft affordability framework.
+
+Directs FEMA to make publicly available, no later than six months before implementation of specified rate changes in flood insurance risk premiums resulting from both the Biggert-Waters Flood Insurance Reform Act of 2012, and from this Act, the rate tables and underwriting guidelines that provide the basis for such changes.
+
+Directs FEMA, within 90 days after enactment of this Act, to report to Congress on the feasibility of: (1) releasing property-level policy and claims data for NFIP flood insurance coverage, and (2) establishing guidelines for releasing such data in accordance with the Privacy Act of 1974.
+
+(Sec. 104) Directs FEMA submit to certain congressional committees: (1) the draft affordability study; and (2) the report on an economic analysis of the costs and benefits to the federal government of a flood insurance program with full risk-based premiums, combined with means-tested federal assistance to aid individuals who cannot afford coverage, through an insurance voucher program.
+
+(Sec. 105) Amends the Biggert-Waters Flood Insurance Reform Act of 2012 to repeal the ceiling on the funding for the draft affordability study and report, making available such amounts as may be necessary.
+
+(Sec. 106) Amends the NFIA to: (1) authorize FEMA to reimburse homeowners for successful map appeals resolved by submission of conflicting data to the Scientific Resolution Panel, and (2) repeal the ceiling on the amount of funds FEMA may use to make such reimbursements to a community for successful appeals.
+
+(Sec. 107) Makes any community that has made adequate progress on the construction (as under current law) or reconstruction (new) of a flood protection system which will afford flood protection for the one-hundred year frequency flood eligible for flood insurance at premium rates not exceeding those which would apply if such flood protection system had been completed.
+
+Revises guidelines governing availability of flood insurance in communities restoring disaccredited flood protection systems to include riverine and coastal levees.
+
+(Sec. 108) Requires FEMA to: (1) rate a covered structure using the elevation difference between the floodproofed elevation of the covered structure and its adjusted base flood elevation; and (2) designate a Flood Insurance Advocate to advocate for the fair treatment of policy holders under the National Flood Insurance Program and property owners in the mapping of flood hazards, the identification of risks from flood, and the implementation of measures to minimize the risk of flood.
+
+(Sec. 110) Amends the Flood Disaster Protection Act of 1973, as amended by the Biggert-Waters Flood Insurance Reform Act of 2012, with respect to the limitation on the requirement that a federal entity for lending regulation require all NFIA payments be made periodically to a regulated lending institution or mortgage loan servicer, which shall deposit them into an escrow account.
+
+Applies the payment and escrow requirements, and the limitation on them, to any loan originated, refinanced, increased, extended, or renewed on or after January 1, 2016.
+
+Revises the limitation prohibiting a federal entity for lending regulation, in certain circumstances, from requiring a regulated lending institution to deposit NFIA payments in an escrow account. Extends the reach of that prohibition to loans that are: (1) junior or subordinate to a senior lien secured by the same residential improved real estate or mobile home for which flood insurance is being provided at the time of the loan's origination; (2) secured by residential improved real estate or a mobile home that is part of a condominium, cooperative, or other project development in certain circumstances; (3) secured by residential improved real estate or a mobile home used as collateral for a business purpose; (4) home equity lines of credit; (5) nonperforming loans; or (6) loans with terms not longer than 12 months.
+
+Directs such a federal entity for lending regulation to require a regulated lending institution or servicer of an outstanding mortgage loan to give a borrower the option of having flood insurance NFIA premiums and fees payments made periodically to a regulated lending institution or mortgage loan servicer, which may also deposit them in an escrow account.
+
+(Sec. 111) Amends the NFIA to require FEMA to give policyholders not required to escrow their flood insurance premiums and fees the option of paying premiums in installments that are monthly or otherwise more frequent than annually.
+
+(Sec. 112) Requires flood insurance premium rates to be based in part on consideration of the flood mitigation activities that an owner or lessee has undertaken on a property, including differences in the risk involved due to land use measures, floodproofing, flood forecasting, and similar measures.
+
+(Sec. 113) Prohibits FEMA from estimating flood insurance premium rates for property which as of July 6, 2012, has experienced or sustained substantial improvement exceeding 50% (currently only 30%) of its fair market value.
+
+(Sec. 114) Requires FEMA to assess options, methods, and strategies for making available through the NFIP voluntary community-based flood insurance policies.
+
+Directs the Comptroller General (GAO) to analyze the report on the assessment.
+
+(Sec. 115) Exempts from a review or processing fee any requester for a flood insurance rate map change based on a habitat restoration project funded in whole or in part with federal or state funds, including dam removal, culvert redesign or installation, or the installation of fish passage.
+
+(Sec. 116) Requires FEMA to: (1) issue guidelines for property owners that provide alternative methods of mitigation (other than building elevation) to reduce flood risk to urban residential buildings that cannot be elevated due to their structural characteristics; and (2) inform property owners about how the implementation of such methods may affect risk premium rates for flood insurance coverage.
+
+Requires the Administrator, in calculating the risk premium rate, to take into account the implementation of any mitigation method identified in the guidelines.
+
+Title II: National Association of Registered Agents and Brokers - National Association of Registered Agents and Brokers Reform Act of 2014 - (Sec. 202) Amends the Gramm-Leach-Bliley Act to repeal the contingent conditions under which the National Association of Registered Agents and Brokers (NARAB) shall not be established. Establishes the NARAB without contingent conditions as an independent nonprofit corporation to prescribe, on a multi-state basis, licensing and insurance producer qualification requirements and conditions.
+
+Prohibits NARAB from merging with or into any other private or public entity.
+
+Requires the NARAB, without affecting state regulatory authority, to provide a mechanism for the adoption and multi-state application of requirements and conditions pertaining to: (1) licensing, continuing education, and other qualifications of non-NARAB insurance producers; (2) resident or nonresident insurance producer appointments; (3) supervision and disciplining of such producers; and (4) the setting of licensing fees for insurance producers.
+
+Makes any state-licensed insurance producer eligible to join the NARAB, except during a period of license suspension or revocation. Requires an individual insurance producer to undergo a criminal history record check by the Federal Bureau of Investigation (FBI). Requires the NARAB to submit to the FBI identification information obtained from the insurance producer, upon producer request, as well as a request of its own for the criminal history record check.
+
+Authorizes the NARAB to: (1) establish membership criteria; and (2) deny membership to an individual state-licensed insurance producer on the basis of the criminal history information obtained, or where the producer has been subject to certain disciplinary action.
+
+Prescribes procedures governing a criminal history record check, including the rights of applicants denied membership.
+
+Authorizes NARAB to establish membership criteria, including separate classes of membership and membership criteria for business entities; but prohibits it from establishing criteria that unfairly limit the ability of a small insurance producer to become a member of NARAB, including discriminatory membership fees.
+
+Authorizes NARAB to establish separate categories of membership for insurance producers and for other persons or entities within each class, based on the types of licensing categories that exist under state laws.
+
+Prohibits NARAB from establishing special categories of membership, including distinct membership criteria for members that are depository institutions or for their employees, agents, or affiliates.
+
+Prohibits NARAB from adopting any qualification less protective to the public than that contained in the National Association of Insurance Commissioners (NAIC) Producer Licensing Model Act.
+
+Prescribes procedures for authorized information sharing pursuant to a request by a licensed insurance producer.
+
+Authorizes the NARAB to deny membership to any state-licensed insurance producer for failure to meet membership criteria.
+
+States that NARAB membership authorizes an insurance producer to engage in the business of insurance in any state for any lines of insurance specified in the producer's home state license, including claims adjustments and settlement, risk management, and specified insurance-related consulting activities.
+
+Makes NARAB membership equivalent to a nonresident insurance producer license for specified purposes.
+
+Empowers NARAB to act as agent for any member for the purpose of remitting licensing fees to a state.
+
+Requires NARAB to disclose to states, including state insurance regulators and the NAIC, on an ongoing basis, a list of the states in which each member is authorized to operate.
+
+Retains state regulatory jurisdiction regarding: (1) consumer protection and market conduct, and (2) state disciplinary authority.
+
+Requires NARAB to establish, as a condition of membership, continuing education requirements comparable to the continuing education requirements under the licensing laws of a majority of the states.
+
+Prohibits NARAB from offering continuing education courses for insurance producers.
+
+Grants NARAB disciplinary enforcement powers.
+
+Requires NARAB to: (1) receive and investigate consumer complaints, and to maintain a toll-free telephone number; and (2) refer any such complaint to the state insurance regulator. Prescribes information- sharing procedures and limitations with the NAIC or governmental entities.
+
+Authorizes NARAB to establish: (1) a central clearinghouse, or utilize NAIC as a central clearinghouse through which NARAB members may disclose their intent to operate in one or more states; and (2) a national database for the collection of regulatory information concerning the activities of insurance producers.
+
+Establishes the NARAB board of directors, whose membership shall include state insurance commissioners. Sets forth terms and procedures for appointment of members by the President. Authorizes reappointment to successive terms. Prohibits compensation on account of Board membership.
+
+Declares that NARAB shall not be deemed to be an insurer or insurance producer within the meaning of any state law, rule, regulation, or order regulating or taxing insurers, insurance producers, or other entities engaged in the business of insurance.
+
+Sets forth procedures for presidential oversight of NARAB, including removal of the entire existing Board.
+
+Sets forth a limited preemption of state laws purporting to regulate insurance producers.
+
+Directs NARAB to coordinate with the Financial Industry Regulatory Authority (FINRA) in order to ease administrative burdens that fall on NARAB members subject to regulation by FINRA.
+
+Authorizes any person aggrieved by a NARAB decision or action to commence a civil action in an appropriate federal district court.
+
+Prohibits federal funding of NARAB.</summary>
+</bill>

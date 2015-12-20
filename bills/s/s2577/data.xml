@@ -1,0 +1,66 @@
+<bill session="113" type="s" number="2577" updated="2015-09-01T10:22:23-04:00">
+  <state datetime="2014-07-29">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of State to offer rewards totaling up to $5,000,000 for information on the kidnapping and murder of Naftali Fraenkel, a dual United States-Israeli citizen, that began on June 12, 2014.</title>
+  </titles>
+  <sponsor id="412573"/>
+  <cosponsors>
+    <cosponsor id="400272" joined="2014-07-15"/>
+    <cosponsor id="412491" joined="2014-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="2014-07-16" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-07-21">
+      <text>Committee on Foreign Relations. Reported by Senator Menendez without amendment. With written report No. 113-213.</text>
+    </action>
+    <calendar datetime="2014-07-21" calendar="Senate Legislative" under="General Orders" number="474">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 474.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-07-29" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5069" label="consideration"/>
+      <reference ref="CR S5069" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2014-07-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-07-30T11:35:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="5041"/>
+    <bill relation="identical" session="113" type="s" number="2579"/>
+    <bill relation="unknown" session="113" type="s" number="2579"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arab-Israeli relations"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Violent crime"/>
+    <term name="West Bank"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2014--Passed Senate without amendment.
+Directs the Secretary of State, in accordance with the Rewards for Justice program authorized under the State Department Basic Authorities Act of 1956, to offer a reward of up to $5 million to any individual who furnishes information leading to the arrest or conviction in any country of any individual for committing, conspiring or attempting to commit, or aiding or abetting in the commission of, the kidnapping and murder of Naftali Fraenkel.</summary>
+</bill>

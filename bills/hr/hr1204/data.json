@@ -1,0 +1,486 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-03-14", 
+      "references": [
+        {
+          "reference": "CR E304", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-14", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-03-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-07-24", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-07-24", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-10-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-10-29", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-12-02T14:25:00-05:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-278.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-02T14:26:00-05:00", 
+      "calendar": "Union", 
+      "number": "199", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 199.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2013-12-03T12:58:00-05:00", 
+      "references": [], 
+      "text": "Mr. McCaul moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-03T12:58:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7414-7418", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-03T12:58:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1204.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-03T13:11:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-03T14:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7427-7428", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-03T14:51:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7414-7415", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "617", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 617).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2013-12-09", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-09", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-09", 
+      "references": [
+        {
+          "reference": "CR S6400-6401", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-09", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6400-6401", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-12-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T15:07:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8973-8975", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Hudson moved that the House suspend the rules and agree to the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T15:07:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 1204.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T15:15:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T17:13:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8993-8994", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T17:20:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8973-8974", 
+          "type": "text as House agreed to Senate amendment"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "560", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 416 - 5 (Roll no. 560).", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-10T17:20:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-12", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2014-12-18", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2014-12-18", 
+      "congress": "113", 
+      "law": "public", 
+      "number": "238", 
+      "references": [], 
+      "text": "Became Public Law No: 113-238.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3977-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3977"
+    }
+  ], 
+  "bill_id": "hr1204-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2013-03-19", 
+      "state": "NY", 
+      "thomas_id": "02041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "sponsored_at": "2013-07-22", 
+      "state": "NC", 
+      "thomas_id": "02140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2013-03-14", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "sponsored_at": "2013-03-20", 
+      "state": "MA", 
+      "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2013-07-22", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "sponsored_at": "2013-03-19", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2013-03-14", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2013-03-14", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "113", 
+    "law_type": "public", 
+    "number": "238"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-07-24", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2014-12-18", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-10T17:20:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-09", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-03-14", 
+  "number": "1204", 
+  "official_title": "To amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1804-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1804-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Aviation Security Stakeholder Participation Act of 2014", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Thompson, Bennie G.", 
+    "state": "MS", 
+    "thomas_id": "01151", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2014-12-18", 
+  "subjects": [
+    "Advisory bodies", 
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Executive agency funding and structure", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2014-12-18", 
+    "text": "Aviation Security Stakeholder Participation Act of 2014 - Directs the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA]) to establish in the TSA an aviation security advisory committee.\n\nRequires the Assistant Secretary to consult with the Advisory Committee on aviation security matters.\n\nRequires the Advisory Committee to develop, upon the Assistant Secretary's request, recommendations to improve aviation security.\n\nRequires the Assistant Secretary to appoint to the Advisory Committee members representing up to 34 member organizations, including air carriers, all-cargo air transportation, indirect air carriers, labor organizations representing air carrier employees as well as those representing transportation security officers, aircraft manufacturers, airport operators, airport construction and maintenance contractors as well as labor organizations representing them, general aviation, privacy organizations, the travel industry, airport-based businesses, businesses that conduct security operations at airports, aeronautical repair stations, passenger advocacy groups, the aviation security technology industry (including screening technology and biometrics), victims of terrorist acts against aviation, and law enforcement and security experts.\n\nEstablishes within the Advisory Committee: (1) an air cargo security subcommittee; (2) a general aviation subcommittee; (3) an airport perimeter security and access control subcommittee; and (4) a security technology subcommittee. Requires all subcommittees to consider risk-based security approaches in the performance of their functions with respect to transportation security."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Aviation Security Stakeholder Participation Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Aviation Security Stakeholder Participation Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Aviation Security Stakeholder Participation Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Aviation Security Stakeholder Participation Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Aviation Security Stakeholder Participation Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:19:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR1204:@@@L&summ2=m&"
+}

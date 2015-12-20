@@ -1,0 +1,322 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee184c9060e">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To authorize appropriations for fiscal year 2014 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.;
+   		National Defense Authorization Act for Fiscal Year 2014;H.R. 1960 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-05-16</dateIngested>
+</extension>
+<titleInfo>
+ <title>To authorize appropriations for fiscal year 2014 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>National Defense Authorization Act for Fiscal Year 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1960 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-05-14</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>192 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee184c9060e</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1960ih</identifier>
+<identifier type="preferred citation">H.R. 1960</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1960_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1960ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1960ih/html/BILLS-113hr1960ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1960ih/pdf/BILLS-113hr1960ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1960ih/xml/BILLS-113hr1960ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-05-16</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-05</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr1960ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Howard P. &quot;Buck&quot; McKeon</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Adam Smith</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Armed Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 101(a)(9)</partNumber>
+  <partNumber>Title 10 Section 101(d)(4)</partNumber>
+  <partNumber>Title 10 Section 10217(a)</partNumber>
+  <partNumber>Title 10 Section 10217(c)(2)</partNumber>
+  <partNumber>Title 10 Section 1034(g)</partNumber>
+  <partNumber>Title 10 Section 115(b)</partNumber>
+  <partNumber>Title 10 Section 129</partNumber>
+  <partNumber>Title 10 Section 14704(a)</partNumber>
+  <partNumber>Title 10 Section 16133(b)</partNumber>
+  <partNumber>Title 10 Section 2151(b)</partNumber>
+  <partNumber>Title 10 Section 221note</partNumber>
+  <partNumber>Title 10 Section 2306b</partNumber>
+  <partNumber>Title 10 Section 3744(b)</partNumber>
+  <partNumber>Title 10 Section 401(c)</partNumber>
+  <partNumber>Title 10 Section 6247</partNumber>
+  <partNumber>Title 10 Section 8744(a)</partNumber>
+  <partNumber>Title 10 Chapter 79</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 101(a)(9)</identifier>
+ <identifier type="USC citation">10 U.S.C. 101(d)(4)</identifier>
+ <identifier type="USC citation">10 U.S.C. 10217(a)</identifier>
+ <identifier type="USC citation">10 U.S.C. 10217(c)(2)</identifier>
+ <identifier type="USC citation">10 U.S.C. 1034(g)</identifier>
+ <identifier type="USC citation">10 U.S.C. 115(b)</identifier>
+ <identifier type="USC citation">10 U.S.C. 129</identifier>
+ <identifier type="USC citation">10 U.S.C. 14704(a)</identifier>
+ <identifier type="USC citation">10 U.S.C. 16133(b)</identifier>
+ <identifier type="USC citation">10 U.S.C. 2151(b)</identifier>
+ <identifier type="USC citation">10 U.S.C. 221note</identifier>
+ <identifier type="USC citation">10 U.S.C. 2306b</identifier>
+ <identifier type="USC citation">10 U.S.C. 3744(b)</identifier>
+ <identifier type="USC citation">10 U.S.C. 401(c)</identifier>
+ <identifier type="USC citation">10 U.S.C. 6247</identifier>
+ <identifier type="USC citation">10 U.S.C. 8744(a)</identifier>
+ <identifier type="USC citation">10 U.S.C. Chapter 79</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 14 Section 494</partNumber>
+</titleInfo>
+ <identifier type="USC citation">14 U.S.C. 494</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 32 Section 303</partNumber>
+  <partNumber>Title 32 Section 709</partNumber>
+  <partNumber>Title 32 Chapter 3</partNumber>
+</titleInfo>
+ <identifier type="USC citation">32 U.S.C. 303</identifier>
+ <identifier type="USC citation">32 U.S.C. 709</identifier>
+ <identifier type="USC citation">32 U.S.C. Chapter 3</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 37 Section 206(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">37 U.S.C. 206(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 3012(b)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 3012(b)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 46 Section 53912</partNumber>
+</titleInfo>
+ <identifier type="USC citation">46 U.S.C. 53912</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Appendix 2061</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. App. 2061</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 120 Page 2104</partNumber>
+  <partNumber>Volume 120 Page 2111</partNumber>
+  <partNumber>Volume 120 Page 2114</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">120 Stat.	2104</identifier>
+ <identifier type="Statute citation">120 Stat.	2111</identifier>
+ <identifier type="Statute citation">120 Stat.	2114</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 122 Page 32</partNumber>
+  <partNumber>Volume 122 Page 4377</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">122 Stat.	32</identifier>
+ <identifier type="Statute citation">122 Stat.	4377</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-314</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-314</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-364</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-364</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-181</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-181</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-417</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-417</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr1960ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1960</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>National Defense Authorization Act for Fiscal Year 2014</shortTitle>
+ <action date="2013-05-14">Mr. McKeon (for himself and Mr. Smith of Washington) (both by request): introduced the following bill; which was referred to the Committee on Armed Services</action>
+ <congCommittee authorityId="hsas00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Armed Services</name>
+                      <name type="authority-short">Armed Services</name>
+                </congCommittee>
+ <congMember authorityId="778" bioGuideId="M000508" chamber="H" congress="113" gpoId="7830" party="R" role="SPONSOR" state="CA">
+                      <name type="parsed">Mr. McKeon</name>
+                      <name type="authority-fnf">Howard P. &quot;Buck&quot; McKeon</name>
+                      <name type="authority-lnf">McKeon, Howard P. &quot;Buck&quot;</name>
+                      <name type="authority-other">Howard Mckeon</name>
+                </congMember>
+ <congMember authorityId="1528" bioGuideId="S000510" chamber="H" congress="113" gpoId="8213" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mr. Smith of Washington</name>
+                      <name type="authority-fnf">Adam Smith</name>
+                      <name type="authority-lnf">Smith, Adam</name>
+                </congMember>
+ <law congress="107" isPrivate="false" number="314"></law>
+ <law congress="109" isPrivate="false" number="364"></law>
+ <law congress="110" isPrivate="false" number="181"></law>
+ <law congress="110" isPrivate="false" number="417"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section detail="(a)(9)" number="101"></section>
+                      <section detail="(d)(4)" number="101"></section>
+                      <section detail="(a)" number="10217"></section>
+                      <section detail="(c)(2)" number="10217"></section>
+                      <section detail="(g)" number="1034"></section>
+                      <section detail="(b)" number="115"></section>
+                      <section number="129"></section>
+                      <section detail="(a)" number="14704"></section>
+                      <section detail="(b)" number="16133"></section>
+                      <section detail="(b)" number="2151"></section>
+                      <section detail="note" number="221"></section>
+                      <section number="2306b"></section>
+                      <section detail="(b)" number="3744"></section>
+                      <section detail="(c)" number="401"></section>
+                      <section number="6247"></section>
+                      <section detail="(a)" number="8744"></section>
+                      <chapter number="79"></chapter>
+                </USCode>
+ <USCode title="14">
+                      <section number="494"></section>
+                </USCode>
+ <USCode title="32">
+                      <section number="303"></section>
+                      <section number="709"></section>
+                      <chapter number="3"></chapter>
+                </USCode>
+ <USCode title="37">
+                      <section detail="(c)" number="206"></section>
+                </USCode>
+ <USCode title="38">
+                      <section detail="(b)(1)" number="3012"></section>
+                </USCode>
+ <USCode title="46">
+                      <section number="53912"></section>
+                </USCode>
+ <USCode title="50">
+                      <appendix detail="et seq." number="2061"></appendix>
+                </USCode>
+ <statuteAtLarge volume="120">
+                      <pages pages="2104"></pages>
+                      <pages pages="2111"></pages>
+                      <pages pages="2114"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="122">
+                      <pages pages="32"></pages>
+                      <pages pages="4377"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

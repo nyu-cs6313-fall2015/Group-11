@@ -1,0 +1,161 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-06", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-16", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4165-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "16", 
+      "name": "Costa, Jim", 
+      "sponsored_at": "2014-03-06", 
+      "state": "CA", 
+      "thomas_id": "01774", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2014-03-11", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2014-03-06", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2014-03-06", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2014-03-06", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Southerland, Steve II", 
+      "sponsored_at": "2014-07-03", 
+      "state": "FL", 
+      "thomas_id": "02000", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-06", 
+  "number": "4165", 
+  "official_title": "To protect crime victims' rights.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s822-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Justice for Crime Victims Act of 2014", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Franks, Trent", 
+    "state": "AZ", 
+    "thomas_id": "01707", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-03-06", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Crime victims", 
+    "Criminal procedure and sentencing", 
+    "Government trust funds", 
+    "Judicial review and appeals"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-03-06", 
+    "text": "Justice for Crime Victims Act of 2014 - Amends the federal criminal code to add to the list of crime victims' rights: (1) the right to be informed in a timely manner of any plea bargain or deferred prosecution agreement, and (2) the right to be informed of victims' rights and the services described in the Victims' Rights and Restitution Act of 1990 and to be provided contact information for the Office of the Victims' Rights Ombudsman of the Department of Justice (DOJ).\n\nRequires the court of appeals to: (1) take up and decide an application for relief and writ of mandamus regarding a victim's rights within 72 hours after a petition has been filed (current law), unless the litigants, with the court's approval, have stipulated to a different time period for consideration; and (2) apply ordinary standards of appellate review in deciding such application.\n\nDefines \"court of appeals\" for purposes of crime victims' rights provisions to mean: (1) the U.S. court of appeals for the judicial district in which a defendant is being prosecuted; or (2) for a prosecution in the Superior Court of the District of Columbia, the District of Columbia Court of Appeals.\n\nMakes sums in the Crime Victims Fund that are made available for the U.S. Attorneys Offices and the Federal Bureau of Investigation (FBI) for services for the benefit of crime victims in the federal criminal justice system to be available only for such services provided through victim coordinators, victims' specialists, and advocates, including for the administrative support of such victim coordinators and advocates."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Justice for Crime Victims Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To protect crime victims' rights.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4165:@@@L&summ2=m&"
+}

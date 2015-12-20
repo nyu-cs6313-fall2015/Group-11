@@ -1,0 +1,63 @@
+<bill session="113" type="sc" number="37" updated="2015-09-01T10:21:27-04:00">
+  <state datetime="2014-06-17T16:56:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2014-06-17T16:56:00-04:00"/>
+  </status>
+  <introduced datetime="2014-06-11"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution authorizing the use of the rotunda of the United States Capitol in commemoration of the Shimon Peres Congressional Gold Medal ceremony.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-06-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3557" label="consideration"/>
+      <reference ref="CR S3608" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2014-06-11T12:44:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-06-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-06-11T17:07:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-06-11">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2014-06-17T16:48:00-04:00">
+      <text>Mr. Harper moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2014-06-17T16:48:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5388-5389" label="consideration"/>
+    </action>
+    <action datetime="2014-06-17T16:48:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 37.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2014-06-17T16:56:00-04:00" where="h" result="pass" state="PASSED:CONCURRENTRES">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5388" label="text"/>
+    </vote>
+    <action datetime="2014-06-17T16:56:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2014--Passed House without amendment.
+Authorizes the use of the rotunda of the Capitol on June 26, 2014, for the commemoration of the award of the congressional gold medal to Shimon Peres.</summary>
+</bill>

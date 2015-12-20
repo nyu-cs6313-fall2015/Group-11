@@ -1,0 +1,201 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1894a15f2">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) to reform the Food for Peace Program, and for other purposes.;
+   		Food for Peace Reform Act of 2014;S. 2421 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-06-09</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) to reform the Food for Peace Program, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Food for Peace Reform Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2421 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-06-03</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>18 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee1894a15f2</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s2421is</identifier>
+<identifier type="preferred citation">S. 2421</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2421_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s2421is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2421is/html/BILLS-113s2421is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2421is/pdf/BILLS-113s2421is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2421is/xml/BILLS-113s2421is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-06-09</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s2421is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Bob Corker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Christopher A. Coons</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Foreign Relations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 1431(b)</partNumber>
+  <partNumber>Title 7 Section 1691et seq.</partNumber>
+  <partNumber>Title 7 Section 1721</partNumber>
+  <partNumber>Title 7 Section 1721et seq.</partNumber>
+  <partNumber>Title 7 Section 1724(a)(3)</partNumber>
+  <partNumber>Title 7 Section 1726c(a)(4)(A)</partNumber>
+  <partNumber>Title 7 Section 1736a(f)(1)(B)</partNumber>
+  <partNumber>Title 7 Section 1736f-1</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 1431(b)</identifier>
+ <identifier type="USC citation">7 U.S.C. 1691et seq.</identifier>
+ <identifier type="USC citation">7 U.S.C. 1721</identifier>
+ <identifier type="USC citation">7 U.S.C. 1721et seq.</identifier>
+ <identifier type="USC citation">7 U.S.C. 1724(a)(3)</identifier>
+ <identifier type="USC citation">7 U.S.C. 1726c(a)(4)(A)</identifier>
+ <identifier type="USC citation">7 U.S.C. 1736a(f)(1)(B)</identifier>
+ <identifier type="USC citation">7 U.S.C. 1736f-1</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 2151et seq.</partNumber>
+  <partNumber>Title 22 Section 2220aet seq.</partNumber>
+  <partNumber>Title 22 Section 2220d</partNumber>
+  <partNumber>Title 22 Section 2220e</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 2151et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 2220aet seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 2220d</identifier>
+ <identifier type="USC citation">22 U.S.C. 2220e</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 46 Section 55305</partNumber>
+</titleInfo>
+ <identifier type="USC citation">46 U.S.C. 55305</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s2421is</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2421</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Food for Peace Reform Act of 2014</shortTitle>
+ <action date="2014-06-03">Mr. Corker (for himself and Mr. Coons) introduced the following bill; which was read twice and referred to the Committee on Foreign Relations</action>
+ <congCommittee authorityId="ssfr00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Foreign Relations</name>
+                      <name type="authority-short">Foreign Relations</name>
+                </congCommittee>
+ <congMember authorityId="1825" bioGuideId="C001071" chamber="S" congress="113" gpoId="8294" party="R" role="SPONSOR" state="TN">
+                      <name type="parsed">Mr. Corker</name>
+                      <name type="authority-fnf">Bob Corker</name>
+                      <name type="authority-lnf">Corker, Bob</name>
+                </congMember>
+ <congMember authorityId="1984" bioGuideId="C001088" chamber="S" congress="113" gpoId="8297" party="D" role="COSPONSOR" state="DE">
+                      <name type="parsed">Mr. Coons</name>
+                      <name type="authority-fnf">Christopher A. Coons</name>
+                      <name type="authority-lnf">Coons, Christopher A.</name>
+                      <name type="authority-other">Christopher Coons</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="7">
+                      <section detail="(b)" number="1431"></section>
+                      <section detail="et seq." number="1691"></section>
+                      <section number="1721"></section>
+                      <section detail="et seq." number="1721"></section>
+                      <section detail="(a)(3)" number="1724"></section>
+                      <section detail="(a)(4)(A)" number="1726c"></section>
+                      <section detail="(f)(1)(B)" number="1736a"></section>
+                      <section number="1736f-1"></section>
+                </USCode>
+ <USCode title="22">
+                      <section detail="et seq." number="2151"></section>
+                      <section detail="et seq." number="2220a"></section>
+                      <section number="2220d"></section>
+                      <section number="2220e"></section>
+                </USCode>
+ <USCode title="46">
+                      <section number="55305"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,191 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee189a829fe">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To ensure that methods of collecting taxes and fees by private citizens on behalf of States are fair and effective and do not discriminate against interstate commerce.;
+   		Tax and Fee Collection Fairness Act of 2014;H.R. 5252 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-08-15</dateIngested>
+</extension>
+<titleInfo>
+ <title>To ensure that methods of collecting taxes and fees by private citizens on behalf of States are fair and effective and do not discriminate against interstate commerce.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Tax and Fee Collection Fairness Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5252 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-07-29</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee189a829fe</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5252ih</identifier>
+<identifier type="preferred citation">H.R. 5252</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5252_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5252ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5252ih/html/BILLS-113hr5252ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5252ih/pdf/BILLS-113hr5252ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5252ih/xml/BILLS-113hr5252ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-08-15</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-08-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr5252ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>F. James Sensenbrenner Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Spencer Bachus</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lee Terry</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Steve Cohen</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Henry C. &quot;Hank&quot; Johnson Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 28 Section 1341</partNumber>
+</titleInfo>
+ <identifier type="USC citation">28 U.S.C. 1341</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr5252ih</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5252</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Tax and Fee Collection Fairness Act of 2014</shortTitle>
+ <action date="2014-07-29">Mr. Sensenbrenner (for himself, Mr. Bachus, Mr. Terry, Mr. Cohen, and Mr. Johnson of Georgia) introduced the following bill; which was referred to the Committee on the Judiciary</action>
+ <congCommittee authorityId="hsju00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember authorityId="1041" bioGuideId="S000244" chamber="H" congress="113" gpoId="8218" party="R" role="SPONSOR" state="WI">
+                      <name type="parsed">Mr. Sensenbrenner</name>
+                      <name type="authority-fnf">F. James Sensenbrenner Jr.</name>
+                      <name type="authority-lnf">Sensenbrenner, F. James, Jr.</name>
+                      <name type="authority-other">F. James Sensenbrenner Jr.</name>
+                </congMember>
+ <congMember authorityId="38" bioGuideId="B000013" chamber="H" congress="113" gpoId="7791" party="R" role="COSPONSOR" state="AL">
+                      <name type="parsed">Mr. Bachus</name>
+                      <name type="authority-fnf">Spencer Bachus</name>
+                      <name type="authority-lnf">Bachus, Spencer</name>
+                </congMember>
+ <congMember authorityId="1566" bioGuideId="T000459" chamber="H" congress="113" gpoId="8039" party="R" role="COSPONSOR" state="NE">
+                      <name type="parsed">Mr. Terry</name>
+                      <name type="authority-fnf">Lee Terry</name>
+                      <name type="authority-lnf">Terry, Lee</name>
+                </congMember>
+ <congMember authorityId="1878" bioGuideId="C001068" chamber="H" congress="113" gpoId="8156" party="D" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. Cohen</name>
+                      <name type="authority-fnf">Steve Cohen</name>
+                      <name type="authority-lnf">Cohen, Steve</name>
+                </congMember>
+ <congMember authorityId="1843" bioGuideId="J000288" chamber="H" congress="113" gpoId="7901" party="D" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Johnson of Georgia</name>
+                      <name type="authority-fnf">Henry C. &quot;Hank&quot; Johnson Jr.</name>
+                      <name type="authority-lnf">Johnson, Henry C. &quot;Hank&quot;, Jr.</name>
+                      <name type="authority-other">Henry Johnson Jr.</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="28">
+                      <section number="1341"></section>
+                </USCode>
+</extension>
+</mods>

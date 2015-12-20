@@ -1,0 +1,238 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-02", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-12-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-04", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-12-19T11:21:00-05:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-299.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-19T11:22:00-05:00", 
+      "calendar": "Union", 
+      "number": "217", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 217.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-01-08T14:52:00-05:00", 
+      "references": [], 
+      "text": "Mr. Shuster moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-08T14:52:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H39-41", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-08T14:52:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3628.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-08T15:02:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-08T15:54:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H43-44", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-08T16:01:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H39-40", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "4", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 4).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-01-08T16:01:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-09", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3628-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "2013-12-02", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-12-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-01-08T16:01:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-12-02", 
+  "number": "3628", 
+  "official_title": "To eliminate certain unnecessary reporting requirements and consolidate or modify others, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Transportation Reports Elimination Act of 2014", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Shuster, Bill", 
+    "state": "PA", 
+    "thomas_id": "01681", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-01-08T16:01:00-05:00", 
+  "subjects": [
+    "Aviation and airports", 
+    "Coast guard", 
+    "Congressional oversight", 
+    "Department of Defense", 
+    "Department of Homeland Security", 
+    "Drug, alcohol, tobacco use", 
+    "Government information and archives", 
+    "Great Lakes", 
+    "Hazardous wastes and toxic substances", 
+    "Marine and inland water transportation", 
+    "Marine pollution", 
+    "Noise pollution", 
+    "Pipelines", 
+    "Public transit", 
+    "Railroads", 
+    "Research and development", 
+    "Roads and highways", 
+    "Rural conditions and development", 
+    "Solid waste and recycling", 
+    "Transportation and public works", 
+    "Transportation safety and security", 
+    "Water quality"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2014-01-08", 
+    "text": "Transportation Reports Elimination Act of 2014 - (Sec. 2) Eliminates certain mandatory reports to specified congressional committees from the Secretary of Transportation (DOT) on: (1)\u00a0 Airport Improvement Project grants, (2) Pipeline Safety Information Grants to Communities, (3) the pilot program for innovative financing of air traffic control equipment (under the Vision 100--Century of Aviation Reauthorization Act), and (4)\u00a0 the application of new aircraft and aircraft engine standards or technologies to reduce aircraft noise levels (under the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century).\n\nEliminates certain mandatory Federal Aviation Administration (FAA) reports with respect to the Air Traffic Services Committee and the establishment of an Air Defense Identification Zone (under the Vision 100--Century of Aviation Reauthorization Act).\n\nEliminates mandatory reports to specified congressional committees from the Environmental Protection Agency (EPA) regarding Great Lakes Management, the Indian Environmental General Assistance Program (under the Indian Environmental General Assistance Program Act of 1992), and the research program respecting ocean dumping and other methods of waste disposal (under the Marine Protection, Research, and Sanctuaries Act of 1972).\n\n(Sec. 3) Requires the annual marine safety report to Congress of the Secretary of the department in which the Coast Guard is operating to identify: (1) the number of civilian and military Coast Guard personnel assigned to marine safety positions; and (2) marine safety positions that are understaffed for purposes of facilitating the marine safety strategy and achieving its goals.\n\nDirects the Secretary of the department in which the Coast Guard is operating to submit an annual Maritime Transportation Security report to specified congressional committees that includes: (1) a summary of security standards established and the level of compliance with them, and steps taken to ensure compliance, by ports, terminals, vessel operators, and shippers; and (2) the number of security zones established for vessels containing especially hazardous cargo, and the number of such vessels provided a waterborne security escort.\n\nRequires such report also to assess any additional vessels, personnel, infrastructure, or other resources that may be necessary to provide waterborne escorts to such vessels.\n\nPostpones till certain dates in 2014 the DOT Secretary's first biennial reports to specified congressional committees on infrastructure investment needs and the financial performance of projects receiving, or which have already received, infrastructure finance assistance.\n\nChanges from March to July, starting July 2014, the deadline for the biennial DOT public mass transportation system reports to Congress.\n\nRepeals the requirement that the Comptroller General (GAO) evaluation and audit of the National Transportation Safety Board (NTSB) be conducted at least annually.\n\nRequires the DOT Secretary and the Secretary of Homeland Security (DHS) to include the House Committee on Transportation and Infrastructure in their quarterly briefings to Congress on any memorandum of agreement between them for coordination of their roles and responsibilities in providing assistance for public transportation.\n\n(Sec. 4) Revises the requirement for biennial reports to specified congressional committees on state progress in implementing projects to improve railway-highway crossings to make them (paperless) reports to the public on the DOT website.\n\nRequires the same shift to paperless reports to the public on the DOT website with respect to mandatory annual or biennial reports concerning: (1) the national bridge and tunnel inventory; (2) the surface transportation project delivery program; (3) highway safety programs; (4) in-vehicle alcohol detection device research; (5) the National Intelligent Transportation System (ITS) Program Plan; (6) research, technology, and education advisory committee recommendations; (7) high-risk rural roads best practices; and (8) a specified comparison of the completion times of categorical exclusions, environmental assessments, and environmental impact statements for federal-aid highway projects among specified time periods.\n\nAmends the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (SAFETEA-LU) to require publication also on the DOT website of national ferry database updates."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Transportation Reports Elimination Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Transportation Reports Elimination Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Transportation Reports Elimination Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To eliminate certain unnecessary reporting requirements and consolidate or modify others, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:13-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3628:@@@L&summ2=m&"
+}

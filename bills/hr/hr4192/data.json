@@ -1,0 +1,238 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-11", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-12", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-04-28T16:11:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Oversight and Government Reform. H. Rept. 113-418.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-28T16:11:00-04:00", 
+      "calendar": "Union", 
+      "number": "308", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 308.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-04-28T16:32:00-04:00", 
+      "references": [], 
+      "text": "Mr. Issa moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-28T16:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3207-3209", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-28T16:32:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4192.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-28T16:52:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-28T18:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3219-3220", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-28T18:58:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3207", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "178", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 367 - 16 (Roll no. 178).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-04-29", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-06", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2740", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-05-07", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-07", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2014-05-16", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2014-05-16", 
+      "congress": "113", 
+      "law": "public", 
+      "number": "103", 
+      "references": [], 
+      "text": "Became Public Law No: 113-103.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4192-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2014-03-11", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "113", 
+    "law_type": "public", 
+    "number": "103"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-12", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2014-05-16", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-04-28T18:58:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-05-06", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-11", 
+  "number": "4192", 
+  "official_title": "To amend the Act entitled \"An Act to regulate the height of buildings in the District of Columbia\" to clarify the rules of the District of Columbia regarding human occupancy of penthouses above the top story of the building upon which the penthouse is placed.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "49", 
+    "name": "Issa, Darrell E.", 
+    "state": "CA", 
+    "thomas_id": "01640", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2014-05-16", 
+  "subjects": [
+    "Building construction", 
+    "Congressional oversight", 
+    "District of Columbia", 
+    "Government operations and politics", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2014-05-16", 
+    "text": "Amends the District of Columbia Code with respect to building height limitations for penthouses for human occupancy.\n\nPermits the construction or use for human occupancy of a penthouse which is erected to a height of one story of 20 feet or less above the level of the roof of the building upon which the penthouse is placed."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Act entitled \"An Act to regulate the height of buildings in the District of Columbia\" to clarify the rules of the District of Columbia regarding human occupancy of penthouses above the top story of the building upon which the penthouse is placed.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4192:@@@L&summ2=m&"
+}

@@ -1,0 +1,206 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1858efc57">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To withdraw and reserve certain public land under the jurisdiction of the Secretary of the Interior for military uses, and for other purposes.;
+   		Military Land Withdrawals Act;S. 1309 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-07-22</dateIngested>
+</extension>
+<titleInfo>
+ <title>To withdraw and reserve certain public land under the jurisdiction of the Secretary of the Interior for military uses, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Military Land Withdrawals Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1309 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-07-16</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>45 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee1858efc57</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1309is</identifier>
+<identifier type="preferred citation">S. 1309</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1309_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1309is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1309is/html/BILLS-113s1309is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1309is/pdf/BILLS-113s1309is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1309is/xml/BILLS-113s1309is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-07-22</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1309is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Ron Wyden</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Energy and Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Chapter 174</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. Chapter 174</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 670a</partNumber>
+  <partNumber>Title 16 Section 670aet seq.</partNumber>
+  <partNumber>Title 16 Section 670et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 670a</identifier>
+ <identifier type="USC citation">16 U.S.C. 670aet seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 670et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 479a</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 479a</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 30 Section 1001et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">30 U.S.C. 1001et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 156</partNumber>
+  <partNumber>Title 43 Section 1701et seq.</partNumber>
+  <partNumber>Title 43 Section 1714</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 156</identifier>
+ <identifier type="USC citation">43 U.S.C. 1701et seq.</identifier>
+ <identifier type="USC citation">43 U.S.C. 1714</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 72 Page 27</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">72 Stat.	27</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 85-337</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 85-337</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1309is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1309</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Military Land Withdrawals Act</shortTitle>
+ <action date="2013-07-16" legislativeDay="2013-07-15">Mr. Wyden (by request) introduced the following bill; which was read twice and referred to the Committee on Energy and Natural Resources</action>
+ <congCommittee authorityId="sseg00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Energy and Natural Resources</name>
+                      <name type="authority-short">Energy and Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="1247" bioGuideId="W000779" chamber="S" congress="113" gpoId="8265" party="D" role="SPONSOR" state="OR">
+                      <name type="parsed">Mr. Wyden</name>
+                      <name type="authority-fnf">Ron Wyden</name>
+                      <name type="authority-lnf">Wyden, Ron</name>
+                </congMember>
+ <law congress="85" isPrivate="false" number="337"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <chapter number="174"></chapter>
+                </USCode>
+ <USCode title="16">
+                      <section number="670a"></section>
+                      <section detail="et seq." number="670a"></section>
+                      <section detail="et seq." number="670"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="479a"></section>
+                </USCode>
+ <USCode title="30">
+                      <section detail="et seq." number="1001"></section>
+                </USCode>
+ <USCode title="43">
+                      <section number="156"></section>
+                      <section detail="et seq." number="1701"></section>
+                      <section number="1714"></section>
+                </USCode>
+ <statuteAtLarge volume="72">
+                      <pages pages="27"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

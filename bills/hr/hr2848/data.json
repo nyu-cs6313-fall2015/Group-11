@@ -1,0 +1,276 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-07-30", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-08-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-08-01", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-09-25T12:30:00-04:00", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-226.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-09-25T12:30:00-04:00", 
+      "calendar": "Union", 
+      "number": "166", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 166.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2013-09-28T14:35:00-04:00", 
+      "references": [], 
+      "text": "Mr. Royce moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-09-28T14:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5965-6075", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-09-28T14:35:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2848.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-09-28T15:15:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-09-29T00:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 9/28/2013 H6010", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-09-29T00:30:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 9/28/2013 H5965-5971", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "500", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 37 (Roll no. 500).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2013-09-30", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2848-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "16", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2013-07-30", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Faleomavaega, Eni F. H.", 
+      "sponsored_at": "2013-08-02", 
+      "state": "AS", 
+      "thomas_id": "00367", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-08-01", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2013-09-29T00:30:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-07-30", 
+  "number": "2848", 
+  "official_title": "To authorize appropriations for the Department of State for fiscal year 2014, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr731-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2099-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s978-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Department of State Operations and Embassy Security Authorization Act, Fiscal Year 2014", 
+  "sponsor": {
+    "district": "39", 
+    "name": "Royce, Edward R.", 
+    "state": "CA", 
+    "thomas_id": "00998", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2013-09-29T00:30:00-04:00", 
+  "subjects": [
+    "Advisory bodies", 
+    "Canada", 
+    "Competition and antitrust", 
+    "Congressional oversight", 
+    "Crimes against property", 
+    "Cultural exchanges and relations", 
+    "Department of State", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Foreign language and bilingual programs", 
+    "Fraud offenses and financial crimes", 
+    "General foreign operations matters", 
+    "Government buildings, facilities, and property", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government studies and investigations", 
+    "Human rights", 
+    "Intelligence activities, surveillance, classified information", 
+    "International affairs", 
+    "International exchange and broadcasting", 
+    "International organizations and cooperation", 
+    "Law enforcement officers", 
+    "Marine and coastal resources, fisheries", 
+    "Marine and inland water transportation", 
+    "Mexico", 
+    "Military personnel and dependents", 
+    "Performance measurement", 
+    "Political movements and philosophies", 
+    "Protection of officials", 
+    "Public contracts and procurement", 
+    "Reconstruction and stabilization", 
+    "Sex offenses", 
+    "Terrorism", 
+    "Transportation safety and security", 
+    "Travel and tourism", 
+    "United Nations", 
+    "User charges and fees", 
+    "Visas and passports", 
+    "Water quality", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2013-09-29", 
+    "text": "Department of State Operations and Embassy Security Authorization Act, Fiscal Year 2014 - Title I: Authorization of Appropriations - (Sec. 101) Authorizes FY2014 appropriations for: (1) diplomatic and consular programs; (2) the Capital Investment Fund; (3) educational and cultural exchange programs; (4) conflict stabilization operations; (5) representation allowances; (6) protection of foreign missions and officials; (7) diplomatic and consular service emergencies; (8) repatriation loans; (9) the American Institute in Taiwan; (10) the Office of the Inspector General; (11) the International Chancery Center; and (12) embassy security, construction, and maintenance.\n\n(Sec. 102) Authorizes FY2014 appropriations for Department of State contributions to international organizations.\n\n(Sec. 103) Authorizes FY2014 appropriations for Department international peacekeeping activities.\n\nProhibits the use of such amounts to support any United Nations (U.N.) unmanned aerial (drone) system activities operating in U.S. airspace, including U.S. territories and possessions.\n\n\t(Sec. 104) Authorizes FY2014 appropriations to the Department for: (1) the International Boundary and Water Commission, United States and Mexico; (2) the International Boundary Commission, United States and Canada; (3) the International Joint Commission; (4) the International Fisheries Commissions; and (5) the Border Environment Cooperation Commission.\n\n(Sec. 105) Authorizes FY2014 appropriations for the National Endowment for Democracy.\n\n(Sec. 106) Prohibits the use of funds to contract with any offeror or principal who certifies that the offeror or principal: (1) has been convicted within a three-year period of fraud or certain criminal offenses involving public contracting, records, statements, tax laws, or the receipt of stolen property; (2) is presently indicted or charged with the commission of any such offenses; or (3) has been notified within a three-year period of delinquent federal taxes exceeding $3,000.\n\n(Sec. 107) Prohibits the authorization of appropriations under this Act for any new Department security and training facility, including the proposed Foreign Affairs Security Training Center, for which a feasibility study has not been provided to Congress verifying that safety and security training for Department personnel cannot be provided at the existing Federal Law Enforcement Training Facility.\n\nTitle II: Department of State Authorities and Activities - Subtitle A: Basic Authorities and Activities - (Sec. 201) Amends the Foreign Service Act of 1980 to require that Foreign Service positions that have been vacant for more than one assignment cycle be filled on a temporary basis.\n\n(Sec. 202) Authorizes the establishment of the Center for Strategic Counterterrorism Communications to: (1) coordinate public communications activities directed at audiences abroad and targeted against violent extremists and terrorist organizations, especially al-Qa'ida; (2) develop the strategic counterterrorism narrative for executive branch use; (3) identify trends in extremist communications; and (4) identify shortfalls in relevant U.S. capabilities.\n\n(Sec. 203) Authorizes the Secretary of State to provide for U.S. participation in the Information Sharing Centre located in Singapore, as established by the Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia.\n\nSubtitle B: Consular Services and Related Matters - (Sec. 211) Extends the passport surcharge authority through September 30, 2016.\n\n(Sec. 212) Authorizes the Secretary to: (1) limit the period of validity of a passport issued to a sex offender, and (2) revoke the passport or passport card of an individual who has been convicted of a sex offense by a foreign court of competent jurisdiction.\n\nStates that: (1) a U.S. citizen convicted of a sex offense by a foreign court of competent jurisdiction shall not be precluded from entering the United States due to a passport revocation, and (2) that person may reapply for a passport or passport card at any time after he or she has returned to the United States.\n\nSubtitle C: Reporting Requirements - (Sec. 221) Repeals specified reporting requirements.\n\nRequires the Director of the Office of Management and Budget (OMB) to report annually to Congress regarding all assessed and voluntary U.S. contributions to the U.N. and its affiliated agencies and bodies during the previous fiscal year.\n\nTitle III: Organization and Personnel Authorities - (Sec. 301) Amends the Foreign Service Act of 1980 to authorize the Secretary to suspend a Foreign Service member without pay when the member's security clearance is suspended or when there is reasonable cause to believe that the member has committed a crime for which a sentence of imprisonment may be imposed.\n\nEntitles such person to: (1) written notice stating the specific reasons for the proposed suspension; (2) reasonable time to respond orally and in writing; (3) representation; (4) a final written decision, including the specific reasons for such decision; and (5) file a grievance. (Sec. 302) Repeals the recertification requirement for Senior Foreign Service members.\n\n(Sec. 303) Authorizes a limited appointment extension for: (1) a person serving in the uniformed services whose limited appointment expires during such service, (2) up to 12 months in exceptional circumstances, and (3) a non-career employee who has served five consecutive years under a limited appointment for a subsequent limited appointment provided there is a one-year break in service.\n\n(Sec. 304) Sets maximum accrual of compensatory time off at 104 hours for travel status away from the employee's official duty station.\n\n(Sec. 305) Authorizes the Secretary to transfer to other Department officials or offices any authority, duty, or function assigned by statute to the Coordinator for Counterterrorism, the Coordinator for Reconstruction and Stabilization, or the Coordinator for International Energy Affairs.\n\n(Sec. 306) Extends the overseas comparability pay limitation through September 30, 2014.\n\nTitle IV: Embassy Security and Personnel Protection - Subtitle A: Review and Planning Requirements - (Sec. 411) Amends the Omnibus Diplomatic Security and Antiterrorism Act of 1986 to direct the Secretary to: (1) submit to Congress a list of high risk, high threat diplomatic and consular posts; and (2) determine if a post should be so designated before its opening or reopening.\n\nDirects the Secretary, before opening or reopening a high risk, high threat post, to establish a working group responsible for the geographic area in which such post is to be opened or reopened.\n\n(Sec. 412) Amends the Secure Embassy Construction and Counterterrorism Act of 1999 to require: (1) U.S. diplomatic mission emergency action plans to include the threat from complex attacks, and (2) rapid response procedures to include options for deployment of military resources.\n\n(Sec. 413) Directs the Secretary to complete a strategic review of the Department's Bureau of Diplomatic Security to ensure that its mission and activities are fulfilling current and projected Department needs.\n\n(Sec. 414) Requires an accountability review board to recommend investigatory or disciplinary action if an individual's misconduct or unsatisfactory performance significantly contributed to serious injury, loss of life, significant property destruction, or serious security breach at or related to a U.S. government mission abroad.\n\nSubtitle B: Physical Security and Personnel Requirements - (Sec. 421) Expresses the sense of Congress that the capital security cost sharing program should prioritize the construction of new facilities and the maintenance of existing facilities at high risk, high threat posts.\n\nAmends the Secure Embassy Construction and Counterterrorism Act of 1999 to prohibit a project to construct a U.S. diplomatic facility from including office space or other accommodations for a federal employee if the employee's department or agency has not provided the Department with the full amount of required funding, except that a project may include office space or other accommodations for members of the U.S. Marine Corps.\n\n(Sec. 422) Revises requirements for local guard and protective services contracts abroad, including authorizing the Department to award contracts on the basis of best value rather than lowest price in high risk, high threat areas when necessary.\n\nRequires the Department to report each instance of best value contracting to Congress.\n\n(Sec. 423) Amends the Foreign Service Buildings Act, 1926 to authorize the Secretary to transfer to, and merge with, any appropriation for embassy security, construction, and maintenance such amounts appropriated for any other purpose related to the administration of foreign affairs on or after October 1, 2013.\n\n(Sec. 424) Authorizes the Secretary to provide physical security enhancements at overseas educational facilities established for the children of U.S. government employees.\n\n(Sec. 425) Authorizes the Secretary, through October 1, 2018, to reemploy Foreign Service annuitants in emergency situations or when there is difficulty recruiting or retraining qualified personnel after an open and competitive search has failed to identify qualified, full-time persons.\n\n (Sec. 426) Expresses the sense of Congress that: (1) the Overseas Security Policy Board's security standards for U.S. diplomatic and consular posts should apply to all such posts regardless of duration of occupancy, and (2) such posts should comply with requirements for attaining a waiver or exception to applicable standards if in the U.S. national interest.\n\n(Sec. 427) Directs the Secretary to station key personnel for sustained periods of time at high risk, high threat posts in order to: (1) establish institutional knowledge and situational awareness that would allow for a fuller familiarization with the local political and security environment, and (2) ensure that necessary security procedures are implemented.\n\nDirects the Secretary to report to Congress quarterly regarding personnel staffing and rotation cycles at high risk, high threat posts.\n\n(Sec. 428) Directs the Secretary to report to Congress regarding the Bureau of Diplomatic Security's mobile biometric enrollment program, including: (1) an overview of the program and the Department's use of biometric technologies to secure access to U.S. diplomatic and consular posts; and (2) assessments of the effectiveness and uses of such biometric technologies and of the costs, benefits, and time to extend the program to all diplomatic and consular posts.\n\nSubtitle C: Security Training - (Sec. 431) Amends the Omnibus Diplomatic Security and Antiterrorism Act of 1986 to require that: (1) personnel and senior and mid-level officials serving in high risk, high threat posts receive specified security training; and (2) diplomatic security personnel assigned permanently to such posts, or who are in long-term temporary duty status at them, receive specified language training.\n\n(Sec. 432) Directs the Secretary to report to Congress regarding implementation of this subtitle.\n\nSubtitle D: Expansion of Marine Corps Security Guard Detachment Program - (Sec. 441) Directs the Secretary to conduct an annual review of the Marine Corps security guard program to assess: (1) whether it is adequate to meet global diplomatic security requirements, (2) whether the Marine Corps security guards are appropriately deployed, and (3) the mission objectives and procedural rules of engagement.\n\n Requires a related report to Congress every three years."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of State Operations and Embassy Security Authorization Act, Fiscal Year 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Department of State Operations and Embassy Security Authorization Act, Fiscal Year 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Department of State Operations and Embassy Security Authorization Act, Fiscal Year 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize appropriations for the Department of State for fiscal year 2014, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:19:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR2848:@@@L&summ2=m&"
+}

@@ -1,0 +1,129 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-23", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-08-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5172-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2014-07-23", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Tiberi, Patrick J.", 
+      "sponsored_at": "2014-07-23", 
+      "state": "OH", 
+      "thomas_id": "01664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-23", 
+  "number": "5172", 
+  "official_title": "To direct the Secretary of Veterans Affairs to review the list of veterans designated as former prisoners of war, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5094-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "POW Accountability Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Johnson, Bill", 
+    "state": "OH", 
+    "thomas_id": "02046", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-23", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Conflicts and wars", 
+    "Congressional oversight", 
+    "Detention of persons", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Military personnel and dependents", 
+    "Personnel records", 
+    "Veterans' education, employment, rehabilitation", 
+    "Veterans' loans, housing, homeless programs", 
+    "Veterans' medical care", 
+    "Veterans' pensions and compensation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-23", 
+    "text": "POW Accountability Act - Requires: (1) the Secretary of Veterans Affairs (VA) to review the list maintained by the Secretary of veterans the Secretary determines are former prisoners of war (VA POW list) and the list maintained by the Secretary of Defense (DOD), acting through the Defense Prisoner of War/Missing Personnel Office, of members of the Armed Forces who were prisoners of war (DOD POW list) to identify any discrepancies in such lists; and (2) the VA's Inspector General to review the process by which the Secretary determines that a veteran is a former prisoner of war.\n\nRequires the Secretary to report to Congress on the VA POW list, including information on such discrepancies and the results of the Inspector General's review."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "POW Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Veterans Affairs to review the list of veterans designated as former prisoners of war, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:52-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5172:@@@L&summ2=m&"
+}

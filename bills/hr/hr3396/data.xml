@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="3396" updated="2015-09-01T10:20:08-04:00">
+  <state datetime="2013-10-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-30"/>
+  </status>
+  <introduced datetime="2013-10-30"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Health Care Stamp Act</title>
+    <title type="official" as="introduced">To provide for the issuance of a Veterans Health Care Stamp.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors>
+    <cosponsor id="412537" joined="2013-10-30"/>
+    <cosponsor id="400073" joined="2013-10-30"/>
+    <cosponsor id="400162" joined="2013-10-30"/>
+    <cosponsor id="400185" joined="2013-10-30"/>
+    <cosponsor id="400209" joined="2013-11-12"/>
+    <cosponsor id="400219" joined="2013-10-30"/>
+    <cosponsor id="412256" joined="2013-10-30"/>
+    <cosponsor id="400259" joined="2013-10-30"/>
+    <cosponsor id="400274" joined="2013-10-30"/>
+    <cosponsor id="400431" joined="2013-10-30"/>
+    <cosponsor id="412255" joined="2013-10-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-30" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-30">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-10-30">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-11-12">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Postal service"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2013--Introduced.
+Veterans Health Care Stamp Act - Requires the U.S. Postal Service to provide for the issuance and sale of a Veterans Health Care Stamp to help fund the medical care and treatment of veterans.</summary>
+</bill>

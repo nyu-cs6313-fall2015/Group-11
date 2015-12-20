@@ -1,0 +1,104 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-29", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4518-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-29", 
+  "number": "4518", 
+  "official_title": "To protect the constitutional rights of parents and children.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Parental Protection Act", 
+  "sponsor": {
+    "district": "36", 
+    "name": "Stockman, Steve", 
+    "state": "TX", 
+    "thomas_id": "01114", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-29", 
+  "subjects": [
+    "Child health", 
+    "Drug therapy", 
+    "Drug trafficking and controlled substances", 
+    "Due process and equal protection", 
+    "Health", 
+    "Health facilities and institutions", 
+    "Health programs administration and funding", 
+    "Medical ethics", 
+    "Medical research", 
+    "Mental health", 
+    "Prescription drugs", 
+    "Separation, divorce, custody, support"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-29", 
+    "text": "Parental Protection Act - Requires the Department of Health and Human Services (HHS) to withhold all monies from state agencies or entities, hospitals, and medical facilities that: (1) allow research presenting greater than minimal risk to minors, juveniles, or wards of the state; (2) deny Fourteenth Amendment rights to the parents or child; or (3) investigate parents or charge them with medical neglect, or remove children from the parents' custody when they disagree with a subjective diagnosis involving psychotropic drugs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Parental Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To protect the constitutional rights of parents and children.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:36-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4518:@@@L&summ2=m&"
+}

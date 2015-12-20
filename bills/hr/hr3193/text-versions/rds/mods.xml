@@ -1,0 +1,273 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18a7e4df3">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend the Consumer Financial Protection Act of 2010 to strengthen the review authority of the Financial Stability Oversight Council of regulations issued by the Bureau of Consumer Financial Protection, and for other purposes.;
+   		Consumer Financial Freedom and Washington Accountability Act;H.R. 3193 (RDS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-12-18</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend the Consumer Financial Protection Act of 2010 to strengthen the review authority of the Financial Stability Oversight Council of regulations issued by the Bureau of Consumer Financial Protection, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Consumer Financial Freedom and Washington Accountability Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3193 (RDS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-03-04</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>22 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18a7e4df3</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3193rds</identifier>
+<identifier type="preferred citation">H.R. 3193</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3193_rds.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3193rds/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3193rds/html/BILLS-113hr3193rds.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3193rds/pdf/BILLS-113hr3193rds.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3193rds/xml/BILLS-113hr3193rds.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-12-18</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-12-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr3193rds</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 105</partNumber>
+  <partNumber>Title 5 Section 5313</partNumber>
+  <partNumber>Title 5 Section 5314</partNumber>
+  <partNumber>Title 5 Section 5332</partNumber>
+  <partNumber>Title 5 Section 603</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 105</identifier>
+ <identifier type="USC citation">5 U.S.C. 5313</identifier>
+ <identifier type="USC citation">5 U.S.C. 5314</identifier>
+ <identifier type="USC citation">5 U.S.C. 5332</identifier>
+ <identifier type="USC citation">5 U.S.C. 603</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 1701p-2</partNumber>
+  <partNumber>Title 12 Section 1812</partNumber>
+  <partNumber>Title 12 Section 2604</partNumber>
+  <partNumber>Title 12 Section 2806</partNumber>
+  <partNumber>Title 12 Section 3303(a)(4)</partNumber>
+  <partNumber>Title 12 Section 3413</partNumber>
+  <partNumber>Title 12 Section 4001et seq.</partNumber>
+  <partNumber>Title 12 Section 5101et seq.</partNumber>
+  <partNumber>Title 12 Section 5102</partNumber>
+  <partNumber>Title 12 Section 5301et seq.</partNumber>
+  <partNumber>Title 12 Section 5321(b)(1)(D)</partNumber>
+  <partNumber>Title 12 Section 5481</partNumber>
+  <partNumber>Title 12 Section 5481et seq.</partNumber>
+  <partNumber>Title 12 Section 5491</partNumber>
+  <partNumber>Title 12 Section 5492(c)</partNumber>
+  <partNumber>Title 12 Section 5492(c)(4)</partNumber>
+  <partNumber>Title 12 Section 5493(a)(2)</partNumber>
+  <partNumber>Title 12 Section 5493(c)(3)</partNumber>
+  <partNumber>Title 12 Section 5493(g)(2)</partNumber>
+  <partNumber>Title 12 Section 5494(b)</partNumber>
+  <partNumber>Title 12 Section 5496(a)</partNumber>
+  <partNumber>Title 12 Section 5497</partNumber>
+  <partNumber>Title 12 Section 5512</partNumber>
+  <partNumber>Title 12 Section 5512(b)</partNumber>
+  <partNumber>Title 12 Section 5512(b)(2)(A)</partNumber>
+  <partNumber>Title 12 Section 5512(c)(9)</partNumber>
+  <partNumber>Title 12 Section 5512(c)(9)(A)</partNumber>
+  <partNumber>Title 12 Section 5512(c)(9)(B)</partNumber>
+  <partNumber>Title 12 Section 5513</partNumber>
+  <partNumber>Title 12 Section 5513(c)(3)(A)</partNumber>
+  <partNumber>Title 12 Section 5586(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 1701p-2</identifier>
+ <identifier type="USC citation">12 U.S.C. 1812</identifier>
+ <identifier type="USC citation">12 U.S.C. 2604</identifier>
+ <identifier type="USC citation">12 U.S.C. 2806</identifier>
+ <identifier type="USC citation">12 U.S.C. 3303(a)(4)</identifier>
+ <identifier type="USC citation">12 U.S.C. 3413</identifier>
+ <identifier type="USC citation">12 U.S.C. 4001et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 5101et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 5102</identifier>
+ <identifier type="USC citation">12 U.S.C. 5301et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 5321(b)(1)(D)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5481</identifier>
+ <identifier type="USC citation">12 U.S.C. 5481et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 5491</identifier>
+ <identifier type="USC citation">12 U.S.C. 5492(c)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5492(c)(4)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5493(a)(2)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5493(c)(3)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5493(g)(2)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5494(b)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5496(a)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5497</identifier>
+ <identifier type="USC citation">12 U.S.C. 5512</identifier>
+ <identifier type="USC citation">12 U.S.C. 5512(b)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5512(b)(2)(A)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5512(c)(9)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5512(c)(9)(A)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5512(c)(9)(B)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5513</identifier>
+ <identifier type="USC citation">12 U.S.C. 5513(c)(3)(A)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5586(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 1693o-2(a)(4)(C)</partNumber>
+  <partNumber>Title 15 Section 1701</partNumber>
+  <partNumber>Title 15 Section 1701(1)</partNumber>
+  <partNumber>Title 15 Section 1715(a)</partNumber>
+  <partNumber>Title 15 Section 6809</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 1693o-2(a)(4)(C)</identifier>
+ <identifier type="USC citation">15 U.S.C. 1701</identifier>
+ <identifier type="USC citation">15 U.S.C. 1701(1)</identifier>
+ <identifier type="USC citation">15 U.S.C. 1715(a)</identifier>
+ <identifier type="USC citation">15 U.S.C. 6809</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 9702</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 9702</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Section 3513(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. 3513(c)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr3193rds</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>3193</billNumber>
+ <billVersion reprint="false">rds</billVersion>
+ <fileSuffix>rds</fileSuffix>
+ <shortTitle>Consumer Financial Freedom and Washington Accountability Act</shortTitle>
+ <action date="2014-03-04">Received</action>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="105"></section>
+                      <section number="5313"></section>
+                      <section number="5314"></section>
+                      <section number="5332"></section>
+                      <section number="603"></section>
+                </USCode>
+ <USCode title="12">
+                      <section number="1701p-2"></section>
+                      <section number="1812"></section>
+                      <section number="2604"></section>
+                      <section number="2806"></section>
+                      <section detail="(a)(4)" number="3303"></section>
+                      <section number="3413"></section>
+                      <section detail="et seq." number="4001"></section>
+                      <section detail="et seq." number="5101"></section>
+                      <section number="5102"></section>
+                      <section detail="et seq." number="5301"></section>
+                      <section detail="(b)(1)(D)" number="5321"></section>
+                      <section number="5481"></section>
+                      <section detail="et seq." number="5481"></section>
+                      <section number="5491"></section>
+                      <section detail="(c)" number="5492"></section>
+                      <section detail="(c)(4)" number="5492"></section>
+                      <section detail="(a)(2)" number="5493"></section>
+                      <section detail="(c)(3)" number="5493"></section>
+                      <section detail="(g)(2)" number="5493"></section>
+                      <section detail="(b)" number="5494"></section>
+                      <section detail="(a)" number="5496"></section>
+                      <section number="5497"></section>
+                      <section number="5512"></section>
+                      <section detail="(b)" number="5512"></section>
+                      <section detail="(b)(2)(A)" number="5512"></section>
+                      <section detail="(c)(9)" number="5512"></section>
+                      <section detail="(c)(9)(A)" number="5512"></section>
+                      <section detail="(c)(9)(B)" number="5512"></section>
+                      <section number="5513"></section>
+                      <section detail="(c)(3)(A)" number="5513"></section>
+                      <section detail="(a)" number="5586"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="(a)(4)(C)" number="1693o-2"></section>
+                      <section number="1701"></section>
+                      <section detail="(1)" number="1701"></section>
+                      <section detail="(a)" number="1715"></section>
+                      <section number="6809"></section>
+                </USCode>
+ <USCode title="20">
+                      <section number="9702"></section>
+                </USCode>
+ <USCode title="44">
+                      <section detail="(c)" number="3513"></section>
+                </USCode>
+</extension>
+</mods>

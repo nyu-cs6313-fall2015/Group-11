@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-14", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on General Farm Commodities and Risk Management.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4267-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on General Farm Commodities and Risk Management", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-14", 
+  "number": "4267", 
+  "official_title": "To amend the Commodity Exchange Act to provide relief for end users who use physical contracts with volumetric optionality.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Commodity Delivery Relief Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "McAllister, Vance M.", 
+    "state": "LA", 
+    "thomas_id": "02195", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-03-14", 
+  "subjects": [
+    "Commodities markets", 
+    "Contracts and agency", 
+    "Finance and financial sector"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-03-14", 
+    "text": "Commodity Delivery Relief Act - Amends the Commodity Exchange Act to revise the exclusion from the definition of \"swap\" of any sale of a nonfinancial commodity or security for deferred shipment or delivery, so long as the transaction is intended to be physically settled.\n\nExcludes from the meaning of \"swap\" also: (1) any purchase of a nonfinancial commodity or security for deferred shipment or delivery, so long as the transaction is intended to be physically settled; and (2) any stand-alone or embedded option for which exercise results in a physical delivery obligation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Commodity Delivery Relief Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Commodity Exchange Act to provide relief for end users who use physical contracts with volumetric optionality.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4267:@@@L&summ2=m&"
+}

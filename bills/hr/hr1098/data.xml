@@ -1,0 +1,105 @@
+<bill session="113" type="h" number="1098" updated="2015-09-01T10:19:15-04:00">
+  <state datetime="2014-06-24T19:20:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-06-24T19:20:00-04:00"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Traumatic Brain Injury Reauthorization Act of 2013</title>
+    <title type="short" as="reported to house">Traumatic Brain Injury Reauthorization Act of 2013</title>
+    <title type="short" as="passed house">Traumatic Brain Injury Reauthorization Act of 2014</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to reauthorize certain programs relating to traumatic brain injury and to trauma research.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors>
+    <cosponsor id="412502" joined="2013-09-16"/>
+    <cosponsor id="400048" joined="2013-11-13"/>
+    <cosponsor id="400063" joined="2013-08-02"/>
+    <cosponsor id="412258" joined="2013-11-18"/>
+    <cosponsor id="400073" joined="2013-11-20"/>
+    <cosponsor id="412236" joined="2013-10-28"/>
+    <cosponsor id="400124" joined="2013-06-03"/>
+    <cosponsor id="400160" joined="2014-01-09"/>
+    <cosponsor id="412566" joined="2014-04-29"/>
+    <cosponsor id="412557" joined="2014-01-27"/>
+    <cosponsor id="400257" joined="2013-11-14"/>
+    <cosponsor id="400259" joined="2013-06-06"/>
+    <cosponsor id="400274" joined="2014-04-29"/>
+    <cosponsor id="400308" joined="2013-05-07"/>
+    <cosponsor id="400310" joined="2013-09-16"/>
+    <cosponsor id="400326" joined="2013-09-18"/>
+    <cosponsor id="400333" joined="2014-03-13"/>
+    <cosponsor id="412311" joined="2013-03-12"/>
+    <cosponsor id="412219" joined="2013-09-20"/>
+    <cosponsor id="412319" joined="2013-05-17"/>
+    <cosponsor id="412239" joined="2013-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-12-10">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2013-12-10">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) .</text>
+    </action>
+    <action datetime="2013-12-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-05-20T11:47:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-456.</text>
+    </action>
+    <calendar datetime="2014-05-20T11:47:00-04:00" state="REPORTED" calendar="Union" number="337">
+      <text>Placed on the Union Calendar, Calendar No. 337.</text>
+    </calendar>
+    <action datetime="2014-06-24T19:11:00-04:00">
+      <text>Mr. Pitts moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-06-24T19:11:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5699-5700" label="consideration"/>
+    </action>
+    <action datetime="2014-06-24T19:11:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1098.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-06-24T19:20:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5699" label="text"/>
+    </vote>
+    <action datetime="2014-06-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+    <term name="Research administration and funding"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2014--Passed House amended.
+Traumatic Brain Injury Reauthorization Act of 2014 - Amends the Public Health Service Act to require the Secretary of Health and Human Services (HHS) to report to Congress on recommendations (made pursuant to an earlier report) concerning improvements in the collection and dissemination of compatible epidemiological studies on the incidence and prevalence of traumatic brain injury in individuals who were formerly in the military, identifying recommendations that have been adopted and describing activities planned to address those that were not adopted.
+
+ Authorizes appropriations through FY2019 for: (1) Centers for Disease Control and Prevention (CDC) projects to reduce the incidence of traumatic brain injury, and (2) traumatic brain injury surveillance systems or registries.
+
+ Authorizes appropriations through FY2019 for the programs of grants to: (1) states and American Indian consortia for projects to improve access to rehabilitation and other services regarding traumatic brain injury, and (2) protection and advocacy systems for the purpose of enabling such systems to provide services to individuals with traumatic brain injury. Removes the Administrator of the Health Resources and Services Administration as agent for the Secretary in administering these programs. Vests responsibility for administering the programs solely in the Secretary.
+
+Requires the Secretary to report to Congress not later than one year after enactment of this Act on the services and activities of the protection and advocacy systems.</summary>
+</bill>

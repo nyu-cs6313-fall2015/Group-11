@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-20", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4683-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Enyart, William L.", 
+      "sponsored_at": "2014-05-28", 
+      "state": "IL", 
+      "thomas_id": "02125", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2014-05-28", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-20", 
+  "number": "4683", 
+  "official_title": "To amend title XXIX of the Public Health Service Act to reauthorize the program under such title relating to lifespan respite care.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Lifespan Respite Care Reauthorization Act of 2014", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Langevin, James R.", 
+    "state": "RI", 
+    "thomas_id": "01668", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-05-20", 
+  "subjects": [
+    "Child health", 
+    "Disability assistance", 
+    "Government information and archives", 
+    "Health", 
+    "Health information and medical records", 
+    "Health programs administration and funding", 
+    "Home and outpatient care", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Performance measurement"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-05-20", 
+    "text": "Lifespan Respite Care Reauthorization Act of 2014 - Amends the Public Health Service Act to reauthorize lifespan respite care programs (services for family caregivers of children and adults with special needs) through FY2019.\n\nRequires each state agency awarded a grant or cooperative agreement for such purposes to collect, maintain, and report data and records in a manner as the Secretary of Health and Human Services (HHS) may require to enable monitoring and evaluation of the lifespan programs and activities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Lifespan Respite Care Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XXIX of the Public Health Service Act to reauthorize the program under such title relating to lifespan respite care.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:40-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4683:@@@L&summ2=m&"
+}

@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-03", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3985-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Lance, Leonard", 
+      "sponsored_at": "2014-02-11", 
+      "state": "NJ", 
+      "thomas_id": "01936", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-03", 
+  "number": "3985", 
+  "official_title": "To sunset funding under sections 1341 and 1342, and to repeal section 1343, of the Patient Protection and Affordable Care Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Stop Obamacare's Risky Provisions Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Westmoreland, Lynn A.", 
+    "state": "GA", 
+    "thomas_id": "01779", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-02-03", 
+  "subjects": [
+    "Comprehensive health care", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Health programs administration and funding", 
+    "Insurance industry and regulation"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-02-03", 
+    "text": "Stop Obamacare's Risky Provisions Act - Prohibits health insurance issuers and third-party administrators, for any period after December 31, 2014, from being required to make payments under the Patient Protection and Affordable Care Act (PPACA) for a transitional reinsurance program for the individual health insurance market in each state. Allows payments to issuers, as limited by this Act, only to the extent of available funds.\n\nLimits to 2014 the applicability of the program of risk corridors, under which a qualified health plan offered in the individual or small group market shall participate in a payment adjustment system based on the ratio of the allowable costs of the plan to the plan's aggregate premiums. Prohibits application of the program for 2015 and 2016.\n\nAmends PPACA to repeal, effective for years after 2014, risk adjustment provisions that require states to: (1) assess a charge on health plans and health insurance issuers if the actuarial risk of enrollees is lower than average, and (2) make payments to health plans and health insurance issuers if the actuarial risk of enrollees is greater than average."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stop Obamacare's Risky Provisions Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To sunset funding under sections 1341 and 1342, and to repeal section 1343, of the Patient Protection and Affordable Care Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:23-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3985:@@@L&summ2=m&"
+}

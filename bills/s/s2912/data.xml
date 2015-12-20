@@ -1,0 +1,49 @@
+<bill session="113" type="s" number="2912" updated="2015-09-01T10:22:27-04:00">
+  <state datetime="2014-09-18">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-09-18"/>
+  <titles>
+    <title type="short" as="introduced">Don't Tax Our Fallen Public Safety Heroes Act</title>
+    <title type="short" as="passed senate">Don't Tax Our Fallen Public Safety Heroes Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to exclude certain compensation received by public safety officers and their dependents from gross income.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors>
+    <cosponsor id="300072" joined="2014-09-18"/>
+    <cosponsor id="412323" joined="2014-09-18"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-09-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5880" label="consideration"/>
+      <reference ref="CR S5880" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2014-09-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-09-19T12:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-09-19T15:18:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="5767"/>
+    <bill relation="unknown" session="113" type="s" number="2355"/>
+    <bill relation="unknown" session="113" type="s" number="2377"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Income tax exclusion"/>
+    <term name="Law enforcement officers"/>
+  </subjects>
+  <amendments/>
+  <summary>9/18/2014--Passed Senate without amendment.
+Don't Tax Our Fallen Public Safety Heroes Act - Amends the Internal Revenue Code to exclude from gross income, for income tax purposes, federal public safety officer death benefits or amounts&#160;paid under a state program to surviving dependents of a public safety officer who died as the direct and proximate result of a personal injury sustained in the line of duty.</summary>
+</bill>

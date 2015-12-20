@@ -1,0 +1,228 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee189cac82f">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend title 38, United States Code, to extend certain expiring provisions of law administered by the Secretary of Veterans Affairs, and for other purposes.;
+   		H.R. 5404 (RDS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-09-24</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend title 38, United States Code, to extend certain expiring provisions of law administered by the Secretary of Veterans Affairs, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5404 (RDS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-09-17</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>20 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee189cac82f</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5404rds</identifier>
+<identifier type="preferred citation">H.R. 5404</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5404_rds.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5404rds/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5404rds/html/BILLS-113hr5404rds.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5404rds/pdf/BILLS-113hr5404rds.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5404rds/xml/BILLS-113hr5404rds.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-09-24</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-09-24</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr5404rds</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 1071note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 1071note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 1116note</partNumber>
+  <partNumber>Title 38 Section 1701note</partNumber>
+  <partNumber>Title 38 Section 1703note</partNumber>
+  <partNumber>Title 38 Section 1710note</partNumber>
+  <partNumber>Title 38 Section 1712Anote</partNumber>
+  <partNumber>Title 38 Section 5101note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 1116note</identifier>
+ <identifier type="USC citation">38 U.S.C. 1701note</identifier>
+ <identifier type="USC citation">38 U.S.C. 1703note</identifier>
+ <identifier type="USC citation">38 U.S.C. 1710note</identifier>
+ <identifier type="USC citation">38 U.S.C. 1712Anote</identifier>
+ <identifier type="USC citation">38 U.S.C. 5101note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Section 501</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. 501</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 105 Page 13</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">105 Stat.	13</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 122 Page 460</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">122 Stat.	460</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 124 Page 1143</partNumber>
+  <partNumber>Volume 124 Page 1144</partNumber>
+  <partNumber>Volume 124 Page 1154</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">124 Stat.	1143</identifier>
+ <identifier type="Statute citation">124 Stat.	1144</identifier>
+ <identifier type="Statute citation">124 Stat.	1154</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 102-4</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 102-4</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-183</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-183</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-181</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-181</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-387</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-387</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-163</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-163</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-146</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-146</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr5404rds</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>5404</billNumber>
+ <billVersion reprint="false">rds</billVersion>
+ <fileSuffix>rds</fileSuffix>
+ <action date="2014-09-17" legislativeDay="2014-09-16">Received</action>
+ <law congress="102" isPrivate="false" number="4"></law>
+ <law congress="108" isPrivate="false" number="183"></law>
+ <law congress="110" isPrivate="false" number="181"></law>
+ <law congress="110" isPrivate="false" number="387"></law>
+ <law congress="111" isPrivate="false" number="163"></law>
+ <law congress="113" isPrivate="false" number="146"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section detail="note" number="1071"></section>
+                </USCode>
+ <USCode title="38">
+                      <section detail="note" number="1116"></section>
+                      <section detail="note" number="1701"></section>
+                      <section detail="note" number="1703"></section>
+                      <section detail="note" number="1710"></section>
+                      <section detail="note" number="1712A"></section>
+                      <section detail="note" number="5101"></section>
+                </USCode>
+ <USCode title="44">
+                      <section number="501"></section>
+                </USCode>
+ <statuteAtLarge volume="105">
+                      <pages pages="13"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="122">
+                      <pages pages="460"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="124">
+                      <pages pages="1143"></pages>
+                      <pages pages="1144"></pages>
+                      <pages pages="1154"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="4492" updated="2015-09-01T10:20:35-04:00">
+  <state datetime="2014-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-28"/>
+  </status>
+  <introduced datetime="2014-04-28"/>
+  <titles>
+    <title type="short" as="introduced">TRICARE Moms Improvement Act of 2014</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to provide for the availability of breastfeeding support, supplies, and counseling under the TRICARE program.</title>
+  </titles>
+  <sponsor id="400062"/>
+  <cosponsors>
+    <cosponsor id="400262" joined="2014-05-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2014-07-01">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1994"/>
+    <bill relation="unknown" session="113" type="s" number="2410"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2014--Introduced.
+TRICARE Moms Improvement Act of 2014 - Requires the contracts entered into by the Secretary of Defense (DOD) for medical care for military dependents (e.g., TRICARE) to provide for breastfeeding support, supplies, and counseling as appropriate during pregnancy and the postpartum period.</summary>
+</bill>

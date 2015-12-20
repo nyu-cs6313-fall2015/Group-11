@@ -1,0 +1,129 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-16", 
+      "committees": [
+        "SSRA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Rules and Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-09", 
+      "committees": [
+        "SSRA"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Rules and Administration. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-04-10", 
+      "committee": "Rules and Administration", 
+      "committees": [
+        "SSRA"
+      ], 
+      "references": [], 
+      "text": "Committee on Rules and Administration. Reported by Senator Schumer without amendment. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-04-10", 
+      "calendar": "Senate Legislative", 
+      "number": "356", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 356.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3446-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3446"
+    }
+  ], 
+  "bill_id": "s1937-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-04-10", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-16", 
+  "number": "1937", 
+  "official_title": "A bill to amend the Help America Vote Act of 2002 to require States to develop contingency plans to address unexpected emergencies or natural disasters that may threaten to disrupt the administration of an election for Federal office, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Elections Preparedness Requires Early Planning (Elections PREP) Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-04-09", 
+  "subjects": [
+    "Disaster relief and insurance", 
+    "Elections, voting, political campaign regulation", 
+    "Emergency planning and evacuation", 
+    "Government operations and politics", 
+    "Intergovernmental relations", 
+    "Natural disasters", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Reported to Senate without amendment", 
+    "date": "2014-04-10", 
+    "text": "Elections Preparedness Requires Early Planning (Elections PREP) Act - Amends the Help America Vote Act of 2002 to require each state to develop contingency plans to address unexpected emergencies or natural disasters that may threaten to disrupt the administration of an election for federal office.\n\nRequires a plan to contain: (1) alternative ways to notify the public of changes in election procedures; and (2) plans to address disruptions at every step of the voting process, including early voting."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Elections Preparedness Requires Early Planning (Elections PREP) Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Elections Preparedness Requires Early Planning (Elections PREP) Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Help America Vote Act of 2002 to require States to develop contingency plans to address unexpected emergencies or natural disasters that may threaten to disrupt the administration of an election for Federal office, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1937:@@@L&summ2=m&"
+}

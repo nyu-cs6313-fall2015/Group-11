@@ -1,0 +1,120 @@
+<bill session="113" type="hj" number="105" updated="2015-09-01T10:21:10-04:00">
+  <state datetime="2014-12-16">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-12-16"/>
+  </status>
+  <introduced datetime="2014-01-09"/>
+  <titles>
+    <title type="official" as="introduced">Conferring honorary citizenship of the United States on Bernardo de Galvez y Madrid, Viscount of Galveston and Count of Galvez.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2014-01-09"/>
+    <cosponsor id="400636" joined="2014-06-19"/>
+    <cosponsor id="400048" joined="2014-01-09"/>
+    <cosponsor id="412196" joined="2014-01-09"/>
+    <cosponsor id="412601" joined="2014-05-28"/>
+    <cosponsor id="412195" joined="2014-01-09"/>
+    <cosponsor id="400086" joined="2014-01-09"/>
+    <cosponsor id="412526" joined="2014-01-09"/>
+    <cosponsor id="412385" joined="2014-01-09"/>
+    <cosponsor id="400108" joined="2014-01-09"/>
+    <cosponsor id="412529" joined="2014-01-09"/>
+    <cosponsor id="412530" joined="2014-01-09"/>
+    <cosponsor id="412276" joined="2014-01-09"/>
+    <cosponsor id="400160" joined="2014-05-28"/>
+    <cosponsor id="400170" joined="2014-01-09"/>
+    <cosponsor id="400273" joined="2014-01-09"/>
+    <cosponsor id="412527" joined="2014-01-09"/>
+    <cosponsor id="412409" joined="2014-01-09"/>
+    <cosponsor id="412306" joined="2014-01-09"/>
+    <cosponsor id="412309" joined="2014-01-09"/>
+    <cosponsor id="412528" joined="2014-01-09"/>
+    <cosponsor id="412311" joined="2014-01-09"/>
+    <cosponsor id="400344" joined="2014-01-09"/>
+    <cosponsor id="412411" joined="2014-01-09"/>
+    <cosponsor id="412408" joined="2014-01-09"/>
+    <cosponsor id="412580" joined="2014-05-28"/>
+    <cosponsor id="400623" joined="2014-01-09"/>
+    <cosponsor id="412410" joined="2014-01-09"/>
+    <cosponsor id="412412" joined="2014-01-09"/>
+    <cosponsor id="412525" joined="2014-01-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-09" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-03-20">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-10" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-22T19:59:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 113-548.</text>
+    </action>
+    <calendar datetime="2014-07-22T19:59:00-04:00" calendar="House" number="126">
+      <text>Placed on the House Calendar, Calendar No. 126.</text>
+    </calendar>
+    <action datetime="2014-07-28T15:06:00-04:00">
+      <text>Mr. Franks (AZ) moved to suspend the rules and pass the resolution.</text>
+    </action>
+    <action datetime="2014-07-28T15:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6874-6875" label="consideration"/>
+    </action>
+    <action datetime="2014-07-28T15:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 105.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-28T15:15:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6874" label="text"/>
+    </vote>
+    <action datetime="2014-07-28T15:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-12-04" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6356" label="consideration"/>
+    </vote>
+    <action datetime="2014-12-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2014-12-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-12-16" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-229" type="public" datetime="2014-12-16">
+      <text>Became Public Law No: 113-229.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="sj" number="38"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Europe"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Spain"/>
+    <term name="United Kingdom"/>
+  </subjects>
+  <amendments/>
+  <summary>12/16/2014--Public Law.
+Confers honorary U.S. citizenship on Bernardo de Galvez y Madrid, Viscount of Galveston and Count of Galvez.</summary>
+</bill>

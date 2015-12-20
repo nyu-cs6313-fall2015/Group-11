@@ -1,0 +1,200 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-24", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [
+        {
+          "reference": "CR S1008-1009", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-25", 
+      "references": [
+        {
+          "reference": "CR S1044", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11", 
+      "committees": [
+        "SSFR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Foreign Relations. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-03-11", 
+      "committee": "Foreign Relations", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-03-11", 
+      "calendar": "Senate Legislative", 
+      "number": "322", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 322.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "references": [
+        {
+          "reference": "CR S2286-2287", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2287", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "text": "Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt2969-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2969"
+    }
+  ], 
+  "bill_id": "sres361-113", 
+  "bill_type": "sres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Corker, Bob", 
+      "sponsored_at": "2014-02-24", 
+      "state": "TN", 
+      "thomas_id": "01825", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cornyn, John", 
+      "sponsored_at": "2014-03-27", 
+      "state": "TX", 
+      "thomas_id": "01692", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2014-02-24", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "sponsored_at": "2014-02-24", 
+      "state": "FL", 
+      "thomas_id": "02084", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-04-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-24", 
+  "number": "361", 
+  "official_title": "A resolution recognizing the threats to freedom of the press and expression in the People's Republic of China and urging the Government of the People's Republic of China to take meaningful steps to improve freedom of expression as fitting of a responsible international stakeholder.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Cardin, Benjamin L.", 
+    "state": "MD", 
+    "thomas_id": "00174", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-04-08", 
+  "subjects": [
+    "Asia", 
+    "China", 
+    "Human rights", 
+    "International affairs", 
+    "Internet and video services", 
+    "News media and reporting", 
+    "Sovereignty, recognition, national governance and status", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2014-04-08", 
+    "text": "Reaffirms the importance of freedom of the press to U.S. efforts to support democracy, mitigate conflict, and promote good governance domestically and around the world.\n\nCondemns actions taken by China to suppress freedom of the press.\n\nUrges the President to use U.S. influence to support the free flow of information to the people of China, including through the Internet and other electronic media."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A resolution recognizing the threats to freedom of the press and expression in the People's Republic of China and urging the Government of the People's Republic of China to take meaningful steps to improve freedom of expression as fitting of a responsible international stakeholder.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:22-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SE361:@@@L&summ2=m&"
+}

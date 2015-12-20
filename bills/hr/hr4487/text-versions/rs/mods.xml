@@ -1,0 +1,345 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1895d0150">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act Making appropriations for the Legislative Branch for the fiscal year ending September 30, 2015, and for other purposes.;
+   		H.R. 4487 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-06-20</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act Making appropriations for the Legislative Branch for the fiscal year ending September 30, 2015, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4487 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-06-19</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>78 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1895d0150</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4487rs</identifier>
+<identifier type="preferred citation">H.R. 4487</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4487_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4487rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4487rs/html/BILLS-113hr4487rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4487rs/pdf/BILLS-113hr4487rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4487rs/xml/BILLS-113hr4487rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-06-20</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-06-20</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr4487rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Jeanne Shaheen</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Appropriations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 1105</partNumber>
+  <partNumber>Title 2 Section 1151</partNumber>
+  <partNumber>Title 2 Section 135a</partNumber>
+  <partNumber>Title 2 Section 1381(h)(2)</partNumber>
+  <partNumber>Title 2 Section 1385</partNumber>
+  <partNumber>Title 2 Section 150</partNumber>
+  <partNumber>Title 2 Section 166</partNumber>
+  <partNumber>Title 2 Section 2146</partNumber>
+  <partNumber>Title 2 Section 31</partNumber>
+  <partNumber>Title 2 Section 432(g)</partNumber>
+  <partNumber>Title 2 Section 5535</partNumber>
+  <partNumber>Title 2 Section 6569</partNumber>
+  <partNumber>Title 2 Section 6570</partNumber>
+  <partNumber>Title 2 Section 6571</partNumber>
+  <partNumber>Title 2 Section 6572</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 1105</identifier>
+ <identifier type="USC citation">2 U.S.C. 1151</identifier>
+ <identifier type="USC citation">2 U.S.C. 135a</identifier>
+ <identifier type="USC citation">2 U.S.C. 1381(h)(2)</identifier>
+ <identifier type="USC citation">2 U.S.C. 1385</identifier>
+ <identifier type="USC citation">2 U.S.C. 150</identifier>
+ <identifier type="USC citation">2 U.S.C. 166</identifier>
+ <identifier type="USC citation">2 U.S.C. 2146</identifier>
+ <identifier type="USC citation">2 U.S.C. 31</identifier>
+ <identifier type="USC citation">2 U.S.C. 432(g)</identifier>
+ <identifier type="USC citation">2 U.S.C. 5535</identifier>
+ <identifier type="USC citation">2 U.S.C. 6569</identifier>
+ <identifier type="USC citation">2 U.S.C. 6570</identifier>
+ <identifier type="USC citation">2 U.S.C. 6571</identifier>
+ <identifier type="USC citation">2 U.S.C. 6572</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 3109</partNumber>
+  <partNumber>Title 5 Section 3109(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 3109</identifier>
+ <identifier type="USC citation">5 U.S.C. 3109(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 17 Section 708(d)</partNumber>
+  <partNumber>Title 17 Chapter 8</partNumber>
+</titleInfo>
+ <identifier type="USC citation">17 U.S.C. 708(d)</identifier>
+ <identifier type="USC citation">17 U.S.C. Chapter 8</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 4081(5)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 4081(5)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 3324</partNumber>
+  <partNumber>Title 31 Section 3521</partNumber>
+  <partNumber>Title 31 Section 782</partNumber>
+  <partNumber>Title 31 Section 9104</partNumber>
+  <partNumber>Title 31 Section 9105</partNumber>
+  <partNumber>Title 31 Chapter 7</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 3324</identifier>
+ <identifier type="USC citation">31 U.S.C. 3521</identifier>
+ <identifier type="USC citation">31 U.S.C. 782</identifier>
+ <identifier type="USC citation">31 U.S.C. 9104</identifier>
+ <identifier type="USC citation">31 U.S.C. 9105</identifier>
+ <identifier type="USC citation">31 U.S.C. Chapter 7</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 40 Section 5104(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">40 U.S.C. 5104(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 41 Section 133</partNumber>
+</titleInfo>
+ <identifier type="USC citation">41 U.S.C. 133</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Section 301</partNumber>
+  <partNumber>Title 44 Section 302</partNumber>
+  <partNumber>Title 44 Section 718</partNumber>
+  <partNumber>Title 44 Section 901</partNumber>
+  <partNumber>Title 44 Section 902</partNumber>
+  <partNumber>Title 44 Section 904</partNumber>
+  <partNumber>Title 44 Section 906</partNumber>
+  <partNumber>Title 44 Chapter 3</partNumber>
+  <partNumber>Title 44 Chapter 7</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. 301</identifier>
+ <identifier type="USC citation">44 U.S.C. 302</identifier>
+ <identifier type="USC citation">44 U.S.C. 718</identifier>
+ <identifier type="USC citation">44 U.S.C. 901</identifier>
+ <identifier type="USC citation">44 U.S.C. 902</identifier>
+ <identifier type="USC citation">44 U.S.C. 904</identifier>
+ <identifier type="USC citation">44 U.S.C. 906</identifier>
+ <identifier type="USC citation">44 U.S.C. Chapter 3</identifier>
+ <identifier type="USC citation">44 U.S.C. Chapter 7</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 24 Page 596</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">24 Stat.	596</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 32 Page 480</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">32 Stat.	480</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 46 Page 32 et seq.</partNumber>
+  <partNumber>Volume 46 Page 1487</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">46 Stat.	32 et seq.</identifier>
+ <identifier type="Statute citation">46 Stat.	1487</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 96-304</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 96-304</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 436</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr4487rs</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>4487</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <action date="2014-06-19">Reported by Mrs. Shaheen, with an amendment</action>
+ <action date="2014-05-05">Received; read twice and referred to the Committee on Appropriations</action>
+ <congCommittee authorityId="ssap00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Appropriations</name>
+                      <name type="authority-short">Appropriations</name>
+                </congCommittee>
+ <congMember authorityId="1901" bioGuideId="S001181" chamber="S" congress="113" gpoId="8276" party="D" role="SPONSOR" state="NH">
+                      <name type="parsed">Mrs. Shaheen</name>
+                      <name type="authority-fnf">Jeanne Shaheen</name>
+                      <name type="authority-lnf">Shaheen, Jeanne</name>
+                </congMember>
+ <law congress="96" isPrivate="false" number="304"></law>
+ <congCalendar congress="113" number="436" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section number="1105"></section>
+                      <section number="1151"></section>
+                      <section number="135a"></section>
+                      <section detail="(h)(2)" number="1381"></section>
+                      <section number="1385"></section>
+                      <section number="150"></section>
+                      <section number="166"></section>
+                      <section number="2146"></section>
+                      <section number="31"></section>
+                      <section detail="(g)" number="432"></section>
+                      <section number="5535"></section>
+                      <section number="6569"></section>
+                      <section number="6570"></section>
+                      <section number="6571"></section>
+                      <section number="6572"></section>
+                </USCode>
+ <USCode title="5">
+                      <section number="3109"></section>
+                      <section detail="(b)" number="3109"></section>
+                </USCode>
+ <USCode title="17">
+                      <section detail="(d)" number="708"></section>
+                      <chapter number="8"></chapter>
+                </USCode>
+ <USCode title="22">
+                      <section detail="(5)" number="4081"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="3324"></section>
+                      <section number="3521"></section>
+                      <section number="782"></section>
+                      <section number="9104"></section>
+                      <section number="9105"></section>
+                      <chapter number="7"></chapter>
+                </USCode>
+ <USCode title="40">
+                      <section detail="(c)" number="5104"></section>
+                </USCode>
+ <USCode title="41">
+                      <section number="133"></section>
+                </USCode>
+ <USCode title="44">
+                      <section number="301"></section>
+                      <section number="302"></section>
+                      <section number="718"></section>
+                      <section number="901"></section>
+                      <section number="902"></section>
+                      <section number="904"></section>
+                      <section number="906"></section>
+                      <chapter number="3"></chapter>
+                      <chapter number="7"></chapter>
+                </USCode>
+ <statuteAtLarge volume="24">
+                      <pages pages="596"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="32">
+                      <pages pages="480"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="46">
+                      <pages pages="32 et seq."></pages>
+                      <pages pages="1487"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

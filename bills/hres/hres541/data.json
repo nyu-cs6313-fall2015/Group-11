@@ -1,0 +1,131 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-03", 
+      "references": [
+        {
+          "reference": "CR H2893-2899", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-03", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-16", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres541-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "sponsored_at": "2014-04-03", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-03", 
+  "number": "541", 
+  "official_title": "Supporting the goals and ideals of Sexual Assault Awareness and Prevention Month.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres193-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "sres117-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "23", 
+    "name": "Reed, Tom", 
+    "state": "NY", 
+    "thomas_id": "01982", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-03", 
+  "subjects": [
+    "Commemorative events and holidays", 
+    "Congressional tributes", 
+    "Crime and law enforcement", 
+    "Crime prevention", 
+    "Crime victims", 
+    "Crimes against women", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Health personnel", 
+    "Law enforcement officers", 
+    "Sex offenses"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-03", 
+    "text": "Expresses support for the goals and ideals of National Sexual Assault Awareness and Prevention Month.\n\nCalls for recognition of: (1) national and community organizations and private sector supporters for their work in promoting awareness about sexual assault, providing information and treatment to survivors of sexual assault, and increasing the number of successful prosecutions of perpetrators of sexual assault; and (2) public safety, law enforcement, and health professionals for their hard work and innovative strategies to increase the percentage of sexual assault cases that result in the prosecution and incarceration of the offenders.\n\nUrges national and community organizations, private businesses, colleges and universities, and the media to promote, through such Month, awareness of sexual violence and strategies to decrease the incidence of sexual assault."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Supporting the goals and ideals of Sexual Assault Awareness and Prevention Month.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:18:41-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE541:@@@L&summ2=m&"
+}

@@ -1,0 +1,268 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-27", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [
+        {
+          "reference": "CR S1237-1238", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-11", 
+      "committees": [
+        "SSFR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Foreign Relations. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-03-11", 
+      "committee": "Foreign Relations", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-03-11", 
+      "calendar": "Senate Legislative", 
+      "number": "323", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 323.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-03-12", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1595", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sres365-113", 
+  "bill_type": "sres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2014-03-05", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-03-10", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cornyn, John", 
+      "sponsored_at": "2014-03-11", 
+      "state": "TX", 
+      "thomas_id": "01692", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cruz, Ted", 
+      "sponsored_at": "2014-02-27", 
+      "state": "TX", 
+      "thomas_id": "02175", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-02-27", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Inhofe, James M.", 
+      "sponsored_at": "2014-03-11", 
+      "state": "OK", 
+      "thomas_id": "00583", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kaine, Tim", 
+      "sponsored_at": "2014-03-11", 
+      "state": "VA", 
+      "thomas_id": "02176", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2014-03-05", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-03-10", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCain, John", 
+      "sponsored_at": "2014-03-11", 
+      "state": "AZ", 
+      "thomas_id": "00754", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Nelson, Bill", 
+      "sponsored_at": "2014-02-27", 
+      "state": "FL", 
+      "thomas_id": "00859", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "sponsored_at": "2014-02-27", 
+      "state": "FL", 
+      "thomas_id": "02084", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Thune, John", 
+      "sponsored_at": "2014-03-12", 
+      "state": "SD", 
+      "thomas_id": "01534", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warner, Mark R.", 
+      "sponsored_at": "2014-03-12", 
+      "state": "VA", 
+      "thomas_id": "01897", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-03-12", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-27", 
+  "number": "365", 
+  "official_title": "A resolution deploring the violent repression of peaceful demonstrators in Venezuela, calling for full accountability for human rights violations taking place in Venezuela, and supporting the right of the Venezuelan people to the free and peaceful exercise of representative democracy.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-03-12", 
+  "subjects": [
+    "Elections, voting, political campaign regulation", 
+    "Foreign property", 
+    "Government studies and investigations", 
+    "Human rights", 
+    "International affairs", 
+    "International organizations and cooperation", 
+    "Latin America", 
+    "News media and reporting", 
+    "Political movements and philosophies", 
+    "Protest and dissent", 
+    "Sanctions", 
+    "Sovereignty, recognition, national governance and status", 
+    "Venezuela", 
+    "Visas and passports", 
+    "Western Hemisphere"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2014-03-12", 
+    "text": "Reaffirms U.S. support for the people of Venezuela in their pursuit of representative democracy.\n\nDeplores the use of force against peaceful demonstrators in Venezuela and the use of violence and politically-motivated criminal charges to intimidate the country's political opposition.\n\nCalls on the government of Venezuela to: (1) dismantle the system of \"colectivos'' and any other government-supported militias or vigilante groups; and (2) allow an impartial, third-party investigation into the use of force against peaceful demonstrations.\n\n Urges the President to impose targeted sanctions against individuals perpetrating human rights violations against peaceful demonstrators, journalists, and other members of civil society in Venezuela.\n\nCalls for the United States to work with other countries in the hemisphere to encourage a process of dialogue between the government of Venezuela and the political opposition through the good offices of the Organization of American States (OAS)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A resolution deploring the violent repression of peaceful demonstrators in Venezuela, calling for full accountability for human rights violations taking place in Venezuela, and supporting the right of the Venezuelan people to the free and peaceful exercise of representative democracy.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:22-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SE365:@@@L&summ2=m&"
+}

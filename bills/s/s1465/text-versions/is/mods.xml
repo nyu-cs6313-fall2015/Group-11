@@ -1,0 +1,319 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee185f374e0">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To ensure that persons who form corporations in the United States disclose the beneficial owners of those corporations, in order to prevent the formation of corporations with hidden owners, stop the misuse of United States corporations by wrongdoers, and assist law enforcement in detecting, preventing, and punishing terrorism, money laundering, tax evasion, and other criminal and civil misconduct involving United States corporations, and for other purposes.;
+   		Incorporation Transparency and Law Enforcement Assistance Act;S. 1465 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-08-13</dateIngested>
+</extension>
+<titleInfo>
+ <title>To ensure that persons who form corporations in the United States disclose the beneficial owners of those corporations, in order to prevent the formation of corporations with hidden owners, stop the misuse of United States corporations by wrongdoers, and assist law enforcement in detecting, preventing, and punishing terrorism, money laundering, tax evasion, and other criminal and civil misconduct involving United States corporations, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Incorporation Transparency and Law Enforcement Assistance Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1465 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-08-01</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>36 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee185f374e0</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1465is</identifier>
+<identifier type="preferred citation">S. 1465</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1465_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1465is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1465is/html/BILLS-113s1465is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1465is/pdf/BILLS-113s1465is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1465is/xml/BILLS-113s1465is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-08-13</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1465is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Carl Levin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Chuck Grassley</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dianne Feinstein</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom Harkin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 901a</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 901a</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 1a</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 1a</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 1752</partNumber>
+  <partNumber>Title 12 Section 1813</partNumber>
+  <partNumber>Title 12 Section 1841</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 1752</identifier>
+ <identifier type="USC citation">12 U.S.C. 1813</identifier>
+ <identifier type="USC citation">12 U.S.C. 1841</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 7212</partNumber>
+  <partNumber>Title 15 Section 781</partNumber>
+  <partNumber>Title 15 Section 78c</partNumber>
+  <partNumber>Title 15 Section 78f</partNumber>
+  <partNumber>Title 15 Section 78o</partNumber>
+  <partNumber>Title 15 Section 78o(d)</partNumber>
+  <partNumber>Title 15 Section 78q-1</partNumber>
+  <partNumber>Title 15 Section 80a-1</partNumber>
+  <partNumber>Title 15 Section 80a-2</partNumber>
+  <partNumber>Title 15 Section 80a-3</partNumber>
+  <partNumber>Title 15 Section 80b-1et seq.</partNumber>
+  <partNumber>Title 15 Section 80b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 7212</identifier>
+ <identifier type="USC citation">15 U.S.C. 781</identifier>
+ <identifier type="USC citation">15 U.S.C. 78c</identifier>
+ <identifier type="USC citation">15 U.S.C. 78f</identifier>
+ <identifier type="USC citation">15 U.S.C. 78o</identifier>
+ <identifier type="USC citation">15 U.S.C. 78o(d)</identifier>
+ <identifier type="USC citation">15 U.S.C. 78q-1</identifier>
+ <identifier type="USC citation">15 U.S.C. 80a-1</identifier>
+ <identifier type="USC citation">15 U.S.C. 80a-2</identifier>
+ <identifier type="USC citation">15 U.S.C. 80a-3</identifier>
+ <identifier type="USC citation">15 U.S.C. 80b-1et seq.</identifier>
+ <identifier type="USC citation">15 U.S.C. 80b</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 3512</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 3512</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 28 Section 1782</partNumber>
+  <partNumber>Title 28 Section 524(c)</partNumber>
+  <partNumber>Title 28 Section 524(c)(8)(D)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">28 U.S.C. 1782</identifier>
+ <identifier type="USC citation">28 U.S.C. 524(c)</identifier>
+ <identifier type="USC citation">28 U.S.C. 524(c)(8)(D)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 5312(a)(2)</partNumber>
+  <partNumber>Title 31 Section 5312(a)(2)(Z)</partNumber>
+  <partNumber>Title 31 Section 9703(g)(4)(B)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 5312(a)(2)</identifier>
+ <identifier type="USC citation">31 U.S.C. 5312(a)(2)(Z)</identifier>
+ <identifier type="USC citation">31 U.S.C. 9703(g)(4)(B)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 41 Section 1303(a)(1)</partNumber>
+  <partNumber>Title 41 Section 134</partNumber>
+</titleInfo>
+ <identifier type="USC citation">41 U.S.C. 1303(a)(1)</identifier>
+ <identifier type="USC citation">41 U.S.C. 134</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 3750</partNumber>
+  <partNumber>Title 42 Section 3750et seq.</partNumber>
+  <partNumber>Title 42 Section 3791(a)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 3750</identifier>
+ <identifier type="USC citation">42 U.S.C. 3750et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 3791(a)(2)</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1465is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1465</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Incorporation Transparency and Law Enforcement Assistance Act</shortTitle>
+ <action date="2013-08-01">Mr. Levin (for himself, Mr. Grassley, Mrs. Feinstein, and Mr. Harkin) introduced the following bill; which was read twice and referred to the Committee on the Judiciary</action>
+ <congCommittee authorityId="ssju00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember authorityId="1384" bioGuideId="L000261" chamber="S" congress="113" gpoId="8243" party="D" role="SPONSOR" state="MI">
+                      <name type="parsed">Mr. Levin</name>
+                      <name type="authority-fnf">Carl Levin</name>
+                      <name type="authority-lnf">Levin, Carl</name>
+                      <name type="authority-other">Carl Milton Levin</name>
+                </congMember>
+ <congMember authorityId="457" bioGuideId="G000386" chamber="S" congress="113" gpoId="8316" party="R" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mr. Grassley</name>
+                      <name type="authority-fnf">Chuck Grassley</name>
+                      <name type="authority-lnf">Grassley, Chuck</name>
+                      <name type="authority-other">Charles Ernest Grassley</name>
+                </congMember>
+ <congMember authorityId="1332" bioGuideId="F000062" chamber="S" congress="113" gpoId="8338" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Feinstein</name>
+                      <name type="authority-fnf">Dianne Feinstein</name>
+                      <name type="authority-lnf">Feinstein, Dianne</name>
+                </congMember>
+ <congMember authorityId="501" bioGuideId="H000206" chamber="S" congress="113" gpoId="8317" party="D" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mr. Harkin</name>
+                      <name type="authority-fnf">Tom Harkin</name>
+                      <name type="authority-lnf">Harkin, Tom</name>
+                      <name type="authority-other">Thomas Richard Harkin</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section number="901a"></section>
+                </USCode>
+ <USCode title="7">
+                      <section number="1a"></section>
+                </USCode>
+ <USCode title="12">
+                      <section number="1752"></section>
+                      <section number="1813"></section>
+                      <section number="1841"></section>
+                </USCode>
+ <USCode title="15">
+                      <section number="7212"></section>
+                      <section number="781"></section>
+                      <section number="78c"></section>
+                      <section number="78f"></section>
+                      <section number="78o"></section>
+                      <section detail="(d)" number="78o"></section>
+                      <section number="78q-1"></section>
+                      <section number="80a-1"></section>
+                      <section number="80a-2"></section>
+                      <section number="80a-3"></section>
+                      <section detail="et seq." number="80b-1"></section>
+                      <section number="80b"></section>
+                </USCode>
+ <USCode title="18">
+                      <section number="3512"></section>
+                </USCode>
+ <USCode title="28">
+                      <section number="1782"></section>
+                      <section detail="(c)" number="524"></section>
+                      <section detail="(c)(8)(D)" number="524"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="(a)(2)" number="5312"></section>
+                      <section detail="(a)(2)(Z)" number="5312"></section>
+                      <section detail="(g)(4)(B)" number="9703"></section>
+                </USCode>
+ <USCode title="41">
+                      <section detail="(a)(1)" number="1303"></section>
+                      <section number="134"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="3750"></section>
+                      <section detail="et seq." number="3750"></section>
+                      <section detail="(a)(2)" number="3791"></section>
+                </USCode>
+</extension>
+</mods>

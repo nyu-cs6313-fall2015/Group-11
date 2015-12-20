@@ -1,0 +1,218 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-18", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:03:00-05:00", 
+      "references": [], 
+      "text": "Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8345-8350", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:03:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 758.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03T18:26:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04T11:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8385", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04T11:11:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "548", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 10 (Roll no. 548). (text: CR 12/3/2014 H8345-8347))", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres758-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2014-12-03", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2014-12-01", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Cook, Paul", 
+      "sponsored_at": "2014-12-01", 
+      "state": "CA", 
+      "thomas_id": "02103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2014-12-03", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Stockman, Steve", 
+      "sponsored_at": "2014-11-19", 
+      "state": "TX", 
+      "thomas_id": "01114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-11-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-04T11:11:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-18", 
+  "number": "758", 
+  "official_title": "Strongly condemning the actions of the Russian Federation, under President Vladimir Putin, which has carried out a policy of aggression against neighboring countries aimed at political and economic domination.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "16", 
+    "name": "Kinzinger, Adam", 
+    "state": "IL", 
+    "thomas_id": "02014", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-12-04T11:11:00-05:00", 
+  "subjects": [
+    "Alliances", 
+    "Arms control and nonproliferation", 
+    "Conflicts and wars", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Energy storage, supplies, demand", 
+    "Europe", 
+    "European Union", 
+    "Foreign property", 
+    "Georgia (Republic)", 
+    "Human rights", 
+    "Immigration status and procedures", 
+    "Intelligence activities, surveillance, classified information", 
+    "International affairs", 
+    "International exchange and broadcasting", 
+    "International law and treaties", 
+    "International organizations and cooperation", 
+    "Military assistance, sales, and agreements", 
+    "Military readiness", 
+    "Moldova", 
+    "News media and reporting", 
+    "Nuclear weapons", 
+    "Oil and gas", 
+    "Political movements and philosophies", 
+    "Russia", 
+    "Sanctions", 
+    "Sovereignty, recognition, national governance and status", 
+    "Trade restrictions", 
+    "Ukraine", 
+    "United Nations", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-12-04", 
+    "text": "Supports the efforts by President Poroshenko and the people of Ukraine to establish a lasting peace for Ukraine that includes:\n\n full withdrawal of Russian forces from its territory, full control of its international borders, disarming of separatist and paramilitary forces in eastern Ukraine, adoption of policies to reduce the Russian Federation's ability to use energy exports and trade barriers as weapons to apply economic and political pressure, and an end to interference by the Russian Federation in Ukraine's internal affairs. Affirms the right of Ukraine, Georgia, Moldova, and all countries to exercise their sovereign rights within their internationally recognized borders.\n\n Condemns the continuing political, economic, and military aggression by the Russian Federation against Ukraine, Georgia, and Moldova and the continuing violation of their sovereignty, independence, and territorial integrity.\n\n States that the military intervention by the Russian Federation in Ukraine:\n\n is in breach of its obligations under the United Nations Charter, the 1975 Helsinki Accords, and the 1994 Budapest Memorandum on Security Assurances, and poses a threat to international peace. Calls on the Russian Federation to:\n\n reverse its illegal annexation of the Crimean peninsula, end its support of the separatist forces in Crimea, and remove its military forces from that region (other than those operating in strict accordance with its 1997 agreement on the Status and Conditions of the Black Sea Fleet Stationing on the Territory of Ukraine); remove its military forces from Ukraine, Georgia, and Moldova, and end its political, military, and economic support of separatist forces; and end violations of the September 2014 cease fire; and cease its support for the Assad regime in Syria. Calls on the President to provide the government of Ukraine with necessary defense articles, services, and intelligence in order to defend its territory and sovereignty.\n\nCalls on North Atlantic Treaty Organization (NATO) allies and U.S. partners to suspend military cooperation with Russia.\n\nCalls on the President to cooperate with U.S. allies to:\n\n refuse to recognize the Russian Federation's illegal annexation of Crimea; and impose visa bans, asset freezes, and sanctions on the Russian Federation and its leadership to compel it to end its violation of Ukraine's sovereignty and territorial integrity. Urges the President, in consultation with Congress, to review the Treaty readiness of U.S. and NATO armed forces.\n\nUrges the President to hold the Russian Federation accountable for violations of its obligations under the Intermediate-Range Nuclear Forces (INF) Treaty.\n\nWelcomes France's decision to suspend the delivery of the Mistral-class warships to the Russian Federation.\n\nBelieves that the emplacement by the Russian Federation of its nuclear weapons on Ukrainian territory would be provocative and destabilizing.\n\nCalls on Ukraine and other countries to support energy diversification initiatives to reduce the Russian Federation's ability to use energy supplies as a means of applying political and economic pressure on other countries.\n\nCalls on the President and the Department of State to develop a strategy to produce or otherwise procure and distribute news and information in the Russian language to countries with significant Russian-speaking populations.\n\nCalls upon the Russian Federation to seek a mutually beneficial relationship with the United States based on respect for the independence and sovereignty of all countries.\n\nCalls for the reestablishment of a cooperative relationship between the people of the United States and the Russian people based on the shared pursuit of democracy, human rights, and peace."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Strongly condemning the actions of the Russian Federation, under President Vladimir Putin, which has carried out a policy of aggression against neighboring countries aimed at political and economic domination.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:18:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE758:@@@L&summ2=m&"
+}

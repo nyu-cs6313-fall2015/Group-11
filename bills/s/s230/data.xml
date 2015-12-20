@@ -1,0 +1,112 @@
+<bill session="113" type="s" number="230" updated="2015-09-01T10:21:34-04:00">
+  <state datetime="2014-01-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-01-24"/>
+  </status>
+  <introduced datetime="2013-02-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Peace Corps Commemorative Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2013-03-04"/>
+    <cosponsor id="300058" joined="2013-02-25"/>
+    <cosponsor id="412323" joined="2013-03-13"/>
+    <cosponsor id="400412" joined="2013-02-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="2013-03-14" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2013-04-22">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-21.</text>
+    </action>
+    <calendar datetime="2013-04-22" calendar="Senate Legislative" under="General Orders" number="52">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 52.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-06-19" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4717-4722" label="consideration"/>
+      <reference ref="CR S4720" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2013-06-20T14:00:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-06-25">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2013-12-04">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2013-12-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-12-04">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-01-13T17:08:00-05:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill.</text>
+      <reference ref="CR H168" label="consideration"/>
+    </action>
+    <action datetime="2014-01-13T17:09:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H168-170" label="consideration"/>
+    </action>
+    <action datetime="2014-01-13T17:09:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 230.</text>
+    </action>
+    <action datetime="2014-01-13T17:23:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-01-13T18:55:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H172-173" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote2" roll="13" datetime="2014-01-13T19:02:00-05:00" where="h" result="pass" suspension="1" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 7 (Roll no. 13).</text>
+      <reference ref="CR H168" label="text"/>
+    </vote>
+    <topresident datetime="2014-01-15">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-01-24" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-78" type="public" datetime="2014-01-24">
+      <text>Became Public Law No: 113-78.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="District of Columbia"/>
+    <term name="Monuments and memorials"/>
+    <term name="National and community service"/>
+    <term name="Peace Corps"/>
+  </subjects>
+  <amendments/>
+  <summary>1/24/2014--Public Law.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes the Peace Corps Commemorative Foundation to establish a commemorative work on federal land in the District of Columbia to commemorate the mission of the Peace Corps and the ideals on which it was founded.</summary>
+</bill>

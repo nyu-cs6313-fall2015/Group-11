@@ -1,0 +1,128 @@
+<bill session="113" type="s" number="2223" updated="2015-09-01T10:22:16-04:00">
+  <state datetime="2014-04-30">PROV_KILL:CLOTUREFAILED</state>
+  <status>
+    <unknown datetime="2014-04-30"/>
+  </status>
+  <introduced datetime="2014-04-08"/>
+  <titles>
+    <title type="short" as="introduced">Minimum Wage Fairness Act</title>
+    <title type="official" as="introduced">A bill to provide for an increase in the Federal minimum wage and to amend the Internal Revenue Code of 1986 to extend increased expensing limitations and the treatment of certain real property as section 179 property.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2014-04-09"/>
+    <cosponsor id="412326" joined="2014-04-09"/>
+    <cosponsor id="412330" joined="2014-04-09"/>
+    <cosponsor id="412490" joined="2014-04-09"/>
+    <cosponsor id="412598" joined="2014-04-09"/>
+    <cosponsor id="300011" joined="2014-04-09"/>
+    <cosponsor id="400050" joined="2014-04-10"/>
+    <cosponsor id="400064" joined="2014-04-10"/>
+    <cosponsor id="412246" joined="2014-04-09"/>
+    <cosponsor id="412390" joined="2014-04-10"/>
+    <cosponsor id="300038" joined="2014-04-10"/>
+    <cosponsor id="300043" joined="2014-04-10"/>
+    <cosponsor id="412378" joined="2014-04-10"/>
+    <cosponsor id="412223" joined="2014-04-09"/>
+    <cosponsor id="412324" joined="2014-04-09"/>
+    <cosponsor id="412281" joined="2014-04-09"/>
+    <cosponsor id="412554" joined="2014-04-09"/>
+    <cosponsor id="412200" joined="2014-04-28"/>
+    <cosponsor id="412242" joined="2014-04-09"/>
+    <cosponsor id="300065" joined="2014-04-09"/>
+    <cosponsor id="300066" joined="2014-04-09"/>
+    <cosponsor id="400253" joined="2014-04-09"/>
+    <cosponsor id="412243" joined="2014-04-10"/>
+    <cosponsor id="412325" joined="2014-04-08"/>
+    <cosponsor id="300073" joined="2014-04-10"/>
+    <cosponsor id="412194" joined="2014-04-09"/>
+    <cosponsor id="300076" joined="2014-04-28"/>
+    <cosponsor id="300078" joined="2014-04-10"/>
+    <cosponsor id="300081" joined="2014-04-10"/>
+    <cosponsor id="300082" joined="2014-04-08"/>
+    <cosponsor id="400357" joined="2014-04-09"/>
+    <cosponsor id="412507" joined="2014-04-09"/>
+    <cosponsor id="300087" joined="2014-05-01"/>
+    <cosponsor id="300093" joined="2014-04-09"/>
+    <cosponsor id="400412" joined="2014-09-09"/>
+    <cosponsor id="400413" joined="2014-04-10"/>
+    <cosponsor id="412542" joined="2014-04-10"/>
+    <cosponsor id="412247" joined="2014-04-28"/>
+    <cosponsor id="300100" joined="2014-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-08">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2014-04-09" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="354">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 354.</text>
+    </calendar>
+    <action datetime="2014-04-10">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S2333, S2334" label="consideration"/>
+    </action>
+    <action datetime="2014-04-28">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S2409-2410, S2419-2420" label="consideration"/>
+    </action>
+    <action datetime="2014-04-28">
+      <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S2409" label="consideration"/>
+      <reference ref="CR S2409" label="text"/>
+    </action>
+    <action datetime="2014-04-29">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S2427-2428, S2435-2441, S2453-2457, S2457-2462" label="consideration"/>
+    </action>
+    <action datetime="2014-04-30">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="117" datetime="2014-04-30" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 54 - 42. Record Vote Number: 117.</text>
+      <reference ref="CR S2545-2546" label="consideration"/>
+      <reference ref="CR S2545" label="text"/>
+    </vote-aux>
+    <action datetime="2014-04-30">
+      <text>Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote No. 117) entered in Senate.</text>
+      <reference ref="CR S2527-2528, S2535-2543, S2543-2546, S2546-2547, S2548-2549" label="consideration"/>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1010"/>
+    <bill relation="unknown" session="113" type="h" number="3746"/>
+    <bill relation="unknown" session="113" type="h" number="3939"/>
+    <bill relation="identical" session="113" type="h" number="4019"/>
+    <bill relation="unknown" session="113" type="s" number="460"/>
+    <bill relation="unknown" session="113" type="s" number="1085"/>
+    <bill relation="identical" session="113" type="s" number="1498"/>
+    <bill relation="identical" session="113" type="s" number="1737"/>
+    <bill relation="unknown" session="113" type="s" number="1737"/>
+    <bill relation="unknown" session="113" type="s" number="1859"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Business investment and capital"/>
+    <term name="Computers and information technology"/>
+    <term name="Department of Labor"/>
+    <term name="Food industry and services"/>
+    <term name="Income tax deductions"/>
+    <term name="Inflation and prices"/>
+    <term name="Labor standards"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2972"/>
+    <amendment number="s2973"/>
+  </amendments>
+  <summary>4/8/2014--Introduced.
+Minimum Wage Fairness Act - Amends the Fair Labor Standards Act of 1938 (FLSA) to increase the federal minimum wage for employees to: (1) $8.20 an hour beginning on the first day of the sixth month after the enactment of this Act, (2) $9.15 an hour beginning one year after the date of such initial increase, (3) $10.10 an hour beginning two years after such date, and (4) the amount determined by the Secretary of Labor (based on increases in the Consumer Price Index) beginning three years after such date and annually thereafter.
+
+Increases the federal minimum wage for tipped employees to $3.00 an hour for one year beginning on the first day of the sixth month after the enactment of this Act. Provides a formula for subsequent annual adjustments of the minimum wage for tipped employees until it equals 70% of the wage in effect under FLSA for other employees.
+
+Directs the Secretary of Labor, 60 days before any increase in the minimum wage, to publish it in the Federal Register and on the Department of Labor's website.
+
+Amends the Internal Revenue Code to extend through taxable years beginning before 2017: (1) the increase to $500,000 of the expensing allowance for business assets, including computer software; and (2) the treatment of qualified real property (i.e., leasehold improvement property, restaurant property, and retail improvement property) as depreciable business property.</summary>
+</bill>

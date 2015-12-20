@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5547-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Michaud, Michael H.", 
+      "sponsored_at": "2014-09-18", 
+      "state": "ME", 
+      "thomas_id": "01730", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2014-11-19", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "sponsored_at": "2014-12-01", 
+      "state": "ME", 
+      "thomas_id": "01927", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "5547", 
+  "official_title": "To ensure that Medicaid beneficiaries have the opportunity to receive care in a home and community-based setting.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2515-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Community Integration Act of 2014", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Cartwright, Matt", 
+    "state": "PA", 
+    "thomas_id": "02159", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Disability and paralysis", 
+    "Health", 
+    "Home and outpatient care", 
+    "Housing for the elderly and disabled", 
+    "Housing supply and affordability", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Medicaid"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Community Integration Act of 2014 - Amends title XIX (Medicaid) of the Social Security Act to require state Medicaid plans to give an individual with disabilities needing the level of care provided in an institutional setting the choice and opportunity to receive such care in a home and community-based setting, including rehabilitative services, assistance and support in accomplishing activities of daily living, instrumental activities of daily living, and health-related tasks, and assistance in acquiring, maintaining, or enhancing skills necessary to accomplish such activities, tasks, or services.\n\nPrescribes requirements for providing in home and community-based settings those services such an individual would otherwise receive in an institutional setting, such as a nursing facility, intermediate care facility for the mentally retarded, institution for mental disease, or other similarly restrictive or institutional setting."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Community Integration Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ensure that Medicaid beneficiaries have the opportunity to receive care in a home and community-based setting.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:01-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5547:@@@L&summ2=m&"
+}

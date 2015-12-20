@@ -1,0 +1,332 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee184df0641">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide for certain land conveyances in the State of Nevada, and for other purposes.;
+   		H.R. 2015 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-05-23</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide for certain land conveyances in the State of Nevada, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2015 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-05-16</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>57 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee184df0641</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2015ih</identifier>
+<identifier type="preferred citation">H.R. 2015</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2015_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2015ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2015ih/html/BILLS-113hr2015ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2015ih/pdf/BILLS-113hr2015ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2015ih/xml/BILLS-113hr2015ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-05-23</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-05</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr2015ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Steven A. Horsford</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark E. Amodei</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joseph J. Heck</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dina Titus</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1et seq.</partNumber>
+  <partNumber>Title 16 Section 460cccet seq.</partNumber>
+  <partNumber>Title 16 Section 460hhh-6</partNumber>
+  <partNumber>Title 16 Section 521cet seq.</partNumber>
+  <partNumber>Title 16 Section 521i</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 460cccet seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 460hhh-6</identifier>
+ <identifier type="USC citation">16 U.S.C. 521cet seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 521i</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 4321</partNumber>
+  <partNumber>Title 42 Section 4321et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 4321</identifier>
+ <identifier type="USC citation">42 U.S.C. 4321et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1702</partNumber>
+  <partNumber>Title 43 Section 1712</partNumber>
+  <partNumber>Title 43 Section 1713</partNumber>
+  <partNumber>Title 43 Section 1782</partNumber>
+  <partNumber>Title 43 Section 1782(c)</partNumber>
+  <partNumber>Title 43 Section 869(c)</partNumber>
+  <partNumber>Title 43 Section 869et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1702</identifier>
+ <identifier type="USC citation">43 U.S.C. 1712</identifier>
+ <identifier type="USC citation">43 U.S.C. 1713</identifier>
+ <identifier type="USC citation">43 U.S.C. 1782</identifier>
+ <identifier type="USC citation">43 U.S.C. 1782(c)</identifier>
+ <identifier type="USC citation">43 U.S.C. 869(c)</identifier>
+ <identifier type="USC citation">43 U.S.C. 869et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 112 Page 2344</partNumber>
+  <partNumber>Volume 112 Page 2345</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">112 Stat.	2344</identifier>
+ <identifier type="Statute citation">112 Stat.	2345</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 114 Page 1404</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">114 Stat.	1404</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 116 Page 2007</partNumber>
+  <partNumber>Volume 116 Page 2013</partNumber>
+  <partNumber>Volume 116 Page 2975</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">116 Stat.	2007</identifier>
+ <identifier type="Statute citation">116 Stat.	2013</identifier>
+ <identifier type="Statute citation">116 Stat.	2975</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 117 Page 1317</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">117 Stat.	1317</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 118 Page 2414</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">118 Stat.	2414</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 120 Page 3045</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">120 Stat.	3045</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 97-465</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 97-465</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 105-263</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 105-263</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 106-362</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 106-362</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-282</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-282</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-350</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-350</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr2015ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2015</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <action date="2013-05-16">Mr. Horsford (for himself, Mr. Amodei, Mr. Heck of Nevada, and Ms. Titus) introduced the following bill; which was referred to the Committee on Natural Resources</action>
+ <congCommittee authorityId="hsii00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="2147" bioGuideId="H001066" chamber="H" congress="113" party="D" role="SPONSOR" state="NV">
+                      <name type="parsed">Mr. Horsford</name>
+                      <name type="authority-fnf">Steven A. Horsford</name>
+                      <name type="authority-lnf">Horsford, Steven A.</name>
+                      <name type="authority-other">Steven Horsford</name>
+                </congMember>
+ <congMember authorityId="2090" bioGuideId="A000369" chamber="H" congress="113" gpoId="8366" party="R" role="COSPONSOR" state="NV">
+                      <name type="parsed">Mr. Amodei</name>
+                      <name type="authority-fnf">Mark E. Amodei</name>
+                      <name type="authority-lnf">Amodei, Mark E.</name>
+                      <name type="authority-other">Mark Amodei</name>
+                </congMember>
+ <congMember authorityId="2040" bioGuideId="H001055" chamber="H" congress="113" gpoId="8061" party="R" role="COSPONSOR" state="NV">
+                      <name type="parsed">Mr. Heck of Nevada</name>
+                      <name type="authority-fnf">Joseph J. Heck</name>
+                      <name type="authority-lnf">Heck, Joseph J.</name>
+                      <name type="authority-other">Joseph Heck</name>
+                </congMember>
+ <congMember authorityId="1940" bioGuideId="T000468" chamber="H" congress="113" gpoId="7493" party="D" role="COSPONSOR" state="NV">
+                      <name type="parsed">Ms. Titus</name>
+                      <name type="authority-fnf">Dina Titus</name>
+                      <name type="authority-lnf">Titus, Dina</name>
+                </congMember>
+ <law congress="97" isPrivate="false" number="465"></law>
+ <law congress="105" isPrivate="false" number="263"></law>
+ <law congress="106" isPrivate="false" number="362"></law>
+ <law congress="107" isPrivate="false" number="282"></law>
+ <law congress="107" isPrivate="false" number="350"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section detail="et seq." number="1"></section>
+                      <section detail="et seq." number="460ccc"></section>
+                      <section number="460hhh-6"></section>
+                      <section detail="et seq." number="521c"></section>
+                      <section number="521i"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="4321"></section>
+                      <section detail="et seq." number="4321"></section>
+                </USCode>
+ <USCode title="43">
+                      <section number="1702"></section>
+                      <section number="1712"></section>
+                      <section number="1713"></section>
+                      <section number="1782"></section>
+                      <section detail="(c)" number="1782"></section>
+                      <section detail="(c)" number="869"></section>
+                      <section detail="et seq." number="869"></section>
+                </USCode>
+ <statuteAtLarge volume="112">
+                      <pages pages="2344"></pages>
+                      <pages pages="2345"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="114">
+                      <pages pages="1404"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="116">
+                      <pages pages="2007"></pages>
+                      <pages pages="2013"></pages>
+                      <pages pages="2975"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="117">
+                      <pages pages="1317"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="118">
+                      <pages pages="2414"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="120">
+                      <pages pages="3045"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

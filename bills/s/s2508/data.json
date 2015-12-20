@@ -1,0 +1,345 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-24", 
+      "committees": [
+        "SSFR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Foreign Relations. Ordered to be reported with an amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-07-24", 
+      "committee": "Foreign Relations", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Relations. Reported by Senator Menendez with amendments and an amendment to the title. With written report No. 113-219.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-07-24", 
+      "calendar": "Senate Legislative", 
+      "number": "489", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 489.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2508-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2014-07-08", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2014-11-13", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cantwell, Maria", 
+      "sponsored_at": "2014-07-23", 
+      "state": "WA", 
+      "thomas_id": "00172", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-06-24", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2014-11-12", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "sponsored_at": "2014-09-08", 
+      "state": "ME", 
+      "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-06-19", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Corker, Bob", 
+      "sponsored_at": "2014-06-19", 
+      "state": "TN", 
+      "thomas_id": "01825", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-06-25", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Franken, Al", 
+      "sponsored_at": "2014-06-25", 
+      "state": "MN", 
+      "thomas_id": "01969", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "sponsored_at": "2014-07-31", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Graham, Lindsey", 
+      "sponsored_at": "2014-07-08", 
+      "state": "SC", 
+      "thomas_id": "00452", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heinrich, Martin", 
+      "sponsored_at": "2014-09-17", 
+      "state": "NM", 
+      "thomas_id": "01937", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "sponsored_at": "2014-06-19", 
+      "state": "GA", 
+      "thomas_id": "01608", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johanns, Mike", 
+      "sponsored_at": "2014-06-19", 
+      "state": "NE", 
+      "thomas_id": "01899", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2014-07-08", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-06-19", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murphy, Christopher S.", 
+      "sponsored_at": "2014-09-18", 
+      "state": "CT", 
+      "thomas_id": "01837", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murray, Patty", 
+      "sponsored_at": "2014-07-31", 
+      "state": "WA", 
+      "thomas_id": "01409", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2014-09-17", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Shaheen, Jeanne", 
+      "sponsored_at": "2014-06-24", 
+      "state": "NH", 
+      "thomas_id": "01901", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2014-07-21", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Udall, Mark", 
+      "sponsored_at": "2014-07-22", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-19", 
+  "number": "2508", 
+  "official_title": "A bill to establish a comprehensive United States Government policy to assist countries in sub-Saharan Africa to improve access to and the affordability, reliability, and sustainability of power, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Energize Africa Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-06-24", 
+  "subjects": [
+    "Advisory bodies", 
+    "Africa", 
+    "Alternative and renewable resources", 
+    "Appropriations", 
+    "Congressional oversight", 
+    "Electric power generation and transmission", 
+    "Energy efficiency and conservation", 
+    "Energy storage, supplies, demand", 
+    "Foreign aid and international relief", 
+    "Government lending and loan guarantees", 
+    "International affairs", 
+    "Lighting and heating", 
+    "Multilateral development programs", 
+    "Public utilities and utility rates", 
+    "Rule of law and government transparency", 
+    "U.S. and foreign investments"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Reported to Senate amended", 
+    "date": "2014-07-24", 
+    "text": "Energize Africa Act of 2014 - Title I: Policies to Improve Access to Power in Sub-Saharan Africa - (Sec. 103) Directs the President to establish: (1) a multiyear strategy to encourage the efforts of countries in sub-Saharan Africa to implement national power strategies and develop an appropriate mix of power solutions, including renewable energy, to provide access to reliable, affordable, and sustainable power in order to reduce poverty and drive economic growth; and (2) an African Power Advisory Group.\n\nAuthorizes the President to establish an Interagency Working Group to coordinate the activities of relevant federal departments and agencies involved in carrying out the strategy.\n\n(Sec. 104) Expresses the sense of Congress that:\n\n as the United States deepens its engagement with countries in sub-Saharan Africa priority should be given to countries committed to specified activities in energy sector governance and management, and to private sector and investment climate reforms; and the United States should consider, in prioritizing efforts, U.S. government and private sector opportunities to contribute to those countries' energy sectors and facilitate regional power trade and access. (Sec. 105) Urges the U.S. Agency for International Development (USAID) to prioritize loan guarantees to local financial institutions in sub-Saharan Africa to: (1) facilitate their involvement in power projects and markets, and (2) fund plans to increase distribution coverage.\n\n(Sec. 106) Urges the Trade and Development Agency to prioritize: (1) promotion of U.S. private sector participation in energy sector development projects through project preparation activities; and (2) funding of such activities for sub-Saharan Africa projects involving increased access to power, including power generation and trade capacity building.\n\n(Sec. 107) Urges the Overseas Private Investment Corporation (OPIC) to prioritize support for private sector investments in the sub-Saharan Africa power sector, including renewable energy, that will maximize the number of people with new access to power services and expand power transmission and distribution.\n\n(Sec. 108) Urges the Secretary of the Treasury to direct the U.S. Executive Directors of the World Bank Group and the African Development Bank to use U.S. the voice, vote, and influence to help ensure the Banks prioritize sub-Sahara Africa power sector and electrification investments.\n\n(Sec. 109) Urges the United States African Development Foundation to seek opportunities to make grants and provide technical support to sub-Sahara Africa businesses and organizations that are developing on- and off-grid solutions to meet the power needs of underserved rural communities.\n\n(Sec. 110) Urges the Millennium Challenge Corporation to prioritize: (1) assistance to support private and public sector efforts to increase access to and the reliability of electricity in such countries, including through on- and off-grid generation and electrical transmission and distribution projects; and (2) engagement with governments of those countries to assist in establishing legal, regulatory, policy, and institutional reforms related to power sector investments.\n\nTitle II: Overseas Private Investment Corporation - (Sec. 201) Amends the Foreign Assistance Act of 1961 to authorize OPIC to make direct loans and issue investment insurance and investment loan guarantees through September 30, 2019.\n\n(Sec. 202) Urges OPIC, with respect to sub-Saharan Africa, to:\n\n streamline the application, approval, and post-approval processes for insuring, financing, or investing in projects, including off-grid efforts, for which OPIC support is less than $20 million; and prioritize OPIC loan, guarantee, and insurance programs for power generation, distribution, and off-grid power and lighting. (Sec. 204) Requires OPIC to establish five-year pilot programs under which:\n\n certain foreign corporations, partnerships, or other associations that are substantially owned by U.S. citizens shall be eligible investors for receiving OPIC assistance for power projects in sub-Saharan Africa; and OPIC shall make loans to eligible investors for power projects for which OPIC support does not exceed $50 million, or issue local currency guarantees to African subsidiaries of foreign financial institutions to facilitate lending for power projects in sub-Saharan Africa. (Sec. 206) Authorizes OPIC to insure, guarantee, or reinsure an equity investment in a renewable energy project in sub-Saharan Africa for up to 30 years.\n\n(Sec. 207) Amends the Inspector General Act of 1978 to require OPIC to establish an Inspector General.\n\n(Sec. 208) Requires OPIC to conduct an annual customer satisfaction survey, with particular attention to OPIC customers that are small businesses and cooperatives.\n\n(Sec. 209) Authorizes OPIC to employ up to 20 individuals on a limited-appointment basis in support of power production and distribution efforts in sub-Saharan Africa.\n\n(Sec. 210)Expresses the sense of Congress that appropriations for certain OPIC administrative expenses and activities for FY2015-FY2019 should be adjusted to reflect the resources needed to carry out the purposes of this Act.\n\n(Sec. 211) Requires the OPIC Inspector General to report to Congress on the equity authority of OPIC to meet its statutory objectives effectively."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Energize Africa Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Energize Africa Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Energize Africa Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish a comprehensive United States Government policy to assist countries in sub-Saharan Africa to improve access to and the affordability, reliability, and sustainability of power, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:22-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2508:@@@L&summ2=m&"
+}

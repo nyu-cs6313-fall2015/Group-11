@@ -1,0 +1,90 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-07-16", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-07-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2699-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-07-16", 
+  "number": "2699", 
+  "official_title": "To extend the hold harmless provisions of the Ryan White HIV/AIDS Program pending reauthorization of the overall program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Pallone, Frank, Jr.", 
+    "state": "NJ", 
+    "thomas_id": "00887", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-07-16", 
+  "subjects": [
+    "Appropriations", 
+    "HIV/AIDS", 
+    "Health", 
+    "Health programs administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-07-16", 
+    "text": "Provides, for any fiscal year after FY2013 for which appropriations are made to carry out the program under title XXVI of the Public Health Service Act (popularly known as the Ryan White CARE Act), regarding emergency relief under the HIV Health Care Services Program, but for which the authorizations of appropriations have not been extended, that: (1) requirements limiting the reduction of grants from the prior fiscal year are extended, and (2) certain funding rules applicable to metropolitan areas that are transitional areas and to states shall apply in the same manner as they apply for FY2013."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend the hold harmless provisions of the Ryan White HIV/AIDS Program pending reauthorization of the overall program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:19:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR2699:@@@L&summ2=m&"
+}

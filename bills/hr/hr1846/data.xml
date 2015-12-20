@@ -1,0 +1,81 @@
+<bill session="113" type="h" number="1846" updated="2015-09-01T10:19:30-04:00">
+  <state datetime="2013-12-03T14:00:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-12-03T14:00:00-05:00"/>
+  </status>
+  <introduced datetime="2013-05-07"/>
+  <titles>
+    <title type="short" as="introduced">Lower East Side Tenement National Historic Site Amendments Act</title>
+    <title type="short" as="reported to house">Lower East Side Tenement National Historic Site Amendments Act</title>
+    <title type="short" as="passed house">Lower East Side Tenement National Historic Site Amendments Act</title>
+    <title type="official" as="introduced">To amend the Act establishing the Lower East Side Tenement National Historic Site, and for other purposes.</title>
+  </titles>
+  <sponsor id="400416"/>
+  <cosponsors>
+    <cosponsor id="400199" joined="2013-09-18"/>
+    <cosponsor id="400219" joined="2013-06-12"/>
+    <cosponsor id="400251" joined="2013-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-07" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-05-09">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2013-10-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2013-10-30">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2013-10-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-10-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2013-12-02T15:24:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-282.</text>
+    </action>
+    <calendar datetime="2013-12-02T15:24:00-05:00" calendar="Union" number="203">
+      <text>Placed on the Union Calendar, Calendar No. 203.</text>
+    </calendar>
+    <action datetime="2013-12-03T13:49:00-05:00">
+      <text>Mr. McClintock moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-12-03T13:49:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7423-7425" label="consideration"/>
+    </action>
+    <action datetime="2013-12-03T13:49:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1846.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-12-03T14:00:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7423-7424" label="text"/>
+    </vote>
+    <action datetime="2013-12-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="925"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="New York City"/>
+  </subjects>
+  <amendments/>
+  <summary>12/3/2013--Passed House amended.
+Lower East Side Tenement National Historic Site Amendments Act - Amends P.L. 105-378 (relating to the establishment of the Lower East Side Tenement National Historic Site in New York City, New York) to add the lower east side tenement at 103 Orchard Street to the Historic Site.
+
+Prohibits anything in this Act from authorizing the Secretary of the Interior to acquire the property at 103 Orchard Street.</summary>
+</bill>

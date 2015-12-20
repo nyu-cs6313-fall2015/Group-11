@@ -1,0 +1,364 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18a79e41c">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 41, United States Code, to require the use of two-phase selection procedures when design-build contracts are suitable for award to small business concerns, and for other purposes.;
+   		Design-Build Efficiency and Jobs Act of 2013;Design-Build Efficiency and Jobs Act of 2013;H.R. 2750 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-12-16</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 41, United States Code, to require the use of two-phase selection procedures when design-build contracts are suitable for award to small business concerns, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Design-Build Efficiency and Jobs Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Design-Build Efficiency and Jobs Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2750 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-12-12</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>10 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18a79e41c</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2750rh</identifier>
+<identifier type="preferred citation">H.R. 2750</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2750_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2750rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2750rh/html/BILLS-113hr2750rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2750rh/pdf/BILLS-113hr2750rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2750rh/xml/BILLS-113hr2750rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-12-16</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-12-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr2750rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Sam Graves</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard L. Hanna</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mick Mulvaney</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gerald E. &quot;Gerry&quot; Connolly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Meadows</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Grace Meng</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Blake Farenthold</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kurt Schrader</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lee Terry</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Erik Paulsen</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dennis Ross</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Scott Tipton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Miller</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Peter Welch</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bradley S. Schneider</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Matt Cartwright</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Frederica Wilson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Oversight and Government Reform</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 41 Section 1908</partNumber>
+  <partNumber>Title 41 Section 3309</partNumber>
+</titleInfo>
+ <identifier type="USC citation">41 U.S.C. 1908</identifier>
+ <identifier type="USC citation">41 U.S.C. 3309</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 500</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr2750rh</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2750</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle>Design-Build Efficiency and Jobs Act of 2013</shortTitle>
+ <shortTitle>Design-Build Efficiency and Jobs Act of 2014</shortTitle>
+ <action date="2013-07-19">Mr. Graves of Missouri (for himself, Ms. Herrera Beutler, Mr. Hanna, Mr. Mulvaney, Mr. Connolly, Mr. Meadows, and Ms. Meng) introduced the following bill; which was referred to the Committee on Oversight and Government Reform</action>
+ <action date="2014-12-12">Additional sponsors: Mr. Farenthold, Mr. Schrader, Mr. Terry, Mr. Paulsen, Mr. Ross, Mr. Tipton, Mr. Miller of Florida, Mr. Welch, Mr. Schneider, Mr. Cartwright, and Ms. Wilson of Florida</action>
+ <action date="2014-12-12">Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action>
+ <congCommittee authorityId="hsgo00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Oversight and Government Reform</name>
+                      <name type="authority-short">Oversight and Government Reform</name>
+                </congCommittee>
+ <congMember authorityId="1656" bioGuideId="G000546" chamber="H" congress="113" gpoId="8014" party="R" role="SPONSOR" state="MO">
+                      <name type="parsed">Mr. Graves of Missouri</name>
+                      <name type="authority-fnf">Sam Graves</name>
+                      <name type="authority-lnf">Graves, Sam</name>
+                </congMember>
+ <congMember authorityId="2044" bioGuideId="H001051" chamber="H" congress="113" gpoId="8085" party="R" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Hanna</name>
+                      <name type="authority-fnf">Richard L. Hanna</name>
+                      <name type="authority-lnf">Hanna, Richard L.</name>
+                      <name type="authority-other">Richard Hanna</name>
+                </congMember>
+ <congMember authorityId="2059" bioGuideId="M001182" chamber="H" congress="113" gpoId="8145" party="R" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Mulvaney</name>
+                      <name type="authority-fnf">Mick Mulvaney</name>
+                      <name type="authority-lnf">Mulvaney, Mick</name>
+                </congMember>
+ <congMember authorityId="1959" bioGuideId="C001078" chamber="H" congress="113" gpoId="8202" party="D" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Connolly</name>
+                      <name type="authority-fnf">Gerald E. &quot;Gerry&quot; Connolly</name>
+                      <name type="authority-lnf">Connolly, Gerald E. &quot;Gerry&quot;</name>
+                      <name type="authority-other">Gerald Connolly</name>
+                </congMember>
+ <congMember authorityId="2142" bioGuideId="M001187" chamber="H" congress="113" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Meadows</name>
+                      <name type="authority-fnf">Mark Meadows</name>
+                      <name type="authority-lnf">Meadows, Mark</name>
+                </congMember>
+ <congMember authorityId="2148" bioGuideId="M001188" chamber="H" congress="113" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Ms. Meng</name>
+                      <name type="authority-fnf">Grace Meng</name>
+                      <name type="authority-lnf">Meng, Grace</name>
+                </congMember>
+ <congMember authorityId="2067" bioGuideId="F000460" chamber="H" congress="113" gpoId="8183" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Farenthold</name>
+                      <name type="authority-fnf">Blake Farenthold</name>
+                      <name type="authority-lnf">Farenthold, Blake</name>
+                </congMember>
+ <congMember authorityId="1950" bioGuideId="S001180" chamber="H" congress="113" gpoId="8118" party="D" role="COSPONSOR" state="OR">
+                      <name type="parsed">Mr. Schrader</name>
+                      <name type="authority-fnf">Kurt Schrader</name>
+                      <name type="authority-lnf">Schrader, Kurt</name>
+                </congMember>
+ <congMember authorityId="1566" bioGuideId="T000459" chamber="H" congress="113" gpoId="8039" party="R" role="COSPONSOR" state="NE">
+                      <name type="parsed">Mr. Terry</name>
+                      <name type="authority-fnf">Lee Terry</name>
+                      <name type="authority-lnf">Terry, Lee</name>
+                </congMember>
+ <congMember authorityId="1930" bioGuideId="P000594" chamber="H" congress="113" gpoId="8003" party="R" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Paulsen</name>
+                      <name type="authority-fnf">Erik Paulsen</name>
+                      <name type="authority-lnf">Paulsen, Erik</name>
+                </congMember>
+ <congMember authorityId="2003" bioGuideId="R000593" chamber="H" congress="113" gpoId="7884" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Ross</name>
+                      <name type="authority-fnf">Dennis Ross</name>
+                      <name type="authority-lnf">Ross, Dennis</name>
+                      <name type="authority-other">Dennis A. Ross</name>
+                </congMember>
+ <congMember authorityId="1997" bioGuideId="T000470" chamber="H" congress="113" gpoId="7861" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Tipton</name>
+                      <name type="authority-fnf">Scott Tipton</name>
+                      <name type="authority-lnf">Tipton, Scott</name>
+                </congMember>
+ <congMember authorityId="1685" bioGuideId="M001144" chamber="H" congress="113" gpoId="7873" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Miller of Florida</name>
+                      <name type="authority-fnf">Jeff Miller</name>
+                      <name type="authority-lnf">Miller, Jeff</name>
+                </congMember>
+ <congMember authorityId="1879" bioGuideId="W000800" chamber="H" congress="113" gpoId="8204" party="D" role="COSPONSOR" state="VT">
+                      <name type="parsed">Mr. Welch</name>
+                      <name type="authority-fnf">Peter Welch</name>
+                      <name type="authority-lnf">Welch, Peter</name>
+                </congMember>
+ <congMember authorityId="2124" bioGuideId="S001190" chamber="H" congress="113" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Schneider</name>
+                      <name type="authority-fnf">Bradley S. Schneider</name>
+                      <name type="authority-lnf">Schneider, Bradley S.</name>
+                      <name type="authority-other">Bradley Schneider</name>
+                </congMember>
+ <congMember authorityId="2159" bioGuideId="C001090" chamber="H" congress="113" party="D" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Cartwright</name>
+                      <name type="authority-fnf">Matt Cartwright</name>
+                      <name type="authority-lnf">Cartwright, Matthew A.</name>
+                      <name type="authority-other">Mr. Matthew Cartwright</name>
+                </congMember>
+ <congMember authorityId="2004" bioGuideId="W000808" chamber="H" congress="113" gpoId="7889" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Ms. Wilson of Florida</name>
+                      <name type="authority-fnf">Frederica Wilson</name>
+                      <name type="authority-lnf">Wilson, Frederica</name>
+                      <name type="authority-other">Frederica S. Wilson</name>
+                </congMember>
+ <congCalendar congress="113" number="500" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="41">
+                      <section number="1908"></section>
+                      <section number="3309"></section>
+                </USCode>
+</extension>
+</mods>

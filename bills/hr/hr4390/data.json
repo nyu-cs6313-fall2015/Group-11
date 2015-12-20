@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-03", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4390-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2014-04-03", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2014-04-03", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2014-04-03", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2014-04-03", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-03", 
+  "number": "4390", 
+  "official_title": "To amend title XIX of the Social Security Act to protect the enrollment of incarcerated youth for medical assistance under the Medicaid program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2211-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "At-Risk Youth Medicaid Protection Act of 2014", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Cardenas, Tony", 
+    "state": "CA", 
+    "thomas_id": "02107", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-03", 
+  "subjects": [
+    "Child health", 
+    "Correctional facilities and imprisonment", 
+    "Health", 
+    "Juvenile crime and gang violence", 
+    "Medicaid"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-03", 
+    "text": "At-Risk Youth Medicaid Protection Act of 2014 - Amends title XIX (Medicaid) of the Social Security Act to require state Medicaid plans to: (1) prohibit the state from terminating (but allow it to suspend) enrollment under the state plan for medical assistance for an eligible juvenile because he or she is an inmate of a public institution; (2) require the state to restore enrollment automatically to such an individual upon his or her release, and take all steps necessary to ensure the enrollment is effective immediately upon release, unless the individual no longer meets eligibility requirements; and (3) require the state to process any application for medical assistance submitted by, or on behalf of, a juvenile inmate notwithstanding that he or she is an inmate."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "At-Risk Youth Medicaid Protection Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to protect the enrollment of incarcerated youth for medical assistance under the Medicaid program, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4390:@@@L&summ2=m&"
+}

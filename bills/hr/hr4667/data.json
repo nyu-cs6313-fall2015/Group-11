@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-15", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4667-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Castor, Kathy", 
+      "sponsored_at": "2014-05-30", 
+      "state": "FL", 
+      "thomas_id": "01839", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-15", 
+  "number": "4667", 
+  "official_title": "To amend the Atomic Energy Act of 1954 to provide for consultation with State and local governments, the consideration of State and local concerns, and the approval of post-shutdown decommissioning activities reports by the Nuclear Regulatory Commission.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2326-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Nuclear Plant Decommissioning Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Welch, Peter", 
+    "state": "VT", 
+    "thomas_id": "01879", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-05-15", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Energy", 
+    "Environmental assessment, monitoring, research", 
+    "Government information and archives", 
+    "Licensing and registrations", 
+    "Nuclear Regulatory Commission (NRC)", 
+    "Nuclear power", 
+    "Public participation and lobbying", 
+    "Radioactive wastes and releases", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-05-15", 
+    "text": "Nuclear Plant Decommissioning Act of 2014 - Amends the Atomic Energy Act of 1954 to require a Nuclear Regulatory Commission (NRC) licensee, after consulting each affected state and local governments, to develop and submit to the NRC a post-shutdown decommissioning activities report (PSDAR) for any of the licensee's shutdown facilities for which a PSDAR is required.\n\nRequires the NRC to: (1) solicit written comments on the proposed PSDAR from the public and conduct at least two public hearings in the facility's host state; and (2) invite the host state to file a statement of support, of conditional support with specific recommendations for changes, or of nonsupport for the proposed PSDAR.\n\nDirects the NRC, after receiving the state's statement of support or nonsupport, to determine whether the proposed PSDAR is adequate or inadequate on the basis of specified considerations, and issue a decision of approval or disapproval, as appropriate.\n\nPrescribes requirements for determining whether a proposed PSDAR is permissible if the host state files a statement of conditional support.\n\nRequires a licensee to develop and submit a new proposed PSDAR if the first one is rejected.\n\nProhibits the NRC from approving a proposed PSDAR unless it includes a requirement that the licensee comply with state law relating to air, water, or soil quality or radiological standards if they are more restrictive than federal law."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Nuclear Plant Decommissioning Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Atomic Energy Act of 1954 to provide for consultation with State and local governments, the consideration of State and local concerns, and the approval of post-shutdown decommissioning activities reports by the Nuclear Regulatory Commission.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:40-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4667:@@@L&summ2=m&"
+}

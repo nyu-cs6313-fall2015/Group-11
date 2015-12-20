@@ -1,0 +1,48 @@
+<bill session="113" type="hr" number="493" updated="2015-09-01T10:18:40-04:00">
+  <state datetime="2014-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-27"/>
+  </status>
+  <introduced datetime="2014-02-27"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the designation of February 28, 2014, as "Rare Disease Day".</title>
+  </titles>
+  <sponsor id="412258"/>
+  <cosponsors>
+    <cosponsor id="400073" joined="2014-02-27"/>
+    <cosponsor id="400087" joined="2014-02-27"/>
+    <cosponsor id="412290" joined="2014-02-27"/>
+    <cosponsor id="400654" joined="2014-02-27"/>
+    <cosponsor id="400309" joined="2014-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-27" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-02-28">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="hr" number="91"/>
+    <bill relation="unknown" session="113" type="sr" number="57"/>
+    <bill relation="unknown" session="113" type="sr" number="368"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Hereditary and development disorders"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2014--Introduced.
+Expresses support for: (1) the designation of Rare Disease Day; and (2) a national and global commitment to improving access to, and developing new treatments, diagnostics, and cures for, rare diseases and disorders.</summary>
+</bill>

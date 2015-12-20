@@ -1,0 +1,337 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-10", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [
+        {
+          "reference": "CR S5512", 
+          "type": "text of measure as introduceed"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "SSFR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Foreign Relations. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "committee": "Foreign Relations", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Relations. Reported by Senator Menendez without amendment and with an amended preamble. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "calendar": "Senate Legislative", 
+      "number": "572", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 572.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5878-5879", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5878-5879", 
+          "type": "text of measure as reported in Senate"
+        }, 
+        {
+          "reference": "CR S5879-5880", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "text": "Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sres541-113", 
+  "bill_type": "sres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Booker, Cory A.", 
+      "sponsored_at": "2014-09-16", 
+      "state": "NJ", 
+      "thomas_id": "02194", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2014-09-16", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cantwell, Maria", 
+      "sponsored_at": "2014-09-16", 
+      "state": "WA", 
+      "thomas_id": "00172", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-09-16", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Carper, Thomas R.", 
+      "sponsored_at": "2014-09-16", 
+      "state": "DE", 
+      "thomas_id": "00179", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2014-09-16", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Corker, Bob", 
+      "sponsored_at": "2014-09-11", 
+      "state": "TN", 
+      "thomas_id": "01825", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-09-10", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Flake, Jeff", 
+      "sponsored_at": "2014-09-10", 
+      "state": "AZ", 
+      "thomas_id": "01633", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heinrich, Martin", 
+      "sponsored_at": "2014-09-16", 
+      "state": "NM", 
+      "thomas_id": "01937", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kaine, Tim", 
+      "sponsored_at": "2014-09-16", 
+      "state": "VA", 
+      "thomas_id": "02176", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2014-09-16", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Landrieu, Mary L.", 
+      "sponsored_at": "2014-09-16", 
+      "state": "LA", 
+      "thomas_id": "01546", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2014-09-16", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-09-16", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2014-09-10", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reed, Jack", 
+      "sponsored_at": "2014-09-16", 
+      "state": "RI", 
+      "thomas_id": "00949", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "sponsored_at": "2014-09-17", 
+      "state": "FL", 
+      "thomas_id": "02084", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Shaheen, Jeanne", 
+      "sponsored_at": "2014-09-16", 
+      "state": "NH", 
+      "thomas_id": "01901", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2014-09-18", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-09-18", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-09-18", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-10", 
+  "number": "541", 
+  "official_title": "A resolution recognizing the severe threat that the Ebola outbreak in West Africa poses to populations, governments, and economies across Africa and, if not properly contained, to regions across the globe, and expressing support for those affected by this epidemic.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Coons, Christopher A.", 
+    "state": "DE", 
+    "thomas_id": "01984", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Africa", 
+    "Canada", 
+    "Congressional tributes", 
+    "Democratic Republic of the Congo", 
+    "Emergency medical services and trauma care", 
+    "Europe", 
+    "European Union", 
+    "Foreign aid and international relief", 
+    "Guinea", 
+    "Health personnel", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care", 
+    "Infectious and parasitic diseases", 
+    "International affairs", 
+    "International organizations and cooperation", 
+    "Liberia", 
+    "Multilateral development programs", 
+    "Nigeria", 
+    "Senegal", 
+    "Sierra Leone", 
+    "Social work, volunteer service, charitable organizations", 
+    "World health"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2014-09-18", 
+    "text": "Recognizes: (1) the threat that Ebola poses to populations, governments, and economies in Africa; and (2) that the limited capacity of the initial outbreak countries of Guinea, Sierra Leone, and Liberia to combat the epidemic has been exhausted and the potential threat to regions beyond Africa if the Ebola outbreak is not contained.\n\nExpresses support for those affected by this epidemic and sympathy for Ebola victims and their families.\n\nSupports the governments of Guinea, Liberia, Sierra Leone, Nigeria, Senegal, and the Democratic Republic of the Congo for their efforts to combat the Ebola virus.\n\nUrges citizens of affected countries to respect preventative guidelines.\n\nSupports the work of the Centers for Disease Control and Prevention (CDC), the U.S. Agency for International Development (USAID), the Department of Defense (DOD), the Department of Health and Human Services (HHS), the Department of State, the Forest Service, and other U.S. government agencies providing technical, logistical, and material support.\n\nEncourages deepened U.S. and international commitments to the global Ebola response.\n\nWelcomes the delivery of assistance and increased engagement from donors such as the Economic Community of West African States, the African Union (AU), the World Bank, the European Union (EU), and Canada.\n\nSupports the World Health Organization's Ebola Response Roadmap.\n\nEncourages Guinea, Liberia, Nigeria, Senegal, and Sierra Leone to work together and with other nations and regional and subregional organizations to establish emergency response systems.\n\nRecognizes the work of thousands of African, U.S., and international officials and volunteers on the ground in West Africa, and particularly health care workers."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A resolution recognizing the severe threat that the Ebola outbreak in West Africa poses to populations, governments, and economies across Africa and, if not properly contained, to regions across the globe, and expressing support for those affected by this epidemic.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:25-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SE541:@@@L&summ2=m&"
+}

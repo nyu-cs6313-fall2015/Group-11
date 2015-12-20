@@ -1,0 +1,896 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>113 S2959 IS: Black Lung Benefits Improvement Act of 2014</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2014-11-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>113th CONGRESS</congress><session>2d Session</session>
+		<legis-num>S. 2959</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20141120">November 20, 2014</action-date>
+			<action-desc><sponsor name-id="S309">Mr. Casey</sponsor> (for himself, <cosponsor name-id="S176">Mr. Rockefeller</cosponsor>, <cosponsor name-id="S172">Mr. Harkin</cosponsor>, <cosponsor name-id="S307">Mr. Brown</cosponsor>, <cosponsor name-id="S338">Mr. Manchin</cosponsor>, <cosponsor name-id="S362">Mr. Kaine</cosponsor>, and <cosponsor name-id="S327">Mr. Warner</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To ensure that claims for benefits under the Black Lung Benefits Act are processed in a fair and
+			 timely manner, to
+			 protect miners from pneumoconiosis (commonly known as
+		  <quote>black lung disease</quote>), and
+			 for other purposes. </official-title>
+	</form>
+	<legis-body style="OLC">
+		<section id="idBAD0F980FECA4C6593D8DFE0A88A0AF3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Black Lung Benefits Improvement Act of 2014</short-title></quote>.</text>
+		</section><section commented="no" id="idACAAA3A967C54350BF6A136998CA82ED"><enum>2.</enum><header>Table of contents</header><text display-inline="no-display-inline">The table of contents for this Act is as follows:</text><toc><toc-entry idref="idBAD0F980FECA4C6593D8DFE0A88A0AF3" level="section">Sec. 1. Short title.</toc-entry>
+				<toc-entry idref="idACAAA3A967C54350BF6A136998CA82ED" level="section">Sec. 2. Table of contents.</toc-entry>
+				<toc-entry idref="id66297436821D47B6927324025CCB3311" level="section">Sec. 3. Findings.</toc-entry>
+				<toc-entry idref="idC350FDDA1B474A5F84C7D2EB16F34507" level="title">TITLE I—Black lung benefits</toc-entry>
+				<toc-entry idref="idF243E159C89441869CD6D3F88E9EB483" level="part">Part A—Improving the process for filing and adjudicating claims for benefits</toc-entry>
+				<toc-entry idref="idB1010F3165DE4B92943ACD95E26CA697" level="section">Sec. 101. Mandatory disclosure of medical information and reports.</toc-entry>
+				<toc-entry idref="idE8E97A3A589F446A8706073BFF776290" level="section">Sec. 102. Legal fees.</toc-entry>
+				<toc-entry idref="id2786F46F2F4F4E729ACE2EA7FEB29D90" level="section">Sec. 103. Clarifying eligibility for black lung benefits claims.</toc-entry>
+				<toc-entry idref="id61E1B124394448B9AD568B4D65C4A194" level="section">Sec. 104. Restoring adequate benefit adjustments for miners suffering from black lung disease and
+			 for their dependent family members.</toc-entry>
+				<toc-entry idref="id51822980733B4A86BF089B39D3185A0D" level="section">Sec. 105. Treatment of evidence in equipoise.</toc-entry>
+				<toc-entry idref="idEE89BD6ABF6B4C06A8945ABD0DDB8EA4" level="section">Sec. 106. Providing assistance with claims for miners and their dependent family members.</toc-entry>
+				<toc-entry idref="id41472AA53C6D4A59801C9E494C43732C" level="section">Sec. 107. False statements or misrepresentations, attorney disqualification, and discovery
+			 sanctions.</toc-entry>
+				<toc-entry idref="id1953CA4E14FE47D6A87267340F07C1EC" level="section">Sec. 108. Development of medical evidence by the Secretary.</toc-entry>
+				<toc-entry level="section">Sec. 109. Establishment of pilot program to provide impartial classifications of chest radiographs.</toc-entry>
+				<toc-entry idref="id22B0BA7B4D52403281088C41363AE137" level="section">Sec. 110. Medical evidence training program.</toc-entry>
+				<toc-entry idref="idC95C7DF154524F55A0E705C3DF701D5B" level="section">Sec. 111. Technical and conforming amendments.</toc-entry>
+				<toc-entry idref="idd54eb695cf754224be2a67486d754607" level="section">Sec. 112. Readjudicating cases involving certain chest radiographs.</toc-entry>
+				<toc-entry idref="idAB4080A7B2F94C99B13BE66A56DF75F2" level="part">Part B—Reports To improve the administration of benefits under the Black Lung Benefits Act</toc-entry>
+				<toc-entry idref="id248b2fcc203f4663b09eebc6b0c8d255" level="section">Sec. 113. Strategy to reduce delays in adjudication.</toc-entry>
+				<toc-entry idref="id925D732DFB524F66B8A8874A0063BB07" level="section">Sec. 114. GAO report on black lung disease.</toc-entry>
+				<toc-entry idref="idF323F85E010C48A385B2052DD295A8C2" level="title">TITLE II—Standard for respirable dust concentration</toc-entry>
+				<toc-entry idref="id188ff0231d70437fb622577bd7d2a462" level="section">Sec. 201. Standard for respirable dust concentration.</toc-entry>
+				<toc-entry idref="id28A30C50851A485A84159637AC6C0F92" level="title">TITLE III—Establishing the Office of Workers' Compensation Programs</toc-entry>
+				<toc-entry idref="id365C1365085C4CB5B212543AF1C53988" level="section">Sec. 301. Office of Workers' Compensation Programs.</toc-entry>
+				<toc-entry idref="id494B68F47C0B42B2BDB3B00E1299CD81" level="title">TITLE IV—Severability</toc-entry>
+				<toc-entry idref="idCA0D7849403843A4AE7FC47F686C2CBF" level="section">Sec. 401. Severability.</toc-entry>
+			</toc></section><section commented="no" id="id66297436821D47B6927324025CCB3311"><enum>3.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text><paragraph id="id00989592fe9b49ca8f8807ce05a669fa"><enum>(1)</enum><text>The Black Lung Benefits Act (<external-xref legal-doc="usc" parsable-cite="usc/30/901">30 U.S.C. 901 et seq.</external-xref>) was enacted to provide health care and modest
+			 benefits to coal miners who develop pneumoconiosis (referred to in this
+			 section as <quote>black lung disease</quote>) resulting from exposure to coal dust during their employment.  Yet the
+			 determination of a claimant's eligibility for these benefits often
+			 requires
+			 complex, adversarial litigation. Resource
+			 disparities between coal companies and such claimants are widespread
+			 within
+			 the statutory and regulatory framework of such Act. Comprehensive reforms
+			 are necessary to ensure that coal miners are not at a disadvantage when
+			 filing claims for benefits.</text></paragraph><paragraph id="idc5fc6661e13440149d52473702852a66"><enum>(2)</enum><text>The Government Accountability Office has found that many claimants under the Black
+			 Lung Benefits Act are not equipped with the medical and legal resources
+			 necessary to develop evidence to meet the requirements for benefits. 
+			 Miners often lack complete and reliable medical evidence,
+			 consequently increasing the risk that the individuals who review
+			 claims for benefits will  be presented with insufficient
+			 medical evidence.  Similarly, without better options for legal
+			 representation, significant numbers of such claimants proceed with their
+			 claims through a complex and potentially long administrative process
+			 without resources that Department of Labor officials and black lung
+			 disease experts note are important for developing evidence and supporting
+			 their claims.	Only a quarter of claimants are represented by an attorney
+			 when filing
+			 a claim.  Absent efforts to remedy administrative problems and
+			 address structural weaknesses in the process for obtaining benefits,
+			 claimants with meritorious claims would not receive benefits.</text></paragraph><paragraph id="idad39a3feefce4bbb8f7e366dfb010e4b"><enum>(3)</enum><text>Full exchange and disclosure between the parties of relevant medical information is essential for
+			 fair adjudication of claims under the Black Lung Benefits Act, regardless
+			 of whether the parties intend to submit such information into evidence.
+			 Records of adjudications reveal that some mine operators’ legal
+			 representatives have withheld relevant evidence from claimants,
+			 administrative law judges, and, in some cases, even their own medical
+			 experts.  In several cases, the disclosure of such evidence would have
+			 substantiated a miner’s claim for benefits.  Withholding medical
+			 information can endanger miners by depriving them of important
+			 information about their own health and the potential need to seek medical
+			 treatment.</text></paragraph><paragraph id="idf846546da01341c4a782b452a0e64ef0"><enum>(4)</enum><text>Given the remedial nature of the Black Lung Benefits Act, when an adjudicator determines that
+			 evidence is evenly balanced, it is appropriate for any resulting doubt to
+			 be resolved in favor of the claimant.	The Supreme Court vacated this
+			 longstanding legal principle, not on substantive grounds, but because its
+			 application conflicted with the requirements of another statute.  Such
+			 principle needs to be reinstated in the Black Lung Benefits Act because it
+			 provides fairness and improves the administration of benefits.</text></paragraph><paragraph id="idcf77178a0a8342988d2d5178665798fd"><enum>(5)</enum><text>Physicians who read lung x-rays as part of pulmonary assessments used in proceedings for claims
+			 under the Black Lung Benefits Act are required to demonstrate competency
+			 in classifying chest radiographs by becoming certified as B Readers by the
+			 National Institute for Occupational Safety and Health (referred to in this
+			 section as <quote>NIOSH</quote>). However, investigations have uncovered that there are NIOSH-certified B Readers who have
+			 systematically misclassified chest radiographs while employed by coal
+			 operators or their law firms for the purpose of opposing claims under such
+			 Act. In response, the Department of Labor has directed claims examiners
+			 not to credit negative chest x-ray readings for pneumoconiosis by one
+			 widely used physician employed at a prominent medical center, unless the
+			 Secretary of Labor determines that such readings are otherwise credible.
+			 Where chest radiographs are needed to establish entitlement to benefits,
+			 claimants should have
+			 access to accurate interpretations so as to ensure the fair adjudication
+			 of such claims.</text></paragraph><paragraph id="id80CF370114694209AC7203F2A3E5C0C3"><enum>(6)</enum><text>As of the date of enactment of this Act, more than one year has passed since survivors were denied
+			 benefits on claims under the Black Lung
+			 Benefits Act that involved the consideration of chest radiograph
+			 interpretations by
+			 a certain physician whose interpretations have since been determined by
+			 the
+			 Department of Labor to be generally not worthy of credit. Such survivors
+			 should be permitted to file a new
+			 claim for benefits under such Act.  However, a survivor is effectively
+			 barred from filing a new claim one year after a decision regarding such
+			 benefits is final, constituting an injustice that merits a remedy.</text></paragraph><paragraph id="id5ad3e6742709407bb587e9ce2926016e"><enum>(7)</enum><text>Between the calendar
+			 years 2004 and 2014, a reduction in the number of administrative law
+			 judges in the Department of Labor, coupled with a large increase in the
+			 number of cases
+			 filed under the Black Lung Benefits Act, cuts to nondefense discretionary
+			 spending, furloughs resulting from
+			 sequestration, and the 16-day shutdown of the Federal Government during
+			 the calendar year 2013, has created extensive delays in adjudicating
+			 claims under such Act and numerous other labor and employment laws.  Due
+			 to the imbalance between resources and caseloads, it takes 429 days to
+			 assign a case to an administrative law judge and a typical claim under
+			 such Act remains unresolved for an average of 42 months prior to a
+			 decision by an administrative law judge. These delays directly and
+			 severely impact the lives of workers throughout the United States, placing
+			 an undue financial and emotional burden on the affected individuals and
+			 their families.</text></paragraph><paragraph id="idf910bdf4fa044ac99bdd6b3851c094f2"><enum>(8)</enum><text>Contrary to the intent of Congress,  benefits payments under the Black Lung Benefits Act do not
+			 automatically
+			 increase with the rising cost of living.	Benefit
+			 payments are tied to the monthly pay rate for Federal employees in grade
+			 GS–2, step 1.	In several of the fiscal years prior to the enactment
+			 of this Act, there was a pay freeze for Federal employees, which
+			 eliminated cost-of-living adjustments under such Act for such years.</text></paragraph><paragraph id="id981014e649984793bc55057a8feb3360"><enum>(9)</enum><text>A competent assessment of medical information and testimony, which often involves multiple
+			 physicians disputing a diagnosis, is necessary in determining whether to
+			 award benefits under the Black Lung Benefits Act.  To ensure that a
+			 determination regarding a claim for benefits under such Act is fair and
+			 accurate, regular training is needed regarding—</text><subparagraph id="idEC1467A0CB654E5293C79CBEBF4A576B"><enum>(A)</enum><text>developments in pulmonary
+			 medicine relating to black lung disease;</text></subparagraph><subparagraph id="idA586D6146FF94599A4BB22C0A7874953"><enum>(B)</enum><text>medical evidence necessary to
+			 sustain claims for such benefits; and</text></subparagraph><subparagraph id="id40964726C6FD4EBE83920A2445247E34"><enum>(C)</enum><text>the proper weight to be given to
+			 conflicting evidence.</text></subparagraph></paragraph><paragraph id="idf502025ecff7438aace8cd03c65be184"><enum>(10)</enum><text>Black lung disease has been the underlying or contributing cause of death of more than 76,000
+			 miners since 1968.  After decades of decline, the incidence of coal miners
+			 with black lung disease is on the rise. According to NIOSH, miners are
+			 developing
+			 advanced cases of the disease at younger ages.  In response, the
+			 Department of Labor has taken important steps to combat the disease,
+			 including promulgating a rule that reduces the allowed concentration of
+			 coal dust and eliminates weaknesses in the current dust sampling system. 
+			 Retrospective studies should be continued to determine whether revisions
+			 to the standards are necessary to eliminate the disease.</text></paragraph></section><title id="idC350FDDA1B474A5F84C7D2EB16F34507" style="OLC"><enum>I</enum><header>Black lung benefits</header><part id="idF243E159C89441869CD6D3F88E9EB483" style="OLC"><enum>A<?LEXA-Enum A?></enum><header>Improving the process for filing and adjudicating claims for benefits</header><section id="idB1010F3165DE4B92943ACD95E26CA697"><enum>101.</enum><header>Mandatory disclosure of medical information and reports</header><text display-inline="no-display-inline">Part A of the Black Lung
+			 Benefits Act (<external-xref legal-doc="usc" parsable-cite="usc/30/901">30 U.S.C. 901 et seq.</external-xref>) is amended by adding at the end
+			 the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idF093FAB9A17D47E69CEAEA6563C2FB9C" style="OLC">
+						<section id="id091C475040504C8C9980E209F5671377"><enum>403.</enum><header>Mandatory medical
+				information disclosure</header><subsection id="id8F640B2191EB44118C50C3DE77A31D84"><enum>(a)</enum><header>Report</header><text>In any claim for benefits under this title, an operator that requires a miner to submit to a
+			 medical examination regarding the miner’s respiratory or pulmonary
+			 condition shall, not later than 21 days after the miner has been examined,
+			 deliver to the claimant a complete copy of the examining physician’s
+			 report.  The examining physician’s report shall—</text><paragraph id="id6F0E7116CC9A4235989FE5E91812352E"><enum>(1)</enum><text>be in writing; and</text></paragraph><paragraph id="idAA58FB7BEC6A48198F43C2057DBE6D1D"><enum>(2)</enum><text>set out
+			 in detail the findings of such physician, including any diagnoses and
+			 conclusions, the results of any diagnostic imaging tests, and any other
+			 tests
+			 performed on the miner.</text></paragraph></subsection><subsection id="id0F4D04A4CC8849CD8DEC9BFB914608CC"><enum>(b)</enum><header>Disclosure</header><paragraph id="id23B9D36961404962B9E4828EB563F9F1"><enum>(1)</enum><header>In general</header><text>In any claim for benefits under this title, each party shall provide all other parties in the
+			 proceeding
+			 with a copy of all medical information developed regarding the miner’s
+			 physical condition relating to such claim,  even if the party does not
+			 intend
+			 to submit the information as evidence.</text></paragraph><paragraph id="id17B43903730547119176CF44698FDD2B"><enum>(2)</enum><header>Medical information</header><text>The medical information described in paragraph (1) shall
+			 include—</text><subparagraph id="idE26F168ED2B241DD83D80BF398906CDF"><enum>(A)</enum><text>the opinion
+			 of any examining physician; and</text></subparagraph><subparagraph id="id268D4F3FF63D4C32897DE5AB30E68D2B"><enum>(B)</enum><text>any
+			 examining or nonexamining physician's interpretation of radiographs or
+			 pathology samples, and reports of such radiographs or samples.</text></subparagraph></paragraph></subsection><subsection id="id3A767469F8E245738163E5DF36000E4E"><enum>(c)</enum><header>Regulations</header><text>The Secretary shall promulgate regulations regarding the disclosure of medical information under
+			 this section, and such regulations may
+			 establish
+			 sanctions for noncompliance with this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</section><section id="idE8E97A3A589F446A8706073BFF776290"><enum>102.</enum><header>Legal fees</header><text display-inline="no-display-inline">Part A of the Black Lung
+			 Benefits Act (<external-xref legal-doc="usc" parsable-cite="usc/30/901">30 U.S.C. 901 et seq.</external-xref>), as amended by section 101, is
+			 further
+			 amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id566F1B1FE1D343C2BA0B016F33151466" style="OLC"><section id="idfd659b6251804adb941456e2bd90dfdb"><enum>404.</enum><header>Attorneys' fee payment program</header>
+							<subsection id="idE97292C070FA4F72AFC363E7B76A48F9"><enum>(a)</enum><header>Program
+				established</header>
+								<paragraph id="id3396AD7FA10B42AD924AC202A6EB7B16"><enum>(1)</enum><header>In
+				general</header><text display-inline="yes-display-inline">Not later than 180
+				days after the date of enactment of the <short-title>Black Lung Benefits Improvement Act of 2014</short-title>, the Secretary shall
+				establish an attorneys' fee payment program to pay attorneys' fees,
+			 using
+				amounts from the fund, to the attorneys of claimants in qualifying
+			 claims.</text>
+								</paragraph><paragraph id="idD45EB61651EF47B6B9D8BCE9828BCC54"><enum>(2)</enum><header>Qualifying
+				claim</header><text display-inline="yes-display-inline">A qualifying claim for
+				purposes of this section is a contested claim for benefits under
+			 this title for
+				which a final order has not been entered within one year of the
+			 filing of the
+				claim.</text>
+								</paragraph><paragraph id="id50010FA002F44F6F89D9A55F8520075E"><enum>(3)</enum><header>Use of payments
+				from the fund</header><text>Notwithstanding any other provision of law, amounts
+				in the fund shall be available for payments authorized by the
+			 Secretary under this section.</text>
+								</paragraph></subsection><subsection id="id5006DC611E914668AD915E224970635D"><enum>(b)</enum><header>Payments
+				authorized</header>
+								<paragraph id="id594E42007C3A44B1882B82FF83C1FF22"><enum>(1)</enum><header>In
+				general</header><text display-inline="yes-display-inline">If a claimant for
+				benefits under this title obtains an effective award for a
+			 qualifying
+			 claim before an
+			 administrative
+				law judge, the Benefits Review Board established under section
+			 21(b) of the Longshore and Harbor Workers' Compensation Act (33 U.S.C.
+			 921(b)), or a Federal court, and the
+			 judge, Board,
+				or court approves attorneys’ fees for work done before it, the
+			 Secretary shall,
+				through the program under this section, pay an amount of
+			 attorneys'
+			 fees not to
+				exceed $1,500 at each stage of the administrative and legal
+			 process.</text>
+								</paragraph><paragraph id="idF570CB9C7770408EA7FC60AAA29B62E3"><enum>(2)</enum><header>Maximum</header><text display-inline="yes-display-inline">The program established under this section
+				shall not pay more than a total of $4,500 in attorneys' fees for
+			 any single
+				qualifying claim.</text>
+								</paragraph></subsection><subsection id="idFBDF71CCD23F4A31BC1B8DB24F523604"><enum>(c)</enum><header>Reimbursement
+				of funds</header><text display-inline="yes-display-inline">In any case in which a
+				qualifying claim results in a final order awarding compensation,
+			 the
+			 liable operator shall reimburse the fund for any fees paid under this
+				section, subject to enforcement by the
+			 Secretary
+				under section 424 and in the same manner as compensation orders are
+			 enforced
+				under section 21(d) of the Longshore and Harbor Workers'
+			 Compensation Act (33
+				U.S.C. 921(d)).</text>
+							</subsection><subsection id="id8DCD398E95524C66B5DC275AAA9CE8D5"><enum>(d)</enum><header>Additional program
+				rules</header><text display-inline="yes-display-inline">Nothing in this section
+				shall limit or otherwise affect an operator's liability for any
+			 attorneys' fees
+				awarded by an administrative law judge, the Benefits Review Board,
+			 or a Federal
+				court, that were not paid by the program under this section.
+			 Nothing in this
+				section shall limit or otherwise affect the Secretary's authority 
+			 to use
+			 amounts in the fund to pay approved attorneys' fees in claims for
+			 benefits under
+				this title for which a final order awarding compensation has been
+			 entered and the
+				operator is unable to pay.</text>
+							</subsection><subsection id="id73AB66D6BD224D6090BF28843CDC18A5"><enum>(e)</enum><header>No recoupment
+				of attorneys' fees</header><text display-inline="yes-display-inline">Any
+				payment for attorneys' fees made by the Secretary under this
+				section shall not be recouped from the claimant or the
+			 claimant’s
+				attorney.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section><section id="id2786F46F2F4F4E729ACE2EA7FEB29D90"><enum>103.</enum><header>Clarifying eligibility for black lung benefits claims</header><text display-inline="no-display-inline">Section 411(c) of the Black Lung Benefits Act (<external-xref legal-doc="usc" parsable-cite="usc/30/921">30 U.S.C. 921(c)</external-xref>) is amended by striking paragraphs
+			 (3) and (4) and inserting the following:</text><quoted-block display-inline="no-display-inline" id="idBA8E0B30B2D44FED931DA502482225CD" style="OLC"><paragraph id="iddc1eeef09fd14bc6abbf57df395c75f4"><enum>(3)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id795D2BFECD904CAC93C866BB26CD3A4B"><enum>(A)</enum><text>If x-ray, biopsy, autopsy, or other medically accepted and relevant test or procedure establishes
+			 that a miner is suffering or has suffered from a chronic dust disease of
+			 the lung, diagnosed as complicated pneumoconiosis or progressive massive
+			 fibrosis, then there shall be an
+			 irrebuttable presumption that such miner is totally disabled due to
+			 pneumoconiosis, that such miner’s death was due to pneumoconiosis, or
+			 that, at the time of death, such miner was totally disabled by
+			 pneumoconiosis, as the case may be. A chest radiograph that yields one or
+			 more large opacities (greater than one centimeter in diameter) and would
+			 be classified in category A, B, or C in the International Classification
+			 of Radiographs of Pneumoconioses by the International Labor Organization
+			 shall be sufficient to invoke such presumption, unless there is more
+			 probative evidence establishing that the etiology of a large opacity is
+			 not pneumoconiosis.</text></subparagraph><subparagraph id="id8497ED58A4BD49CB80845C4405371A81" indent="up1"><enum>(B)</enum><text>In this paragraph, the term <term>complicated pneumoconiosis or progressive massive
+			 fibrosis</term> means pneumoconiosis that has formed an
+			 opacity, mass, or lesion
+			 greater than one centimeter in diameter.</text></subparagraph></paragraph><paragraph id="idd43b59238a374695a80b9df67472a742"><enum>(4)</enum><text>If a miner was employed for 15 years or more in one or more coal mines, and if there is a chest
+			 radiograph submitted in connection with the claim under this title of such
+			 miner or such miner’s surviving spouse, child, parent, brother, sister, or
+			 dependent and it is interpreted as negative with respect to the
+			 requirements of paragraph (3), and if other evidence demonstrates the
+			 existence of a totally disabling respiratory or pulmonary impairment, then
+			 there shall be a rebuttable presumption that such miner is totally
+			 disabled due to pneumoconiosis, that the miner’s death was due to
+			 pneumoconiosis, or that, at the time of death, the miner was totally
+			 disabled by pneumoconiosis. In the case of a living miner, a spouse’s
+			 affidavit may not be used by itself to establish the presumption under
+			 this paragraph. The presumption under this paragraph may be rebutted only
+			 by establishing that such miner does not, or did not, have pneumoconiosis,
+			 or that no part of such miner’s respiratory or pulmonary impairment was
+			 caused by pneumoconiosis.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section><section id="id61E1B124394448B9AD568B4D65C4A194"><enum>104.</enum><header>Restoring adequate benefit adjustments for miners suffering from black lung disease and for
+			 their
+			 dependent family
+			 members</header><text display-inline="no-display-inline">Section 412(a) of the Black Lung Benefits Act (<external-xref legal-doc="usc" parsable-cite="usc/30/922">30 U.S.C. 922(a)</external-xref>) is amended by striking paragraph
+			 (1) and inserting the following:</text><quoted-block display-inline="no-display-inline" id="idAA52F9FAEF0A438793537CE1B648E9B1" style="OLC"><paragraph id="idA29D7A1631EC49F99A7ECF141B3B278B"><enum>(1)</enum><text>In the case of total disability of a miner due to pneumoconiosis, the disabled miner shall be paid
+			 benefits during the disability—</text><subparagraph commented="no" id="id88D2089AB4374630B346A66D59DF7930"><enum>(A)</enum><text>for any calendar year preceding January 1, 2015, at a rate equal to 37<fraction>1/2</fraction> per centum of the monthly pay rate for Federal employees in grade GS–2, step 1;</text>
+							</subparagraph><subparagraph id="id1F8AC82A07A849838AA8A19BC515FE88"><enum>(B)</enum><text>for the calendar year beginning on January 1, 2015, at a rate of $7,980 per year, payable in 12
+			 equal monthly payments; and</text></subparagraph><subparagraph id="idD38CD18039BD47BB9E54896BDBF12D1C"><enum>(C)</enum><text>for each calendar year thereafter, at a rate equal to the amount under subparagraph (B) increased
+			 by an amount equal
+			 to any increase in the annual rate of the  Consumer Price Index for Urban
+			 Wage Earners and Clerical Workers, as published by the Bureau of Labor
+			 Statistics.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section><section id="id51822980733B4A86BF089B39D3185A0D"><enum>105.</enum><header>Treatment of evidence in equipoise</header><text display-inline="no-display-inline">Section 422 of the Black Lung Benefits Act (<external-xref legal-doc="usc" parsable-cite="usc/30/932">30 U.S.C. 932</external-xref>) is amended by adding at the end the
+			 following:</text><quoted-block display-inline="no-display-inline" id="id2B92A3D11E834C1F85BDF1F713C279FD" style="OLC"><subsection id="id2ED6E2A73BEF4D2EA7748B16CD9F039B"><enum>(m)</enum><text>In determining the validity of a claim under this title, an adjudicator who finds that the evidence
+			 is evenly
+			 balanced on an issue shall resolve any resulting doubt in the claimant’s
+			 favor and find that the claimant has met the burden of persuasion on such
+			 issue.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section><section id="idEE89BD6ABF6B4C06A8945ABD0DDB8EA4"><enum>106.</enum><header>Providing assistance with claims for miners and their dependent family members</header><text display-inline="no-display-inline">Section 427(a) of the Black Lung Benefits Act (<external-xref legal-doc="usc" parsable-cite="usc/30/937">30 U.S.C. 937(a)</external-xref>) is amended by striking <quote>the analysis, examination, and treatment</quote> and all that follows through <quote>coal miners.</quote> and inserting <quote>the analysis, examination, and treatment of respiratory and pulmonary impairments in active and
+			 inactive coal miners and for assistance on behalf of miners, surviving
+			 spouses, 
+			 dependents, and other family members with claims arising under this
+			 title.</quote>.</text></section><section id="id41472AA53C6D4A59801C9E494C43732C"><enum>107.</enum><header>False statements or misrepresentations, attorney disqualification, and discovery sanctions</header><text display-inline="no-display-inline">Section 431 of the Black Lung
+			 Benefits Act (<external-xref legal-doc="usc" parsable-cite="usc/30/941">30 U.S.C. 941</external-xref>) is amended to read as follows:</text><quoted-block display-inline="no-display-inline" id="id1ABB2CC15F8942708C17E2ECEC5975DB" style="OLC"><section id="idA4CFCD17D05F4A139ADB3BECC7AB8FA9"><enum>431.</enum><header>False statements or misrepresentations, attorney disqualification, and discovery sanctions</header>
+							<subsection id="id607310edf5184a559e113151dbca447a"><enum>(a)</enum><header>In general</header><text>No person, including any claimant, physician, operator, duly authorized agent of such
+			 operator, or employee of an insurance carrier, shall—</text><paragraph id="idd5b3206ff5f54befb2aa8ac868609368"><enum>(1)</enum><text>knowingly and willfully make a false statement or misrepresentation for the purpose of obtaining,
+			 increasing, reducing, denying, or terminating benefits under this title;
+			 or</text></paragraph><paragraph id="id5180c9a050b744408b874538555aec7c"><enum>(2)</enum><text>threaten, coerce, intimidate, deceive, or knowingly mislead a party, representative, witness,
+			 potential witness, judge, or anyone participating in a proceeding
+			 regarding any matter related to a proceeding under this title.</text></paragraph></subsection><subsection id="idc64ef8216cbb482c9ca8331b35ce9135"><enum>(b)</enum><header>Fine; imprisonment</header><text>Any person who engages in the conduct described in subsection (a) shall, upon conviction, be
+			 subject to a fine in accordance with title 18, United States Code,
+			 imprisoned for not more than 5 years, or both.</text></subsection><subsection id="id68D8A279B3284FAB99384026AB55B4DA"><enum>(c)</enum><header>Prompt investigation</header><text>The United States Attorney for the district in which the conduct described in subsection (a) is
+			 alleged to have occurred shall make every reasonable effort to promptly
+			 investigate each complaint of a violation of such subsection.</text></subsection><subsection id="id75fa5cd0226d477e81afdd394756188f"><enum>(d)</enum><header>Disqualification</header><paragraph id="idBFE6A1F73E1A4D2AA28727AFAE65AC12"><enum>(1)</enum><header>In general</header><text>An attorney or expert witness who engages in the conduct described in subsection (a) shall,
+			 in addition to the fine or imprisonment provided under  subsection (b), be
+			 permanently disqualified from representing any party, or appearing in any
+			 proceeding, under this title.</text></paragraph><paragraph id="id12d6c0945d5d40a78ea9a9511e4e08fb"><enum>(2)</enum><header>Attorney disqualification</header><text>In addition to the disqualification described in paragraph (1), the Secretary may disqualify an
+			 attorney from representing any party in a proceeding under
+			 this title for either a limited term or permanently, if the attorney—</text><subparagraph id="id21609d13d7164b7fa8384fab1504dfff"><enum>(A)</enum><text>engages in any action or behavior that is prejudicial to the fair and orderly conduct of such
+			 proceeding; or</text></subparagraph><subparagraph id="id4da35fecc34d4f28878206ad63648f3c"><enum>(B)</enum><text>is suspended or disbarred by any court of the United States, any State,
+			 or any
+			 territory, commonwealth, or possession of the United States with
+			 jurisdiction over the proceeding.</text></subparagraph></paragraph></subsection><subsection id="id94a9bb1e76bf46a091f6e7939cacb9c6"><enum>(e)</enum><header>Discovery sanctions</header><text>An administrative law judge may sanction a party who fails to comply with an order to compel
+			 discovery or disclosure, or to supplement earlier responses, in a
+			 proceeding under this title.  These sanctions may include, as appropriate—</text><paragraph id="id190b49968a664cb7b4f02b6f8940058f"><enum>(1)</enum><text>drawing an adverse inference against the noncomplying party on the facts relevant to the discovery
+			 or disclosure order;</text></paragraph><paragraph id="id83e3b6198ab34055bb872120c489fb9f"><enum>(2)</enum><text>limiting the noncomplying party’s claims, defenses, or right to introduce evidence; and</text></paragraph><paragraph id="id5bb57b83fe9243f68473389ace2402a4"><enum>(3)</enum><text>rendering a default decision against the noncomplying party.</text></paragraph></subsection><subsection id="idf395ed4ba51b463db503ad970f938ae9"><enum>(f)</enum><header>Regulations</header><text>The Secretary shall promulgate regulations that—</text><paragraph id="id71A96FC64E61436097C491922C0D5743"><enum>(1)</enum><text>provide procedures for the
+			 disqualifications and sanctions under this section and are appropriate for
+			 all parties; and</text></paragraph><paragraph id="id708719DF1EDA471A845D84FE581D3F4D"><enum>(2)</enum><text>distinguish between parties that are represented by an attorney and parties that are not
+			 represented by an attorney.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section><section id="id1953CA4E14FE47D6A87267340F07C1EC"><enum>108.</enum><header>Development of medical evidence by the Secretary</header><text display-inline="no-display-inline">Part C of the Black Lung Benefits Act  (<external-xref legal-doc="usc" parsable-cite="usc/30/931">30 U.S.C. 931 et seq.</external-xref>) is amended by adding at the end the
+			 following:</text><quoted-block display-inline="no-display-inline" id="id4676AFEECB67485696C2BD6BD2D26833" style="OLC"><section id="id769CF7F09F4843F6B7BD2567D6B8D11B"><enum>435.</enum><header>Development of medical evidence by the Secretary</header><subsection id="id325ACACF68284A9BBD5A2B69355D6432"><enum>(a)</enum><header>Complete pulmonary evaluation</header><text>Upon request by a  claimant for benefits under this title, the Secretary shall 
+			 provide the claimant an
+			 opportunity to substantiate the claim through a complete
+			 pulmonary evaluation of the miner that shall include—</text><paragraph id="id293423A5481C473CAE809A2CFE8A877C"><enum>(1)</enum><text>an
+			 initial report, conducted by a qualified physician on the list provided
+			 under subsection (d), and in accordance with subsection (d)(5) and 
+			 sections
+			 402(f)(1)(D) and 413(b); and</text></paragraph><paragraph id="idF1B7E202E0A34225B51E7E99F69DA860"><enum>(2)</enum><text>if the conditions under subsection (b) are met, any supplemental medical evidence described in
+			 subsection (c).</text></paragraph></subsection><subsection id="idECD3E97B1D2240A7AE43EFD133908C07"><enum>(b)</enum><header>Conditions for supplemental medical evidence</header><text>The Secretary shall develop supplemental medical evidence, in accordance with subsection (c)—</text><paragraph id="id5477D38453C44645A559978BFC0FCABA"><enum>(1)</enum><text>for any claim in which the Secretary recommends an award of benefits based on the results of the
+			 initial report
+			 under subsection (a)(1) and a party opposing such award submits evidence
+			 that could be considered contrary to
+			 the
+			 findings of the
+			 Secretary; and</text></paragraph><paragraph id="id17CD1A89EBAC4C01A001D5B183E7F7B5"><enum>(2)</enum><text>for any compensation case under this title heard by an administrative
+			 law judge, in which—</text><subparagraph id="id4FEB870716654D8198F5F5D06E9D73F9"><enum>(A)</enum><text>the Secretary has awarded benefits to the claimant;</text></subparagraph><subparagraph id="id64479522FBFE4835BD9E27C151409833"><enum>(B)</enum><text>the party opposing such award has submitted evidence not previously reviewed that could be
+			 considered contrary to the award under subparagraph (A); and</text></subparagraph><subparagraph id="idA7B53D06ECF0475C826D464C8D43B501"><enum>(C)</enum><text>the claimant or, if the claimant is represented by an attorney, the claimant’s attorney consents to
+			 the Secretary developing
+			 supplemental medical evidence.</text></subparagraph></paragraph></subsection><subsection id="idF8D83A35EA89467A81C679636A876DF1"><enum>(c)</enum><header>Process for supplemental medical evidence</header><paragraph id="id7D26AF6D0B814F929532EBB1CC94BB26"><enum>(1)</enum><header>In general</header><text>Except as provided under paragraph (2), to develop supplemental medical evidence under conditions
+			 described in
+			 subsection (b), the
+			 Secretary shall request the physician who conducted the initial report
+			 under subsection
+			 (a)(1) to—</text><subparagraph id="id60EBBBB23B694476892E5E2CEC31522B"><enum>(A)</enum><text>review any medical evidence submitted after such report or the most recent supplemental report, as
+			 appropriate; and</text></subparagraph><subparagraph id="id1E61D89F3ACC433185E885671EABD3A8"><enum>(B)</enum><text>update his or her opinion in a supplemental report.</text></subparagraph></paragraph><paragraph id="idBB3A46072D6D44E29757BF44E49C9F75"><enum>(2)</enum><header>Alternative physician</header><text>If such physician is no longer available or is unwilling to provide supplemental medical evidence
+			 under paragraph (1), the Secretary shall select another qualified
+			 physician to provide such evidence.</text></paragraph></subsection><subsection id="idDD5F64BFE87647578B7C312940AB5E14"><enum>(d)</enum><header>Qualified physicians for complete pulmonary evaluation and protections for
+			 suitability and potential conflicts of interest</header><paragraph id="id991696E901C24052A2F0AE05B90F29F7"><enum>(1)</enum><header>Qualified physicians list</header><text>The Secretary shall create and maintain a list of qualified physicians to be selected by a
+			 claimant to perform the complete pulmonary evaluation described in
+			 subsection (a).</text></paragraph><paragraph id="id21155BC4A05B48639EF5BA8FA502FA2F"><enum>(2)</enum><header>Public availability</header><text>The Secretary shall make the list under this subsection available to the public.</text></paragraph><paragraph id="idB5603452C7E84FB2AFCA74151B62CDEC"><enum>(3)</enum><header>Annual evaluation</header><text>Each year, the Secretary shall update such list by reviewing the suitability of the listed
+			 qualified physicians and assessing any potential conflicts of interest.</text></paragraph><paragraph id="id08E9519234694AF8834C4A8FD2A2B423"><enum>(4)</enum><header>Criteria for suitability</header><text>In determining whether a physician is suitable to be on the list under this subsection,
+			 the Secretary shall consult the National Practitioner Data Bank of the
+			 Department of Health and Human Services and assess
+			 reports of adverse
+			 licensure, certifications, hospital privilege, and professional society
+			 actions involving the physician. In no case shall such list include any
+			 physician—</text><subparagraph id="idCE79EB4E8B8046C79383888072F88110"><enum>(A)</enum><text>who is not licensed to practice medicine in any State
+			 or any
+			 territory, commonwealth, or possession of the United States;</text></subparagraph><subparagraph id="id9CE0FEABD0E64181812EB87EAE0471E9"><enum>(B)</enum><text>whose license is revoked by a medical licensing board of any State, territory, commonwealth, or
+			 possession  of the United States; or</text></subparagraph><subparagraph id="idAFCA96DDEB8140D69FA4478AADB33E03"><enum>(C)</enum><text>whose license is suspended by a medical licensing board of any State, territory, commonwealth, or
+			 possession  of the United States.</text></subparagraph></paragraph><paragraph id="idD711AAC2E19F4481B553D684C2607D02"><enum>(5)</enum><header>Conflicts of interest</header><text>The Secretary
+			 shall develop and implement policies and procedures to ensure that any
+			 actual or potential conflict of interest of qualified physicians on the
+			 list under
+			 this subsection,
+			 including both individual and
+			 organizational  conflicts of interest, are disclosed to the Department, 
+			 and
+			 to provide such disclosure to claimants. Such policies
+			 and procedures shall provide that, unless the
+			 claimant knowingly and with the benefit of full disclosure waives the
+			 following limitations, a physician shall not be used to perform a complete
+			 pulmonary
+			 medical evaluation under subsection (a) that is reimbursed pursuant to
+			 subsection (f),  if—</text><subparagraph id="idEA02CE90F49E4481BC3354E6D5AB49EB"><enum>(A)</enum><text>such physician is employed by,
+			 under contract to, or otherwise providing services to a private party
+			 opposing the claim, a law firm or lawyer representing such opposing party,
+			 or an interested insurer or other interested third party; or</text></subparagraph><subparagraph id="id4A65AF6A9A014F83AA124003F2D62EC3"><enum>(B)</enum><text>such physician has been
+			 retained by a private party
+			 opposing the claim, a law firm or lawyer representing such opposing party,
+			 or an interested insurer or other interested third party in the previous
+			 24 months.</text></subparagraph></paragraph></subsection><subsection id="id3EF6A45FD912413399D0B5E6746FE0FF"><enum>(e)</enum><header>Record</header><text>Upon receipt of any initial report or supplemental report under this section, the Secretary
+			 shall enter the report in the record and provide a copy of such report
+			 to all
+			 parties to the proceeding.</text></subsection><subsection commented="no" display-inline="no-display-inline" id="idDFC40DA311164798BA665B8819A2DE90"><enum>(f)</enum><header>Expenses</header><text>All expenses related to obtaining the medical evidence under this section shall be paid
+			 for by the fund.    If a claimant receives a final
+			 award of benefits, the operator liable for payment of benefits, if
+			 any, shall reimburse the fund for such expenses, which shall include
+			 interest.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section><section id="H554CD6D77773498CA24D16B37A553AB5"><enum>109.</enum><header>Establishment of pilot program to provide impartial classifications of chest radiographs</header>
+					<text display-inline="no-display-inline">Part C of the Black Lung Benefits Act (<external-xref legal-doc="usc" parsable-cite="usc/30/931">30 U.S.C. 931 et seq.</external-xref>), as amended by section 108, is
+			 further amended by adding at the end the following:</text><quoted-block display-inline="no-display-inline" id="H832487CAB3074AA8A0DDAC551D235F0A" style="OLC">
+						<section commented="no" display-inline="no-display-inline" id="H4A96DA7774B24AB08766B424755601FD"><enum>436.</enum><header>Establishment of pilot program to provide impartial classifications of chest radiographs</header>
+							<subsection id="HDF8768F3622444C8A0625723AE4995B2"><enum>(a)</enum><header>Definitions</header><text>In this section:</text>
+								<paragraph id="H1A9536B7FFC64CD89B2F2A9761ACFE1E"><enum>(1)</enum><header>B Reader</header><text>The term <term>B Reader</term> means an individual who—</text>
+									<subparagraph id="HEF0B32B25C794C55A1BDAF053FD4EE0B"><enum>(A)</enum><text>has a valid license to practice medicine in not less than one State, territory, commonwealth, or
+			 possession of the United States; and</text>
+									</subparagraph><subparagraph id="H428862DA7EE9433F9DDF399A408E72FE"><enum>(B)</enum><text>has demonstrated a proficiency, through an examination administered by the National Institute for
+			 Occupational Safety and Health, in classifying chest radiographs for
+			 findings consistent with pneumoconiosis using the International
+			 Classification of Radiographs of Pneumoconioses by the International Labor
+			 Organization (referred to in this section as the <quote>ILO</quote>).</text>
+									</subparagraph></paragraph><paragraph id="HC2996D8C7B454038ACA8D10908322D5C"><enum>(2)</enum><header>B Reader Panel</header><text>The term <term>B Reader Panel</term> means a panel of not less than 3 B Readers selected by the Director exclusively from the B Reader
+			 Panel Pool.</text>
+								</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idB8D851712FEE4BFBAE1D3DD77DA8DDE4"><enum>(3)</enum><header display-inline="yes-display-inline">B Reader Panel Pool</header><text display-inline="yes-display-inline">The term <term>B Reader Panel Pool</term> means the group of physicians included in the pool described in subsection (c).</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idB14592D7D31B4BBD890273942C4EB729"><enum>(4)</enum><header>Complicated pneumoconiosis or progressive massive fibrosis</header><text>The term <term>complicated pneumoconiosis or progressive massive fibrosis</term> means pneumoconiosis with  the formation of large opacities greater
+			 than or equal to category A of the ILO classification.</text></paragraph><paragraph id="HB532C989A92C4B258AD64EF399DA9A3A"><enum>(5)</enum><header>Director</header><text>The term <term>Director</term> means the Director of the National Institute for Occupational Safety and Health.</text>
+								</paragraph><paragraph id="H8D4DDD7D2D1E487CB3ECB5C1E83CF875"><enum>(6)</enum><header>ILO classification</header><text>The term <term>ILO classification</term> means the standardized categorization of chest radiographs for findings consistent with
+			 pneumoconiosis using the International Classification of Radiographs of
+			 Pneumoconioses by the ILO.</text>
+								</paragraph><paragraph id="idB78EC4F554D341EABD3FD03E6DFCFCD6"><enum>(7)</enum><header>ILO Standard Radiographs</header><text>The term <term>ILO Standard Radiographs</term> means the set of standard radiographs used in the ILO International Classification of Radiographs
+			 of Pneumoconioses by the ILO.</text></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="H1E716F1D70F34A31A1CF5745F7710BE6"><enum>(b)</enum><header>B Reader Panel Program</header>
+								<paragraph commented="no" display-inline="no-display-inline" id="H9F24B3A6F3DC4559AEB4E21D6B31528D"><enum>(1)</enum><header>Establishment of pilot program</header>
+									<subparagraph commented="no" display-inline="no-display-inline" id="H467B78CFA7F347C89C4F83FB036658E9"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The Director shall establish, in the National Institute for Occupational Safety and Health, a pilot
+			 program to be known as the <quote>B Reader Panel Program</quote>. The B Reader Panel Program shall establish B Reader Panels that—</text>
+										<clause id="H57820AA3DDAD4F75BCEC25AB3CC87B8B"><enum>(i)</enum><text>are operated in a manner to assure accurate ILO classifications, which may be used for claims for
+			 benefits described in subparagraph (C);</text>
+										</clause><clause id="HE5341223E446482296FF95D266C4CBAB"><enum>(ii)</enum><text>only classify chest radiographs; and</text>
+										</clause><clause id="H1FAF6140E1334D698F5DEF0FAC493CAF"><enum>(iii)</enum><text>classify all appearances—</text><subclause id="idF555E0416F444EDC9205E0E1F8EB257C"><enum>(I)</enum><text>described in the International Classification of Radiographs of
+			 Pneumoconiosis by the ILO; or</text></subclause><subclause id="id0487D7A866444784BF9AC006606FC53C"><enum>(II)</enum><text>illustrated by the ILO Standard Radiographs.</text>
+											</subclause></clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H97B663BB759645D38D8B9F2A481046F5"><enum>(B)</enum><header>Duration</header><text>The B Reader Panel Program established under this section shall be conducted for a duration of one
+			 year, beginning after the issuance of necessary protocols and interim
+			 final rules under subsection (h).</text>
+									</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H89256A77653A421FB6C1FE8102A5868D"><enum>(C)</enum><header>Applicability</header><text display-inline="yes-display-inline">A chest radiograph classification may only be requested under this section for a claim for benefits
+			 under this title where the presence or absence of complicated
+			 pneumoconiosis or progressive massive fibrosis is in fact at
+			 issue.</text>
+									</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="H9FAC0AC2AE3441F19AEEDF721E468FA8"><enum>(2)</enum><header>Program personnel matters</header>
+									<subparagraph commented="no" display-inline="no-display-inline" id="H07E7E5B103084C3B8C36120791FFD410"><enum>(A)</enum><header>In general</header><text>The Director may hire such personnel as are necessary to establish, manage, and evaluate the B
+			 Reader Panel Program, including a B Reader Program Director described in
+			 subparagraph (B).</text>
+									</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H6B04461BAAD94296AC07C78160434342"><enum>(B)</enum><header>B Reader Program Director</header><text>The B Reader Program Director shall be a physician who is a B Reader and has documented expertise
+			 in ILO classifications.</text>
+									</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H2859D10BCA4F41EE87F88E8727386108"><enum>(C)</enum><header>Staff</header>
+										<clause commented="no" display-inline="no-display-inline" id="H78D900BE7B694A00954DC9381FEF6792"><enum>(i)</enum><header>In general</header><text>In procuring the services of B Readers for this section, the Director may hire Federal personnel,
+			 contract for services, or both.</text>
+										</clause><clause commented="no" display-inline="no-display-inline" id="H53F3473F28FC4A328BD71DD37CA2E477"><enum>(ii)</enum><header>Compensation</header><text>The Director shall establish compensation rates for B Readers who are hired under contract.</text>
+										</clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="H2FED4A91944D4A4FA6D6C188A8ABA852"><enum>(3)</enum><header>Ethics policy</header>
+									<subparagraph commented="no" display-inline="no-display-inline" id="H99FB9FD4DC9648CFAA753DBA4F51D139"><enum>(A)</enum><header>Code of ethics</header>
+										<clause commented="no" display-inline="no-display-inline" id="HCD3E785EF2E34A2D9FC1FF4BD5996DBD"><enum>(i)</enum><header>In general</header><text>In order to maximize the quality, objectivity, and confidence in ILO classifications under this
+			 section, the Director shall establish a binding code of ethics to which
+			 all B Readers in the B Reader Panel Pool shall agree to in writing and
+			 adhere.</text>
+										</clause><clause commented="no" display-inline="no-display-inline" id="H239E1368EFB84FC8994A484F58457AFF"><enum>(ii)</enum><header>Contents</header><text>The code of ethics shall include—</text>
+											<subclause commented="no" display-inline="no-display-inline" id="HEB7CCA8A8AB84D78B3E988CAE1EB68BD"><enum>(I)</enum><text>definitions and stipulations of procedures dealing with actual and apparent conflicts of interest
+			 and the appearance of bias or lack of sufficient impartiality;</text>
+											</subclause><subclause commented="no" display-inline="no-display-inline" id="H850EE0F5D1DD471AB8B7A0D9DA02EE40"><enum>(II)</enum><text>a requirement that each such B Reader submits a conflict of interest disclosure statement to the
+			 Director and annually updates such statement; and</text>
+											</subclause><subclause commented="no" display-inline="no-display-inline" id="HFD39DD8D37714DD0A7D57AEDFC7B16F8"><enum>(III)</enum><text>requirements for the content of the conflict of interest disclosure statements required under
+			 subclause (II).</text>
+											</subclause></clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H6F977B7166D847BB8FF96EF174472A75"><enum>(B)</enum><header>B Reader ethics officer</header><text>The Director shall designate an employee of the National Institute for Occupational Safety and
+			 Health as the B Reader Ethics Officer whose responsibilities shall
+			 include—</text>
+										<clause commented="no" display-inline="no-display-inline" id="H30378A307F6B491B8834FC890A588DA9"><enum>(i)</enum><text>reviewing all conflict of interest disclosures of B Readers on the B Reader Panel Pool;</text>
+										</clause><clause commented="no" display-inline="no-display-inline" id="H6E1B553ED18B46BC8F344D87F3E74749"><enum>(ii)</enum><text>investigating the validity of such disclosures;</text>
+										</clause><clause commented="no" display-inline="no-display-inline" id="H95C5B969CE7A4D289E7A0BE9EBB539AD"><enum>(iii)</enum><text>maintaining a list of such B Readers who fail to disclose a conflict of interest;</text>
+										</clause><clause commented="no" display-inline="no-display-inline" id="HDA65F96738374514A9863574A74C261F"><enum>(iv)</enum><text>addressing complaints about incomplete or inaccurate conflict of interest disclosures;</text>
+										</clause><clause commented="no" display-inline="no-display-inline" id="H96E6853F10164B14A14F7155B3AC019D"><enum>(v)</enum><text>assessing whether any such B Reader has been improperly assigned to a panel due to a conflict of
+			 interest; and</text>
+										</clause><clause commented="no" display-inline="no-display-inline" id="H4EF96FA9D05940129B28275BAB58C363"><enum>(vi)</enum><text>assuring full transparency of conflict of interest disclosures to the public.</text>
+										</clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="H52EADA0D60F14E4D9E243E0426C54508"><enum>(4)</enum><header>Quality assurance program</header>
+									<subparagraph id="HA8476D1D0A6341658B4B0E8FE20C869A"><enum>(A)</enum><header>Protocols</header>
+										<clause id="HC6860C152EBC4019BBE322D86613D036"><enum>(i)</enum><header>Establishment</header><text>The Director shall establish a quality assurance program consisting of protocols to ensure that the
+			 results produced by B Reader Panels meet or exceed standards of
+			 performance required for accuracy and consistency.</text>
+										</clause><clause id="H6D08B3D496574EB39D93B508D78DD1FA"><enum>(ii)</enum><header>Protocols</header><text>The protocols under this subparagraph shall include protocols—</text>
+											<subclause commented="no" id="HAE6DD406110540E7B877E37801698246"><enum>(I)</enum><text>for each B Reader to prepare an individual ILO classification report for each chest radiograph; and</text>
+											</subclause><subclause id="H751FA55EC14E4844BEC496A88236AA92"><enum>(II)</enum><text>for the preparation of a final ILO classification report for the chest radiograph.</text>
+											</subclause></clause><clause id="H2621D5B5148A4F36829D1FA80DFBE624"><enum>(iii)</enum><header>Additional reviewers</header><text>If individual ILO classifications reported by each B Reader of a B Reader Panel diverge from each
+			 other by more than an acceptable variance, as determined by protocols
+			 established under subsection (h), the Director shall assign additional B
+			 Readers to the applicable B Reader Panel or convene an additional B Reader
+			 Panel, as the Director determines necessary, to assure that the ILO
+			 classification report of the initial B Reader Panel is accurate and
+			 scientifically valid.</text>
+										</clause><clause id="H791BDC08A639465A9F85C5E7F4CCF4F4"><enum>(iv)</enum><header>Use of known positive and negative x-rays as a quality control tool</header><text display-inline="yes-display-inline">The quality assurance program under this paragraph shall use pre-read radiographs, for which ILO
+			 classifications have been previously established as external standards,
+			 with sufficient frequency in order to assure that B Readers on B Reader
+			 Panels read radiographs that are borderline positive or negative for
+			 complicated pneumoconiosis or progressive massive fibrosis
+			 with accuracy and consistency.</text>
+										</clause><clause id="HAA2E5964FABC46D9A1BC86CDC459B811"><enum>(v)</enum><header>Blind readings</header><text>In reading a radiograph to make an ILO classification, a B Reader shall be blinded from the origin
+			 of the radiograph.</text>
+										</clause></subparagraph><subparagraph commented="no" id="H8BC3D71293184F20A05FE2EB2E1045D3"><enum>(B)</enum><header>Continuous improvement</header><text>The Director shall establish a process for providing feedback to B Readers in the B Reader Pool
+			 with respect to their performance in providing ILO classifications and
+			 provide suggestions for improvement.</text>
+									</subparagraph></paragraph></subsection><subsection id="HDC9220E81CFA41FBA76A3C929DE9B50F"><enum>(c)</enum><header>Creation and maintenance of B Reader Panel Pool</header>
+								<paragraph id="H94CC8C22208F417CAAD20C6AD3FA0686"><enum>(1)</enum><header>Establishment</header><text>The Director shall establish a B Reader Panel Pool to be used for the B Reader Panel Program under
+			 this section. The Director shall solicit and select physicians who are B
+			 Readers for inclusion in the B Reader Panel Pool.</text>
+								</paragraph><paragraph id="H816FBA4E70F24FADAE3538E70A8611BF"><enum>(2)</enum><header>Selection and retention for B Readers on B Reader Panel Pool</header>
+									<subparagraph id="H5FF2B387A4094BDE93F79CCDFBB7B95C"><enum>(A)</enum><header>In general</header><text>The Director shall establish and disclose criteria by which B Readers are selected and retained
+			 within the B Reader Panel Pool, including minimum standards of performance
+			 described in subparagraph (B).</text>
+									</subparagraph><subparagraph id="H3CCBB1FDD7A9482C80588DF2F5C7CA52"><enum>(B)</enum><header>Minimum standards of performance</header><text>The minimum standards of performance for inclusion in the B Reader Panel Pool shall include
+			 requiring the B Reader to make radiograph classifications consistent with
+			 ILO classification criteria that are consistently within acceptable norms,
+			 as established by the Director.</text>
+									</subparagraph><subparagraph id="H4C8C2CC9BAC245B3864C9C646379D1A8"><enum>(C)</enum><header>Considerations for selection</header><text>In selecting a B Reader to be included in the B Reader Panel Pool, the Director shall—</text>
+										<clause id="H8BEBDA6D442A4FDB952832E2DFA74706"><enum>(i)</enum><text>assess, to the maximum extent practicable, the prior performance of the B Reader in making ILO
+			 classifications;</text>
+										</clause><clause id="H93ED5BA79B784CCBB879D76129D05D27"><enum>(ii)</enum><text>consult the National Practitioner Data Bank of the Department of Health and Human Services for
+			 information on physician suitability; and</text>
+										</clause><clause id="HF2898A7F9F02405FBA284DDA9756498C"><enum>(iii)</enum><text>assess reports of adverse licensure, certifications, hospital privilege, and professional society
+			 actions involving the B Reader.</text>
+										</clause></subparagraph><subparagraph id="HA225F5B769974A159A08CB4AB31F1215"><enum>(D)</enum><header>Monitoring</header><text>The Director shall monitor ILO classifications conducted under this section to determine if any B
+			 Reader included in the B Reader Panel Pool demonstrates a pattern of
+			 providing ILO classifications that are erroneous or not consistently
+			 within the acceptable norms, as established by the Director.</text>
+									</subparagraph></paragraph><paragraph id="H1D61037AB1DF4F36851420B570AFCDA4"><enum>(3)</enum><header>Process for removal</header>
+									<subparagraph id="H09E5295488D2469C854E4AA397B6E70A"><enum>(A)</enum><header>In general</header><text>The Director shall be authorized to suspend or remove any B Reader from the B Reader Panel Pool
+			 for—</text>
+										<clause id="H22EBB8042685446FB6AFBCF8FD35B71E"><enum>(i)</enum><text>consistently failing to meet the minimum standards of performance under paragraph (2)(B);</text>
+										</clause><clause id="HF090BFC32DA94DA68107A205DF3094F1"><enum>(ii)</enum><text>breaching the code of ethics under subsection (b)(3)(A); or</text>
+										</clause><clause id="H03A465C398E84392B60D09DE95B95D36"><enum>(iii)</enum><text>other disqualifying conduct, as established by rule or policy.</text>
+										</clause></subparagraph><subparagraph id="HEA46326775DE41F398A9DFD014DC8314"><enum>(B)</enum><header>Review</header><text>The Director shall provide a process for a B Reader who is aggrieved by a decision of the Director
+			 under subparagraph (A) to seek review by the Secretary of Health and Human
+			 Services. The review by such Secretary shall not stay the suspension of
+			 the B Reader during the pendency of the review.</text>
+									</subparagraph></paragraph><paragraph id="H8935E3301D60434AAFB90D7EBD9CAEA5"><enum>(4)</enum><header>Disclosure</header><text>The Director shall make publicly accessible—</text>
+									<subparagraph id="HC082323BC3314F519ACC01E638340D9A"><enum>(A)</enum><text>the names and qualifications of the B Readers included in the B Reader Panel Pool;</text>
+									</subparagraph><subparagraph id="H9BA665B8A2254918997E54A01EDFFF18"><enum>(B)</enum><text>the names of B Readers who have been suspended or removed from the B Reader Panel Pool and the
+			 reasons for such suspension or removal;</text>
+									</subparagraph><subparagraph id="H3306A418425D43C693F9F887F0CBBEDE"><enum>(C)</enum><text>the conflict of interest disclosure statements required under subsection (b)(3)(A)(ii)(II); and</text>
+									</subparagraph><subparagraph id="H53C3712041C04E589F56EAEB853D2973"><enum>(D)</enum><text>any pertinent information which the Director determines necessary to assure transparency and
+			 program integrity.</text>
+									</subparagraph></paragraph></subsection><subsection id="HC13C3D8D681C4EDC834853F60D74FAB9"><enum>(d)</enum><header>Eligibility To request ILO classifications</header><text>Each of the following individuals may request an ILO classification under this section:</text>
+								<paragraph id="H999EAD12E85642E595F52F2F5C649E68"><enum>(1)</enum><text>Claimants or operators, or their authorized representatives, in a claim for benefits that meets the
+			 requirements of subsection (b)(1)(C).</text>
+								</paragraph><paragraph id="HDA726E45619D4FE8BAAB0F948BECBE65"><enum>(2)</enum><text>Individuals defined as adjudication officers by regulations of the Secretary.</text>
+								</paragraph></subsection><subsection id="H3C365801E47D4D9EBC950F4133DDF599"><enum>(e)</enum><header>Timing of reports</header><text>Following the receipt of a written request for the classification of a chest radiograph, the
+			 Director shall provide a report conducted by a B Reader Panel—</text>
+								<paragraph id="H08545046B5A84E788974E06361BFAD4C"><enum>(1)</enum><text>for digital chest radiographic images, within 45 days; and</text>
+								</paragraph><paragraph id="H0E91B25F01EA4179A1081468158416E1"><enum>(2)</enum><text>for film-based chest radiographs, within 90 days.</text>
+								</paragraph></subsection><subsection id="HF9CCB934D05A40D0A8CAB582FED5E57F"><enum>(f)</enum><header>Testimony</header>
+								<paragraph id="H8D44EBAA121343AA8D25375FD81EDE02"><enum>(1)</enum><header>Availability of director or designee</header><text>The Director, or a designee of the Director, shall be available to respond to interrogatories or
+			 appear and testify about a B Reader Panel's conclusions or the process by
+			 which B Reader Panels classify radiographs in a case under subsection
+			 (b)(1)(C), upon the request of a party to such case.</text>
+								</paragraph><paragraph id="HD748A2421D674673BF6CB63DE7ACE3AA"><enum>(2)</enum><header>Interrogatories and subpoenas for B Readers</header><text>To the extent that additional information is reasonably necessary for the full development of
+			 evidence pertaining to a B Reader Panel Report in a case under subsection
+			 (b)(1)(C), a B Reader of a B Reader Panel—</text>
+									<subparagraph id="HCD7189D1E8DE4397A264F207EBE8CB9F"><enum>(A)</enum><text>may be required to respond to interrogatories with respect to the ILO classification provided by
+			 the B Reader in the case, only if so ordered by an administrative law
+			 judge; and</text>
+									</subparagraph><subparagraph id="HE73228647E30439990211D95D0619076"><enum>(B)</enum><text>may not be required to appear and testify under subpoena, unless the party making such request
+			 demonstrates to an administrative law judge that—</text>
+										<clause id="H1C5EAF81EB0B4F7080E8FDFBD1935CBF"><enum>(i)</enum>
+											<subclause commented="no" display-inline="yes-display-inline" id="H11B8CBF1301649CFB2EC4C43E8F7618A"><enum>(I)</enum><text>the B Reader Panel Report is incomplete or lacks information that is reasonably necessary for such
+			 full development; and</text>
+											</subclause><subclause id="H62EE6870F8334F1EB27A47FE45F8C8AA" indent="up1"><enum>(II)</enum><text>if responses to interrogatories were ordered, the responses are unclear or incomplete; or</text>
+											</subclause></clause><clause id="H9CAE89B002DF4A40AB6B7BF4799A84F4"><enum>(ii)</enum><text>there is an extraordinary circumstance in which additional information that is reasonably necessary
+			 for such full development is otherwise unavailable from the Director and
+			 can only be provided by such B Reader.</text>
+										</clause></subparagraph></paragraph></subsection><subsection id="H24B6BDA3476D48BE88AD2121216DC8FE"><enum>(g)</enum><header>Administrative costs</header>
+								<paragraph id="HEEB92106A88E4BA7885606AD656D8A1A"><enum>(1)</enum><header>Establishment</header><text>Funds necessary to establish and operate the B Reader Panel Program under this section shall be
+			 paid as an administrative cost from the fund. The Director shall consult
+			 with the Secretary on allocations of funds in establishing such program.</text>
+								</paragraph><paragraph id="H62B5121BF5A444E18736E59E2F49F262"><enum>(2)</enum><header>Costs of reports for B Reader Panels</header>
+									<subparagraph id="H327928371C2B458BA2394AACC53F0BC9"><enum>(A)</enum><header>Fees</header>
+										<clause id="HBE95997112F24DF3869DBEA31F8DD43C"><enum>(i)</enum><header>In general</header><text>The Director shall establish a fee for a B Reader Panel Report in accordance with clause (ii). Such
+			 fee shall be payable by the party requesting such report. No fee shall be
+			 charged if the request for such ILO classification is made by an
+			 individual defined as an adjudication officer by regulations of the
+			 Secretary.</text>
+										</clause><clause id="H3C4A16ADE5A647A6892FCB3A46809DC1"><enum>(ii)</enum><header>Limitation</header><text>The amount of a fee under clause (i) shall not exceed the direct cost of hiring the B Readers of
+			 the B Reader Panel that made the ILO classification.</text>
+										</clause></subparagraph><subparagraph id="HA917308E827C433A8F8A8DF3B9FCA505"><enum>(B)</enum><header>Legal costs</header>
+										<clause id="HFE0C4F5AB82D406AB2A2B23FF1035AFA"><enum>(i)</enum><header>In general</header><text>The National Institute for Occupational Safety and Health shall use amounts in the fund to pay for
+			 all costs related to the appearance and responses to interrogatories of
+			 the Director or a designee of the Director, or a B Reader of a B Reader
+			 Panel, in a proceeding under this section.</text>
+										</clause><clause id="HB40E4AD129EA4366AAB1C9B01D063BBD"><enum>(ii)</enum><header>Representation of the National Institute for Occupational Safety and Health</header><text>The General Counsel of the Department of Health and Human Services shall, in consultation with the
+			 Solicitor of Labor, represent the National Institute for Occupational
+			 Safety and Health in any proceeding under this section, which costs shall
+			 be payable from the fund.</text>
+										</clause></subparagraph></paragraph></subsection><subsection id="HA3B4CD2AE8CE4041B842EFE948417317"><enum>(h)</enum><header>Protocols and interim final rules</header><text>Not later than 180 days after the date of enactment of the <short-title>Black Lung Benefits Improvement Act of 2014</short-title>, the Secretary of Health and Human Services shall issue protocols and promulgate interim final
+			 rules, as necessary, to commence the implementation of this section.</text>
+							</subsection><subsection id="HCF9C2A1F6EEE47A2B32FD61D959A4187"><enum>(i)</enum><header>Report to Congress</header>
+								<paragraph id="HB911861BFB274ACDB12F8801218A6A8B"><enum>(1)</enum><header>In general</header><text>Not later than 30 days after the completion of the pilot program under this section, the Director
+			 shall, in consultation with the Secretary of Labor, prepare and submit a
+			 report to the Committee on Health, Education, Labor, and Pensions of the
+			 Senate and the Committee on Education and the Workforce of the House of
+			 Representatives that includes the information in paragraph (2).</text>
+								</paragraph><paragraph id="H08F7645F6FF64E57BA04084104D24369"><enum>(2)</enum><header>Contents</header><text>The report under this subsection shall include—</text>
+									<subparagraph id="HE86134EA31664DDBAE0C602E34944810"><enum>(A)</enum><text>the number of B Reader Panels established under this section;</text>
+									</subparagraph><subparagraph id="H5C81699EA6304D7BA6DFFCD41F37F818"><enum>(B)</enum><text>the number of B Readers participating in the pilot program under this section;</text>
+									</subparagraph><subparagraph id="H76E79B62E0604690A91AFCBF7C645A91"><enum>(C)</enum><text>the effectiveness of the quality assurance program under subsection (b)(4);</text>
+									</subparagraph><subparagraph id="H9D25AD0FE279472D87347B23EB83E6C2"><enum>(D)</enum><text>the accuracy of the ILO classifications conducted by B Readers under this section;</text>
+									</subparagraph><subparagraph id="H256B5D76780842BAA212EC2E9B5CD46C"><enum>(E)</enum><text>challenges in the administration and implementation of such pilot program;</text>
+									</subparagraph><subparagraph id="HE274D315C8694DD5B2201F0F527D670D"><enum>(F)</enum><text>the costs and revenues of such pilot program;</text>
+									</subparagraph><subparagraph id="HA1CB4FD0DF8A484C9AF431BFD71E3499"><enum>(G)</enum><text display-inline="yes-display-inline">the impact of the pilot program on the claims adjudication process;</text>
+									</subparagraph><subparagraph id="H3C5ADD70C23A48E29FC69BDE424CAF76"><enum>(H)</enum><text display-inline="yes-display-inline">a recommendation on whether the pilot program under this section should extend beyond the one-year
+			 duration under subsection (b)(1)(B); and</text>
+									</subparagraph><subparagraph id="HB3E322036F4440B19AA85EE09E65144C"><enum>(I)</enum><text display-inline="yes-display-inline">recommendations for any necessary modifications to such pilot program, if the Director recommends
+			 such an extension.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</section><section id="id22B0BA7B4D52403281088C41363AE137"><enum>110.</enum><header>Medical evidence training program</header><text display-inline="no-display-inline">Part C of the Black Lung Benefits Act  (<external-xref legal-doc="usc" parsable-cite="usc/30/931">30 U.S.C. 931 et seq.</external-xref>), as amended by sections 108 and 109,
+			 is further amended by adding at the end the
+			 following:</text><quoted-block display-inline="no-display-inline" id="idA8FBAF8BBA444DDAB5CCDF490F442D3B" style="OLC"><section id="id062A693525D14EC6A172D277CD130FD1"><enum>437.</enum><header>Medical evidence training program</header><subsection id="id9DBEE7FC3CD742F4AD764A7A43BCADFD"><enum>(a)</enum><header>In general</header><text>Not later than 60 days after the date of enactment of the <short-title>Black Lung Benefits Improvement Act of 2014</short-title>, the Secretary, in coordination with  the
+			 National Institute for Occupational Safety and Health, shall establish and
+			 implement a training program, to provide education on issues relating to
+			 medical evidence relevant
+			 to claims for benefits under this title, to each of the following
+			 individuals who
+			 engage in work under this title:</text><paragraph id="id21B185675004422C96E316A721C19729"><enum>(1)</enum><text>District directors.</text></paragraph><paragraph id="id071283C14FC648A3B6839AE05CAF8438"><enum>(2)</enum><text>Claims examiners working under such directors.</text></paragraph><paragraph id="id8604DAFF5FD5459EB5FA866429C8ABBF"><enum>(3)</enum><text>Administrative law judges and attorney advisors supporting such judges.</text></paragraph><paragraph id="idE5854F23F9DD40D4AA1F05355D3CD4B5"><enum>(4)</enum><text>Members of the Benefits Review Board established under section
+			 21(b) of the Longshore and Harbor Workers' Compensation Act (33 U.S.C.
+			 921(b)).</text></paragraph></subsection><subsection id="id54003BBA70D842F89EC824B05CD2B3E8"><enum>(b)</enum><header>Training program topics</header><text>The training program under this section shall provide an overview of
+			 topics
+			 that include—</text><paragraph id="id9B0A39F018424919B91EE59884F2BA59"><enum>(1)</enum><text>new
+			 developments in pulmonary medicine relating to  pneumoconiosis;</text></paragraph><paragraph id="id899B2D6A81AD4ECBB132EBE29CC715F3"><enum>(2)</enum><text>medical evidence, and other relevant evidence, sufficient to support a claim for benefits under
+			 this title; and</text></paragraph><paragraph id="id06AD7CD14F6E45AB8C642607A6B78CAD"><enum>(3)</enum><text>weighing conflicting medical evidence and testimony
+			 concerning eligibility for such benefits.</text></paragraph></subsection><subsection id="idF68CB5D221804CAF801E45DF3E6E7C7A"><enum>(c)</enum><header>Timing of training</header><paragraph id="id13D789A06F84456E923A47BB8227608A"><enum>(1)</enum><header>Individuals hired or appointed prior to  the Black Lung
+			 Benefits Improvement Act of 2014</header><text>Any
+			 district director, claims examiner, administrative law judge, attorney
+			 advisor
+			 supporting such judge, or member of the Benefits Review Board described in
+			 subsection (a)(4), who was hired
+			 or appointed prior to the date of enactment of the <short-title>Black Lung Benefits Improvement Act of 2014</short-title> shall complete the training program under this section not later than 60 days after the
+			 establishment of such program under subsection (a) and not less than
+			 annually thereafter.</text></paragraph><paragraph id="id263C946D82094124A8F2D4D28D43B14D"><enum>(2)</enum><header>Individuals hired or appointed after the Black Lung Benefits
+			 Improvement Act of 2014</header><text>Any district director, claims examiner, administrative law judge, attorney advisor supporting such
+			 judge, or
+			 member of the Benefits Review Board described in subsection (a)(4), who
+			 is not described in paragraph (1) shall complete the training program
+			 under this section prior to engaging in any work under this title and not
+			 less than annually thereafter.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section><section commented="no" id="idC95C7DF154524F55A0E705C3DF701D5B"><enum>111.</enum><header>Technical and conforming amendments</header>
+					<subsection id="idAE897AC90CAB4701AEF9A30D9FD7BAE4"><enum>(a)</enum><header>Black Lung Benefits Act</header><text>The Black Lung Benefits Act (30 U.S.C. 901
+			 et seq.) is amended—</text><paragraph commented="no" id="id51C9993A670F4B89A3149E638E030F6B"><enum>(1)</enum><text>in section 401(a)
+			 (<external-xref legal-doc="usc" parsable-cite="usc/30/901">30 U.S.C. 901(a)</external-xref>), by inserting <quote>or who were found to be totally
+			 disabled by such disease</quote> after <quote>such disease</quote>;</text>
+						</paragraph><paragraph commented="no" id="id84F1C951C498405D9197455A37AA2CE8"><enum>(2)</enum><text>in section 402 (<external-xref legal-doc="usc" parsable-cite="usc/30/902">30 U.S.C. 902</external-xref>)—</text><subparagraph commented="no" id="id2CB61090605F467196E7EC1C5A4D8CDB"><enum>(A)</enum><text>in subsection (a), by striking paragraph (2) and inserting the following:</text><quoted-block display-inline="no-display-inline" id="id41742210BCC647F6A40C0B3CDBA7C115" style="OLC"><paragraph id="id2BD6385271504493A8986B016632C407"><enum>(2)</enum><text>a spouse who is a member of the same household as the miner, or is receiving regular contributions
+			 from the miner for support, or whose spouse is a miner who has been
+			 ordered by a court to contribute to support, or who meets the requirements
+			 of paragraph (1) or (2) of section 216(b) of the Social Security Act or
+			 paragraph (1) or (2) of
+			 section 216(f) of such Act. An individual is the <quote>spouse</quote> of a miner when such individual is legally married to the miner under the laws of the State where
+			 the marriage was celebrated. The
+			 term <term>spouse</term> also includes a <quote>divorced wife</quote> or <quote>divorced husband</quote>, as such terms are defined in paragraph (1) or (4) of section 216(d) of such Act, who is receiving
+			 at least one-half of his or her support, as determined in accordance with
+			 regulations prescribed by the Secretary, from the miner, or is receiving
+			 substantial contributions from the miner (pursuant to a written
+			 agreement), or there is in effect a court order for substantial
+			 contributions to the spouse's support from such miner.</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block></subparagraph><subparagraph commented="no" id="idCF803E2EB8F14E8486C4E0ECAE978DEF"><enum>(B)</enum><text>by striking subsection (e) and inserting the following:</text><quoted-block display-inline="no-display-inline" id="idB6F3D58317B44EB0A9A28BE6BECE5CC3" style="OLC"><subsection id="idA897B43F1A2A47D5AC68D756BFB20CB6"><enum>(e)</enum><text>The term <term>surviving spouse</term> includes the spouse living with or dependent for support on the miner at the time of the miner's
+			 death, or living apart for reasonable cause or because of the miner's
+			 desertion, or who meets the requirements of subparagraph (A), (B), (C),
+			 (D), or (E) of section 216(c)(1) of the Social Security Act, subparagraph
+			 (A), (B), (C), (D), or (E)
+			 of section 216(g)(1) of such Act, or section 216(k)  of such Act, who
+			 is not married. An individual is the <quote>surviving spouse</quote> of a miner when validly married at the time of the miner's
+			 death under the laws of the State where the marriage was celebrated. Such
+			 term also includes a <quote>surviving divorced wife</quote> or <quote>surviving divorced husband</quote>, as such terms are defined in paragraph (2) or (5) of section 216(d) of such Act who for the month
+			 preceding the month in which the miner died, was receiving at least
+			 one-half of his or her support, as determined in accordance with
+			 regulations prescribed by the Secretary, from the miner, or was receiving
+			 substantial contributions from the miner (pursuant to a written agreement)
+			 or there was in effect a court order for substantial contributions to the
+			 spouse's support from the miner at the time of the miner's death.</text>
+									</subsection><after-quoted-block>;</after-quoted-block></quoted-block>
+							</subparagraph><subparagraph commented="no" id="id1C0EFD17D9194ED69B4DD40D28EFE042"><enum>(C)</enum><text>in subsection (g)—</text><clause commented="no" id="idC67A0080D2894FFB93EA5ED168E2F371"><enum>(i)</enum><text>in paragraph (2)(B)(ii), by striking <quote>he ceased</quote> and inserting <quote>the individual ceased</quote>; and</text></clause><clause commented="no" id="id2103C6700F80491C8FE7B513D4FEADDE"><enum>(ii)</enum><text>in the matter following paragraph (2)(C), by striking <quote>widow</quote> each place the term appears and inserting <quote>surviving spouse</quote>;</text></clause></subparagraph><subparagraph commented="no" id="idC696ACEB7E0B4A98A580B9DA1DB5DB06"><enum>(D)</enum><text>in subsection (h), by striking <quote>Internal Revenue Code of 1954</quote> and inserting <quote>Internal Revenue Code of 1986</quote>; and</text></subparagraph><subparagraph commented="no" id="id70482DDB1BDC46AA95A70FD977F8719B"><enum>(E)</enum><text>in subsection (i), by striking <quote>Internal Revenue Code of 1954</quote> and inserting <quote>Internal Revenue Code of 1986</quote>;</text></subparagraph></paragraph><paragraph id="id22d020738a2245d2946ce40600821834"><enum>(3)</enum><text>in section 411 (<external-xref legal-doc="usc" parsable-cite="usc/30/921">30 U.S.C. 921</external-xref>)—</text><subparagraph id="idC8957CCF145F464A9B0DADB11D422292"><enum>(A)</enum><text>by striking subsection (a) and inserting the following:</text><quoted-block display-inline="yes-display-inline" id="id3DCD6BA0E28347CC8F6E6830927B3582" style="OLC"><text>(a) The
+			 Secretary shall, in accordance with the provisions of this title, and the
+			 regulations
+			 promulgated by the Secretary under this title, make payments of benefits
+			 in respect of—</text><paragraph id="id399ff6dae7f5454188a84b1f9ffbf5f4"><enum>(1)</enum><text>total disability of any miner due to pneumoconiosis;</text></paragraph><paragraph id="id66cdde08e8aa4a1f8675a0961dbeeb59"><enum>(2)</enum><text>the death of any miner whose death was due to pneumoconiosis;</text></paragraph><paragraph id="id6a42811fc2294f1f9da1986c335eb313"><enum>(3)</enum><text>total disability of any miner at the time of the miner's death with respect to a claim filed under
+			 part C
+			 prior to January 1, 1982;</text></paragraph><paragraph id="idf77eeb690bff47bb8347e8114de158d6"><enum>(4)</enum><text>survivors’ benefits for any claim filed after January 1, 2005, that is pending on or after March
+			 23, 2010, where the miner is found entitled to receive benefits at the
+			 time of the miner's death as a result of the miner’s claim filed under
+			 part C; and</text></paragraph><paragraph id="id72863bc5c1d2444c9c57b5289cfeb62e"><enum>(5)</enum><text>survivors’ benefits where the miner is found entitled to receive benefits at the time of the
+			 miner's death
+			 resulting from the miner’s claim filed under part C before January 1,
+			 1982.</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph><subparagraph id="idC038C84BD96A4FCAA693F9FB1877919F"><enum>(B)</enum><text>in subsection (c)—</text><clause commented="no" id="id304D4AD4A68C4AC2A21BC37D4000E2A1"><enum>(i)</enum><text>in paragraph (1), by striking <quote>his pneumoconiosis</quote> and inserting <quote>the miner's pneumoconiosis</quote>;  and</text></clause><clause commented="no" id="id8C3919DE189E4301BE062776637B216F"><enum>(ii)</enum><text>in paragraph (2), by striking <quote>his death</quote> and inserting <quote>the miner's death</quote>;</text></clause></subparagraph></paragraph><paragraph id="idb6600960de6141e0a07cbf8916c38012"><enum>(4)</enum><text>in section 412 (<external-xref legal-doc="usc" parsable-cite="usc/30/922">30 U.S.C. 922</external-xref>)—</text><subparagraph id="id91F415BE812B49F8A940793C80DA9099"><enum>(A)</enum><text>in subsection (a)—</text><clause id="id4B493537CE3E451A9078A678FDD0540D"><enum>(i)</enum><text>by striking paragraph (2) and inserting the following:</text><quoted-block display-inline="no-display-inline" id="id413a9fcc194d455691d24a5900b1bc0c" style="OLC"><paragraph id="idd6a74142efa34252bb5fab748b51cb24" indent="up1"><enum>(2)</enum><text>In the case of a surviving spouse—</text><subparagraph id="id5c6ab86df77e414ea2bffce8df024b98"><enum>(A)</enum><text>of a miner whose death is due to pneumoconiosis;</text></subparagraph><subparagraph id="ida1d8d4f8a7924eed8542cba13f18dc23"><enum>(B)</enum><text>in a claim filed after January 1, 2005, and that is pending on or after March 23, 2010, of a miner
+			 who is found entitled to receive benefits at the time of the miner’s death
+			 as a result of the miner’s claim filed under part C;</text></subparagraph><subparagraph id="id7a6afd36f4684d73b28b9f8b10c7b2f7"><enum>(C)</enum><text>of a miner who is found entitled to receive benefits at the time of the miner's death as a result
+			 of the
+			 miner’s claim filed under part C before January 1, 1982; or</text></subparagraph><subparagraph commented="no" id="idF17E9AE464D341CDA0188D91D33DC45B"><enum>(D)</enum><text>in a claim filed
+				under part C before January 1, 1982, of a miner
+			 who was
+				totally disabled by pneumoconiosis at the time of the miner's
+			 death,</text>
+											</subparagraph></paragraph><quoted-block-continuation-text quoted-block-continuation-text-level="subsection">benefits
+				shall be paid to the miner's surviving spouse at the rate the
+			 deceased miner
+				would receive such benefits if the miner were totally
+				disabled.</quoted-block-continuation-text><after-quoted-block>;</after-quoted-block></quoted-block></clause><clause id="idc05518ae528347fb8c8eca4d10d46c62"><enum>(ii)</enum><text>in paragraph (3)—</text><subclause id="idb5e10477b7d4497fa84c24fc7c9ba925"><enum>(I)</enum><text>by striking <quote>(3) In the case</quote> and all that follows through <quote>section 411(c)</quote> and inserting the following: <quote>(3)(A) In the case of the child or children of a miner described in subparagraph (B)</quote>;</text></subclause><subclause commented="no" id="id49CAC0F0A9414A7CAFAC08C745404E4C"><enum>(II)</enum><text>by striking <quote>he</quote> each place the term appears and inserting <quote>the child</quote>;</text></subclause><subclause id="id0B75C91CC1D84E23966CC09E1AB8F411"><enum>(III)</enum><text>by striking <quote>widow</quote> each place the term appears and inserting <quote>surviving spouse</quote>; and</text></subclause><subclause id="ide5db83beda8041bd832219566124d08e"><enum>(IV)</enum><text>by adding at the end the following:</text><quoted-block display-inline="no-display-inline" id="idc54421b4682049a9b1d092a36b739af3" style="OLC"><subparagraph id="idd2736710081b40e4affa9c254e7c83fa" indent="up2"><enum>(B)</enum><text>Subparagraph (A) shall apply in the case of any child or children—</text><clause id="idd91edaf4eff4466dbdefba5ff7c5a79c"><enum>(i)</enum><text>of a miner whose death is due to pneumoconiosis;</text></clause><clause id="idd5e8ec9901b24f76a259fdf89c1287a9"><enum>(ii)</enum><text>in a claim filed after January 1, 2005, that is pending on or after March 23, 2010, of a miner who
+			 is found entitled to receive benefits at the time of the miner's death as
+			 a result
+			 of the miner's claim filed under part C;</text></clause><clause id="id7b212f0795ca4231b4124313187e9e8a"><enum>(iii)</enum><text>of a miner who is found entitled to receive benefits at the time of the miner's death as a result
+			 of the miner's claim filed under part C before January 1, 1982;</text></clause><clause id="idb9b56759f36c441ab79193983caa31b2"><enum>(iv)</enum><text>in a claim filed under part C before January 1, 1982, of a miner who was totally disabled by
+			 pneumoconiosis at the time of the miner's death;</text></clause><clause id="ideceaad5f363a4a248e6d656f9ee0642b"><enum>(v)</enum><text>of a surviving spouse who is found entitled to receive benefits under this part at the time of the
+			 surviving spouse's death; or</text></clause><clause id="idd95d214498424b73997e2fc371f8ea1b"><enum>(vi)</enum><text>entitled to the payment of benefits under paragraph (5) of section 411(c).</text></clause></subparagraph><after-quoted-block>; </after-quoted-block></quoted-block></subclause></clause><clause id="id7ce7f5ed242146c282ebc76be44ca8ab"><enum>(iii)</enum><text>in paragraph (5)—</text><subclause id="id3B59D89C1FAD4F78B633E692CA0EB0F8"><enum>(I)</enum><text>by striking the first sentence and inserting the following: <quote>In the case of the dependent parent or parents of a miner who is not survived at the time of death
+			 by a surviving spouse or a child and (i) whose death is due to
+			 pneumoconiosis, (ii) in a claim filed after January 1, 2005, that is
+			 pending on or after March 23, 2010, who is found entitled to receive
+			 benefits at the time of the miner's death as a result of the miner's claim
+			 filed
+			 under part C, (iii) who is found entitled to receive benefits at the time
+			 of death as a result of the miner's claim filed under part C
+			 before
+			 January 1, 1982, or (iv) in a claim filed under part C before January 1,
+			 1982, who was totally disabled by pneumoconiosis at the time of the
+			 miner's death, in
+			 the case of the dependent surviving brother(s) or sister(s) of such a
+			 miner who is not survived at the time of the miner's death by a surviving
+			 spouse,
+			 child, or parent, in the case of the dependent parent or parents of a
+			 miner (who is not survived at the time of the miner's death by a surviving
+			 spouse or
+			 child) who are entitled to the payment of benefits under paragraph (5) of
+			 section 411(c), or in the case of the dependent surviving brother(s) or
+			 sister(s) of a miner (who is not survived at the time of the miner's death
+			 by a
+			 surviving spouse, child, or parent) who are entitled to the payment of
+			 benefits under paragraph (5) of section 411(c), benefits shall be paid
+			 under this part to such parent(s), or to such brother(s), or sister(s), at
+			 the rate specified in paragraph (3) (as if such parent(s) or such
+			 brother(s) or sister(s), were the children of such miner).</quote>; and</text></subclause><subclause commented="no" id="idADC5F2E67E71436195582C8B092311C4"><enum>(II)</enum><text>in the fourth sentence—</text><item commented="no" id="idD8423FCD53114C99BA37B58B52B3D53A"><enum>(aa)</enum><text>by striking <quote>brother only if he</quote> and inserting <quote>brother or sister only if the brother or sister</quote>; and</text></item><item commented="no" id="id77B828555E384609B94603AFF3C42716"><enum>(bb)</enum><text>by striking <quote>before he ceased</quote> and inserting <quote>before the brother or sister ceased</quote>; and</text></item></subclause></clause><clause commented="no" id="id87FF9D93AAC14575B7243B2904411AAA"><enum>(iv)</enum><text>in paragraph (6), by striking <quote>prescribed by him</quote> and inserting <quote>prescribed by such Secretary</quote>;</text></clause></subparagraph><subparagraph commented="no" id="id135D403216FE4D8097B01937AF8FA332"><enum>(B)</enum><text>in subsection (b)—</text><clause commented="no" id="id732CCEA9A30C4571ABBA743B17D3A5D6"><enum>(i)</enum><text>by striking <quote>his</quote> each place the term appears and inserting <quote>such miner's</quote>; and</text></clause><clause commented="no" id="id27B68F4BBA18489EAE60A61AFF145420"><enum>(ii)</enum><text>by striking <quote>widow</quote> each place the term appears and inserting <quote>surviving spouse</quote>; and</text></clause></subparagraph><subparagraph commented="no" id="id5A4330386A71480D9B947F363F59E73D"><enum>(C)</enum><text>in subsection (c), by striking <quote>Internal Revenue Code of 1954</quote> and inserting <quote>Internal Revenue Code of 1986</quote>;</text></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idDE1D83F778A24F71A072A3931D13AF9F"><enum>(5)</enum><text>in section 413 (<external-xref legal-doc="usc" parsable-cite="usc/30/923">30 U.S.C. 923</external-xref>)—</text><subparagraph commented="no" display-inline="no-display-inline" id="id48FAADAF88F64718BBE4326D06D46B75"><enum>(A)</enum><text>in subsection (b)—</text><clause commented="no" display-inline="no-display-inline" id="id5E06B6AC99A84E3DBC1D9261BB1D0C57"><enum>(i)</enum><text>in the second sentence, by striking <quote>his wife's affidavits</quote> and inserting <quote>affidavits of the miner's spouse</quote>;</text></clause><clause commented="no" display-inline="no-display-inline" id="id563E1C550B104DC4993117D7FBC1BAD3"><enum>(ii)</enum><text>in the ninth sentence, by striking <quote>widow</quote> and inserting <quote>surviving spouse</quote>; and</text></clause><clause commented="no" display-inline="no-display-inline" id="idE12DF8F3A6BD4C3A9B2DA83464ABC91A"><enum>(iii)</enum><text>by striking the last sentence; and</text></clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id83FF6AFF6A5849CD9CDE7AE408461C53"><enum>(B)</enum><text>in subsection (c), by striking <quote>his claim</quote> and inserting <quote>the claim</quote>;</text></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idCA558F7ED57F464EABF6BAA052059254"><enum>(6)</enum><text>in section 414 (<external-xref legal-doc="usc" parsable-cite="usc/30/924">30 U.S.C. 924</external-xref>)—</text><subparagraph commented="no" display-inline="no-display-inline" id="idD0D294387ACD49EDBEA3F33EB6704567"><enum>(A)</enum><text>in subsection (a)—</text><clause commented="no" display-inline="no-display-inline" id="id5A7014827FDE466C96BE127FD3FE59C8"><enum>(i)</enum><text>in paragraph (1), by striking <quote>widow, within six months after the death of her husband</quote> and inserting <quote>surviving spouse, within six months after the death of the miner</quote>; and</text></clause><clause commented="no" display-inline="no-display-inline" id="id45811E72D8B44881B0378B9D147A768E"><enum>(ii)</enum><text>in paragraph (2)(C), by striking <quote>his</quote> and inserting <quote>the child's</quote>; and</text></clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idD0DCA2E9398D4DCDBCA131C1C26B7A2B"><enum>(B)</enum><text>in subsection (e)—</text><clause commented="no" display-inline="no-display-inline" id="id0A15415CC34847DDB5A0B1177F116627"><enum>(i)</enum><text>by striking <quote>widow</quote> and inserting <quote>surviving spouse</quote>; and</text></clause><clause commented="no" display-inline="no-display-inline" id="id1FD2DFA6C44D4E96B1C92AFE4F578A02"><enum>(ii)</enum><text>by striking <quote>his death</quote> and inserting <quote>the miner's death</quote>;</text></clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id39DC9A0089A74BCD82E2DD23AC6D802E"><enum>(7)</enum><text>in section 415(a) (<external-xref legal-doc="usc" parsable-cite="usc/30/925">30 U.S.C. 925(a)</external-xref>)—</text><subparagraph commented="no" display-inline="no-display-inline" id="idC15F44BF321C4A02AD287EDA846298D5"><enum>(A)</enum><text>in paragraph (1), by striking <quote>Internal Revenue Code of 1954</quote> and inserting <quote>Internal Revenue Code of 1986</quote>; and</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id2CAB1DE1A0A5481B80F47584E020A7EA"><enum>(B)</enum><text>in paragraph (2)—</text><clause commented="no" display-inline="no-display-inline" id="id01F14251251F407F8E3D8887679AA0C8"><enum>(i)</enum><text>by striking <quote>he</quote> and inserting <quote>such Secretary</quote>; and</text></clause><clause commented="no" display-inline="no-display-inline" id="id54454A06337F4DC79CA2D9F0CC14E91F"><enum>(ii)</enum><text>by striking <quote>him</quote> and inserting <quote>such Secretary</quote>;</text></clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id39A28B00522046EA90C23F4922CD26C1"><enum>(8)</enum><text>in section 421 (<external-xref legal-doc="usc" parsable-cite="usc/30/931">30 U.S.C. 931</external-xref>)—</text><subparagraph commented="no" display-inline="no-display-inline" id="id2982AB91B62A4930B1FB4C74BE877DE2"><enum>(A)</enum><text>in subsection (a), by striking <quote>widows</quote> and inserting <quote>spouses</quote>; and</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idB61B481198694292B007696A76EED75F"><enum>(B)</enum><text>in subsection (b)(2)—</text><clause commented="no" display-inline="no-display-inline" id="id24AE0F93B065466EB202BBCC05E8692B"><enum>(i)</enum><text>in the matter preceding subparagraph (A), by striking <quote>he</quote> and inserting <quote>such Secretary</quote>; and</text></clause><clause commented="no" display-inline="no-display-inline" id="idD016BFDD293249C5884C4D6ECD3F9B16"><enum>(ii)</enum><text>in subparagraph (F), by striking <quote>promulgated by him</quote> and inserting <quote>promulgated by such Secretary</quote>;</text></clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id9FC0AEFDE0574F139A2AD908A2F7EC35"><enum>(9)</enum><text>in section 422 (<external-xref legal-doc="usc" parsable-cite="usc/30/932">30 U.S.C. 932</external-xref>)—</text><subparagraph commented="no" display-inline="no-display-inline" id="id5F73A020FBE04C5CAD48CA38545B5344"><enum>(A)</enum><text>in subsection (a)—</text><clause commented="no" display-inline="no-display-inline" id="idF6ACC90B1902427F90818196B7DA42C4"><enum>(i)</enum><text>by striking <quote>Internal Revenue Code of 1954</quote> and inserting <quote>Internal Revenue Code of 1986</quote>; and</text></clause><clause commented="no" display-inline="no-display-inline" id="idA8FF0134D8574E2F9E66E70BC3B6AC15"><enum>(ii)</enum><text>by striking <quote>he</quote> and inserting <quote>such Secretary</quote>;</text></clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id2F9B2EDA4822415BAC8E8938CBD61ACC"><enum>(B)</enum><text>in subsection (i)(4), by striking <quote>Internal Revenue Code of 1954</quote> and inserting <quote>Internal Revenue Code of 1986</quote>;  and</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idBF02878EE9B24844A7DFB0DDA4C7E058"><enum>(C)</enum><text>in subsection (j), by striking <quote>Internal Revenue Code of 1954</quote> each place the term  appears and inserting <quote>Internal Revenue Code of 1986</quote>;</text></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id01F24DFE8000428A834A83EDC981382E"><enum>(10)</enum><text>in section 423(a) (<external-xref legal-doc="usc" parsable-cite="usc/30/933">30 U.S.C. 933(a)</external-xref>), by striking <quote>he</quote> and inserting <quote>such operator</quote>;</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idC86F45D1327140F39C2E70C46ACC37C1"><enum>(11)</enum><text>in section 424(b) (<external-xref legal-doc="usc" parsable-cite="usc/30/934">30 U.S.C. 934(b)</external-xref>)—</text><subparagraph commented="no" display-inline="no-display-inline" id="id5FBAE7CE0E5D452E93A66DE6A38A9195"><enum>(A)</enum><text>in the matter following subparagraph (B) of paragraph (1), by striking <quote>him</quote> and inserting <quote>such operator</quote>;</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id11366A5BF9034767A845C8AF7FBFC088"><enum>(B)</enum><text>in paragraph (3), by striking <quote>Internal Revenue Code of 1954</quote> each place the term appears and inserting <quote>Internal Revenue Code of 1986</quote>; and</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idCD92D052317F49CDA6D37A211885740F"><enum>(C)</enum><text>in paragraph (5), by striking <quote>Internal Revenue Code of 1954</quote> and inserting <quote>Internal Revenue Code of 1986</quote>;</text></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idF23053D730F241FFBDAD94CD510E8C4E"><enum>(12)</enum><text>in section 428 (<external-xref legal-doc="usc" parsable-cite="usc/30/938">30 U.S.C. 938</external-xref>)—</text><subparagraph commented="no" display-inline="no-display-inline" id="idD613F43FF7DA47C5868D59CDA48EC055"><enum>(A)</enum><text>in subsection (a), by striking <quote>him</quote> and inserting <quote>such operator</quote>; and</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idCE5BA4535F5E42289E72C62F2E89BD4D"><enum>(B)</enum><text>in subsection (b)—</text><clause commented="no" display-inline="no-display-inline" id="id56A7EA5241914E2CA04E8B0E117C1D48"><enum>(i)</enum><text>in the first sentence, by striking <quote>he</quote> and inserting <quote>the miner</quote>;</text></clause><clause commented="no" display-inline="no-display-inline" id="idB1ACDB05F5EA468DAD9CBCEE2D569265"><enum>(ii)</enum><text>in the third sentence, by striking <quote>he</quote> and inserting <quote>the Secretary</quote>;</text></clause><clause commented="no" display-inline="no-display-inline" id="id5D1E7BE9748A418D9020069D0141B33D"><enum>(iii)</enum><text>in the ninth sentence—</text><subclause commented="no" display-inline="no-display-inline" id="id9FBB0EDAA118468B86E3A07328FF5634"><enum>(I)</enum><text>by striking <quote>he</quote> each place the term appears and inserting <quote>the Secretary</quote>; and</text></subclause><subclause commented="no" display-inline="no-display-inline" id="idA56B4A8B2A78453992DEE97D39223256"><enum>(II)</enum><text>by striking <quote>his</quote> and inserting <quote>the miner's</quote>; and</text></subclause></clause><clause commented="no" display-inline="no-display-inline" id="id839DE182EFCA465D9036A05F01338D8E"><enum>(iv)</enum><text>in the tenth sentence, by striking <quote>he</quote> each place the term appears and inserting <quote>the Secretary</quote>; and</text></clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idF3B671A6CB6E4AE4915AFFDF5406C7EA"><enum>(13)</enum><text>in section 430 (<external-xref legal-doc="usc" parsable-cite="usc/30/940">30 U.S.C. 940</external-xref>)—</text><subparagraph commented="no" display-inline="no-display-inline" id="idA060744E69424039989C612402A86427"><enum>(A)</enum><text>by striking <quote>1977 and</quote> and inserting <quote>1977,</quote>; and</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id524B00D63F8F49AD85D45F40D0005548"><enum>(B)</enum><text>by striking <quote>1981</quote> and inserting <quote>1981, and the <short-title>Black Lung Benefits Improvement Act of 2014</short-title>, and any amendments made after the date of enactment of such Act,</quote>.</text></subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id1BC91B0B2EEC4FF1A92DDDA551D88F76"><enum>(b)</enum><header>Internal Revenue Code</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/9501">Section 9501(b)(2)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at
+			 the end the following:</text><quoted-block display-inline="no-display-inline" id="id86fdd7f5fe8248789e859ed4ca349c14" style="OLC"><subparagraph id="id29f831d3528545b3bb72ba07f3d42a4f"><enum>(D)</enum><text>Amounts collected as fees under section 436(g)(2)(A) of the Black Lung Benefits Act.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section><section id="idd54eb695cf754224be2a67486d754607"><enum>112.</enum><header>Readjudicating cases involving certain chest radiographs</header><subsection id="ide6376538111d4caea57fd4cf543c31de"><enum>(a)</enum><header>Definitions</header><text>In this section:</text><paragraph id="id0f540be2d6cc4f46a2ef54f3d4ca14a9"><enum>(1)</enum><header>Complicated pneumoconiosis or progressive massive fibrosis</header><text>The term <term>complicated pneumoconiosis or progressive massive fibrosis</term> means pneumoconiosis that has formed an
+			 opacity, mass, or lesion
+			 greater than one centimeter in diameter.</text></paragraph><paragraph id="id6B39F398F7B14BFFB5B352A95C2B4E07"><enum>(2)</enum><header>Covered chest radiograph</header><text>The term <term>covered chest radiograph</term> means a chest radiograph that was interpreted as negative for pneumoconiosis or complicated
+			 pneumoconiosis or progressive massive fibrosis by a physician with
+			 respect to whom the Secretary of Labor has directed, in writing and after
+			 an
+			 evaluation by such Secretary, that such physician’s negative
+			 interpretations of chest radiographs not be credited, unless otherwise
+			 determined credible by such Secretary, in evaluating a claim for benefits
+			 under the Black
+			 Lung Benefits Act (30
+			 U.S.C. 901 et seq.).</text></paragraph><paragraph id="id7a3037f6878d42c0b5a0ac6611c620a5"><enum>(3)</enum><header>Covered individual</header><text>The term <term>covered individual</term> means an individual whose record for a claim for benefits under the Black Lung Benefits Act
+			 includes a covered chest radiograph.</text></paragraph><paragraph id="idcaef4b81292b44fc8af84826fe5de329"><enum>(4)</enum><header>Covered survivor</header><text>The term <term>covered survivor</term> means an individual who—</text><subparagraph id="idB0992B9A76914DDA9AF315C36D94C3D1"><enum>(A)</enum><text>is a survivor of a covered individual whose claim under the Black Lung Benefits Act was still
+			 pending at the time of the covered
+			 individual’s death; and</text></subparagraph><subparagraph id="id74555EA34A2D4ABEA0BD7AC7F59EB957"><enum>(B)</enum><text>who continued to seek an award with respect to the
+			 covered individual’s claim after the covered individual’s death.</text></subparagraph></paragraph><paragraph id="idD94C2ED71C664B539780CD8C8A7D717B"><enum>(5)</enum><header>Pneumoconiosis</header><text>The term <term>pneumoconiosis</term> has the meaning given the term in section 402(b) of the Black Lung Benefits Act (30 U.S.C.
+			 902(b)).</text></paragraph></subsection><subsection id="id03c121c90ff64a57b85a25c53ea733b9"><enum>(b)</enum><header>Claims</header><text>A covered individual or a covered survivor whose claim for
+			 benefits under the Black Lung Benefits Act was denied prior to the
+			 enactment of this Act may file a new claim for
+			 benefits under this Act not later than one year after the date of
+			 enactment
+			 of this Act.</text></subsection><subsection id="id919E151DF90341689155997A50DD37D2"><enum>(c)</enum><header>Adjudication on the merits</header><paragraph id="id05ABA95ED3C64A78BD8D4D6DEC825830"><enum>(1)</enum><header>In general</header><text>Any new claim filed under subsection (b) shall be adjudicated on the merits and shall not include
+			 consideration of a covered chest radiograph.</text></paragraph><paragraph id="id1C1AED2613484D568236965401BCE80A"><enum>(2)</enum><header>Covered survivor</header><text>Any new claim filed under subsection (b) by a covered survivor shall be adjudicated as either a
+			 miner’s or a survivor’s
+			 claim depending upon the type of claim pending at the time of the covered
+			 individual’s death.</text></paragraph></subsection><subsection id="idd85e38edfefb4b6fa03dcacb7bfac59e"><enum>(d)</enum><header>Time of payment</header><paragraph id="id4f11f6e5019b4417b6065275c713a34f"><enum>(1)</enum><header>Miner's claim</header><text>If a claim, filed under subsection (b) and adjudicated under subsection (c) as a miner’s claim, 
+			 results in an award of benefits, benefits shall be payable beginning with
+			 the month of the filing of the denied claim that had included in its
+			 record a covered chest radiograph.</text></paragraph><paragraph id="idb3bac83e95634bd4872435c70cc98fa1"><enum>(2)</enum><header>Survivor's claim</header><text>If a claim, filed under subsection (b) and adjudicated under subsection (c) as a survivor’s claim, 
+			 results in an award of benefits, benefits shall be payable beginning with
+			 the month of the miner’s death.</text></paragraph></subsection><subsection id="idf23e888e8d1847658906111eb9d594c4"><enum>(e)</enum><header>Contributing impact</header><text>The Secretary of Labor shall have the discretion to deny a new claim under subsection (b)  in
+			 circumstances
+			 where the party
+			 opposing such claim establishes through clear and convincing evidence
+			 that a covered chest radiograph did not contribute to the
+			 decision to deny benefits in all prior claims filed by the covered
+			 individual or the covered survivor.</text></subsection><subsection id="id6768314b178241b8a9d179032148ae93"><enum>(f)</enum><header>Limitation on filing of new claims</header><text>A new claim for benefits may be filed under subsection (b) only if the original claim was finally
+			 denied
+			 by a district director,
+			 an administrative law judge, or the
+			 Benefits Review Board established under section
+			 21(b) of the Longshore and Harbor Workers' Compensation Act (33 U.S.C.
+			 921(b)).</text></subsection></section></part><part id="idAB4080A7B2F94C99B13BE66A56DF75F2" style="OLC"><enum>B<?LEXA-Enum D?></enum><header>Reports To improve the administration of benefits under the Black Lung Benefits Act</header>
+				<section id="id248b2fcc203f4663b09eebc6b0c8d255"><enum>113.</enum><header>Strategy to reduce delays in adjudication</header><subsection id="idAD9EDA90912C4E5D97B6659E60A7BFFF"><enum>(a)</enum><header>In general</header><text>Not later than 90 days after the date of enactment of this Act, the Secretary of Labor shall
+			 submit
+			 to the Committee on Health, Education, Labor, and Pensions and the
+			 Committee on Appropriations  of the Senate
+			 and the Committee on Education and the Workforce and the Committee on
+			 Appropriations of the House of
+			 Representatives a
+			 comprehensive strategy to reduce the backlog of cases pending
+			 on such date of enactment before the Office of Administrative Law Judges
+			 of the Department of Labor.</text></subsection><subsection id="id6C5F1B850F0B4228BBD5F350F8A078F3"><enum>(b)</enum><header>Contents of strategy</header><text>The strategy under this section shall
+			 provide information relating to—</text><paragraph id="idaf547305ecbc42b79e06ad3db09fc559"><enum>(1)</enum><text>the current and targeted pendency for each category of cases before the Office of Administrative
+			 Law Judges of
+			 the Department of Labor;</text></paragraph><paragraph id="id858457bd1c214c5aa71ea94e0f694b58"><enum>(2)</enum><text>the number of administrative law judges, attorney advisors supporting such judges, support staff,
+			 and other resources necessary to
+			 achieve and maintain the targeted pendency for each category of such
+			 cases;</text></paragraph><paragraph id="id33ced2df815a483699312887954c8569"><enum>(3)</enum><text>the necessary resources to improve efficiency and effectiveness, such as equipment for video
+			 conferences, training, use of reemployed annuitants, and administrative
+			 reforms;</text></paragraph><paragraph id="idb52e789bcfe64ecabe5052ee41fc1331"><enum>(4)</enum><text>the impact of sequestration, furloughs, and the Federal Government shutdown, which occurred from
+			 October 1 to October 16, 2013, on increasing administrative burdens and
+			 the backlog of cases pending before such office; and</text></paragraph><paragraph id="id91ad02e3d11046dd99170c5ffbed0319"><enum>(5)</enum><text>with respect to claims filed under the Black Lung Benefits Act (<external-xref legal-doc="usc" parsable-cite="usc/30/901">30 U.S.C. 901 et seq.</external-xref>), the
+			 necessary resources needed to reduce the average pendency of cases to
+			 less than 12 months from the date of receipt of the case to the date of
+			 disposition of such case.</text></paragraph></subsection><subsection id="id80CE318BE39C4A4E9A56557AEF334BA3"><enum>(c)</enum><header>Consultation</header><text>In preparing such strategy, the Secretary of Labor shall consult with
+			 organizations that have ongoing interactions with the Office of
+			 Administrative Law Judges of the Department of Labor, including
+			 organizations that represent parties in  cases under the Black Lung
+			 Benefits Act, the
+			 Longshore
+			 and Harbor Workers' Compensation Act (<external-xref legal-doc="usc" parsable-cite="usc/33/901">33 U.S.C. 901 et seq.</external-xref>), and Federal
+			 statutes regarding
+			 whistleblowers, wages and hours for employees, and immigration.</text></subsection></section><section id="id925D732DFB524F66B8A8874A0063BB07"><enum>114.</enum><header>GAO report on
+			 black lung disease</header>
+					<subsection id="ide7d0d8943fd74ac8bc4c387d32a8f26e"><enum>(a)</enum><header>In
+			 general</header><text>Not later than one year after the date of enactment of this
+			 Act, the Comptroller General of the United States shall submit to the
+			 Committee on Health, Education, Labor, and Pensions of the Senate
+			 and the Committee on Education and the Workforce of the House of
+			 Representatives
+			 a
+			 report on any barriers to health care faced by coal miners with
+			 pneumoconiosis.</text>
+					</subsection><subsection id="idaeb0a98b5aab4530adfe69cd657dd76f"><enum>(b)</enum><header>Contents</header><text>The
+			 report required under subsection (a) shall include—</text>
+						<paragraph id="idbb90ae540d9e44729d4294242b984b4e"><enum>(1)</enum><text>an assessment of
+			 possible barriers to health care under the Black Lung Benefits Act (30
+			 U.S.C. 901 et seq.)
+			 and the
+			 degree to which any barriers impact the ability of miners with
+			 legitimate
+			 medical needs, particularly such miners in rural areas, to access
+			 treatment
+			 for pneumoconiosis;</text>
+						</paragraph><paragraph id="id5b767aff52144493a032bb9f49f7d23c"><enum>(2)</enum><text>recommendations
+			 necessary to address issues, if any, relating to patient access to care
+			 under such Act; and</text>
+						</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id715D8FFEF6B940E78D002737AAA2D4E9"><enum>(3)</enum><text>an evaluation of
+			 whether the benefit payments authorized under such
+			 Act, as amended by this Act, are sufficient
+			 to
+			 meet the expenses of disabled miners, surviving spouses, dependents, and
+			 other family
+			 members entitled to receive benefits under the Black Lung Benefits Act.</text></paragraph></subsection></section></part></title><title id="idF323F85E010C48A385B2052DD295A8C2" style="OLC"><enum>II</enum><header>Standard for respirable dust concentration</header><section id="id188ff0231d70437fb622577bd7d2a462" section-type="subsequent-section"><enum>201.</enum><header>Standard for 
+			 respirable dust concentration</header><text display-inline="no-display-inline">Section 202
+			 of the Federal Mine Safety and Health Act of 1977 (<external-xref legal-doc="usc" parsable-cite="usc/30/842">30 U.S.C. 842</external-xref>) is
+			 amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id716F58E671BA45A590A79B77C70A3D3E" style="OLC"><subsection id="idBAB37C375363453299DF7EEA83D4DFBD"><enum>(i)</enum><header>Reports</header><paragraph id="id750186EA09234AD495D8C9E4122167F1"><enum>(1)</enum><header>Retrospective study</header><subparagraph id="id88E917A5BF544D52B960DAEF44BE40B6"><enum>(A)</enum><header>In general</header><text>Beginning on August 1, 2021, the Secretary shall conduct a retrospective study evaluating
+			 data collected using continuous personal dust monitors to determine
+			 whether to—</text><clause id="id9CB2EF79366849338C62EAF255163648"><enum>(i)</enum><text>lower the applicable standard for respirable dust concentration to protect the health of
+			 miners;</text></clause><clause id="idD85CBCE12F634221ADC62CB072B12411"><enum>(ii)</enum><text>increase the frequency for taking samples of respirable dust concentration, using continuous
+			 personal dust monitors;</text></clause><clause id="id4969B45D4B484628BDA15901E9FD3321"><enum>(iii)</enum><text>modify the engineering controls and work practices used by mine operators to comply with the
+			 applicable standard for respirable dust concentration; and</text></clause><clause id="id982F074198FF4EF9AA73DD0ABE406A1E"><enum>(iv)</enum><text>convert samples taken for shifts that are greater than 8 hours to an 8-hour equivalent
+			 concentration to more accurately assess the conditions of miners working
+			 on longer
+			 shifts.</text></clause></subparagraph><subparagraph id="idD05AB9DD7A2C409AB67FAB48A00B0E91"><enum>(B)</enum><header>Completion deadline</header><text>By August 1, 2022, the Secretary shall complete the study required by subparagraph (A) and
+			 report the findings of such
+			 study to the Committee on Health, Education, Labor, and Pensions
+			 of the Senate and the Committee on Education and the Workforce of the
+			 House of Representatives.</text></subparagraph></paragraph><paragraph id="id44A745B4A1174C41B9B41C31807897D2"><enum>(2)</enum><header>Subsequent studies</header><text>By August 1, 2025, and every 3 years thereafter,	the Secretary shall conduct a new  
+			 study as described in paragraph (1)(A) and report, by not later than one
+			 year after the commencement of the study, the findings
+			 of such study to the Committee on Health, Education, Labor, and Pensions
+			 of the Senate and the Committee on Education and the Workforce of the
+			 House of Representatives.</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id17693A2FBC4A47A2814CE287DE921D96"><enum>(3)</enum><header>Revised standards</header><text>If any report of the Secretary under this subsection concludes that the applicable standard for
+			 respirable dust concentration should be lowered to protect the health of
+			 miners, or that the incidence of pneumoconiosis among coal miners in the
+			 United States, as reported by the National Institute for Occupational
+			 Safety and Health, has not been reduced from such incidence prior to the
+			 implementation of the most recent applicable standard for respirable dust
+			 concentration, the Secretary shall, consistent with the requirements of
+			 this section and section 101, accordingly revise such standard and any
+			 applicable sampling or testing procedures not later than 24 months after
+			 the publication of such report of the Secretary under this subsection.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section></title><title commented="no" id="id28A30C50851A485A84159637AC6C0F92" style="OLC"><enum>III</enum><header>Establishing the Office of Workers' Compensation Programs</header><section commented="no" id="id365C1365085C4CB5B212543AF1C53988"><enum>301.</enum><header>Office of Workers' Compensation Programs</header><subsection commented="no" id="id243D494F787144F5A2711A0E7D057B2C"><enum>(a)</enum><header>Establishment</header><text>There shall be established, in the Department of Labor, an Office of Workers' Compensation Programs
+			 (referred
+			 to
+			 in this section as the <quote>Office</quote>).</text></subsection><subsection commented="no" id="id56733DB328DA4BEEA417A5A0E6878BFA"><enum>(b)</enum><header>Director</header><paragraph commented="no" id="idD55181BE0F614B30A470230D124EC042"><enum>(1)</enum><header>In general</header><text>The Office shall be directed by a Director for the Office of Workers' Compensation (referred to in
+			 this section as the <quote>Director</quote>) who shall be appointed by the President, by and
+			 with the advice and consent of the Senate.</text></paragraph><paragraph commented="no" id="idB02091A5A98542A0AD92EBBA93A52ACA"><enum>(2)</enum><header>Duties</header><text>The Director shall carry out all duties carried out by the Director for the Office of Workers'
+			 Compensation as of the day before the date of enactment of this Act.</text></paragraph></subsection><subsection commented="no" id="id5748CA2E82AE44678F43CAE5EA5DFFC4"><enum>(c)</enum><header>Functions</header><text>The functions of the Office on and after the date of enactment of this Act shall include the
+			 functions of the Office on the day before the date of enactment of this
+			 Act, including all of its personnel, assets, authorities, and liabilities.</text></subsection><subsection commented="no" id="idB0D958B4188C41119F86FAE2B961A88D"><enum>(d)</enum><header>References to Bureau of Employees' Compensation</header><text>Reference in any other Federal law, Executive order, reorganization plan, rule, regulation, or
+			 delegation of authority,  or any document of or relating to the Bureau of
+			 Employees' Compensation with regard to functions carried out by the Office
+			 of Workers' Compensation Programs, shall be deemed to refer to the Office
+			 of Workers' Compensation Programs.</text></subsection></section></title><title id="id494B68F47C0B42B2BDB3B00E1299CD81" style="OLC"><enum>IV</enum><header>Severability</header><section id="idCA0D7849403843A4AE7FC47F686C2CBF"><enum>401.</enum><header>Severability</header><text display-inline="no-display-inline">If any provision of this Act, or an amendment made by this Act, or the application of such
+			 provision to any person or circumstance, is held to be invalid, the
+			 remainder of this Act, or an amendment made by this Act, or the
+			 application of such provision to other persons or circumstances, shall not
+			 be affected.</text>
+			</section></title></legis-body>
+</bill>
+
+

@@ -1,0 +1,303 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-12", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-12-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-10", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Water and Power Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-19", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-07-17T15:11:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 113-532.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-17T15:11:00-04:00", 
+      "calendar": "Union", 
+      "number": "398", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 398.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-07-22T16:48:00-04:00", 
+      "references": [], 
+      "text": "Mr. Daines moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6613-6615", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:48:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3716.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6613-6615", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:53:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-23", 
+      "calendar": "Senate Legislative", 
+      "number": "484", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 484.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5862", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-09-19", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-23", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2014-09-26", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2014-09-26", 
+      "congress": "113", 
+      "law": "public", 
+      "number": "169", 
+      "references": [], 
+      "text": "Became Public Law No: 113-169.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3716-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Horsford, Steven A.", 
+      "sponsored_at": "2014-01-27", 
+      "state": "NV", 
+      "thomas_id": "02147", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "113", 
+    "law_type": "public", 
+    "number": "169"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-06-10", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2014-09-26", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-07-22T16:53:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-09-18", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-12-12", 
+  "number": "3716", 
+  "official_title": "To ratify a water settlement agreement affecting the Pyramid Lake Paiute Tribe, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1818-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1818-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Pyramid Lake Paiute Tribe - Fish Springs Ranch Settlement Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Amodei, Mark E.", 
+    "state": "NV", 
+    "thomas_id": "02090", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2014-09-26", 
+  "subjects": [
+    "Indian claims", 
+    "Indian lands and resources rights", 
+    "Native Americans", 
+    "Nevada", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2014-09-26", 
+    "text": "Pyramid Lake Paiute Tribe - Fish Springs Ranch Settlement Act - (Sec. 3) Authorizes and ratifies the Pyramid Lake Paiute Tribe-Fish Springs Ranch 2013 Supplement to the 2007 Settlement Agreement, dated November 20, 2013, and entered into by the Pyramid Lake Paiute Tribe and the Fish Springs Ranch (Agreement).\n\n(Sec. 4) Authorizes the Tribe, in return for the benefits set forth in the 2007 Settlement Agreement (Original Agreement), the Agreement, and this Act, to execute a waiver and release against Fish Springs of:\n\n all legal rights to challenge the validity, characteristics, or exercise of specified Fish Springs water rights or the project to pump up to 13,000 acre feet per year of such water rights from the Honey Lake Valley Basin for transfer outside of the basin (Project); all claims for damages, losses, or injuries to the Tribe's water rights or claims of interference with, diversion of, or taking of the Tribe's water rights; all claims that would impair, prevent, or interfere with implementation of the Project pursuant to the Agreement or Original Agreement, deliveries of water by the Project pursuant to those Agreements or a Water Banking Trust Agreement between Washoe County and Fish Springs, or assignments of water credits pursuant to such Trust Agreement; and all claims against Fish Springs relating to the negotiation or adoption of the Agreement or the Original Agreement. Authorizes the Tribe, in return for the benefits set forth in the Original Agreement, the Agreement, and this Act, to execute a waiver and release of all claims against the United States that accrued at any time before and on the date that Fish Springs makes the payment to the Tribe as provided in the Agreement for damages, losses, or injuries that are related to:\n\n the Project or specified Fish Springs water rights; the Agreement, the Original Agreement, the final environmental impact statement for the North Valleys Rights-of-Way Projects, or the record of decision regarding that impact statement; claims the United States asserted or could have asserted in any past proceeding related to the Project; the negotiation, execution, or adoption of the Agreement, the Original Agreement, or this Act; the Tribe's use and expenditure of funds paid to the Tribe under the Agreement or the Original Agreement; the Tribe's acquisition and use of land under the Original Agreement; and the extinguishment of the claims, if any, that the Tribe waives and releases pursuant to this Act. Lists the claims and rights that the Tribe retains against Fish Springs and the United States.\n\nProvides that the United States has no right or obligation to bring or assert, on behalf of the Tribe, the claims waived and released by the Tribe after Fish Springs makes the payment to the Tribe as provided in the Agreement.\n\n (Sec. 5) Makes this Act and the Agreement null and void if the Tribe fails to execute the waivers and releases authorized by this Act within 60 days.\n\n(Sec. 6) Limits the Agreement's beneficiaries to its parties, certain purveyors of Project water, and any assignee of Water Rights Credits for Project water pursuant to a Water Banking Trust Agreement between Washoe County and Fish Springs.\n\n (Sec. 7) Vests jurisdiction over any civil action relating to the enforcement of the Agreement, the Original Agreement, or this Act in the United States District Court for the District of Nevada."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Pyramid Lake Paiute Tribe - Fish Springs Ranch Settlement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Pyramid Lake Paiute Tribe - Fish Springs Ranch Settlement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Pyramid Lake Paiute Tribe - Fish Springs Ranch Settlement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Pyramid Lake Paiute Tribe - Fish Springs Ranch Settlement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Pyramid Lake Paiute Tribe - Fish Springs Ranch Settlement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ratify a water settlement agreement affecting the Pyramid Lake Paiute Tribe, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:15-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3716:@@@L&summ2=m&"
+}

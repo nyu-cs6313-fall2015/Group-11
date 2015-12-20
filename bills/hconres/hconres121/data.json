@@ -1,0 +1,131 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-04T14:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8652", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04T14:39:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8652", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-04T14:39:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-08", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-12", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6739", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-12-12", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres121-113", 
+  "bill_type": "hconres", 
+  "by_request": false, 
+  "committees": [], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-12-04T14:39:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-04T14:39:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-12", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-04", 
+  "number": "121", 
+  "official_title": "Providing for a correction in the enrollment of the bill H.R. 3979.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3979-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3979-113", 
+      "reason": "caused-action", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "25", 
+    "name": "McKeon, Howard P. \"Buck\"", 
+    "state": "CA", 
+    "thomas_id": "00778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2014-12-12", 
+  "subjects": [
+    "Congress", 
+    "Defense spending", 
+    "Department of Defense", 
+    "Department of Energy", 
+    "Executive agency funding and structure"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing for a correction in the enrollment of the bill H.R. 3979.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HC121:@@@L&summ2=m&"
+}

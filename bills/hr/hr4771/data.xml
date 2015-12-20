@@ -1,0 +1,141 @@
+<bill session="113" type="h" number="4771" updated="2015-09-01T10:20:42-04:00">
+  <state datetime="2014-12-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-12-18"/>
+  </status>
+  <introduced datetime="2014-05-29"/>
+  <titles>
+    <title type="short" as="introduced">Designer Anabolic Steroid Control Act of 2014</title>
+    <title type="short" as="passed house">Designer Anabolic Steroid Control Act of 2014</title>
+    <title type="short" as="passed senate">Designer Anabolic Steroid Control Act of 2014</title>
+    <title type="short" as="enacted">Designer Anabolic Steroid Control Act of 2014</title>
+    <title type="official" as="introduced">To amend the Controlled Substances Act to more effectively regulate anabolic steroids.</title>
+  </titles>
+  <sponsor id="400320"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2014-07-09"/>
+    <cosponsor id="412270" joined="2014-06-25"/>
+    <cosponsor id="412533" joined="2014-07-25"/>
+    <cosponsor id="412293" joined="2014-07-08"/>
+    <cosponsor id="400308" joined="2014-05-29"/>
+    <cosponsor id="412219" joined="2014-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-29" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-05-29">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-05-29">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-05-30">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2014-09-09">
+      <text>Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.</text>
+    </action>
+    <action datetime="2014-09-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-09-10">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-09-15T14:39:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-587, Part I.</text>
+    </action>
+    <action datetime="2014-09-15T14:59:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 113-587, Part II.</text>
+    </action>
+    <calendar datetime="2014-09-15T14:59:00-04:00" calendar="Union" number="434">
+      <text>Placed on the Union Calendar, Calendar No. 434.</text>
+    </calendar>
+    <action datetime="2014-09-15T16:00:00-04:00">
+      <text>Mr. Pitts moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-09-15T16:00:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7459-7461" label="consideration"/>
+    </action>
+    <action datetime="2014-09-15T16:00:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4771.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-09-15T16:07:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7459-7460" label="text"/>
+    </vote>
+    <action datetime="2014-09-15T16:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-09-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-12-11">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S6696" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-12-11" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-12-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2014-12-13">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-12-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-260" type="public" datetime="2014-12-18">
+      <text>Became Public Law No: 113-260.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="2012"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/2014--Public Law.
+Designer Anabolic Steroid Control Act of 2014 - Amends the Controlled Substances Act to add specified substances to the list of those included within the definition of "anabolic steroid." Provides that a drug or hormonal substance (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone) that is not listed and that is derived from, or has a chemical structure substantially similar to, an anabolic steroid that is listed, shall be considered to be an anabolic steroid for purposes of such Act if it: (1) has been created or manufactured with the intent of producing a substance that either promotes muscle growth or otherwise causes a pharmacological effect similar to that of testosterone; or (2) has been, or is intended to be, promoted in any manner suggesting that consuming it will promote any pharmacological effect similar to that of testosterone.
+
+Prohibits a substance from being considered to be a drug or hormonal substance for purposes of such Act if it is: (1) an herb or other botanical, a concentrate, metabolite, or extract of, or a constituent isolated directly from, an herb or other botanical, or a combination of two or more such substances; or (2) a dietary ingredient for purposes of the Federal Food, Drug, and Cosmetic Act and is not anabolic or androgenic. Requires any person claiming the benefit of such an exception to bear the burden of providing the appropriate evidence.
+
+ Authorizes the Attorney General to issue an order adding a drug or other substance to the definition of "anabolic steroid" upon finding that: (1) the substance satisfies the criteria for being considered an anabolic steroid, and (2) such addition will assist in preventing abuse or misuse of the substance.
+
+ Prohibits importing, exporting, manufacturing, distributing, dispensing, or possessing with intent to manufacture, distribute, or dispense any anabolic steroid, or any product containing an anabolic steroid, unless it bears a label clearly identifying the anabolic steroid by the nomenclature used by the International Union of Pure and Applied Chemistry (IUPAC). Prescribes penalties. Sets forth an exemption from such IUPAC nomenclature requirement if such product is labeled in the manner required under the Federal Food, Drug, and Cosmetic Act, as described in this Act.
+
+Authorizes the Attorney General to: (1) collect data and analyze products to determine&#160;whether they contain anabolic steroids and are properly labeled, and (2) publish a list of products containing an anabolic steroid that are not properly labeled.</summary>
+</bill>

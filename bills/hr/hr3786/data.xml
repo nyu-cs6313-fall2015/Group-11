@@ -1,0 +1,71 @@
+<bill session="113" type="h" number="3786" updated="2015-09-01T10:20:16-04:00">
+  <state datetime="2014-06-17T15:15:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-06-17T15:15:00-04:00"/>
+  </status>
+  <introduced datetime="2013-12-16"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Administrator of General Services, on behalf of the Archivist of the United States, to convey certain Federal property located in the State of Alaska to the Municipality of Anchorage, Alaska.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-12-16" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-12-17">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-03-13" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-04-09T14:46:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-407.</text>
+    </action>
+    <calendar datetime="2014-04-09T14:47:00-04:00" calendar="Union" number="299">
+      <text>Placed on the Union Calendar, Calendar No. 299.</text>
+    </calendar>
+    <action datetime="2014-06-17T15:13:00-04:00">
+      <text>Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-06-17T15:13:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5379-5380" label="consideration"/>
+    </action>
+    <action datetime="2014-06-17T15:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3786.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-06-17T15:15:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5379-5380" label="text"/>
+    </vote>
+    <action datetime="2014-06-17T15:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-06-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alaska"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Land transfers"/>
+    <term name="National Archives and Records Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2014--Passed House amended.
+Directs the Administrator of the General Services Administration (GSA), on behalf of the Archivist of the United States, to convey to the City of Anchorage, Alaska, property in such city consisting of approximately nine acres and improvements located at 400 East Fortieth Street for not less than fair market value. Makes the net proceeds from such conveyance available to the Archivist to fund repairs and restorations conducted by the National Achives and Records Administration (NARA).</summary>
+</bill>

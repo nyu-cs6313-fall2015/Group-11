@@ -1,0 +1,91 @@
+<bill session="113" type="s" number="1535" updated="2015-09-01T10:21:58-04:00">
+  <state datetime="2014-12-11">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-12-11"/>
+  </status>
+  <introduced datetime="2013-09-19"/>
+  <titles>
+    <title type="short" as="introduced">Justice Against Sponsors of Terrorism Act</title>
+    <title type="short" as="reported to senate">Justice Against Sponsors of Terrorism Act</title>
+    <title type="short" as="passed senate">Justice Against Sponsors of Terrorism Act</title>
+    <title type="official" as="introduced">A bill to deter terrorism, provide justice for victims, and for other purposes.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2014-09-11"/>
+    <cosponsor id="412390" joined="2013-09-19"/>
+    <cosponsor id="300027" joined="2013-09-19"/>
+    <cosponsor id="412573" joined="2014-09-10"/>
+    <cosponsor id="300043" joined="2013-09-19"/>
+    <cosponsor id="400134" joined="2013-10-02"/>
+    <cosponsor id="412378" joined="2014-09-10"/>
+    <cosponsor id="300047" joined="2013-09-19"/>
+    <cosponsor id="300048" joined="2014-09-10"/>
+    <cosponsor id="300052" joined="2013-09-19"/>
+    <cosponsor id="412242" joined="2013-09-19"/>
+    <cosponsor id="412495" joined="2013-10-16"/>
+    <cosponsor id="400253" joined="2013-09-19"/>
+    <cosponsor id="400272" joined="2013-09-19"/>
+    <cosponsor id="412247" joined="2013-09-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2014-09-11" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-09-15">
+      <text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2014-09-15" calendar="Senate Legislative" under="General Orders" number="560">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 560.</text>
+    </calendar>
+    <action datetime="2014-12-11">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6657-6660" label="consideration"/>
+    </action>
+    <action datetime="2014-12-11">
+      <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-12-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S6657-6658" label="text"/>
+    </vote>
+    <action datetime="2014-12-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-12-11T21:55:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-12-11T22:47:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="3143"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Civil actions and liability"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Federal district courts"/>
+    <term name="Government liability"/>
+    <term name="Jurisdiction and venue"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4096"/>
+  </amendments>
+  <summary>12/11/2014--Passed Senate amended.
+Justice Against Sponsors of Terrorism Act - Amends the federal judicial code to include among the exceptions to U.S. jurisdictional immunity of foreign states any statutory or common law tort claim arising out of an act of extrajudicial killing, aircraft sabotage, hostage taking, terrorism, or the provision of material support or resources for such an act, or any claim for contribution or indemnity relating to a claim arising out of such an act.
+
+Amends the federal criminal code to: (1) impose liability on any person who aids, abets, or conspires with a person who commits an act of international terrorism that is committed, planned, or authorized by a designated foreign terrorist organization and that injures a U.S. national; and (2) repeal provisions prohibiting civil actions against foreign states or foreign officials for damages related to acts of terrorism.
+
+Grants U.S. district courts personal jurisdiction, to the maximum extent permissible under the Fifth Amendment, over any person who commits or aids and abets an act of international terrorism, or who otherwise sponsors such act or the person who committed such an act, that injures a U.S. national.
+
+Makes this Act applicable to any civil action: (1) pending on, or commenced on or after, this Act's enactment date; and (2) arising out of an injury to a person, property, or business on or after September 11, 2001.</summary>
+</bill>

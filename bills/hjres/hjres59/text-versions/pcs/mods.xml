@@ -1,0 +1,300 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1862d3795">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Making continuing appropriations for fiscal year 2014, and for other purposes.;
+   		H.J. Res. 59 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-09-24</dateIngested>
+</extension>
+<titleInfo>
+ <title>Making continuing appropriations for fiscal year 2014, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.J. Res. 59 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-09-23</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>20 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/8:</classification>
+<identifier type="local">P0b002ee1862d3795</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hjres59pcs</identifier>
+<identifier type="preferred citation">H.J. Res. 59</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325570</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House joint resolutions</identifier>
+<identifier type="former package identifier">f:hj59_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hjres59pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hjres59pcs/html/BILLS-113hjres59pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hjres59pcs/pdf/BILLS-113hjres59pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hjres59pcs/xml/BILLS-113hjres59pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-09-24</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-02</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hjres59pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 121note</partNumber>
+  <partNumber>Title 6 Section 391</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 121note</identifier>
+ <identifier type="USC citation">6 U.S.C. 391</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 1736b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 1736b</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 2104note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 2104note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 2412</partNumber>
+  <partNumber>Title 22 Section 2680</partNumber>
+  <partNumber>Title 22 Section 6212</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 2412</identifier>
+ <identifier type="USC citation">22 U.S.C. 2680</identifier>
+ <identifier type="USC citation">22 U.S.C. 6212</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1513</partNumber>
+  <partNumber>Title 31 Section 3101</partNumber>
+  <partNumber>Title 31 Section 3101(b)</partNumber>
+  <partNumber>Title 31 Chapter 31</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1513</identifier>
+ <identifier type="USC citation">31 U.S.C. 3101</identifier>
+ <identifier type="USC citation">31 U.S.C. 3101(b)</identifier>
+ <identifier type="USC citation">31 U.S.C. Chapter 31</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 40 Section 14704</partNumber>
+</titleInfo>
+ <identifier type="USC citation">40 U.S.C. 14704</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 247d-6b</partNumber>
+  <partNumber>Title 42 Section 247d-6b(c)(1)(B)</partNumber>
+  <partNumber>Title 42 Section 247d-7e</partNumber>
+  <partNumber>Title 42 Section 3514a</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 247d-6b</identifier>
+ <identifier type="USC citation">42 U.S.C. 247d-6b(c)(1)(B)</identifier>
+ <identifier type="USC citation">42 U.S.C. 247d-7e</identifier>
+ <identifier type="USC citation">42 U.S.C. 3514a</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 3094(a)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 3094(a)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 91-672</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 91-672</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 105-277</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 105-277</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-295</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-295</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-161</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-161</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-148</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-148</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-152</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-152</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-55</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-55</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-74</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-74</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-81</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-81</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-175</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-175</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-2</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-2</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-6</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-6</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 195</identifier>
+</relatedItem>
+<extension>
+ <docClass>hjres</docClass>
+ <accessId>BILLS-113hjres59pcs</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>59</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <action date="2013-09-23">Received; read twice and placed on the calendar pursuant to the order of September 19, 2013</action>
+ <law congress="91" isPrivate="false" number="672"></law>
+ <law congress="105" isPrivate="false" number="277"></law>
+ <law congress="109" isPrivate="false" number="295"></law>
+ <law congress="110" isPrivate="false" number="161"></law>
+ <law congress="111" isPrivate="false" number="148"></law>
+ <law congress="111" isPrivate="false" number="152"></law>
+ <law congress="112" isPrivate="false" number="55"></law>
+ <law congress="112" isPrivate="false" number="74"></law>
+ <law congress="112" isPrivate="false" number="81"></law>
+ <law congress="112" isPrivate="false" number="175"></law>
+ <law congress="113" isPrivate="false" number="2"></law>
+ <law congress="113" isPrivate="false" number="6"></law>
+ <congCalendar congress="113" number="195" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="6">
+                      <section detail="note" number="121"></section>
+                      <section number="391"></section>
+                </USCode>
+ <USCode title="7">
+                      <section number="1736b"></section>
+                </USCode>
+ <USCode title="16">
+                      <section detail="note" number="2104"></section>
+                </USCode>
+ <USCode title="22">
+                      <section number="2412"></section>
+                      <section number="2680"></section>
+                      <section number="6212"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="1513"></section>
+                      <section number="3101"></section>
+                      <section detail="(b)" number="3101"></section>
+                      <chapter number="31"></chapter>
+                </USCode>
+ <USCode title="40">
+                      <section number="14704"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="247d-6b"></section>
+                      <section detail="(c)(1)(B)" number="247d-6b"></section>
+                      <section number="247d-7e"></section>
+                      <section number="3514a"></section>
+                </USCode>
+ <USCode title="50">
+                      <section detail="(a)(1)" number="3094"></section>
+                </USCode>
+</extension>
+</mods>

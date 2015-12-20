@@ -1,0 +1,135 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-20", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 23 - 10.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-06-26T13:24:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-497.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-26T13:24:00-04:00", 
+      "calendar": "Union", 
+      "number": "370", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 370.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4691-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2014-05-20", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2014-05-28", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-20", 
+  "number": "4691", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to modify the tax rate for excise tax on investment income of private foundations.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Private Foundation Excise Tax Simplification Act of 2014", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Paulsen, Erik", 
+    "state": "MN", 
+    "thomas_id": "01930", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-05-29", 
+  "subjects": [
+    "Financial services and investments", 
+    "Sales and excise taxes", 
+    "Tax-exempt organizations", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2014-06-26", 
+    "text": "Private Foundation Excise Tax Simplification Act of 2014 - Amends the Internal Revenue Code to: (1) reduce from 2% to 1% the excise tax rate on the net investment income of tax-exempt private foundations, and (2) repeal the 1% reduction in such tax rate for private foundations that meet certain distribution requirements."
+  }, 
+  "titles": [
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Private Foundation Excise Tax Simplification Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to modify the tax rate for excise tax on investment income of private foundations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:40-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4691:@@@L&summ2=m&"
+}

@@ -1,0 +1,165 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-30", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee Indian and Alaska Native Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-29", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee Indian and Alaska Native Affairs Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-22T17:24:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-699.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-22T17:24:00-05:00", 
+      "calendar": "Union", 
+      "number": "530", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 530.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4534-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-30", 
+  "number": "4534", 
+  "official_title": "To amend the Indian Child Protection and Family Violence Prevention Act to require background checks before foster care placements are ordered in tribal court proceedings, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2160-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Native American Children's Safety Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cramer, Kevin", 
+    "state": "ND", 
+    "thomas_id": "02144", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Adoption and foster care", 
+    "Child safety and welfare", 
+    "Criminal justice information and records", 
+    "Department of the Interior", 
+    "Domestic violence and child abuse", 
+    "Indian social and development programs", 
+    "Native Americans"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-30", 
+    "text": "Native American Children's Safety Act - Amends the Indian Child Protection and Family Violence Prevention Act (Act) to prohibit any foster care placement over which an Indian tribe has exclusive jurisdiction from being ordered until the tribal social services agency: (1) completes an investigation of the character of each covered individual who resides in the household or is employed at the institution in which the foster care placement will be made, and (2) concludes that each of those individuals meets the standards of character the tribe is required to establish.\n\nDefines a \"covered individual\" as an adult and any other individual the tribe determines is subject to such character investigation.\n\nRequires the tribal social services agency, as part of those investigations, to: (1) perform criminal records checks, including fingerprint-based checks of national crime information databases; (2) check any child abuse and neglect registry maintained by the state in which the individual resides; and (3) request any other state in which the individual resided during the preceding five years to allow the agency to check its registry.\n\nProhibits a foster care placement from being ordered if the investigation reveals that the covered individual: (1) has been found guilty by a federal, state, or tribal court of a felony involving child abuse or neglect, spousal abuse, a crime against a child, violence, or drugs; or (2) is listed on a child abuse and neglect registry in the state where the individual resides or resided within the preceding five years.\n\nExcepts emergency foster care placements from such requirements.\n\nRequires each Indian tribe to establish procedures to recertify homes or institutions in which foster care placements are made.\n\nDirects the Secretary of the Interior to promulgate a regulation establishing: (1) procedures for investigating the character of any covered individual who resides in the home or is employed at the institution in which the child is placed after the investigations that preceded that placement occurred, (2) self-reporting requirements for foster care homes or institutions that have knowledge that a covered individual residing on their premises would fail the character investigation, (3) procedures and guidelines for emergency foster care placements, and (4) procedures for certifying compliance with the Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Native American Children's Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Native American Children's Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Indian Child Protection and Family Violence Prevention Act to require background checks before foster care placements are ordered in tribal court proceedings, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:36-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4534:@@@L&summ2=m&"
+}

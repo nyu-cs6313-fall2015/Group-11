@@ -1,0 +1,217 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee186235387">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 38, United States Code, to codify and improve the election requirements for the receipt of educational assistance under the Post-9/11 Educational Assistance program of the Department of Veterans Affairs.;
+   		Budgetary Effects of PAYGO Legislation;Budgetary Effects of PAYGO Legislation;Budgetary Effects of PAYGO Legislation;H.R. 2481 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-09-12</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 38, United States Code, to codify and improve the election requirements for the receipt of educational assistance under the Post-9/11 Educational Assistance program of the Department of Veterans Affairs.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Budgetary Effects of PAYGO Legislation</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>2018</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2481 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-09-11</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>38 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee186235387</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2481rh</identifier>
+<identifier type="preferred citation">H.R. 2481</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2481_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2481rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2481rh/html/BILLS-113hr2481rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2481rh/pdf/BILLS-113hr2481rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2481rh/xml/BILLS-113hr2481rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-09-12</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-02</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr2481rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Bill Flores</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Veterans&apos; Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Chapter 61</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. Chapter 61</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 37 Section 310</partNumber>
+</titleInfo>
+ <identifier type="USC citation">37 U.S.C. 310</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 101(3)</partNumber>
+  <partNumber>Title 38 Section 2021(e)(F)</partNumber>
+  <partNumber>Title 38 Section 306A</partNumber>
+  <partNumber>Title 38 Section 3301note</partNumber>
+  <partNumber>Title 38 Chapter 80</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 101(3)</identifier>
+ <identifier type="USC citation">38 U.S.C. 2021(e)(F)</identifier>
+ <identifier type="USC citation">38 U.S.C. 306A</identifier>
+ <identifier type="USC citation">38 U.S.C. 3301note</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 80</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Appendix 501</partNumber>
+  <partNumber>Title 50 Appendix 517</partNumber>
+  <partNumber>Title 50 Appendix 518</partNumber>
+  <partNumber>Title 50 Appendix 521</partNumber>
+  <partNumber>Title 50 Appendix 527</partNumber>
+  <partNumber>Title 50 Appendix 531</partNumber>
+  <partNumber>Title 50 Appendix 597</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. App. 501</identifier>
+ <identifier type="USC citation">50 U.S.C. App. 517</identifier>
+ <identifier type="USC citation">50 U.S.C. App. 518</identifier>
+ <identifier type="USC citation">50 U.S.C. App. 521</identifier>
+ <identifier type="USC citation">50 U.S.C. App. 527</identifier>
+ <identifier type="USC citation">50 U.S.C. App. 531</identifier>
+ <identifier type="USC citation">50 U.S.C. App. 597</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-252</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-252</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 152</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr2481rh</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2481</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle>Budgetary Effects of PAYGO Legislation</shortTitle>
+ <shortTitle>2013</shortTitle>
+ <shortTitle>2018</shortTitle>
+ <action date="2013-06-25">Mr. Flores introduced the following bill; which was referred to the Committee on Veterans&apos; Affairs</action>
+ <action date="2013-09-11">Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action>
+ <congCommittee authorityId="hsvr00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                      <name type="authority-short">Veterans&apos; Affairs</name>
+                </congCommittee>
+ <congMember authorityId="2065" bioGuideId="F000461" chamber="H" congress="113" gpoId="8173" party="R" role="SPONSOR" state="TX">
+                      <name type="parsed">Mr. Flores</name>
+                      <name type="authority-fnf">Bill Flores</name>
+                      <name type="authority-lnf">Flores, Bill</name>
+                </congMember>
+ <law congress="110" isPrivate="false" number="252"></law>
+ <congCalendar congress="113" number="152" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <chapter number="61"></chapter>
+                </USCode>
+ <USCode title="37">
+                      <section number="310"></section>
+                </USCode>
+ <USCode title="38">
+                      <section detail="(3)" number="101"></section>
+                      <section detail="(e)(F)" number="2021"></section>
+                      <section number="306A"></section>
+                      <section detail="note" number="3301"></section>
+                      <chapter number="80"></chapter>
+                </USCode>
+ <USCode title="50">
+                      <appendix detail="et seq." number="501"></appendix>
+                      <appendix number="517"></appendix>
+                      <appendix number="518"></appendix>
+                      <appendix detail="et seq." number="521"></appendix>
+                      <appendix number="527"></appendix>
+                      <appendix detail="et seq." number="531"></appendix>
+                      <appendix detail="(b)(3)" number="597"></appendix>
+                </USCode>
+</extension>
+</mods>

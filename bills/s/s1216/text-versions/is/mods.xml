@@ -1,0 +1,157 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18508eda3">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To improve and increase the availability of on-job training and apprenticeship programs carried out by the Secretary of Veterans Affairs, and for other purposes.;
+   		Improving Job Opportunities for Veterans Act of 2013;S. 1216 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-06-27</dateIngested>
+</extension>
+<titleInfo>
+ <title>To improve and increase the availability of on-job training and apprenticeship programs carried out by the Secretary of Veterans Affairs, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Improving Job Opportunities for Veterans Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1216 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-06-25</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18508eda3</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1216is</identifier>
+<identifier type="preferred citation">S. 1216</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1216_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1216is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1216is/html/BILLS-113s1216is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1216is/pdf/BILLS-113s1216is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1216is/xml/BILLS-113s1216is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-06-27</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1216is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Michael F. Bennet</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Johanns</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Veterans&apos; Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 3677</partNumber>
+  <partNumber>Title 38 Section 3677(b)(1)(A)</partNumber>
+  <partNumber>Title 38 Section 5503(d)(7)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 3677</identifier>
+ <identifier type="USC citation">38 U.S.C. 3677(b)(1)(A)</identifier>
+ <identifier type="USC citation">38 U.S.C. 5503(d)(7)</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1216is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1216</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Improving Job Opportunities for Veterans Act of 2013</shortTitle>
+ <action date="2013-06-25">Mr. Bennet (for himself and Mr. Johanns) introduced the following bill; which was read twice and referred to the Committee on Veterans&apos; Affairs</action>
+ <congCommittee authorityId="ssva00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                      <name type="authority-short">Veterans&apos; Affairs</name>
+                </congCommittee>
+ <congMember authorityId="1965" bioGuideId="B001267" chamber="S" congress="113" gpoId="8302" party="D" role="SPONSOR" state="CO">
+                      <name type="parsed">Mr. Bennet</name>
+                      <name type="authority-fnf">Michael F. Bennet</name>
+                      <name type="authority-lnf">Bennet, Michael F.</name>
+                      <name type="authority-other">Michael Bennet</name>
+                </congMember>
+ <congMember authorityId="1899" bioGuideId="J000291" chamber="S" congress="113" gpoId="8325" party="R" role="COSPONSOR" state="NE">
+                      <name type="parsed">Mr. Johanns</name>
+                      <name type="authority-fnf">Mike Johanns</name>
+                      <name type="authority-lnf">Johanns, Mike</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="38">
+                      <section number="3677"></section>
+                      <section detail="(b)(1)(A)" number="3677"></section>
+                      <section detail="(d)(7)" number="5503"></section>
+                </USCode>
+</extension>
+</mods>

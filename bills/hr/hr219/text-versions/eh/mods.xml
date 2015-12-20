@@ -1,0 +1,167 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb1476">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To improve and streamline disaster assistance for Hurricane Sandy, and for other purposes.;
+   		H.R. 219 (EH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To improve and streamline disaster assistance for Hurricane Sandy, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 219 (EH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-14</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>32 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee183eb1476</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr219eh</identifier>
+<identifier type="preferred citation">H.R. 219</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h219_eh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr219eh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr219eh/html/BILLS-113hr219eh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr219eh/pdf/BILLS-113hr219eh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr219eh/xml/BILLS-113hr219eh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr219eh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Chapter 5</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. Chapter 5</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 479aet seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 479aet seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 201et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 201et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 5121et seq.</partNumber>
+  <partNumber>Title 42 Section 5122</partNumber>
+  <partNumber>Title 42 Section 5170b</partNumber>
+  <partNumber>Title 42 Section 5170c</partNumber>
+  <partNumber>Title 42 Section 5170c(c)(2)</partNumber>
+  <partNumber>Title 42 Section 5170</partNumber>
+  <partNumber>Title 42 Section 5172</partNumber>
+  <partNumber>Title 42 Section 5173</partNumber>
+  <partNumber>Title 42 Section 5174(c)(1)(B)</partNumber>
+  <partNumber>Title 42 Section 5174(e)(1)</partNumber>
+  <partNumber>Title 42 Section 5189</partNumber>
+  <partNumber>Title 42 Section 5191</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 5121et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5122</identifier>
+ <identifier type="USC citation">42 U.S.C. 5170b</identifier>
+ <identifier type="USC citation">42 U.S.C. 5170c</identifier>
+ <identifier type="USC citation">42 U.S.C. 5170c(c)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 5170</identifier>
+ <identifier type="USC citation">42 U.S.C. 5172</identifier>
+ <identifier type="USC citation">42 U.S.C. 5173</identifier>
+ <identifier type="USC citation">42 U.S.C. 5174(c)(1)(B)</identifier>
+ <identifier type="USC citation">42 U.S.C. 5174(e)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 5189</identifier>
+ <identifier type="USC citation">42 U.S.C. 5191</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr219eh</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>219</billNumber>
+ <billVersion reprint="false">eh</billVersion>
+ <fileSuffix>eh</fileSuffix>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <chapter number="5"></chapter>
+                </USCode>
+ <USCode title="25">
+                      <section detail="et seq." number="479a"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="et seq." number="201"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="5121"></section>
+                      <section number="5122"></section>
+                      <section number="5170b"></section>
+                      <section number="5170c"></section>
+                      <section detail="(c)(2)" number="5170c"></section>
+                      <section number="5170"></section>
+                      <section number="5172"></section>
+                      <section number="5173"></section>
+                      <section detail="(c)(1)(B)" number="5174"></section>
+                      <section detail="(e)(1)" number="5174"></section>
+                      <section number="5189"></section>
+                      <section number="5191"></section>
+                </USCode>
+</extension>
+</mods>

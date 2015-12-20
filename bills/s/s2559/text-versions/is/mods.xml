@@ -1,0 +1,171 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1897b894e">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide greater transparency, accountability, and safety authority to the National Highway Traffic Safety Administration, and for other purposes.;
+   		S. 2559 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-07-10</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide greater transparency, accountability, and safety authority to the National Highway Traffic Safety Administration, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2559 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-06-26</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>20 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee1897b894e</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s2559is</identifier>
+<identifier type="preferred citation">S. 2559</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2559_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s2559is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2559is/html/BILLS-113s2559is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2559is/pdf/BILLS-113s2559is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2559is/xml/BILLS-113s2559is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-07-10</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s2559is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>John D. Rockefeller IV</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Commerce, Science, and Transportation</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 552(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 552(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Section 30104</partNumber>
+  <partNumber>Title 49 Section 30118</partNumber>
+  <partNumber>Title 49 Section 30120</partNumber>
+  <partNumber>Title 49 Section 30165</partNumber>
+  <partNumber>Title 49 Section 30165(a)</partNumber>
+  <partNumber>Title 49 Section 30165note</partNumber>
+  <partNumber>Title 49 Section 30166(m)</partNumber>
+  <partNumber>Title 49 Section 30166(o)</partNumber>
+  <partNumber>Title 49 Section 30166note</partNumber>
+  <partNumber>Title 49 Chapter 301</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. 30104</identifier>
+ <identifier type="USC citation">49 U.S.C. 30118</identifier>
+ <identifier type="USC citation">49 U.S.C. 30120</identifier>
+ <identifier type="USC citation">49 U.S.C. 30165</identifier>
+ <identifier type="USC citation">49 U.S.C. 30165(a)</identifier>
+ <identifier type="USC citation">49 U.S.C. 30165note</identifier>
+ <identifier type="USC citation">49 U.S.C. 30166(m)</identifier>
+ <identifier type="USC citation">49 U.S.C. 30166(o)</identifier>
+ <identifier type="USC citation">49 U.S.C. 30166note</identifier>
+ <identifier type="USC citation">49 U.S.C. Chapter 301</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s2559is</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2559</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <action date="2014-06-26">Mr. Rockefeller introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation</action>
+ <congCommittee authorityId="sscm00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+                      <name type="authority-short">Commerce</name>
+                </congCommittee>
+ <congMember authorityId="1424" bioGuideId="R000361" chamber="S" congress="113" gpoId="8273" party="D" role="SPONSOR" state="WV">
+                      <name type="parsed">Mr. Rockefeller</name>
+                      <name type="authority-fnf">John D. Rockefeller IV</name>
+                      <name type="authority-lnf">Rockefeller, John D., IV</name>
+                      <name type="authority-other">John Rockefeller IV</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(b)" number="552"></section>
+                </USCode>
+ <USCode title="49">
+                      <section number="30104"></section>
+                      <section number="30118"></section>
+                      <section number="30120"></section>
+                      <section number="30165"></section>
+                      <section detail="(a)" number="30165"></section>
+                      <section detail="note" number="30165"></section>
+                      <section detail="(m)" number="30166"></section>
+                      <section detail="(o)" number="30166"></section>
+                      <section detail="note" number="30166"></section>
+                      <chapter number="301"></chapter>
+                </USCode>
+</extension>
+</mods>

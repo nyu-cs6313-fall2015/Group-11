@@ -1,0 +1,305 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-15", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Homeland Security, Armed Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-15", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-15", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Foreign Affairs", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-15", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Homeland Security", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-15", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to House Armed Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-15", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Border and Maritime Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5114-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Border and Maritime Security", 
+      "subcommittee_id": "11"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Barber, Ron", 
+      "sponsored_at": "2014-07-15", 
+      "state": "AZ", 
+      "thomas_id": "02093", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "sponsored_at": "2014-07-25", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Dent, Charles W.", 
+      "sponsored_at": "2014-07-17", 
+      "state": "PA", 
+      "thomas_id": "01799", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2014-07-15", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "2014-07-28", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2014-08-01", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2014-07-25", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2014-07-22", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2014-07-25", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-15", 
+  "number": "5114", 
+  "official_title": "To facilitate the expedited processing of minors entering the United States across the southern border and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2611-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2666-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Helping Unaccompanied Minors and Alleviating National Emergency Act", 
+  "sponsor": {
+    "district": "28", 
+    "name": "Cuellar, Henry", 
+    "state": "TX", 
+    "thomas_id": "01807", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-15", 
+  "subjects": [
+    "Administrative remedies", 
+    "Border security and unlawful immigration", 
+    "Child safety and welfare", 
+    "Congressional oversight", 
+    "Criminal justice information and records", 
+    "Customs enforcement", 
+    "Detention of persons", 
+    "Drug trafficking and controlled substances", 
+    "Due process and equal protection", 
+    "Government studies and investigations", 
+    "Human trafficking", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Intelligence activities, surveillance, classified information", 
+    "Judges", 
+    "Judicial review and appeals", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "National Guard and reserves", 
+    "Performance measurement", 
+    "Refugees, asylum, displaced persons", 
+    "Rural conditions and development", 
+    "Sex offenses", 
+    "Smuggling and trafficking", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-15", 
+    "text": "Helping Unaccompanied Minors and Alleviating National Emergency Act or the HUMANE Act - Amends the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to declare that any unaccompanied alien child (UAC) who has not been a victim of a severe form of trafficking in persons or does not have a credible fear of persecution on returning to his or her country of nationality or of last habitual residence shall be: (1) placed in removal proceedings, (2) eligible for voluntary departure at no cost to the child, and (3) provided with access to counsel. (Currently such expedited removal requirements apply only to unaccompanied children from countries that are contiguous to the United States.)\n\nDirects the Secretary of State to negotiate agreements regarding the repatriation of children with Canada, El Salvador, Guatemala, Honduras, Mexico, and any other appropriate foreign country. (Currently such agreements are to be negotiated between the United States and countries contiguous to the United States.)\n\nRequires a UAC to be placed within seven days of initial screening in a proceeding to expedite due process and screening.\n\nProhibits a UAC to be removed from U.S. custody during preliminary proceedings until repatriation or unless placed in removal proceedings.\n\nAmends the Immigration and Nationality Act to establish a proceeding to expedite due process and screening for UACs. Requires an immigration judge to:\n\n conduct a proceeding to inspect and determine the status of a UAC who is an applicant for U.S. admission not later than 7 days after initial screening, determine within 72 hours of the proceeding's conclusion whether a UAC is likely to be admissible (or eligible for relief from removal) or is lawfully present in the United States, and place a UAC in further proceedings if such conditions have been met or order a UAC removed from the United States without further hearing or review unless there is a claim of asylum or a credible fear of persecution. States that:\n\n if a UAC intends to make a claim of asylum or fear of persecution he or she shall be referred to an asylum officer who shall determine in an interview whether there is a credible fear of persecution; if there is no credible fear of persecution a UAC shall be ordered removed without further hearing or review; and a UAC shall be held in protective Department of Health and Human Services (HHS) custody pending a final determination of credible fear of persecution, or removal. Sets forth due process protections for UACs, including protective HHS custody.\n\nDirects the Attorney General (DOJ) to hire or reassign up to 40 immigration judges to conduct expedited inspection and screening of UACs.\n\nProhibits the Secretary of HHS from placing a UAC in the custody of an individual who has been convicted of a sex offense or a crime involving a severe form of trafficking in persons. Requires related biometric criminal background checks.\n\nRequires the Secretary of Homeland Security (DHS) to submit to Congress a comprehensive strategy for: (1) gaining and maintaining situational awareness and operational control of high traffic areas along the U.S. southern and northern borders within two years, and (2) gaining and maintaining operational control along the southwest border of the United States not later than five years. Requires the Secretary to submit a related implementation plan to Congress and the Government Accountability Office (GAO).\n\n Requires the Secretary of DHS to implement metrics to measure the effectiveness of security at and between ports of entry and in the maritime environment.\n\nProhibits the Secretary of DHS from conducting any study relating to the imposition of a border crossing fee for pedestrians or passenger vehicles at land ports of entry along the U.S. southern and northern borders.\n\nDirects the Secretary of DHS to: (1) upgrade technological assets and equipment and physical and tactical infrastructure on the southern border, and (2) increase the number of trained active-duty U.S. Customs and Border Protection (CBP) officers on the southern border.\n\nAuthorizes funds under this Act to be expended, with the approval of the Secretary of Defense (DOD) and the Secretary of HHS, for the governor of a state to order any units or personnel of the state's National Guard to perform specified operations on the southern border.\n\n Directs the Federal Emergency Management Agency (FEMA) to enhance law enforcement preparedness, humanitarian responses, and operational readiness along the southern border through Operation Stonegarden."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Helping Unaccompanied Minors and Alleviating National Emergency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "HUMANE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To facilitate the expedited processing of minors entering the United States across the southern border and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:51-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5114:@@@L&summ2=m&"
+}

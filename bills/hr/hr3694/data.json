@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-11", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3694-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2013-12-11", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2013-12-11", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Miller, George", 
+      "sponsored_at": "2014-05-09", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-12-11", 
+  "number": "3694", 
+  "official_title": "To amend the Higher Education Act of 1965 to make technical improvements to the Net Price Calculator system so that prospective students may have a more accurate understanding of the true cost of college.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2281-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Net Price Calculator Improvement Act", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Cummings, Elijah E.", 
+    "state": "MD", 
+    "thomas_id": "00256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-12-11", 
+  "subjects": [
+    "Consumer affairs", 
+    "Education", 
+    "Government information and archives", 
+    "Higher education", 
+    "Internet and video services", 
+    "Student aid and college costs", 
+    "Veterans' education, employment, rehabilitation"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-12-11", 
+    "text": "Net Price Calculator Improvement Act - Amends the Higher Education Act of 1965 to establish the minimum requirements for the net price calculator that each institution of higher education (IHE) receiving federal funds under title IV (Student Assistance) of the Act must include on its website. (An IHE's \"net price\" is the average yearly price actually charged to first-time, full-time undergraduate students receiving student aid at the school after deducting such aid.)\n\nRequires the link for the calculator to be clearly labeled and conspicuously posted on an IHE's website.\n\nRequires each calculator's results page to include:\n\n the net price of attending the IHE; the cost of attending the IHE; the estimated total need- and merit-based grant aid, from federal, state, and institutional sources, that may be available to first-time, full-time undergraduate students enrolled at the IHE; the percentage of such students enrolled at the school who receive any of that grant aid; and a notice that an estimate of an individual's net price is non-binding and subject to change. Requires calculators that estimate a user's eligibility for veterans' education benefits or educational benefits for active duty service members to clearly distinguish those benefits from other grant-aid. Requires calculators that do not make such estimates to provide users with notice of, and a link to information concerning, those benefits.\n\nDirects IHEs to populate their calculators with data from not later than two academic years prior to the most recent academic year.\n\nRequires the calculators to: (1) clearly indicate which questions need to be completed for a net price estimate, (2) clearly mark requests for contact information as optional, and (3) prohibit personally identifiable information from being sold or made available to third parties.\n\nAuthorizes the Secretary of Education to develop a universal net price calculator that enables users to answer one set of questions and receive net prices for any IHE that is required to have a net price calculator."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Net Price Calculator Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Higher Education Act of 1965 to make technical improvements to the Net Price Calculator system so that prospective students may have a more accurate understanding of the true cost of college.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:15-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3694:@@@L&summ2=m&"
+}

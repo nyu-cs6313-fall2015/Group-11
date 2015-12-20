@@ -1,0 +1,137 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18a73e6a7">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend the Public Health Service Act to reauthorize programs under part A of title XI of such Act.;
+   		H.R. 1281 (ENR)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-12-11</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend the Public Health Service Act to reauthorize programs under part A of title XI of such Act.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1281 (ENR)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-12-12</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>7 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18a73e6a7</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1281enr</identifier>
+<identifier type="preferred citation">H.R. 1281</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1281_enr.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1281enr/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1281enr/html/BILLS-113hr1281enr.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1281enr/pdf/BILLS-113hr1281enr.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1281enr/xml/BILLS-113hr1281enr.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-12-11</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-12-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr1281enr</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 300b-10</partNumber>
+  <partNumber>Title 42 Section 300b-11</partNumber>
+  <partNumber>Title 42 Section 300b-12</partNumber>
+  <partNumber>Title 42 Section 300b-13</partNumber>
+  <partNumber>Title 42 Section 300b-15</partNumber>
+  <partNumber>Title 42 Section 300b-1et seq.</partNumber>
+  <partNumber>Title 42 Section 300b-8</partNumber>
+  <partNumber>Title 42 Section 300b-9</partNumber>
+  <partNumber>Title 42 Section 300b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 300b-10</identifier>
+ <identifier type="USC citation">42 U.S.C. 300b-11</identifier>
+ <identifier type="USC citation">42 U.S.C. 300b-12</identifier>
+ <identifier type="USC citation">42 U.S.C. 300b-13</identifier>
+ <identifier type="USC citation">42 U.S.C. 300b-15</identifier>
+ <identifier type="USC citation">42 U.S.C. 300b-1et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 300b-8</identifier>
+ <identifier type="USC citation">42 U.S.C. 300b-9</identifier>
+ <identifier type="USC citation">42 U.S.C. 300b</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr1281enr</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>JOINT</currentChamber>
+ <billNumber>1281</billNumber>
+ <billVersion reprint="false">enr</billVersion>
+ <fileSuffix>enr</fileSuffix>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section number="300b-10"></section>
+                      <section number="300b-11"></section>
+                      <section number="300b-12"></section>
+                      <section number="300b-13"></section>
+                      <section number="300b-15"></section>
+                      <section detail="et seq." number="300b-1"></section>
+                      <section number="300b-8"></section>
+                      <section number="300b-9"></section>
+                      <section number="300b"></section>
+                </USCode>
+</extension>
+</mods>

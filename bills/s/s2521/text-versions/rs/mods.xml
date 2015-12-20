@@ -1,0 +1,193 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee189c370e5">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend chapter 35 of title 44, United States Code, to provide for reform to Federal information security.;
+   		Federal Information Security Modernization Act of 2014;S. 2521 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-09-16</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend chapter 35 of title 44, United States Code, to provide for reform to Federal information security.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Federal Information Security Modernization Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2521 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-09-15</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>36 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee189c370e5</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s2521rs</identifier>
+<identifier type="preferred citation">S. 2521</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2521_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s2521rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2521rs/html/BILLS-113s2521rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2521rs/pdf/BILLS-113s2521rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2521rs/xml/BILLS-113s2521rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-09-16</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s2521rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Thomas R. Carper</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom Coburn</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 511</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 511</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 278g-3</partNumber>
+  <partNumber>Title 15 Section 278g-4(b)</partNumber>
+  <partNumber>Title 15 Section 7406</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 278g-3</identifier>
+ <identifier type="USC citation">15 U.S.C. 278g-4(b)</identifier>
+ <identifier type="USC citation">15 U.S.C. 7406</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Chapter 35</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. Chapter 35</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 3003(4)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 3003(4)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 564</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s2521rs</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2521</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle>Federal Information Security Modernization Act of 2014</shortTitle>
+ <action date="2014-06-24">Mr. Carper (for himself and Mr. Coburn) introduced the following bill; which was read twice and referred to the Committee on Homeland Security and Governmental Affairs</action>
+ <action date="2014-09-15">Reported by Mr. Carper, without amendment</action>
+ <congCommittee authorityId="ssga00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+                      <name type="authority-short">Homeland and Governmental Affairs</name>
+                </congCommittee>
+ <congMember authorityId="179" bioGuideId="C000174" chamber="S" congress="113" gpoId="8283" party="D" role="SPONSOR" state="DE">
+                      <name type="parsed">Mr. Carper</name>
+                      <name type="authority-fnf">Thomas R. Carper</name>
+                      <name type="authority-lnf">Carper, Thomas R.</name>
+                      <name type="authority-other">Thomas Carper</name>
+                </congMember>
+ <congMember authorityId="212" bioGuideId="C000560" chamber="S" congress="113" gpoId="8293" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Coburn</name>
+                      <name type="authority-fnf">Tom Coburn</name>
+                      <name type="authority-lnf">Coburn, Tom</name>
+                      <name type="authority-other">Tom A. Coburn</name>
+                </congMember>
+ <congCalendar congress="113" number="564" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="6">
+                      <section number="511"></section>
+                </USCode>
+ <USCode title="15">
+                      <section number="278g-3"></section>
+                      <section detail="(b)" number="278g-4"></section>
+                      <section number="7406"></section>
+                </USCode>
+ <USCode title="44">
+                      <chapter number="35"></chapter>
+                </USCode>
+ <USCode title="50">
+                      <section detail="(4)" number="3003"></section>
+                </USCode>
+</extension>
+</mods>

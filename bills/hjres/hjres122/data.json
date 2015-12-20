@@ -1,0 +1,89 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-31", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-26", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres122-113", 
+  "bill_type": "hjres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-31", 
+  "number": "122", 
+  "official_title": "Proposing an amendment to the Constitution of the United States to end the practice of including more than one subject in a single law by requiring that each law enacted by Congress be limited to only one subject and that the subject be clearly and descriptively expressed in the title of the law.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Marino, Tom", 
+    "state": "PA", 
+    "thomas_id": "02053", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-31", 
+  "subjects": [
+    "Congress", 
+    "Constitution and constitutional amendments", 
+    "Legislative rules and procedure"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-31", 
+    "text": "Constitutional Amendment - Requires each bill, order, resolution, or vote which must be submitted to the President under the U.S. Constitution to embrace no more than one subject. Requires the subject to be clearly and descriptively expressed in the title of the bill, order, resolution, or vote."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Proposing an amendment to the Constitution of the United States to end the practice of including more than one subject in a single law by requiring that each law enacted by Congress be limited to only one subject and that the subject be clearly and descriptively expressed in the title of the law.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:11-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HJ122:@@@L&summ2=m&"
+}

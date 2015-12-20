@@ -1,0 +1,49 @@
+<bill session="113" type="sc" number="44" updated="2015-09-01T10:21:27-04:00">
+  <state datetime="2014-09-19T12:06:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2014-09-19T12:06:00-04:00"/>
+  </status>
+  <introduced datetime="2014-09-18"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution providing for a conditional adjournment or recess of the Senate and an adjournment of the House of Representatives.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="2014-09-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+      <reference ref="CR S5880" label="consideration"/>
+      <reference ref="CR S5801" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2014-09-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-09-19T12:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-09-19T12:06:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H7896" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote2" datetime="2014-09-19T12:06:00-04:00" where="h" result="pass" state="PASSED:CONCURRENTRES">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H7896" label="text"/>
+    </vote>
+    <action datetime="2014-09-19T12:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+    <term name="House of Representatives"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2014--Passed House without amendment.
+Declares that when the Senate recesses or adjourns on any day from Thursday, September 18, 2014, through Tuesday, October 14, 2014, it stand recessed or adjourned until 12:00 noon on Wednesday, October 15, 2014, and that when it recesses or adjourns on Wednesday, October 15, 2014, it stand adjourned until 12:00 noon on Wednesday, November 12, 2014.
+
+Declares that when the House adjourns on any legislative day from Thursday, September 18, 2014, through Friday, November 7, 2014, it stand adjourned until 2:00 p.m. on Wednesday, November 12, 2014.</summary>
+</bill>

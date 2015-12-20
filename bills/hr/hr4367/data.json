@@ -1,0 +1,145 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-02", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Communications and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4367-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Communications and Technology", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Daines, Steve", 
+      "sponsored_at": "2014-04-28", 
+      "state": "MT", 
+      "thomas_id": "02138", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2014-04-02", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Massie, Thomas", 
+      "sponsored_at": "2014-04-28", 
+      "state": "KY", 
+      "thomas_id": "02094", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "sponsored_at": "2014-04-02", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-02", 
+  "number": "4367", 
+  "official_title": "To prohibit the National Telecommunications and Information Administration from relinquishing responsibilities with respect to Internet domain name functions.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4342-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4398-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Internet Stewardship Act of 2014", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kelly, Mike", 
+    "state": "PA", 
+    "thomas_id": "02051", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-02", 
+  "subjects": [
+    "Congressional oversight", 
+    "Department of Commerce", 
+    "Executive agency funding and structure", 
+    "Internet and video services", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-02", 
+    "text": "Internet Stewardship Act of 2014 - Prohibits the Assistant Secretary of Commerce for Communications and Information from relinquishing or agreeing to relinquish the responsibilities of the National Telecommunications and Information Administration (NTIA) with respect to Internet domain name functions (including the authoritative root zone file, the Internet Assigned Numbers Authority functions, or the related root zone management functions) unless such relinquishment is permitted by a statute enacted after the enactment of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Internet Stewardship Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the National Telecommunications and Information Administration from relinquishing responsibilities with respect to Internet domain name functions.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4367:@@@L&summ2=m&"
+}

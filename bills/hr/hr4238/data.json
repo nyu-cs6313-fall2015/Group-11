@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-13", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4238-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2014-07-17", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-13", 
+  "number": "4238", 
+  "official_title": "To amend the Immigration and Nationality Act to provide for requirements for employers of H-2B nonimmigrants, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Harris, Andy", 
+    "state": "MD", 
+    "thomas_id": "02026", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-03-13", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Department of Homeland Security", 
+    "Employment discrimination and employee rights", 
+    "Foreign labor", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Migrant, seasonal, agricultural labor", 
+    "Temporary and part-time employment", 
+    "Transportation costs", 
+    "Visas and passports", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-03-13", 
+    "text": "Amends the Immigration and Nationality Act with respect to a returning H-2B alien (temporary nonagricultural worker) who has already been counted toward the annual numerical limitation. Exempts such an alien from that limitation unless he or she leaves the United States for more than one year and has not been counted toward the limitation in any of the three years before his or her departure.\n\nSets forth H-2B employer requirements regarding: (1) petitions, (2) transportation costs, (3) displacement of U.S. workers, (4) wages, (5) housing, and (6) an incentive for an employer to report absconding H-2B workers."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Immigration and Nationality Act to provide for requirements for employers of H-2B nonimmigrants, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4238:@@@L&summ2=m&"
+}

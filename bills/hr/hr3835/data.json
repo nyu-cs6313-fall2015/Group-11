@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-09", 
+      "references": [
+        {
+          "reference": "CR H112-113", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-09", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3835-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-09", 
+  "number": "3835", 
+  "official_title": "To require new procedures for health care Exchange Web sites with regard to personal information, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Before Registering for Obamacare, Window Shop Exchanges Act of 2014", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Duffy, Sean P.", 
+    "state": "WI", 
+    "thomas_id": "02072", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-01-09", 
+  "subjects": [
+    "Comprehensive health care", 
+    "Computer security and identity theft", 
+    "Crime prevention", 
+    "Criminal justice information and records", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Health information and medical records", 
+    "Internet and video services", 
+    "Right of privacy"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-09", 
+    "text": "Before Registering for Obamacare, Window Shop Exchanges Act of 2014 or the BROWSE Act of 2014 - Prohibits an American Health Benefit Exchange established pursuant to the Patient Protection and Affordable Care Act from: (1) requesting personal information of an individual through a website maintained by such Exchange unless such information is necessary to calculate an estimated premium for such individual and such individual has access to compare health care plans offered through such Exchange; or (2) providing to an individual, through such a website, an estimated premium if such premium is calculated prior to the submission by the individual of personal information through the website. Requires such an Exchange to require that any employee who has access to personal information: (1) passes a criminal background check, (2) has not been convicted of a crime, and (3) enters into an agreement not to disclose any such personal information to anyone not authorized to access it."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Before Registering for Obamacare, Window Shop Exchanges Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "BROWSE Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require new procedures for health care Exchange Web sites with regard to personal information, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3835:@@@L&summ2=m&"
+}

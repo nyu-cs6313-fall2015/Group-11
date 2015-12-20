@@ -1,0 +1,58 @@
+<bill session="113" type="s" number="2785" updated="2015-09-01T10:22:26-04:00">
+  <state datetime="2014-12-11">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-12-11"/>
+  </status>
+  <introduced datetime="2014-09-10"/>
+  <titles>
+    <title type="short" as="introduced">Safe and Secure Drinking Water Protection Act of 2014</title>
+    <title type="short" as="passed senate">Safe and Secure Drinking Water Protection Act of 2014</title>
+    <title type="official" as="introduced">A bill to direct the Administrator of the Environmental Protection Agency to publish a health advisory and submit reports with respect to microcystins in drinking water.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="400325" joined="2014-09-10"/>
+    <cosponsor id="300093" joined="2014-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2014-12-11">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+      <reference ref="CR S6607" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-12-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6607" label="text"/>
+    </vote>
+    <action datetime="2014-12-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-12-11T21:55:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-12-11T22:47:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5439"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental health"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government information and archives"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+</bill>

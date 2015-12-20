@@ -1,0 +1,267 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee186289344">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To require the Secretary of Agriculture to protect against foodborne illnesses, provide enhanced notification of recalled meat, poultry, eggs, and related food products, and for other purposes.;
+   		S. 1502 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-09-18</dateIngested>
+</extension>
+<titleInfo>
+ <title>To require the Secretary of Agriculture to protect against foodborne illnesses, provide enhanced notification of recalled meat, poultry, eggs, and related food products, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1502 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-09-12</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>73 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee186289344</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1502is</identifier>
+<identifier type="preferred citation">S. 1502</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1502_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1502is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1502is/html/BILLS-113s1502is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1502is/pdf/BILLS-113s1502is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1502is/xml/BILLS-113s1502is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-09-18</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1502is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Kirsten E. Gillibrand</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Agriculture, Nutrition, and Forestry</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 551</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 551</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 1638et seq.</partNumber>
+  <partNumber>Title 7 Section 1901</partNumber>
+  <partNumber>Title 7 Section 1901et seq.</partNumber>
+  <partNumber>Title 7 Section 6901et seq.</partNumber>
+  <partNumber>Title 7 Section 6981et seq.</partNumber>
+  <partNumber>Title 7 Section 7014(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 1638et seq.</identifier>
+ <identifier type="USC citation">7 U.S.C. 1901</identifier>
+ <identifier type="USC citation">7 U.S.C. 1901et seq.</identifier>
+ <identifier type="USC citation">7 U.S.C. 6901et seq.</identifier>
+ <identifier type="USC citation">7 U.S.C. 6981et seq.</identifier>
+ <identifier type="USC citation">7 U.S.C. 7014(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 46</partNumber>
+  <partNumber>Title 15 Section 48</partNumber>
+  <partNumber>Title 15 Section 49</partNumber>
+  <partNumber>Title 15 Section 50</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 46</identifier>
+ <identifier type="USC citation">15 U.S.C. 48</identifier>
+ <identifier type="USC citation">15 U.S.C. 49</identifier>
+ <identifier type="USC citation">15 U.S.C. 50</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 21 Section 1031et seq.</partNumber>
+  <partNumber>Title 21 Section 1033</partNumber>
+  <partNumber>Title 21 Section 1033(a)</partNumber>
+  <partNumber>Title 21 Section 1041</partNumber>
+  <partNumber>Title 21 Section 321</partNumber>
+  <partNumber>Title 21 Section 399d</partNumber>
+  <partNumber>Title 21 Section 399d(b)(4)(B)</partNumber>
+  <partNumber>Title 21 Section 451et seq.</partNumber>
+  <partNumber>Title 21 Section 453</partNumber>
+  <partNumber>Title 21 Section 453(g)</partNumber>
+  <partNumber>Title 21 Section 458</partNumber>
+  <partNumber>Title 21 Section 461</partNumber>
+  <partNumber>Title 21 Section 601</partNumber>
+  <partNumber>Title 21 Section 601(m)</partNumber>
+  <partNumber>Title 21 Section 601et seq.</partNumber>
+  <partNumber>Title 21 Section 676</partNumber>
+</titleInfo>
+ <identifier type="USC citation">21 U.S.C. 1031et seq.</identifier>
+ <identifier type="USC citation">21 U.S.C. 1033</identifier>
+ <identifier type="USC citation">21 U.S.C. 1033(a)</identifier>
+ <identifier type="USC citation">21 U.S.C. 1041</identifier>
+ <identifier type="USC citation">21 U.S.C. 321</identifier>
+ <identifier type="USC citation">21 U.S.C. 399d</identifier>
+ <identifier type="USC citation">21 U.S.C. 399d(b)(4)(B)</identifier>
+ <identifier type="USC citation">21 U.S.C. 451et seq.</identifier>
+ <identifier type="USC citation">21 U.S.C. 453</identifier>
+ <identifier type="USC citation">21 U.S.C. 453(g)</identifier>
+ <identifier type="USC citation">21 U.S.C. 458</identifier>
+ <identifier type="USC citation">21 U.S.C. 461</identifier>
+ <identifier type="USC citation">21 U.S.C. 601</identifier>
+ <identifier type="USC citation">21 U.S.C. 601(m)</identifier>
+ <identifier type="USC citation">21 U.S.C. 601et seq.</identifier>
+ <identifier type="USC citation">21 U.S.C. 676</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Chapter 35</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. Chapter 35</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 110 Page 1936</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">110 Stat.	1936</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 85-765</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 85-765</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 104-191</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 104-191</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1502is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1502</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <action date="2013-09-12">Mrs. Gillibrand introduced the following bill; which was read twice and referred to the Committee on Agriculture, Nutrition, and Forestry</action>
+ <congCommittee authorityId="ssaf00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Agriculture, Nutrition, and Forestry</name>
+                      <name type="authority-short">Agriculture</name>
+                </congCommittee>
+ <congMember authorityId="1866" bioGuideId="G000555" chamber="S" congress="113" gpoId="8336" party="D" role="SPONSOR" state="NY">
+                      <name type="parsed">Mrs. Gillibrand</name>
+                      <name type="authority-fnf">Kirsten E. Gillibrand</name>
+                      <name type="authority-lnf">Gillibrand, Kirsten E.</name>
+                      <name type="authority-other">Mrs. Kirsten Gillibrand</name>
+                </congMember>
+ <law congress="85" isPrivate="false" number="765"></law>
+ <law congress="104" isPrivate="false" number="191"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="551"></section>
+                </USCode>
+ <USCode title="7">
+                      <section detail="et seq." number="1638"></section>
+                      <section number="1901"></section>
+                      <section detail="et seq." number="1901"></section>
+                      <section detail="et seq." number="6901"></section>
+                      <section detail="et seq." number="6981"></section>
+                      <section detail="(b)" number="7014"></section>
+                </USCode>
+ <USCode title="15">
+                      <section number="46"></section>
+                      <section number="48"></section>
+                      <section number="49"></section>
+                      <section number="50"></section>
+                </USCode>
+ <USCode title="21">
+                      <section detail="et seq." number="1031"></section>
+                      <section number="1033"></section>
+                      <section detail="(a)" number="1033"></section>
+                      <section number="1041"></section>
+                      <section number="321"></section>
+                      <section number="399d"></section>
+                      <section detail="(b)(4)(B)" number="399d"></section>
+                      <section detail="et seq." number="451"></section>
+                      <section number="453"></section>
+                      <section detail="(g)" number="453"></section>
+                      <section number="458"></section>
+                      <section number="461"></section>
+                      <section number="601"></section>
+                      <section detail="(m)" number="601"></section>
+                      <section detail="et seq." number="601"></section>
+                      <section number="676"></section>
+                </USCode>
+ <USCode title="44">
+                      <chapter number="35"></chapter>
+                </USCode>
+ <statuteAtLarge volume="110">
+                      <pages pages="1936"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

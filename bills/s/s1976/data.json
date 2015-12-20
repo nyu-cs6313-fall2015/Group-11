@@ -1,0 +1,150 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-30", 
+      "references": [
+        {
+          "reference": "CR S656-657", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-30", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1976-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "2014-01-30", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Nelson, Bill", 
+      "sponsored_at": "2014-01-30", 
+      "state": "FL", 
+      "thomas_id": "00859", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pryor, Mark L.", 
+      "sponsored_at": "2014-01-30", 
+      "state": "AR", 
+      "thomas_id": "01701", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-30", 
+  "number": "1976", 
+  "official_title": "A bill to protect consumers by requiring reasonable security policies and procedures to protect data containing personal information, and to provide for nationwide notice in the event of a breach of security.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4400-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4711-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2378-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Data Security and Breach Notification Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Rockefeller, John D., IV", 
+    "state": "WV", 
+    "thomas_id": "01424", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-01-30", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Bank accounts, deposits, capital", 
+    "Banking and financial institutions regulation", 
+    "Business records", 
+    "Civil actions and liability", 
+    "Commerce", 
+    "Computer security and identity theft", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Consumer affairs", 
+    "Consumer credit", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Federal Trade Commission (FTC)", 
+    "Fraud offenses and financial crimes", 
+    "Intelligence activities, surveillance, classified information", 
+    "Internet and video services", 
+    "Right of privacy", 
+    "Small business", 
+    "Social work, volunteer service, charitable organizations"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-30", 
+    "text": "Data Security and Breach Notification Act of 2014 - Requires the Federal Trade Commission (FTC) to promulgate regulations requiring each covered entity (proprietorships, partnerships, estates, trusts, cooperatives, and nonprofit and for-profit corporations) that owns or possesses data containing personal information to implement policies and procedures regarding information security practices for the treatment and protection of such information.\n\nEstablishes procedures to be followed in the event of an information security breach. Requires a covered entity that discovers a breach to notify the FTC (unless the covered entity has already notified a federal entity designated by the Department of Homeland Security [DHS] to receive such information) and affected individuals. Sets forth requirements concerning such notification, including methods of notification and timeliness requirements. Allows an exemption from notification requirements if such entity reasonably concludes that there is no reasonable risk of identity theft, fraud, or other unlawful conduct. Establishes a presumption that there is no such risk for encrypted data.\n\nDirects DHS to designate a federal entity that covered entities would be required to notify if a security breach involves: (1) the personal information of more than 10,000 individuals, (2) a database containing the personal information of more than 1 million individuals, (3) federal government databases, or (4) the personal information of federal employees or contractors known to be involved in national security or law enforcement.\n\nRequires the designated entity to provide each notice it receives to:\n\n the U.S. Secret Service; the Federal Bureau of Investigation (FBI); the FTC; the U.S. Postal Inspection Service, if mail fraud is involved; attorneys general of affected states; and appropriate federal agencies for law enforcement, national security, or data security purposes. Sets forth enforcement provisions for the FTC, state attorneys general, and the Attorney General (DOJ).\n\nEstablishes criminal penalties of a fine, imprisonment for up to five years, or both, for concealment of a security breach that results in economic harm of at least $1,000 to an individual."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Data Security and Breach Notification Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to protect consumers by requiring reasonable security policies and procedures to protect data containing personal information, and to provide for nationwide notice in the event of a breach of security.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:11-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1976:@@@L&summ2=m&"
+}

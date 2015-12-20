@@ -1,0 +1,127 @@
+<bill session="113" type="s" number="540" updated="2015-09-01T10:21:39-04:00">
+  <state datetime="2014-02-15">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-02-15"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="short" as="passed house">Temporary Debt Limit Extension Act</title>
+    <title type="short" as="enacted">Temporary Debt Limit Extension Act</title>
+    <title type="official" as="introduced">A bill to designate the air route traffic control center located in Nashua, New Hampshire, as the "Patricia Clark Boston Air Route Traffic Control Center".</title>
+    <title type="official" as="amended by senate">An act to temporarily extend the public debt limit, and for other purposes.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+      <reference ref="CR S2231-2232" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-03-21" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2232" label="text"/>
+    </vote>
+    <action datetime="2013-03-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-03-25T10:02:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-03-25">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-03-26">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="2014-02-11T15:52:00-05:00">
+      <text>Rules Committee Resolution H. Res. 478 Reported to House. Rule provides for consideration of S. 540 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2014-02-11T16:14:00-05:00">
+      <text>Rule H. Res. 478 passed House.</text>
+    </action>
+    <action datetime="2014-02-11T16:15:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 478.</text>
+      <reference ref="CR H1752-1758" label="consideration"/>
+    </action>
+    <action datetime="2014-02-11T16:15:00-05:00">
+      <text>Rule provides for consideration of S. 540 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2014-02-11T16:17:00-05:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 478 the amendment in the nature of a substitute consisting of the text of sections 1 through 3 of Rules Committee Print 113-37 is considered as adopted for the purpose of being treated as original text and the House proceeded with one hour of debate on S. 540.</text>
+    </action>
+    <action datetime="2014-02-11T16:57:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H1757" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote2" roll="61" datetime="2014-02-11T17:28:00-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On passage Passed by the Yeas and Nays: 221 - 201 (Roll No. 61).</text>
+      <reference ref="CR H1752" label="text"/>
+    </vote>
+    <action datetime="2014-02-11T17:28:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-02-12">
+      <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+    </action>
+    <action datetime="2014-02-12">
+      <text>Cloture motion on the motion to concur in House amendment to Senate bill presented in Senate.</text>
+      <reference ref="CR S933-934" label="consideration"/>
+      <reference ref="CR S933-934" label="text"/>
+    </action>
+    <action datetime="2014-02-12">
+      <text>Cloture on the motion to concur in House amendment to Senate bill invoked in Senate by Yea-Nay Vote. 67 - 31. Record Vote Number: 33.</text>
+      <reference ref="CR S934" label="consideration"/>
+    </action>
+    <vote how="roll" type="pingpong" roll="34" datetime="2014-02-12" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to House amendment to Senate bill by Yea-Nay Vote. 55 - 43. Record Vote Number: 34.</text>
+      <reference ref="CR S933" label="text as Senate agreed to House amendment"/>
+    </vote>
+    <action datetime="2014-02-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2014-02-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-02-15" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-83" type="public" datetime="2014-02-15">
+      <text>Became Public Law No: 113-83.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="hc" number="82"/>
+    <bill relation="rule" session="113" type="hr" number="478"/>
+    <bill relation="identical" session="113" type="h" number="1092"/>
+    <bill relation="unknown" session="113" type="h" number="4043"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Aviation and airports"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="New Hampshire"/>
+  </subjects>
+  <amendments>
+    <amendment number="h556"/>
+  </amendments>
+  <summary>2/15/2014--Public Law.
+Temporary Debt Limit Extension Act - Suspends the public debt limit for the period beginning on the date of enactment of this Act and ending on March 15, 2015.
+
+Increases the debt limit, effective March 16, 2015, to the extent that:
+
+ the face amount of such obligations outstanding on the date of enactment of this Act is exceeded by the total of the face amount of public debt obligations and the face amount of obligations whose principal and interest are guaranteed by the U.S. government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on March 16, 2015. Excludes an obligation under clause 2 (above) from being taken into account unless its issuance was necessary to fund a commitment incurred pursuant to law that required payment before March 16, 2015.
+
+Prohibits the Secretary of the Treasury from issuing obligations during the period beginning on the date of enactment of this Act and ending on March 15, 2015, for the purpose of increasing the cash balance above normal operating balances in anticipation of the expiration of such period.</summary>
+</bill>

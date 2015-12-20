@@ -1,0 +1,134 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-30T16:41:00-04:00", 
+      "references": [], 
+      "text": "Mr. Miller (FL) asked unanimous consent to consider as introduced.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30T16:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7087", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30T16:42:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H7087", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-07-30", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-31", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5208-5209", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-08-01", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres111-113", 
+  "bill_type": "hconres", 
+  "by_request": false, 
+  "committees": [], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-30T16:42:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-07-30T16:42:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-07-31", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-30", 
+  "number": "111", 
+  "official_title": "Directing the Clerk of the House of Representatives to make certain corrections in the enrollment of the bill H.R. 3230.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3230-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3230-113", 
+      "reason": "caused-action", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Miller, Jeff", 
+    "state": "FL", 
+    "thomas_id": "01685", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2014-07-31", 
+  "subjects": [
+    "Congress", 
+    "Health care coverage and access", 
+    "Public contracts and procurement", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2014-07-31", 
+    "text": "Directs the Clerk of the House of Representatives to make corrections in the enrollment of H.R. 3230 (Veterans Access, Choice, and Accountability Act of 2014) to authorize the Secretary of Veterans Affairs (VA) to furnish medical care to veterans through physicians and other suppliers who are participating in the Medicare program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Directing the Clerk of the House of Representatives to make certain corrections in the enrollment of the bill H.R. 3230.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HC111:@@@L&summ2=m&"
+}

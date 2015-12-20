@@ -1,0 +1,216 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1899fb040">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title VI of the Public Utility Regulatory Policies Act of 1978 to establish a Federal renewable electricity standard for retail electricity suppliers and a Federal energy efficiency resource standard for electricity and natural gas suppliers, and for other purposes.;
+   		American Renewable Energy and Efficiency Act;H.R. 5301 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-08-07</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title VI of the Public Utility Regulatory Policies Act of 1978 to establish a Federal renewable electricity standard for retail electricity suppliers and a Federal energy efficiency resource standard for electricity and natural gas suppliers, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>American Renewable Energy and Efficiency Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5301 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-07-30</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>67 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1899fb040</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5301ih</identifier>
+<identifier type="preferred citation">H.R. 5301</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5301_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5301ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5301ih/html/BILLS-113hr5301ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5301ih/pdf/BILLS-113hr5301ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5301ih/xml/BILLS-113hr5301ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-08-07</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-08-07</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr5301ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Peter Welch</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 918c</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 918c</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 3301</partNumber>
+  <partNumber>Title 15 Section 772</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 3301</identifier>
+ <identifier type="USC citation">15 U.S.C. 772</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1131et seq.</partNumber>
+  <partNumber>Title 16 Section 2601et seq.</partNumber>
+  <partNumber>Title 16 Section 791aet seq.</partNumber>
+  <partNumber>Title 16 Section 823b(d)</partNumber>
+  <partNumber>Title 16 Section 824a-3</partNumber>
+  <partNumber>Title 16 Section 825l</partNumber>
+  <partNumber>Title 16 Section 825o-1(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1131et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 2601et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 791aet seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 823b(d)</identifier>
+ <identifier type="USC citation">16 U.S.C. 824a-3</identifier>
+ <identifier type="USC citation">16 U.S.C. 825l</identifier>
+ <identifier type="USC citation">16 U.S.C. 825o-1(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 17211</partNumber>
+  <partNumber>Title 42 Section 17381</partNumber>
+  <partNumber>Title 42 Section 6303(d)</partNumber>
+  <partNumber>Title 42 Section 6306(b)</partNumber>
+  <partNumber>Title 42 Section 9601</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 17211</identifier>
+ <identifier type="USC citation">42 U.S.C. 17381</identifier>
+ <identifier type="USC citation">42 U.S.C. 6303(d)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6306(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 9601</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1601et seq.</partNumber>
+  <partNumber>Title 43 Section 1602</partNumber>
+  <partNumber>Title 43 Section 1702</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1601et seq.</identifier>
+ <identifier type="USC citation">43 U.S.C. 1602</identifier>
+ <identifier type="USC citation">43 U.S.C. 1702</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr5301ih</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5301</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>American Renewable Energy and Efficiency Act</shortTitle>
+ <action date="2014-07-30">Mr. Welch (for himself and Mr. Ben Ray Luján of New Mexico) introduced the following bill; which was referred to the Committee on Energy and Commerce</action>
+ <congCommittee authorityId="hsif00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congMember authorityId="1879" bioGuideId="W000800" chamber="H" congress="113" gpoId="8204" party="D" role="SPONSOR" state="VT">
+                      <name type="parsed">Mr. Welch</name>
+                      <name type="authority-fnf">Peter Welch</name>
+                      <name type="authority-lnf">Welch, Peter</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="7">
+                      <section number="918c"></section>
+                </USCode>
+ <USCode title="15">
+                      <section number="3301"></section>
+                      <section number="772"></section>
+                </USCode>
+ <USCode title="16">
+                      <section detail="et seq." number="1131"></section>
+                      <section detail="et seq." number="2601"></section>
+                      <section detail="et seq." number="791a"></section>
+                      <section detail="(d)" number="823b"></section>
+                      <section number="824a-3"></section>
+                      <section number="825l"></section>
+                      <section detail="(b)" number="825o-1"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="17211"></section>
+                      <section number="17381"></section>
+                      <section detail="(d)" number="6303"></section>
+                      <section detail="(b)" number="6306"></section>
+                      <section number="9601"></section>
+                </USCode>
+ <USCode title="43">
+                      <section detail="et seq." number="1601"></section>
+                      <section number="1602"></section>
+                      <section number="1702"></section>
+                </USCode>
+</extension>
+</mods>

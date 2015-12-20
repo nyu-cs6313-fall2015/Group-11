@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA6918C4EB17E48BE90E98F3AD114B4EE" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>113 HR 5793 IH: Cyber Supply Chain Management and Transparency Act of 2014</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2014-12-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 5793</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20141204">December 4, 2014</action-date>
+			<action-desc><sponsor name-id="R000487">Mr. Royce</sponsor> (for himself and <cosponsor name-id="J000290">Ms. Jenkins</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To ensure the integrity of any software, firmware, or product developed for or purchased by the
+			 United States Government that uses a third party or open source component,
+			 and for other purposes.</official-title>
+	</form>
+	<legis-body id="HBE3CFCE13F1947AD9E1D43E7CCCEAB21" style="OLC">
+		<section id="H89017E74F6CE482A8669BB6F50677F4D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Cyber Supply Chain Management and Transparency Act of 2014</short-title></quote>.</text>
+		</section><section id="HBEA4F41184594B22AF1267F22625A44E"><enum>2.</enum><header>Software, firmware, or product with known security vulnerabilities or defects</header>
+			<subsection id="H29DCFBC7456349B4B74CB55B50CEC5D7"><enum>(a)</enum><header>OMB guidelines required</header>
+				<paragraph id="HC90AA60F41E04E64A3425BC14B4964FF"><enum>(1)</enum><header>Clauses required in software, firmware, or product contracts for software, firmware, or product
+			 created with a binary component</header><text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the Director of the Office of
+			 Management and Budget, in consultation with the Secretary of Defense, the
+			 Secretary of Homeland Security, and any other intelligence or national
+			 security agency the Director determines to be necessary, shall issue
+			 guidelines for each agency that require including the following clauses in
+			 any contract for the acquisition of software, firmware, or product that
+			 contains a binary component:</text>
+					<subparagraph id="H95859E368A2243CC910B0E2A70F93C1C"><enum>(A)</enum><header>Component list</header><text display-inline="yes-display-inline">A clause that requires the inclusion of a comprehensive and confidentially supplied list, or a bill
+			 of materials, of each binary component of the software, firmware, or
+			 product that is used in the software, firmware, or product.</text>
+					</subparagraph><subparagraph commented="no" id="H4C770F05E5924BB6A0DB848D946D907D"><enum>(B)</enum><header>Verification required</header><text display-inline="yes-display-inline">A clause that requires the contractor providing the software, firmware, or product—</text>
+						<clause id="H001A720900224F2E8B2CD3720841A053"><enum>(i)</enum><text>to verify that the software, firmware, or product does not contain any known security
+			 vulnerabilities or defects that are listed in the National Institute of
+			 Standards and Technology National Vulnerability Database and any
+			 additional database selected by the Director of the Office of Management
+			 and Budget (that is credible and similar to the National Vulnerability
+			 Database) that tracks security vulnerabilities and defects in a binary
+			 component, and that is necessary to capture a wider list of binary
+			 components (with known security vulnerabilities or defects and for which a
+			 less vulnerable alternative is available); and</text>
+						</clause><clause id="HE746ABA643F84686A80B3224AA61C58C"><enum>(ii)</enum><text>to notify the purchasing agency of any known security vulnerabilities or defects discovered through
+			 the verification required under clause (i).</text>
+						</clause></subparagraph><subparagraph id="H868ABD21B1BF45D3BCAB8EB69BE5AF5A"><enum>(C)</enum><header>Waiver</header><text display-inline="yes-display-inline">A clause that requires—</text>
+						<clause id="H0A12E970D1B64F18B93AFA1D06EB7CEE"><enum>(i)</enum><text>a contractor to submit a written application, and obtain a waiver, for each binary component that
+			 is known to be vulnerable from the head of the purchasing agency; and</text>
+						</clause><clause id="HD46649D9841A4B9BA3B850B9FA3E9B67"><enum>(ii)</enum><text display-inline="yes-display-inline">if the head of the purchasing agency approves the waiver, such head shall provide the contractor
+			 with a written statement that the agency accepts all of the risk
+			 associated with the use of such binary component.</text>
+						</clause></subparagraph><subparagraph commented="no" id="HA9EE8E16B72144598D56485D9A84D6F5"><enum>(D)</enum><header>Updates</header><text display-inline="yes-display-inline">A clause that requires such software, firmware, or product to be written or designed in a manner
+			 that allows for any future security vulnerability or defect in any part of
+			 the software, firmware, or product to be easily patched, updated, or
+			 replaced to fix the vulnerability or defect in the software, firmware, or
+			 product.</text>
+					</subparagraph><subparagraph commented="no" id="HB8F5C7FA646746B1A89C330D9E96221E"><enum>(E)</enum><header>Timely repair</header><text display-inline="yes-display-inline">A clause that requires the contractor to provide a repair in a timely manner with regard to any new
+			 security vulnerability discovered through any of the databases described
+			 in subparagraph (B).</text>
+					</subparagraph></paragraph><paragraph commented="no" id="H3AE2F456557A47289A538CF61258D838"><enum>(2)</enum><header>Disclosure of security vulnerability or defect</header><text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the Director of the Office of
+			 Management and Budget shall issue guidelines for each agency with respect
+			 to any software, firmware, or product in use by the United States
+			 Government that contains a binary component that requires each agency to
+			 have a process—</text>
+					<subparagraph id="HBAE2DF62F93D4ABDA9FE222EDE6E35AB"><enum>(A)</enum><text>to replace any currently known vulnerable binary component; and</text>
+					</subparagraph><subparagraph id="H328A2AD32E0940F290923206CB630FD6"><enum>(B)</enum><text>to remove and repair any new vulnerable binary component after such component becomes known
+			 pursuant to paragraph (1)(B).</text>
+					</subparagraph></paragraph><paragraph commented="no" id="H99A2E3603F3940609055E4ECB588E746"><enum>(3)</enum><header>Agency guidelines</header>
+					<subparagraph id="H33CC0499B29946CD8CF0E9E46251A141"><enum>(A)</enum><header>Software, firmware, or product that can not be fixed or patched</header><text display-inline="yes-display-inline">Not later than 220 days after the date of the enactment of this Act, the Director of the Office of
+			 Management and Budget shall issue guidelines for each agency with respect
+			 to any software, firmware, or product that contains a known vulnerable
+			 binary component—</text>
+						<clause id="HBA64C1D974144352BDAFAB5205B73BF3"><enum>(i)</enum><text>that can not be fixed, patched, or updated; and</text>
+						</clause><clause id="H3B3777D09F774F8DA46C4514C9BEA419"><enum>(ii)</enum><text>that requires such component, to migrate to patchable, repairable, and fixable products.</text>
+						</clause></subparagraph><subparagraph id="H45874A8D6D5444EA8D85B47826BE35FA"><enum>(B)</enum><header>Inventory of existing software, firmware, or product with a known vulnerable binary component</header><text display-inline="yes-display-inline">Not later than 20 months after the date of the enactment of this Act, the Director of the Office of
+			 Budget of Management shall instruct each agency to provide the relevant
+			 office in the Department of Homeland Security with a list of each known
+			 vulnerable binary in any software, firmware or product in use by each
+			 agency.</text>
+					</subparagraph><subparagraph id="HF8F4D188CF674442A78432C949900FE0"><enum>(C)</enum><header>Analysis of project integrity and annual report</header><text display-inline="yes-display-inline">Not later than twelve months after all lists described in subparagraph (B) are provided to the
+			 Department of Homeland Security, the Secretary of Homeland Security shall
+			 issue an annual confidential report describing the security
+			 vulnerabilities of the projects that created any known vulnerable binary
+			 component in any list described in subparagraph (B) and through the
+			 verification required under paragraph (1)(B). The report shall assess the
+			 integrity of binary component suppliers for the incidence of security
+			 vulnerabilities, the severity, the mean time to remediate such
+			 vulnerabilities that can be applied to assess the security of binary
+			 projects and suppliers, for use by other agencies.</text>
+					</subparagraph></paragraph></subsection><subsection id="HE23D13B96E724BBDA664763864D37F24"><enum>(b)</enum><header>Report on removal of binary component with known security vulnerability or defect</header><text display-inline="yes-display-inline">Not later than 30 months after the date of the enactment of this Act, the head of each agency shall
+			 submit to each relevant Committee of jurisdiction in the House of
+			 Representatives and the Senate a report on the completion of the removal
+			 of each binary component with known security vulnerabilities or defects in
+			 the agency and shall include a classified version of this report for the
+			 Permanent Select Committee on Intelligence and the Committees on Armed
+			 Services, Foreign Affairs, and Homeland Security of the House of
+			 Representatives and the Select Committee on Intelligence and the
+			 Committees on Armed Services, Foreign Affairs, and Homeland Security and
+			 Governmental Affairs of the Senate. The report shall also detail the
+			 policies, procedures, and processes by which a newly discovered vulnerable
+			 binary component is replaced in software, firmware, and products in use by
+			 the United States Government.</text>
+			</subsection><subsection id="HFF5D0B8C1C6243AE92C3348E662EA46B"><enum>(c)</enum><header>Other entities of the United States Government</header><text>Any other entity of the United States Government—</text>
+				<paragraph id="HE23E6B22F75E4C038D2B009863618A78"><enum>(1)</enum><text display-inline="yes-display-inline">shall replace any vulnerable binary component with another less vulnerable alternative in any
+			 software, firmware, or product in use by the entity; and</text>
+				</paragraph><paragraph id="HE4938B31168245C0B9E0701366684268"><enum>(2)</enum><text display-inline="yes-display-inline">shall begin such replacement process with critical systems.</text>
+				</paragraph></subsection><subsection commented="no" id="H32215935F99A4B1F95087E1F2FF02E20"><enum>(d)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text>
+				<paragraph id="H0197967853674E40B404BD53A1667B51"><enum>(1)</enum><header>Agency</header><text>The term <term>agency</term> has the meaning given that term in <external-xref legal-doc="usc" parsable-cite="usc/5/551">section 551(1)</external-xref> of title 5, United States Code.</text>
+				</paragraph><paragraph commented="no" id="H4CA63E251FA74504922AFCD692D4ADD4"><enum>(2)</enum><header>Binary component</header><text display-inline="yes-display-inline">The term <term>binary component</term> means a third party or open source component.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

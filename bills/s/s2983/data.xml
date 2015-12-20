@@ -1,0 +1,56 @@
+<bill session="113" type="s" number="2983" updated="2015-09-01T10:22:28-04:00">
+  <state datetime="2014-12-11">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-12-11"/>
+  </status>
+  <introduced datetime="2014-12-04"/>
+  <titles>
+    <title type="short" as="introduced">U.S. Merchant Marine Academy Improvement Act of 2014</title>
+    <title type="short" as="passed senate">U.S. Merchant Marine Academy Improvement Act of 2014</title>
+    <title type="official" as="introduced">A bill to allow for a contract for operation of Melville Hall of United States Merchant Marine Academy after gift by United States Merchant Marine Academy Alumni Association and Foundation, Inc., for renovation of such hall and for other purposes.</title>
+  </titles>
+  <sponsor id="400432"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2014-12-11">
+      <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+      <reference ref="CR S6697-6698" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-12-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6697-6698" label="text"/>
+    </vote>
+    <action datetime="2014-12-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-12-12T15:03:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-12-12T15:42:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="5813"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Education programs funding"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Higher education"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Military education and training"/>
+    <term name="New York State"/>
+  </subjects>
+  <amendments/>
+  <summary>12/4/2014--Introduced.
+U.S. Merchant Marine Academy Improvement Act of 2014 - Authorizes the Administrator of the Maritime Administration to:
+
+ accept a gift of money from the U.S. Merchant Marine Academy Alumni Association and Foundation, Inc. in order to renovate Melville Hall on the campus of the U.S. Merchant Marine Academy; and enter into a contract with the Foundation for the Hall's operation.</summary>
+</bill>

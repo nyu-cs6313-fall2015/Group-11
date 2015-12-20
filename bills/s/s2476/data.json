@@ -1,0 +1,158 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-17", 
+      "references": [
+        {
+          "reference": "CR S3720-3721", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-17", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [
+        {
+          "reference": "CR S3721", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-17", 
+      "committee": "Committee on the Judiciary", 
+      "committees": [
+        "SSJU"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on the Judiciary. Hearings held.", 
+      "type": "hearings"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2476-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Franken, Al", 
+      "sponsored_at": "2014-06-17", 
+      "state": "MN", 
+      "thomas_id": "01969", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heinrich, Martin", 
+      "sponsored_at": "2014-06-19", 
+      "state": "NM", 
+      "thomas_id": "01937", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2014-06-17", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2014-06-18", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-09-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-17", 
+  "number": "2476", 
+  "official_title": "A bill to direct the Federal Communications Commission to promulgate regulations that prohibit certain preferential treatment or prioritization of Internet traffic.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4880-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Online Competition and Consumer Choice Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-17", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Federal Communications Commission (FCC)", 
+    "Internet and video services", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-17", 
+    "text": "Online Competition and Consumer Choice Act of 2014 - Directs the Federal Communications Commission (FCC) to promulgate regulations that prohibit broadband providers, in transmitting network traffic over the broadband Internet access service of an end user, from: (1) entering an agreement with an edge provider (a provider of Internet content, applications, services, or access devices) to give preferential treatment or priority to the traffic of such edge provider in exchange for consideration (commonly referred to as \"paid prioritization\"); and (2) giving preferential treatment or priority to content, applications, services, or devices that are provided or operated by such broadband provider or an affiliate of such broadband provider.\n\nProhibits this Act from superseding any obligation or authorization of a broadband provider to address the needs of emergency communications, law enforcement, public safety, or national security authorities.\n\nSets forth enforcement authority under the Communications Act of 1934, with modified forfeiture standards."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Online Competition and Consumer Choice Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to direct the Federal Communications Commission to promulgate regulations that prohibit certain preferential treatment or prioritization of Internet traffic.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:21-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2476:@@@L&summ2=m&"
+}

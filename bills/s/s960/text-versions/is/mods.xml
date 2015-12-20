@@ -1,0 +1,200 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee184df040d">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To foster stability in Syria, and for other purposes.;
+   		S. 960 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-05-22</dateIngested>
+</extension>
+<titleInfo>
+ <title>To foster stability in Syria, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 960 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-05-15</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>39 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee184df040d</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s960is</identifier>
+<identifier type="preferred citation">S. 960</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s960_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s960is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s960is/html/BILLS-113s960is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s960is/pdf/BILLS-113s960is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s960is/xml/BILLS-113s960is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-05-22</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s960is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Robert Menendez</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bob Corker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Foreign Relations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 8 Section 1101(a)</partNumber>
+  <partNumber>Title 8 Section 1189</partNumber>
+</titleInfo>
+ <identifier type="USC citation">8 U.S.C. 1101(a)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1189</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 2151et seq.</partNumber>
+  <partNumber>Title 22 Section 2151note</partNumber>
+  <partNumber>Title 22 Section 2349bbet seq.</partNumber>
+  <partNumber>Title 22 Section 2378d</partNumber>
+  <partNumber>Title 22 Section 2601et seq.</partNumber>
+  <partNumber>Title 22 Section 2751et seq.</partNumber>
+  <partNumber>Title 22 Section 2778(a)(1)</partNumber>
+  <partNumber>Title 22 Section 2794</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 2151et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 2151note</identifier>
+ <identifier type="USC citation">22 U.S.C. 2349bbet seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 2378d</identifier>
+ <identifier type="USC citation">22 U.S.C. 2601et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 2751et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 2778(a)(1)</identifier>
+ <identifier type="USC citation">22 U.S.C. 2794</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 1701et seq.</partNumber>
+  <partNumber>Title 50 Appendix 2401</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 1701et seq.</identifier>
+ <identifier type="USC citation">50 U.S.C. App. 2401</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-175</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-175</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s960is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>960</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <action date="2013-05-15">Mr. Menendez (for himself and Mr. Corker) introduced the following bill; which was read twice and referred to the Committee on Foreign Relations</action>
+ <congCommittee authorityId="ssfr00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Foreign Relations</name>
+                      <name type="authority-short">Foreign Relations</name>
+                </congCommittee>
+ <congMember authorityId="791" bioGuideId="M000639" chamber="S" congress="113" gpoId="8239" party="D" role="SPONSOR" state="NJ">
+                      <name type="parsed">Mr. Menendez</name>
+                      <name type="authority-fnf">Robert Menendez</name>
+                      <name type="authority-lnf">Menendez, Robert</name>
+                </congMember>
+ <congMember authorityId="1825" bioGuideId="C001071" chamber="S" congress="113" gpoId="8294" party="R" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. Corker</name>
+                      <name type="authority-fnf">Bob Corker</name>
+                      <name type="authority-lnf">Corker, Bob</name>
+                </congMember>
+ <law congress="108" isPrivate="false" number="175"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="8">
+                      <section detail="(a)" number="1101"></section>
+                      <section number="1189"></section>
+                </USCode>
+ <USCode title="22">
+                      <section detail="et seq." number="2151"></section>
+                      <section detail="note" number="2151"></section>
+                      <section detail="et seq." number="2349bb"></section>
+                      <section number="2378d"></section>
+                      <section detail="et seq." number="2601"></section>
+                      <section detail="et seq." number="2751"></section>
+                      <section detail="(a)(1)" number="2778"></section>
+                      <section number="2794"></section>
+                </USCode>
+ <USCode title="50">
+                      <section detail="et seq." number="1701"></section>
+                      <appendix detail="et seq." number="2401"></appendix>
+                </USCode>
+</extension>
+</mods>

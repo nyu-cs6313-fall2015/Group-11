@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-29", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S604", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S604", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-01-30", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-31T15:02:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-31T15:22:00-05:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sconres31-113", 
+  "bill_type": "sconres", 
+  "by_request": false, 
+  "committees": [], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Coburn, Tom", 
+      "sponsored_at": "2014-01-29", 
+      "state": "OK", 
+      "thomas_id": "00212", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "sponsored_at": "2014-01-29", 
+      "state": "MA", 
+      "thomas_id": "02182", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-01-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-01-29", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-29", 
+  "number": "31", 
+  "official_title": "A concurrent resolution designating January 2014 as \"National Blood Donor Month\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres80-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Baldwin, Tammy", 
+    "state": "WI", 
+    "thomas_id": "01558", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2014-01-29", 
+  "subjects": [
+    "Blood and blood diseases", 
+    "Commemorative events and holidays", 
+    "Congressional tributes", 
+    "Health", 
+    "Organ and tissue donation and transplantation", 
+    "Social work, volunteer service, charitable organizations"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2014-01-29", 
+    "text": "Recognizes January 2014 as National Blood Donor Month.\n\nAcknowledges the important role of volunteer blood donors in protecting the health and emergency preparedness security of the United States.\n\nRecognizes the need to promote a safe, stable blood supply and to increase volunteer participation of blood donors.\n\nEndorses efforts to update blood donation policies in a safe and scientifically sound manner.\n\nRecognizes the roles of America's Blood Centers, AABB, and the American Red Cross in ensuring the safety of the blood supply and delivering lifesaving blood and blood products to health providers and patients."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A concurrent resolution designating January 2014 as \"National Blood Donor Month\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SC31:@@@L&summ2=m&"
+}

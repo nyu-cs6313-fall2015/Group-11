@@ -1,0 +1,590 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-08", 
+      "references": [], 
+      "text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-09", 
+      "calendar": "Senate Legislative", 
+      "number": "354", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 354.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-04-10", 
+      "references": [
+        {
+          "reference": "CR S2333, S2334", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-28", 
+      "references": [
+        {
+          "reference": "CR S2409-2410, S2419-2420", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-28", 
+      "references": [
+        {
+          "reference": "CR S2409", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2409", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on the motion to proceed to the measure presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-29", 
+      "references": [
+        {
+          "reference": "CR S2427-2428, S2435-2441, S2453-2457, S2457-2462", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-30", 
+      "references": [], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-30", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S2545-2546", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2545", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "117", 
+      "status": "PROV_KILL:CLOTUREFAILED", 
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 54 - 42. Record Vote Number: 117.", 
+      "type": "vote-aux", 
+      "vote_type": "cloture", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-04-30", 
+      "references": [
+        {
+          "reference": "CR S2527-2528, S2535-2543, S2543-2546, S2546-2547, S2548-2549", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote No. 117) entered in Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt2972-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2972"
+    }, 
+    {
+      "amendment_id": "samdt2973-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2973"
+    }
+  ], 
+  "bill_id": "s2223-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2014-04-09", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2014-04-09", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bennet, Michael F.", 
+      "sponsored_at": "2014-04-09", 
+      "state": "CO", 
+      "thomas_id": "01965", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2014-04-09", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Booker, Cory A.", 
+      "sponsored_at": "2014-04-09", 
+      "state": "NJ", 
+      "thomas_id": "02194", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2014-04-09", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2014-04-10", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-04-10", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2014-04-09", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-04-10", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-04-10", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "2014-04-10", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Franken, Al", 
+      "sponsored_at": "2014-04-10", 
+      "state": "MN", 
+      "thomas_id": "01969", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "sponsored_at": "2014-04-09", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hagan, Kay R.", 
+      "sponsored_at": "2014-04-09", 
+      "state": "NC", 
+      "thomas_id": "01902", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heinrich, Martin", 
+      "sponsored_at": "2014-04-09", 
+      "state": "NM", 
+      "thomas_id": "01937", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heitkamp, Heidi", 
+      "sponsored_at": "2014-04-09", 
+      "state": "ND", 
+      "thomas_id": "02174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2014-04-28", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2014-04-09", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2014-04-09", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "2014-04-09", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-04-09", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCaskill, Claire", 
+      "sponsored_at": "2014-04-10", 
+      "state": "MO", 
+      "thomas_id": "01820", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2014-04-08", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "2014-04-10", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murphy, Christopher S.", 
+      "sponsored_at": "2014-04-09", 
+      "state": "CT", 
+      "thomas_id": "01837", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murray, Patty", 
+      "sponsored_at": "2014-04-28", 
+      "state": "WA", 
+      "thomas_id": "01409", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Nelson, Bill", 
+      "sponsored_at": "2014-04-10", 
+      "state": "FL", 
+      "thomas_id": "00859", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reed, Jack", 
+      "sponsored_at": "2014-04-10", 
+      "state": "RI", 
+      "thomas_id": "00949", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reid, Harry", 
+      "sponsored_at": "2014-04-08", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2014-04-09", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "sponsored_at": "2014-04-09", 
+      "state": "HI", 
+      "thomas_id": "02173", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2014-05-01", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2014-04-09", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Udall, Mark", 
+      "sponsored_at": "2014-09-09", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Udall, Tom", 
+      "sponsored_at": "2014-04-10", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "sponsored_at": "2014-04-10", 
+      "state": "MA", 
+      "thomas_id": "02182", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2014-04-28", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "sponsored_at": "2014-04-10", 
+      "state": "OR", 
+      "thomas_id": "01247", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-04-10", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_cloture_result": "fail", 
+    "senate_cloture_result_at": "2014-04-30", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-08", 
+  "number": "2223", 
+  "official_title": "A bill to provide for an increase in the Federal minimum wage and to amend the Internal Revenue Code of 1986 to extend increased expensing limitations and the treatment of certain real property as section 179 property.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1010-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3746-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3939-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4019-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s460-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1085-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1498-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1737-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1737-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1859-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Minimum Wage Fairness Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Harkin, Tom", 
+    "state": "IA", 
+    "thomas_id": "00501", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:CLOTUREFAILED", 
+  "status_at": "2014-04-30", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business investment and capital", 
+    "Computers and information technology", 
+    "Department of Labor", 
+    "Food industry and services", 
+    "Income tax deductions", 
+    "Inflation and prices", 
+    "Labor and employment", 
+    "Labor standards", 
+    "Retail and wholesale trades", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-08", 
+    "text": "Minimum Wage Fairness Act - Amends the Fair Labor Standards Act of 1938 (FLSA) to increase the federal minimum wage for employees to: (1) $8.20 an hour beginning on the first day of the sixth month after the enactment of this Act, (2) $9.15 an hour beginning one year after the date of such initial increase, (3) $10.10 an hour beginning two years after such date, and (4) the amount determined by the Secretary of Labor (based on increases in the Consumer Price Index) beginning three years after such date and annually thereafter.\n\nIncreases the federal minimum wage for tipped employees to $3.00 an hour for one year beginning on the first day of the sixth month after the enactment of this Act. Provides a formula for subsequent annual adjustments of the minimum wage for tipped employees until it equals 70% of the wage in effect under FLSA for other employees.\n\nDirects the Secretary of Labor, 60 days before any increase in the minimum wage, to publish it in the Federal Register and on the Department of Labor's website.\n\nAmends the Internal Revenue Code to extend through taxable years beginning before 2017: (1) the increase to $500,000 of the expensing allowance for business assets, including computer software; and (2) the treatment of qualified real property (i.e., leasehold improvement property, restaurant property, and retail improvement property) as depreciable business property."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Minimum Wage Fairness Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide for an increase in the Federal minimum wage and to amend the Internal Revenue Code of 1986 to extend increased expensing limitations and the treatment of certain real property as section 179 property.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:16-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2223:@@@L&summ2=m&"
+}

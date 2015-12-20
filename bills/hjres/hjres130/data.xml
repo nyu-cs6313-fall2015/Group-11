@@ -1,0 +1,64 @@
+<bill session="113" type="hj" number="130" updated="2015-09-01T10:21:11-04:00">
+  <state datetime="2014-12-12">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-12-12"/>
+  </status>
+  <introduced datetime="2014-12-10"/>
+  <titles>
+    <title type="official" as="introduced">Making further continuing appropriations for fiscal year 2015, and for other purposes.</title>
+  </titles>
+  <sponsor id="400340"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-12-10" state="REFERRED">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+    <action datetime="2014-12-11T21:53:00-05:00">
+      <text>Mr. Rogers (KY) asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2014-12-11T21:53:00-05:00">
+      <text>Committee on Appropriations discharged.</text>
+    </action>
+    <action datetime="2014-12-11T21:53:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H9291" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote" datetime="2014-12-11T21:54:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H9291" label="text"/>
+    </vote>
+    <action datetime="2014-12-11T21:54:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-12-11">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice.</text>
+      <reference ref="CR S6681" label="consideration"/>
+    </action>
+    <action datetime="2014-12-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2014-12-11">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-12-12" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-202" type="public" datetime="2014-12-12">
+      <text>Became Public Law No: 113-202.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="hj" number="131"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Executive agency funding and structure"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/2014--Public Law.
+Amends the Continuing Appropriations Resolution, 2015 to extend the continuing FY2015 appropriations to federal agencies at the current annual rate until December 13, 2014, or enactment of specified appropriations legislation.</summary>
+</bill>

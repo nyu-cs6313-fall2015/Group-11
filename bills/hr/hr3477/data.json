@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-13", 
+      "references": [
+        {
+          "reference": "CR E1643-1644", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-13", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-11-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3477-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-11-13", 
+  "number": "3477", 
+  "official_title": "To authorize the Secretary of Veterans Affairs to provide support to university law school programs that are designed to provide legal assistance to veterans, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1042-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Veterans Legal Support Act of 2013", 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-11-13", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Civil actions and liability", 
+    "Department of Veterans Affairs", 
+    "Education programs funding", 
+    "Executive agency funding and structure", 
+    "Lawyers and legal services", 
+    "Veterans' medical care", 
+    "Veterans' pensions and compensation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-11-13", 
+    "text": "Veterans Legal Support Act of 2013 - Authorizes the Secretary of Veterans Affairs (VA) to provide support to at least one university law school program that is designed to provide legal assistance to veterans.\n\nAllows programs of university law schools which may receive support under this Act to include those that assist veterans with: (1) filing and appealing claims for benefits under laws administered by the Secretary; and (2) such other civil, criminal, and family legal matters as considered appropriate.\n\nPermits the support provided to a program to include financial support.\n\nLimits the total amount of financial support provided in any fiscal year to $1 million."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Legal Support Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Secretary of Veterans Affairs to provide support to university law school programs that are designed to provide legal assistance to veterans, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3477:@@@L&summ2=m&"
+}

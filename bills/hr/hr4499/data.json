@@ -1,0 +1,146 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-28", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-28", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-28", 
+      "references": [
+        {
+          "reference": "Permanent Select", 
+          "type": null
+        }
+      ], 
+      "text": "Referred to House Intelligence", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-09", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4499-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-28", 
+  "number": "4499", 
+  "official_title": "To require reports submitted to Congress under the Foreign Intelligence Surveillance Act of 1978 to also be submitted to the Privacy and Civil Liberties Oversight Board.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Privacy and Civil Liberties Oversight Enhancement Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Himes, James A.", 
+    "state": "CT", 
+    "thomas_id": "01913", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-28", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Armed forces and national security", 
+    "Business records", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal procedure and sentencing", 
+    "Intelligence activities, surveillance, classified information", 
+    "Privacy and Civil Liberties Oversight Board", 
+    "Right of privacy"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-28", 
+    "text": "Privacy and Civil Liberties Oversight Enhancement Act - Amends the Foreign Intelligence Surveillance Act of 1978 (FISA) to include the Privacy and Civil Liberties Oversight Board as a recipient of: (1) FISA court procedural rule changes, decisions, and pleadings; (2) the Attorney General's (DOJ) annual report to the Administrative Office of the U.S. Court regarding applications and orders for electronic surveillance; (3) the Attorney General's reports to Congress concerning electronic surveillance, physical searches, pen registers and trap and trace devices, production of tangible things (commonly referred to as business records), the number of persons targeted by the government under FISA authorities, and procedures for targeting persons; (4) reports by the Attorney General and the Director of National Intelligence (DNI) assessing compliance with minimization procedures for targeting persons reasonably believed to be located outside the United States other than U.S. persons, including reviews of the number of targets who were later determined to be located in the United States; and (5) annual reports of each element of the intelligence community authorized to acquire targeted foreign intelligence information."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Privacy and Civil Liberties Oversight Enhancement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require reports submitted to Congress under the Foreign Intelligence Surveillance Act of 1978 to also be submitted to the Privacy and Civil Liberties Oversight Board.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:36-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4499:@@@L&summ2=m&"
+}

@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="3603" updated="2015-09-01T10:20:12-04:00">
+  <state datetime="2013-11-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-21"/>
+  </status>
+  <introduced datetime="2013-11-21"/>
+  <titles>
+    <title type="official" as="introduced">To limit the construction on United States soil of satellite positioning ground monitoring stations of foreign governments, and for other purposes.</title>
+  </titles>
+  <sponsor id="400221"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2013-11-21"/>
+    <cosponsor id="400341" joined="2013-11-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-21" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-11-21">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2013-11-21">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-11-21">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2014-01-24">
+      <text>Referred to the Subcommittee on Strategic Forces.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS29" subcommittee="Strategic Forces" name="House Armed Services"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Congressional oversight"/>
+    <term name="Foreign property"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Spacecraft and satellites"/>
+  </subjects>
+  <amendments/>
+  <summary>11/21/2013--Introduced.
+Prohibits the President from authorizing or permitting the construction of a satellite positioning ground monitoring station directly or indirectly controlled by a foreign government on U.S. soil until the Secretary of Defense (DOD) and the Director of National Intelligence (DNI) jointly certify to Congress that such station will not possess the capability or potential to be used to gather intelligence or improve foreign weapons systems.
+
+Directs the Secretary, DNI, and the Commander of the U.S. Strategic Command to jointly report to Congress regarding the use of such stations by foreign governments to gather intelligence or improve the accuracy of missile guidance systems.</summary>
+</bill>

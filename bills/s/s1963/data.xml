@@ -1,0 +1,103 @@
+<bill session="113" type="s" number="1963" updated="2015-09-01T10:22:10-04:00">
+  <state datetime="2014-01-28">REPORTED</state>
+  <status>
+    <unknown datetime="2014-01-28"/>
+  </status>
+  <introduced datetime="2014-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal section 403 of the Bipartisan Budget Act of 2013.</title>
+  </titles>
+  <sponsor id="300080"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2014-02-10"/>
+    <cosponsor id="412326" joined="2014-01-27"/>
+    <cosponsor id="300011" joined="2014-02-11"/>
+    <cosponsor id="412378" joined="2014-02-10"/>
+    <cosponsor id="412324" joined="2014-01-27"/>
+    <cosponsor id="300063" joined="2014-02-10"/>
+    <cosponsor id="300065" joined="2014-02-06"/>
+    <cosponsor id="412325" joined="2014-02-06"/>
+    <cosponsor id="300078" joined="2014-02-10"/>
+    <cosponsor id="412507" joined="2014-02-06"/>
+    <cosponsor id="412323" joined="2014-01-27"/>
+    <cosponsor id="412321" joined="2014-02-10"/>
+    <cosponsor id="300100" joined="2014-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-27">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2014-01-28" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="298">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 298.</text>
+    </calendar>
+    <action datetime="2014-02-04">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S738-739, S747-750, S754-755" label="consideration"/>
+    </action>
+    <action datetime="2014-02-06">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S775, S812" label="consideration"/>
+    </action>
+    <action datetime="2014-02-06">
+      <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S812" label="consideration"/>
+      <reference ref="CR S812" label="text"/>
+    </action>
+    <action datetime="2014-02-10">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S837, S838, S842, S845-847" label="consideration"/>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="26" datetime="2014-02-10" where="s" result="pass">
+      <text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 26.</text>
+      <reference ref="CR S846-847" label="consideration"/>
+      <reference ref="CR S846-847" label="text"/>
+    </vote-aux>
+    <action datetime="2014-02-11">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S860-871, S872-873, S873-885" label="consideration"/>
+    </action>
+    <action datetime="2014-02-12">
+      <text>Returned to the Calendar. Calendar No. 298.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="3787"/>
+    <bill relation="unknown" session="113" type="h" number="3788"/>
+    <bill relation="unknown" session="113" type="h" number="3790"/>
+    <bill relation="unknown" session="113" type="h" number="3792"/>
+    <bill relation="unknown" session="113" type="h" number="3793"/>
+    <bill relation="unknown" session="113" type="h" number="3794"/>
+    <bill relation="unknown" session="113" type="h" number="3797"/>
+    <bill relation="unknown" session="113" type="h" number="3798"/>
+    <bill relation="unknown" session="113" type="h" number="3801"/>
+    <bill relation="unknown" session="113" type="h" number="3804"/>
+    <bill relation="unknown" session="113" type="h" number="3807"/>
+    <bill relation="unknown" session="113" type="h" number="4134"/>
+    <bill relation="unknown" session="113" type="s" number="1844"/>
+    <bill relation="unknown" session="113" type="s" number="1856"/>
+    <bill relation="unknown" session="113" type="s" number="1869"/>
+    <bill relation="unknown" session="113" type="s" number="1930"/>
+    <bill relation="unknown" session="113" type="s" number="1931"/>
+    <bill relation="unknown" session="113" type="s" number="1950"/>
+    <bill relation="unknown" session="113" type="s" number="1977"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Inflation and prices"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2732"/>
+    <amendment number="s2733"/>
+    <amendment number="s2734"/>
+    <amendment number="s2735"/>
+    <amendment number="s2736"/>
+    <amendment number="s2737"/>
+    <amendment number="s2738"/>
+    <amendment number="s2739"/>
+  </amendments>
+  <summary>1/27/2014--Introduced.
+Repeals a provision of the Bipartisan Budget Act of 2013 that reduces the cost-of-living adjustment to the retirement pay of members of the Armed Forces under age 62.</summary>
+</bill>

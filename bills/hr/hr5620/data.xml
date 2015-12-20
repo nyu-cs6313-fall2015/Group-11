@@ -1,0 +1,52 @@
+<bill session="113" type="h" number="5620" updated="2015-09-01T10:21:03-04:00">
+  <state datetime="2014-09-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-09-18"/>
+  <titles>
+    <title type="short" as="introduced">First Responder Anthrax Preparedness Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Homeland Security to make anthrax vaccines and antimicrobials available to emergency response providers, and for other purposes.</title>
+  </titles>
+  <sponsor id="400219"/>
+  <cosponsors>
+    <cosponsor id="400309" joined="2014-09-18"/>
+    <cosponsor id="412506" joined="2014-12-03"/>
+    <cosponsor id="400376" joined="2014-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-18" state="REFERRED">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-09-18">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2014-09-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-10-28">
+      <text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM12" subcommittee="Emergency Preparedness, Response, and Communications" name="House Homeland Security"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Chemical and biological weapons"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Immunology and vaccination"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+</bill>

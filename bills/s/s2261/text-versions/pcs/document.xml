@@ -1,0 +1,2200 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Placed-on-Calendar-Senate" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>113 S2261 PCS: Tax Technical Corrections Act of 2014</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2014-04-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<calendar>Calendar No. 367</calendar>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 2261</legis-num>
+		<associated-doc role="report">[Report No. 113–155]</associated-doc>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20140428">April 28, 2014</action-date>
+			<action-desc><sponsor name-id="S247">Mr. Wyden</sponsor>, from the <committee-name committee-id="SSFI00">Committee on Finance</committee-name>, reported the following original bill; which was read twice and placed on the calendar</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to make technical corrections, to remove provisions that
+			 are no longer applicable, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HB0C934B1057C48A6A197318DAF16B124" style="OLC">
+		<section id="HE1C8AAB3F91A4592B6890A052407D3BC" section-type="section-one">
+			<enum>1.</enum>
+			<header>Short title; amendment of 1986 Code; table of contents</header>
+			<subsection id="H0EFC016A44CB4D6797ED52FF8FA5D247">
+				<enum>(a)</enum>
+				<header>Short title</header>
+				<text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Tax Technical Corrections Act of 2014</short-title></quote>.</text>
+			</subsection><subsection id="H74C201028BB6496B894B1D62A22C936C">
+				<enum>(b)</enum>
+				<header>Amendment of 1986 Code</header>
+				<text>Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in
+			 terms of an amendment to, or repeal of, a section or other provision, the
+			 reference shall be considered to be made to a section or other provision
+			 of the Internal Revenue Code of 1986.</text>
+			</subsection><subsection id="H73489408598C4C3AB0261DFA0828FEA6">
+				<enum>(c)</enum>
+				<header>Table of contents</header>
+				<text>The table of contents of this Act is as follows:</text>
+				<toc><toc-entry idref="HE1C8AAB3F91A4592B6890A052407D3BC" level="section">Sec. 1. Short title; amendment of 1986 Code; table of contents.</toc-entry>
+					<toc-entry idref="H859EAE5639634AC994C0FC7B89669AAD" level="section">Sec. 2. Amendment relating to Middle Class Tax Relief and Job Creation Act of 2012.</toc-entry>
+					<toc-entry idref="H8448A45D513E45EEB52AE7A4A7723D78" level="section">Sec. 3. Amendments relating to American Taxpayer Relief Act of 2012.</toc-entry>
+					<toc-entry idref="H53EA02183EAE43C2B18FDB91A4D47D14" level="section">Sec. 4. Amendments relating to Regulated Investment Company Modernization Act of 2010.</toc-entry>
+					<toc-entry idref="H0787DDDAD2A2410DA1C875E2CF80D602" level="section">Sec. 5. Amendments relating to Tax Relief, Unemployment Insurance Reauthorization, and Job Creation
+			 Act of 2010.</toc-entry>
+					<toc-entry idref="HCF70E9D3DA4F4710AC4D4382B6703DD4" level="section">Sec. 6. Amendments relating to Creating Small Business Jobs Act of 2010.</toc-entry>
+					<toc-entry idref="H7F766B2F863C41A1AFA351BC58FA4AF6" level="section">Sec. 7. Clerical amendment relating to Hiring Incentives to Restore Employment Act.</toc-entry>
+					<toc-entry idref="H8E6AC098B38B48E38DEBF700C308ADEC" level="section">Sec. 8. Amendments relating to American Recovery and Reinvestment Tax Act of 2009.</toc-entry>
+					<toc-entry idref="HD7602C76B4EB417C8F741098A649BA95" level="section">Sec. 9. Amendments relating to Energy Improvement and Extension Act of 2008.</toc-entry>
+					<toc-entry idref="H289709B8B1C64E4084AC0838F2A64571" level="section">Sec. 10. Amendments relating to Tax Extenders and Alternative Minimum Tax Relief Act of 2008.</toc-entry>
+					<toc-entry idref="H1AA5E99838A545188188191E96F7BCB5" level="section">Sec. 11. Clerical amendments relating to Housing Assistance Tax Act of 2008.</toc-entry>
+					<toc-entry idref="H5B845BAE518B4725BCFAF0C35E67FD2B" level="section">Sec. 12. Amendments and provision relating to Heroes Earnings Assistance and Relief Tax Act of
+			 2008.</toc-entry>
+					<toc-entry idref="H577882AA763E4B499D82E238A7F3F380" level="section">Sec. 13. Amendments relating to Economic Stimulus Act of 2008.</toc-entry>
+					<toc-entry idref="H4074E7B5E22B4A8DB7BB5E8BED325370" level="section">Sec. 14. Amendments relating to Tax Technical Corrections Act of 2007.</toc-entry>
+					<toc-entry idref="H6BF770DDEA4745748F4309698162F7DF" level="section">Sec. 15. Amendment relating to Tax Relief and Health Care Act of 2006.</toc-entry>
+					<toc-entry idref="H8B242E06275A478E89F0092B3ED15E5F" level="section">Sec. 16. Amendment relating to Safe, Accountable, Flexible, Efficient Transportation Equity Act of
+			 2005: A Legacy for Users.</toc-entry>
+					<toc-entry idref="H2DE27954E93B4A26980746A2E8EFCF24" level="section">Sec. 17. Amendments relating to Energy Tax Incentives Act of 2005.</toc-entry>
+					<toc-entry idref="HE880F75AC4C24A08A8909684A7E4B4F2" level="section">Sec. 18. Amendments relating to American Jobs Creation Act of 2004.</toc-entry>
+					<toc-entry idref="HD5895A7E6FEA4ECD8AC79A6E0CC3383E" level="section">Sec. 19. Other clerical corrections.</toc-entry>
+					<toc-entry idref="IDc81476931d8745eeac93d0afc4cb3c8a" level="section">Sec. 20. Deadwood provisions.</toc-entry>
+				</toc>
+			</subsection></section><section id="H859EAE5639634AC994C0FC7B89669AAD">
+			<enum>2.</enum>
+			<header>Amendment relating to Middle Class Tax Relief and Job Creation Act of 2012</header>
+			<subsection id="H4A98FB3F7EAF46F5B21695304C93536B">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>7001</enum-in-header></header>
+				<text display-inline="yes-display-inline">Paragraph (1) of section 7001 of the Middle Class Tax Relief and Job Creation Act of 2012 is
+			 amended by striking <quote>201(b)</quote> and inserting <quote>202(b)</quote>.</text>
+			</subsection><subsection id="HD421FC70E6534EF09C149FC33D3A7528">
+				<enum>(b)</enum>
+				<header>Effective date</header>
+				<text>The amendment made by subsection (a) shall take effect as if included in section 7001 of the Middle
+			 Class Tax Relief and Job Creation Act of 2012.</text>
+			</subsection></section><section id="H8448A45D513E45EEB52AE7A4A7723D78">
+			<enum>3.</enum>
+			<header>Amendments relating to American Taxpayer Relief Act of 2012</header>
+			<subsection id="H7DED21FB156B4D7BA573B270FD875601">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>102</enum-in-header></header>
+				<text display-inline="yes-display-inline">Clause (ii) of section 911(f)(2)(B) is amended by striking <quote>described in section 1(h)(1)(B) shall be treated as a reference to such excess as determined</quote> and inserting <quote>described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii) to the excess
+			 described in section 1(h)(1)(C)(ii), shall each be treated as a reference
+			 to each such excess as determined</quote>.</text>
+			</subsection><subsection id="H902C5163165F4505B694A95908E7C67D">
+				<enum>(b)</enum>
+				<header>Amendments relating to section <enum-in-header>104</enum-in-header></header>
+				<paragraph id="HE6485D5E20E64C6D8D0BE45A4DCC7CDC">
+					<enum>(1)</enum>
+					<text>Clause (ii) of section 55(d)(4)(B) is amended by inserting <quote>subparagraphs (A), (B), and (D) of</quote> before <quote>paragraph (1)</quote>.</text>
+				</paragraph><paragraph id="HD38CC0FF6AC34A92B4E95391C83D302B">
+					<enum>(2)</enum>
+					<text display-inline="yes-display-inline">Subparagraph (C) of section 55(d)(4) is amended by striking <quote>increase</quote> and inserting <quote>increased amount</quote>.</text>
+				</paragraph></subsection><subsection id="H9DB9C0C8517B42C790D9FEE52D56D450">
+				<enum>(c)</enum>
+				<header>Effective date</header>
+				<text display-inline="yes-display-inline">The amendments made by this section shall take effect as if included in the provision of the
+			 American Taxpayer Relief Act of 2012 to which they relate.</text>
+			</subsection></section><section id="H53EA02183EAE43C2B18FDB91A4D47D14">
+			<enum>4.</enum>
+			<header>Amendments relating to Regulated Investment Company Modernization Act of 2010</header>
+			<subsection id="H0F71A538B6BD4B288A6EF3277C6217A9">
+				<enum>(a)</enum>
+				<header>Amendments relating to section <enum-in-header>101</enum-in-header></header>
+				<paragraph id="idCDF096769C174A559DEE8254073A2217">
+					<enum>(1)</enum>
+					<text>Subsection (c) of section 101 of the Regulated Investment Company Modernization Act of 2010 is
+			 amended—</text>
+					<subparagraph id="id77F8C668132E4734B34BD33CA5B3E995">
+						<enum>(A)</enum>
+						<text>by striking <quote>paragraph (2)</quote> in paragraph (1) and inserting <quote>paragraphs (2) and (3)</quote>, and</text>
+					</subparagraph><subparagraph id="idEBD1C05E88B646F5A7A57F58809BA877">
+						<enum>(B)</enum>
+						<text>by adding at the end the following new paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="idE1D1B46EC158420988DADCB3D444ED69" style="OLC">
+							<paragraph id="id3E0BB69D902F467382CA91C150F0AE13">
+								<enum>(3)</enum>
+								<header>Excise tax</header>
+								<subparagraph id="idF0BC67FFF7A940B89E38327DA074B42D">
+									<enum>(A)</enum>
+									<header>In general</header>
+									<text>Except as provided in subparagraph (B), for purposes of section 4982 of the Internal Revenue Code
+			 of 1986, paragraphs (1) and (2) shall apply by substituting <quote>the 1-year periods taken into account under subsection (b)(1)(B) of such section with respect to
+			 calendar years beginning after December 31, 2010</quote> for <quote>taxable years beginning after the date of the enactment of this Act</quote>.</text>
+								</subparagraph><subparagraph id="id691CD5BD072C47B694C95491973B3CE9">
+									<enum>(B)</enum>
+									<header>Election</header>
+									<text>A regulated investment company may elect to apply subparagraph (A) by substituting <quote>2011</quote> for <quote>2010</quote>.  Such election shall be made at such time and in such form and manner as the Secretary of the
+			 Treasury (or the Secretary's delegate) shall prescribe.</text>
+								</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph></paragraph><paragraph id="idAEB52855C5364C46BBEC748FC51FDDCC">
+					<enum>(2)</enum>
+					<text display-inline="yes-display-inline">The first sentence of paragraph (2) of section 852(c) is amended—</text>
+					<subparagraph id="H6F37559B197745FFBDA1F97FC5532888">
+						<enum>(A)</enum>
+						<text>by striking <quote>and without regard to</quote> and inserting <quote>, without regard to</quote>, and</text>
+					</subparagraph><subparagraph id="H5E03315DEFEA4D7DB59EECD5D06D7E28">
+						<enum>(B)</enum>
+						<text>by inserting <quote>, and without regard to any capital loss arising on the first day of the taxable year by reason of
+			 clauses (ii) and (iii) of section 1212(a)(3)(A)</quote> before the period at the end.</text>
+					</subparagraph></paragraph></subsection><subsection id="H3F01C9B96C3641FFB452B301F20BB6D2">
+				<enum>(b)</enum>
+				<header>Amendment relating to section <enum-in-header>304</enum-in-header></header>
+				<text>Paragraph (1) of section 855(a) is amended by inserting <quote>on or</quote> before <quote>before</quote>.</text>
+			</subsection><subsection id="H9A72088F9889433891B26249DA59979C">
+				<enum>(c)</enum>
+				<header>Amendments relating to section <enum-in-header>308</enum-in-header></header>
+				<paragraph id="HC3F1EFFC0AB24E29B52CECBA5B367123">
+					<enum>(1)</enum>
+					<text display-inline="yes-display-inline">Paragraph (8) of section 852(b) is amended by redesignating subparagraph (E) as subparagraph (G)
+			 and by striking subparagraphs (C) and (D) and inserting the following new
+			 subparagraphs:</text>
+					<quoted-block display-inline="no-display-inline" id="HB33DC23E81504DDA98A19C5C10062F64" style="OLC">
+						<subparagraph id="H3514F2E2E4214BC2A73FDE463F262013">
+							<enum>(C)</enum>
+							<header>Post-October capital loss</header>
+							<text display-inline="yes-display-inline">For purposes of this paragraph, the term <quote>post-October capital loss</quote> means—</text>
+							<clause id="H438028E3D5554E9CADFBDA2DAC936A39">
+								<enum>(i)</enum>
+								<text>any net capital loss attributable to the portion of the taxable year after October 31, or</text>
+							</clause><clause id="HA1098A6F8F544965889AA819466AF0F4">
+								<enum>(ii)</enum>
+								<text>if there is no such loss—</text>
+								<subclause id="HB733FF5CF52745E3B8824C55710F40F4">
+									<enum>(I)</enum>
+									<text>any net long-term capital loss attributable to such portion of the taxable year, or</text>
+								</subclause><subclause id="H23EC55F806344054AB2F7CBE564C71C8">
+									<enum>(II)</enum>
+									<text>any net short-term capital loss attributable to such portion of the taxable year.</text>
+								</subclause></clause></subparagraph><subparagraph id="H51D181D52CF444A29ACCE98CB6902D99">
+							<enum>(D)</enum>
+							<header>Late-year ordinary loss</header>
+							<text>For purposes of this paragraph, the term <quote>late-year ordinary loss</quote> means the sum of any post-October specified loss and any post-December ordinary loss.</text>
+						</subparagraph><subparagraph id="HAD61CAA1653E4188A01D89BA9FA47461">
+							<enum>(E)</enum>
+							<header>Post-October specified loss</header>
+							<text>For purposes of this paragraph, the term <quote>post-October specified loss</quote> means the excess (if any) of—</text>
+							<clause id="H61712F98FBEE4D508CD2912D86F47688">
+								<enum>(i)</enum>
+								<text>the specified losses (as defined in section 4982(e)(5)(B)(ii)) attributable to the portion of the
+			 taxable year after October 31, over</text>
+							</clause><clause id="H53156BEEDB834E3797D5D585FBFBA780">
+								<enum>(ii)</enum>
+								<text>the specified gains (as defined in section 4982(e)(5)(B)(i)) attributable to such portion of the
+			 taxable year.</text>
+							</clause></subparagraph><subparagraph id="HFC784D6384FC4721A47A51ED98B7F4D5">
+							<enum>(F)</enum>
+							<header>Post-December ordinary loss</header>
+							<text>For purposes of this paragraph, the term <quote>post-December ordinary loss</quote> means the excess (if any) of—</text>
+							<clause id="H1F922CF245794C10933E9C41FDECB8D6">
+								<enum>(i)</enum>
+								<text>the ordinary losses not described in subparagraph (E)(i) and attributable to the portion of the
+			 taxable year after December 31, over</text>
+							</clause><clause id="H0CE705CC6D6347E2A4FC2F6E274B7119">
+								<enum>(ii)</enum>
+								<text>the ordinary income not described in subparagraph (E)(ii) and attributable to such portion of the
+			 taxable year.</text>
+							</clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="H4198FE0462114C2AABB3B621AF278A4A">
+					<enum>(2)</enum>
+					<text>Subparagraph (G) of section 852(b)(8), as so redesignated, is amended by striking <quote>, (D)(i)(I), and (D)(ii)(I)</quote> and inserting <quote>and (E)</quote>.</text>
+				</paragraph><paragraph id="H7C126E34A8D44BA7B5D335939190ED93">
+					<enum>(3)</enum>
+					<text>The first sentence of paragraph (2) of section 852(c), as amended by subsection (a), is amended—</text>
+					<subparagraph id="HF4A6DB9E312349A78384FA0A7F6BD319">
+						<enum>(A)</enum>
+						<text>by striking <quote>, and without regard to</quote> and inserting <quote>, without regard to</quote>, and</text>
+					</subparagraph><subparagraph id="H0A8CAA789EA14456BDA48FF39C8A5302">
+						<enum>(B)</enum>
+						<text>by inserting <quote>, and with such other adjustments as the Secretary may prescribe</quote> before the period at the end.</text>
+					</subparagraph></paragraph></subsection><subsection id="HBD7A3992FEEA4838AE529CFC8F648C15">
+				<enum>(d)</enum>
+				<header>Amendments relating to section <enum-in-header>402</enum-in-header></header>
+				<paragraph id="H56479B68FC434EA1A23871B94F06F80D">
+					<enum>(1)</enum>
+					<text display-inline="yes-display-inline">Subparagraph (B) of section 4982(e)(6) is amended by inserting before the period at the end the
+			 following: <quote>or which determines income by reference to the value of an item on the last day of the taxable year</quote>.</text>
+				</paragraph><paragraph id="H4E03F1E0BDE044D58DF78858F0ABDA28">
+					<enum>(2)</enum>
+					<text>Subparagraph (A) of section 4982(e)(7) is amended by striking <quote>such company</quote> and all that follows through <quote>any net ordinary loss</quote> and inserting <quote>such company may elect to determine its ordinary income and net ordinary loss (as defined in
+			 paragraph (2)(C)(ii)) for the calendar year without regard to any portion
+			 of any net ordinary loss</quote>.</text>
+				</paragraph></subsection><subsection id="id76780259A31E4AB58D36BA3D8C939196">
+				<enum>(e)</enum>
+				<header>Clerical amendment relating to section 201</header>
+				<text>Subparagraph (A) of section 851(d)(2) is amended by inserting <quote>of this paragraph</quote> after <quote>subparagraph (B)(i)</quote>.</text>
+			</subsection><subsection id="H72910930CEBF4209B899DF528E290102">
+				<enum>(f)</enum>
+				<header>Effective date</header>
+				<paragraph id="H4BC5B121C9AF45719154285230FA2B2B">
+					<enum>(1)</enum>
+					<header>In general</header>
+					<text display-inline="yes-display-inline">Except as provided in paragraph (2), the amendments made by this section shall take effect as if
+			 included in the provision of the Regulated Investment Company
+			 Modernization Act of 2010 to which they relate.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="H599E874EF67743A8998413D6987CEADB">
+					<enum>(2)</enum>
+					<header>Savings provision</header>
+					<text display-inline="yes-display-inline">In the case of a regulated investment company which, before the date of the enactment of this Act,
+			 elected under paragraph (8) of section 852(b) of the Internal Revenue Code
+			 of 1986 (as in effect on the date of such election) for any taxable year
+			 ending before such date of enactment to treat any loss as arising in the
+			 following taxable year, the amendments made by paragraphs (1) and (2) of
+			 subsection (c) shall not apply with respect to such election.</text>
+				</paragraph></subsection></section><section id="H0787DDDAD2A2410DA1C875E2CF80D602">
+			<enum>5.</enum>
+			<header>Amendments relating to Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of
+			 2010</header>
+			<subsection id="HB5C2AC32AF684C909E16D0FB8D7239EB">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>103</enum-in-header></header>
+				<text display-inline="yes-display-inline">Clause (ii) of section 32(b)(3)(B) is amended by striking <quote>in 2010</quote> and inserting <quote>after 2009</quote>.</text>
+			</subsection><subsection id="H38A9BCD7557045B0ACEFE3E47B309383">
+				<enum>(b)</enum>
+				<header>Clerical amendment relating to section <enum-in-header>302</enum-in-header></header>
+				<text display-inline="yes-display-inline">Subsection (f) of section 302 of the Tax Relief, Unemployment Insurance Reauthorization, and Job
+			 Creation Act of 2010 is amended by striking <quote>subsection</quote> and inserting <quote>section</quote>.</text>
+			</subsection><subsection id="HFAD82EC8D4734C4B8D266355A5078929">
+				<enum>(c)</enum>
+				<header>Effective date</header>
+				<text display-inline="yes-display-inline">The amendments made by this section shall take effect as if included in the provisions of the Tax
+			 Relief, Unemployment Insurance Reauthorization, and Job Creation Act of
+			 2010 to which they relate.</text>
+			</subsection></section><section commented="no" display-inline="no-display-inline" id="HCF70E9D3DA4F4710AC4D4382B6703DD4" section-type="subsequent-section">
+			<enum>6.</enum>
+			<header>Amendments relating to Creating Small Business Jobs Act of 2010</header>
+			<subsection id="H01FB6F910CC34B9EBC0E3774627ECBFE">
+				<enum>(a)</enum>
+				<header>Amendments relating to section <enum-in-header>2102</enum-in-header></header>
+				<paragraph id="H03F3D0DAFAD1417BA37CE9A93514E1DD">
+					<enum>(1)</enum>
+					<text>Subsection (h) of section 2102 of the Creating Small Business Jobs Act of 2010 is amended by
+			 inserting <quote>, and payee statements required to be furnished,</quote> after <quote>information returns required to be filed</quote>.</text>
+				</paragraph><paragraph id="HB080E85998284BB5BE78704C5E0262D0">
+					<enum>(2)</enum>
+					<text>Paragraphs (1) and (2) of subsection (b), and subsection (c)(1)(C), of section 6722 are each
+			 amended by striking <quote>the required filing date</quote> and inserting <quote>the date prescribed for furnishing such statement</quote>.</text>
+				</paragraph><paragraph id="HFB548C257C9E4B319292A7CA9E67348E">
+					<enum>(3)</enum>
+					<text>Subparagraph (B) of section 6722(c)(2) is amended by striking <quote>filed</quote> and inserting <quote>furnished</quote>.</text>
+				</paragraph></subsection><subsection commented="no" id="H99ABB6B89A684D658DBA50BA6626F825">
+				<enum>(b)</enum>
+				<header>Effective date</header>
+				<text display-inline="yes-display-inline">The amendments made by this section shall take effect as if included in the provision of the
+			 Creating Small Business Jobs Act of 2010 to which they relate.</text>
+			</subsection></section><section id="H7F766B2F863C41A1AFA351BC58FA4AF6">
+			<enum>7.</enum>
+			<header>Clerical amendment relating to Hiring Incentives to Restore Employment Act</header>
+			<subsection id="HBA0A45C89A15448AA79DDCE301F77809">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>512</enum-in-header></header>
+				<text display-inline="yes-display-inline">Paragraph (1) of section 512(a) of the Hiring Incentives to Restore Employment Act is amended by
+			 striking <quote>after paragraph (6)</quote> and inserting <quote>after paragraph (5)</quote>.</text>
+			</subsection><subsection id="HAF5FC5F2E5354E51B8A2798F03D4AD24">
+				<enum>(b)</enum>
+				<header>Effective date</header>
+				<text display-inline="yes-display-inline">The amendment made by this section shall take effect as if included in the provision of the Hiring
+			 Incentives to Restore Employment Act to which it relates.</text>
+			</subsection></section><section id="H8E6AC098B38B48E38DEBF700C308ADEC">
+			<enum>8.</enum>
+			<header>Amendments relating to American Recovery and Reinvestment Tax Act of 2009</header>
+			<subsection id="H3CD783BCE30149F1872A0AA0294A2A56">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>1003</enum-in-header></header>
+				<text>Paragraph (4) of section 24(d) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="HC0CC71EA6899412B900493F24488EE24" style="OLC">
+					<paragraph id="HC3299B383C4B44768A437E5B53F57378">
+						<enum>(4)</enum>
+						<header>Special rule for certain years</header>
+						<text display-inline="yes-display-inline">In the case of any taxable year beginning after 2008 and before 2018, paragraph (1)(B)(i) shall be
+			 applied by substituting <quote>$3,000</quote> for <quote>$10,000</quote>.</text>
+					</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HCD9D85F4386D4F969985B30CC8C1DE99">
+				<enum>(b)</enum>
+				<header>Amendment relating to section <enum-in-header>1004</enum-in-header></header>
+				<text>Paragraph (3) of section 25A(i) is amended by striking <quote>Subsection (f)(1)(A) shall be applied</quote> and inserting <quote>For purposes of determining the Hope Scholarship Credit, subsection (f)(1)(A) shall be applied</quote>.</text>
+			</subsection><subsection id="H70E0B468139542B79B58F0945206F8B8">
+				<enum>(c)</enum>
+				<header>Amendments relating to section <enum-in-header>1008</enum-in-header></header>
+				<paragraph id="HBE92E80ACF324017B3DA54B9D46C3281">
+					<enum>(1)</enum>
+					<text>Paragraph (6) of section 164(b) is amended by striking subparagraph (E) and by redesignating
+			 subparagraphs (F) and (G) as subparagraphs (E) and (F), respectively.</text>
+				</paragraph><paragraph id="HF2E0CEB1718A4652A8BDF34DEE11C19F">
+					<enum>(2)</enum>
+					<text>Subparagraphs (E) and (F) of section 164(b)(6), as so redesignated, are each amended by striking <quote>This paragraph</quote> and inserting <quote>Subsection (a)(6)</quote>.</text>
+				</paragraph></subsection><subsection id="HBA023DE826B64CF3839D22E72061517B">
+				<enum>(d)</enum>
+				<header>Amendment relating to section <enum-in-header>1104</enum-in-header></header>
+				<text>Subparagraph (A) of section 48(d)(3) is amended by inserting <quote>or alternative minimum taxable income</quote> after <quote>includible in the gross income</quote></text>
+			</subsection><subsection display-inline="no-display-inline" id="HED0329E2B15641F5B247038F3A337E5B">
+				<enum>(e)</enum>
+				<header>Amendments relating to section <enum-in-header>1141</enum-in-header></header>
+				<paragraph id="H9409858F94494004B6430FAD785171AC">
+					<enum>(1)</enum>
+					<text>Subsection (f) of section 30D is amended—</text>
+					<subparagraph id="H8E3E9561B94B429AAB3A665068272CDB">
+						<enum>(A)</enum>
+						<text display-inline="yes-display-inline">by inserting <quote>(determined without regard to subsection (c))</quote> before the period at the end of paragraph (1), and</text>
+					</subparagraph><subparagraph id="H74B71EB7EDA7403F8427279BE9E4F5D4">
+						<enum>(B)</enum>
+						<text display-inline="yes-display-inline">by inserting <quote>(determined without regard to subsection (c))</quote> before the period at the end of paragraph (2).</text>
+					</subparagraph></paragraph><paragraph id="H06BAC7C57E4F4D25832BB09DC1AA8C02">
+					<enum>(2)</enum>
+					<text display-inline="yes-display-inline">Paragraph (3) of section 30D(f) is amended by adding at the end the following: <quote>For purposes of subsection (c), property to which this paragraph applies shall be treated as of a
+			 character subject to an allowance for depreciation.</quote></text>
+				</paragraph></subsection><subsection id="HDB8E0D403CB1446B926FF831D5B78C86">
+				<enum>(f)</enum>
+				<header>Amendments relating to section <enum-in-header>1142</enum-in-header></header>
+				<paragraph commented="no" display-inline="no-display-inline" id="HB805ADF177D5417D89FF6A3E432A0549">
+					<enum>(1)</enum>
+					<text>Subsection (b) of section 38 is amended by striking <quote>plus</quote> at the end of paragraph (35), by redesignating paragraph (36) as paragraph (37), and by inserting
+			 after paragraph (35) the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H7A91C4376AA344169BEECF418C5343E2" style="OLC">
+						<paragraph commented="no" id="HBAD933C7C5AD47778792E8E3D53B1353">
+							<enum>(36)</enum>
+							<text display-inline="yes-display-inline">the portion of the qualified plug-in electric vehicle credit to which section 30(c)(1) applies,
+			 plus</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="H1F684E0495DD420DA956962E456D94E6">
+					<enum>(2)</enum>
+					<subparagraph commented="no" display-inline="yes-display-inline" id="HD22877276ED941D0BF258D88D3311C21"><enum>(A)</enum>
+						<text>Subsection (e) of section 30 is amended—</text>
+						<clause id="H3726216579C5455E970E3CFF7CDC95F0" indent="up1">
+							<enum>(i)</enum>
+							<text>by inserting <quote>(determined without regard to subsection (c))</quote> before the period at the end of paragraph (1), and</text>
+						</clause><clause id="H9BC16A1FE8F74B759D9EB6D7F0FAFFD2" indent="up1">
+							<enum>(ii)</enum>
+							<text>by inserting <quote>(determined without regard to subsection (c))</quote> before the period at the end of paragraph (2).</text>
+						</clause></subparagraph><subparagraph id="H4936763355AC4CEA8228AA8A9D9A39B8" indent="up1">
+						<enum>(B)</enum>
+						<text>Paragraph (3) of section 30(e) is amended by adding at the end the following: <quote>For purposes of subsection (c), property to which this paragraph applies shall be treated as of a
+			 character subject to an allowance for depreciation.</quote></text>
+					</subparagraph></paragraph></subsection><subsection id="HD87A6628438F4EC8A7148813487486EA">
+				<enum>(g)</enum>
+				<header>Amendment relating to section <enum-in-header>1302</enum-in-header></header>
+				<text>Paragraph (3) of section 48C(b) is amended by inserting <quote>as the qualified investment</quote> after <quote>The amount which is treated</quote>.</text>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="H25B24808A6344B35B09B7BFB505EE409">
+				<enum>(h)</enum>
+				<header>Amendments related to section <enum-in-header>1541</enum-in-header></header>
+				<paragraph commented="no" id="HF4CD3B66842440729EEFC87924EE0C1A">
+					<enum>(1)</enum>
+					<text>Paragraph (2) of section 853A(a) is amended by inserting <quote>(determined after the application of this section)</quote> before the comma at the end.</text>
+				</paragraph><paragraph commented="no" id="H0FF08269A28044CE91639B4E7337672E">
+					<enum>(2)</enum>
+					<text>Subsection (a) of section 853A is amended—</text>
+					<subparagraph id="HF19F74C4516D48C5868886437961DC01">
+						<enum>(A)</enum>
+						<text>by striking <quote>with respect to credits</quote> and inserting <quote>with respect to some or all of the credits</quote>, and</text>
+					</subparagraph><subparagraph id="HA6484772667C4D5198BE301B76BEF9A2">
+						<enum>(B)</enum>
+						<text>by inserting <quote>(determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c))</quote> after <quote>credits allowable</quote>.</text>
+					</subparagraph></paragraph><paragraph commented="no" id="H6CC5463DE75F49C79E757D507D64415E">
+					<enum>(3)</enum>
+					<text>Subsection (b) of section 853A is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="H382C62E41C6847289CBA1ED6E52A0725" style="OLC">
+						<subsection commented="no" id="HFB045D2130CC494E9A64B91D86A308B1">
+							<enum>(b)</enum>
+							<header>Effect of election</header>
+							<text display-inline="yes-display-inline">If the election provided in subsection (a) is in effect with respect to any credits for any taxable
+			 year—</text>
+							<paragraph commented="no" id="H27EF7E6EEEE34A09AF86B9C3258C1657">
+								<enum>(1)</enum>
+								<text>the regulated investment company—</text>
+								<subparagraph commented="no" id="HF9147DB03ADC45B3B2E5BA1905946818">
+									<enum>(A)</enum>
+									<text>shall not be allowed such credits,</text>
+								</subparagraph><subparagraph commented="no" id="H66959384B69A45F2865C9D051B9D0948">
+									<enum>(B)</enum>
+									<text>shall include in gross income (as interest) for such taxable year the amount which would have been
+			 so included with respect to such credits had the application of this
+			 section not been elected,</text>
+								</subparagraph><subparagraph id="HB35DF46AA90B47AC8978F0B1B9DC8AB8">
+									<enum>(C)</enum>
+									<text>shall include in earnings and profits the amount so included in gross income, and</text>
+								</subparagraph><subparagraph commented="no" id="H76805B811E5540C7B525B18CDAF5D2FA">
+									<enum>(D)</enum>
+									<text display-inline="yes-display-inline">shall be treated as making one or more distributions of money with respect to its stock equal to
+			 the amount of such credits on the date or dates (on or after the
+			 applicable date for any such credit) during such taxable year (or
+			 following the close of the taxable year pursuant to section 855) selected
+			 by the company, and</text>
+								</subparagraph></paragraph><paragraph commented="no" id="HDD747FBA41DC4622AF4505D2F5520434">
+								<enum>(2)</enum>
+								<text>each shareholder of such investment company shall—</text>
+								<subparagraph commented="no" id="HBAA78CD947724629AA5B7AAA50620F9B">
+									<enum>(A)</enum>
+									<text>be treated as receiving such shareholder’s proportionate share of any distribution of money which
+			 is treated as made by such investment company under paragraph (1)(D), and</text>
+								</subparagraph><subparagraph commented="no" id="H917C8C7AC7DA43B2AD6A2D3BF42140F6">
+									<enum>(B)</enum>
+									<text>be allowed credits against the tax imposed by this chapter equal to the amount of such
+			 distribution, subject to the provisions of this title applicable to the
+			 credit involved.</text>
+								</subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph commented="no" id="HECF823C170444C669566B6B4E52A8462">
+					<enum>(4)</enum>
+					<text>Subsection (c) of section 853A is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="H7DA75893E559490F876EAF6752065ED5" style="OLC">
+						<subsection commented="no" id="H2F0D6230F6064BCDA1D841AFB3F0C8A1">
+							<enum>(c)</enum>
+							<header>Notice to shareholders</header>
+							<text display-inline="yes-display-inline">The amount treated as a distribution of money received by a shareholder under subsection (b)(2)(A)
+			 (and as credits allowed to such shareholder under subsection (b)(2)(B))
+			 shall not exceed the amount so reported by the regulated investment
+			 company in a written statement furnished to such shareholder.</text>
+						</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph commented="no" id="HB6D5E325250049409AAC1A34442DD8BC">
+					<enum>(5)</enum>
+					<text>Clause (ii) of section 853A(e)(1)(A) is amended by inserting <quote>other than a qualified bond described in section 54AA(g)</quote> after <quote>as defined in section 54AA(d))</quote>.</text>
+				</paragraph></subsection><subsection id="H9F431C1F11BE43B7A71CCF7D3566CDC3">
+				<enum>(i)</enum>
+				<header>Amendments relating to section <enum-in-header>2202</enum-in-header></header>
+				<paragraph id="HD0F13D3501644268B91CE04AC465DC96">
+					<enum>(1)</enum>
+					<text>Subparagraph (A) of section 2202(b)(1) of the division B of the American Recovery and Reinvestment
+			 Act of 2009 is amended by inserting <quote>political subdivision of a State,</quote> after <quote>any State,</quote>.</text>
+				</paragraph><paragraph id="H6278E1F349DB4A749BA0A9D707DE6C88">
+					<enum>(2)</enum>
+					<text display-inline="yes-display-inline">Section 2202 of division B of the American Recovery and Reinvestment Act of 2009 is amended by
+			 adding at the end the following new subsection:</text>
+					<quoted-block display-inline="no-display-inline" id="H373608AA111B45C6B6F7505D8FEA29CB" style="OLC">
+						<subsection id="HB9ED0702FB5A4C4896B57EE4E154D24E">
+							<enum>(e)</enum>
+							<header>Treatment of Possessions</header>
+							<paragraph id="HB485CF268739470BB7E1B754FDC21342">
+								<enum>(1)</enum>
+								<header>Payments to mirror code possessions</header>
+								<text display-inline="yes-display-inline">The Secretary of the Treasury shall pay to each possession of the United States with a mirror code
+			 tax system amounts equal to the loss to that possession by reason of
+			 credits allowed under subsection (a) with respect to taxable years
+			 beginning in 2009. Such amounts shall be determined by the Secretary of
+			 the Treasury based on information provided by the government of the
+			 respective possession.</text>
+							</paragraph><paragraph id="H2D0F985846C5402E83AA277D943FDA9B">
+								<enum>(2)</enum>
+								<header>Coordination with credit allowed against united states income taxes</header>
+								<text>No credit shall be allowed against United States income taxes for any taxable year under this
+			 section to any person to whom a credit is allowed against taxes imposed by
+			 the possession by reason of the credit allowed under subsection (a) for
+			 such taxable year.</text>
+							</paragraph><paragraph id="H3CBB7D2506FD465F93B841345FE12BFD">
+								<enum>(3)</enum>
+								<header>Definitions and special rules</header>
+								<subparagraph commented="no" id="HA51ADDBC2A5E46A98E95E08E04762698">
+									<enum>(A)</enum>
+									<header>Possession of the united states</header>
+									<text>For purposes of this subsection, the term <term>possession of the United States</term> includes the Commonwealth of the Northern Mariana Islands.</text>
+								</subparagraph><subparagraph id="HF7680E6040FF42D6B9AE6C9AD45050F7">
+									<enum>(B)</enum>
+									<header>Mirror code tax system</header>
+									<text>For purposes of this subsection, the term <term>mirror code tax system</term> means, with respect to any possession of the United States, the income tax system of such
+			 possession if the income tax liability of the residents of such possession
+			 under such system is determined by reference to the income tax laws of the
+			 United States as if such possession were the United States.</text>
+								</subparagraph><subparagraph id="H1179EEEC66014F8493EE1ABA9A4461C6">
+									<enum>(C)</enum>
+									<header>Treatment of payments</header>
+									<text>For purposes of <external-xref legal-doc="usc" parsable-cite="usc/31/1324">section 1324(b)(2)</external-xref> of title 31, United States Code, the payments under this
+			 subsection shall be treated in the same manner as a refund due from the
+			 credit allowed under <external-xref legal-doc="usc" parsable-cite="usc/26/36A">section 36A</external-xref> of the Internal Revenue Code of 1986 (as
+			 added by this Act).</text>
+								</subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="HD987743F186A44BEAE2FA19D31FDCE2A">
+				<enum>(j)</enum>
+				<header>Clerical amendments</header>
+				<paragraph id="H975582D4A0454D4F9CDF878A79D8618D">
+					<enum>(1)</enum>
+					<header>Amendment relating to section <enum-in-header>1131</enum-in-header></header>
+					<text display-inline="yes-display-inline">Paragraph (2) of section 45Q(d) is amended by striking <quote>Administrator of the Environmental Protection Agency</quote> and all that follows through <quote>shall establish</quote> and inserting <quote>Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of
+			 the Interior, shall establish</quote>.</text>
+				</paragraph><paragraph commented="no" id="H891FC71908994CD6B2D73A6255915A58">
+					<enum>(2)</enum>
+					<header>Amendment relating to section <enum-in-header>1141</enum-in-header></header>
+					<text>Paragraph (37) of section 1016(a) is amended by striking <quote>section 30D(e)(4)</quote> and inserting <quote>section 30D(f)(1)</quote>.</text>
+				</paragraph><paragraph id="HDDA3407BA9C94E94BD5514B82B02F989">
+					<enum>(3)</enum>
+					<header>Amendment relating to section <enum-in-header>3001</enum-in-header></header>
+					<text display-inline="yes-display-inline">Subparagraph (A) of section 3001(a)(14) of the American Recovery and Reinvestment Act of 2009 is
+			 amended by striking <quote>is amended by redesignating paragraph (9) as paragraph (10)</quote> and inserting <quote>, as amended by this Act, is amended by redesignating paragraphs (9) and (10) as paragraphs (10)
+			 and (11), respectively,</quote>.</text>
+				</paragraph></subsection><subsection id="H7320DFF29B8048D1A47B76B41B821D3E">
+				<enum>(k)</enum>
+				<header>Effective date</header>
+				<text display-inline="yes-display-inline">The amendments made by this section shall take effect as if included in the provisions of the
+			 American Recovery and Reinvestment Tax Act of 2009 to which they relate.</text>
+			</subsection></section><section id="HD7602C76B4EB417C8F741098A649BA95">
+			<enum>9.</enum>
+			<header>Amendments relating to Energy Improvement and Extension Act of 2008</header>
+			<subsection id="H1ED5C646DE32456EA877672F56080A3B">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>108</enum-in-header></header>
+				<text>Subparagraph (E) of section 45K(g)(2) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="HEDD7A1503B784F5FAAA43C8B1BDD7328" style="OLC">
+					<subparagraph id="HB235830C446844A18A9B95B2DEA797A8">
+						<enum>(E)</enum>
+						<header>Coordination with section <enum-in-header>45</enum-in-header></header>
+						<text display-inline="yes-display-inline">No credit shall be allowed with respect to any coke or coke gas which is produced using steel
+			 industry fuel (as defined in section 45(c)(7)) as feedstock if a credit is
+			 allowed to any taxpayer under section 45 with respect to the production of
+			 such steel industry fuel.</text>
+					</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HC4A391C82A9B49938E7D552E832FC86A">
+				<enum>(b)</enum>
+				<header>Amendment relating to section <enum-in-header>113</enum-in-header></header>
+				<text display-inline="yes-display-inline">Paragraph (1) of section 113(b) of the Energy Improvement and Extension Act of 2008 is amended by
+			 adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H817146B45F794F04AB0F1BF62C9C184A" style="OLC">
+					<subparagraph id="H6A15F10407D448868763CCA33C57ADFA">
+						<enum>(F)</enum>
+						<header>Trust Fund</header>
+						<text display-inline="yes-display-inline">The term <term>Trust Fund</term> means the Black Lung Disability Trust Fund established under section 9501 of the Internal Revenue
+			 Code of 1986.</text>
+					</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" id="HD697A1C10099434688E292F7507438B9">
+				<enum>(c)</enum>
+				<header>Amendments relating to section <enum-in-header>306</enum-in-header></header>
+				<paragraph commented="no" display-inline="no-display-inline" id="H5C867402A96E47148D035AAE4BE2AF11">
+					<enum>(1)</enum>
+					<text display-inline="yes-display-inline">Clause (ii) of section 168(i)(18)(A) is amended by striking <quote>10 years</quote> and inserting <quote>16 years</quote>.</text>
+				</paragraph><paragraph id="H4FFEC95900734EB995958340F495B357">
+					<enum>(2)</enum>
+					<text>Clause (ii) of section 168(i)(19)(A) is amended by striking <quote>10 years</quote> and inserting <quote>16 years</quote>.</text>
+				</paragraph></subsection><subsection id="HC8146E886E06424B84CF25C7DE3ADABC">
+				<enum>(d)</enum>
+				<header>Amendment relating to section <enum-in-header>308</enum-in-header></header>
+				<text>Clause (i) of section 168(m)(2)(B) is amended by striking <quote>section 168(k)</quote> and inserting <quote>subsection (k) (determined without regard to paragraph (4) thereof)</quote>.</text>
+			</subsection><subsection commented="no" id="H17FCF1791CCC45AF81B7BA6CA5908CA4">
+				<enum>(e)</enum>
+				<header>Amendment relating to section <enum-in-header>402</enum-in-header></header>
+				<text>Subparagraph (A) of section 907(f)(4) is amended by striking <quote>this subsection shall be applied</quote> and all that follows through the period at the end and inserting the following: <quote>this subsection, as in effect on the day before the date of the enactment of the Energy Improvement
+			 and Extension Act of 2008, shall apply to unused oil and gas extraction
+			 taxes carried from such unused credit year to a taxable year beginning
+			 after December 31, 2008.</quote>.</text>
+			</subsection><subsection id="H17851864C810483EB28737DE10FC72CC">
+				<enum>(f)</enum>
+				<header>Amendments relating to section <enum-in-header>403</enum-in-header></header>
+				<paragraph id="H4DAE7B2E2D604911994A1D6443B2B851">
+					<enum>(1)</enum>
+					<text>Subsection (c) of section 1012 is amended—</text>
+					<subparagraph id="H51B9D08E8DDA45B3B2F74B4BA9251B5F">
+						<enum>(A)</enum>
+						<text>by striking <quote><header-in-text level="paragraph" style="OLC">funds</header-in-text></quote> in the heading for paragraph (2) and inserting <quote><header-in-text level="paragraph" style="OLC">regulated investment companies</header-in-text></quote>,</text>
+					</subparagraph><subparagraph id="HE1386D7E90CA4DEB83080AAD0E2CA2D2">
+						<enum>(B)</enum>
+						<text>by striking <quote><header-in-text level="subparagraph" style="OLC">fund</header-in-text></quote> in the heading for paragraph (2)(B), and</text>
+					</subparagraph><subparagraph id="H4EA044DD7D6B4F8D876F4E3523D75F91">
+						<enum>(C)</enum>
+						<text>by striking <quote>fund</quote> each place it appears in paragraph (2) and inserting <quote>regulated investment company</quote>.</text>
+					</subparagraph></paragraph><paragraph id="H971E291F7455429EA2A1ABBAA623B025">
+					<enum>(2)</enum>
+					<text display-inline="yes-display-inline">Paragraph (1) of section 1012(d) is amended—</text>
+					<subparagraph id="HADEDC23B49964151BAF1DCD85E843F25">
+						<enum>(A)</enum>
+						<text>by striking <quote>December 31, 2010</quote> and inserting <quote>December 31, 2011</quote>, and</text>
+					</subparagraph><subparagraph id="H6A4ED1095E404F8E9792BBE52BEE5169">
+						<enum>(B)</enum>
+						<text>by striking <quote>an open-end fund</quote> and inserting <quote>a regulated investment company</quote>.</text>
+					</subparagraph></paragraph><paragraph id="HE58FE2A34D084F63B39C035F6AB0A7BE">
+					<enum>(3)</enum>
+					<text>Paragraph (3) of section 1012(d) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="H64636D71A312455BBBC825F190033FDA" style="OLC">
+						<paragraph id="H5A933AD8E9064A0284788550643553ED">
+							<enum>(3)</enum>
+							<header>Separate accounts; election for treatment as single account</header>
+							<subparagraph id="H7B5386AAEAE54D50A53653F3F5D1DE2A">
+								<enum>(A)</enum>
+								<header>In general</header>
+								<text display-inline="yes-display-inline">Rules similar to the rules of subsection (c)(2) shall apply for purposes of this subsection.</text>
+							</subparagraph><subparagraph id="H0BBC9384EDB7493B99864813F74371F2">
+								<enum>(B)</enum>
+								<header>Average basis for pre-2012 stock</header>
+								<text>Notwithstanding paragraph (1), in the case of an election under rules similar to the rules of
+			 subsection (c)(2)(B) with respect to stock held in connection with a
+			 dividend reinvestment plan, the average basis method is permissible with
+			 respect to all such stock without regard to the date of the acquisition of
+			 such stock.</text>
+							</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph commented="no" id="HB6AB1AC8E8EE480D9D26310FA36390E5">
+					<enum>(4)</enum>
+					<text>Subsection (g) of section 6045 is amended by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="HC9AE66C2C91149F493BC0F5A872F9151" style="OLC">
+						<paragraph commented="no" id="HA69F7411CA364E3794EFEBC1790817F4">
+							<enum>(6)</enum>
+							<header>Special rule for certain stock held in connection with dividend reinvestment plan</header>
+							<text display-inline="yes-display-inline">For purposes of this subsection, stock acquired before January 1, 2012, in connection with a
+			 dividend reinvestment plan shall be treated as stock described in clause
+			 (ii) of paragraph (3)(C) (unless the broker with respect to such stock
+			 elects not to have this paragraph apply with respect to such stock).</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="HD20E5F52B914428087F70AC6A5AB44D9">
+				<enum>(g)</enum>
+				<header>Clerical amendment relating to section <enum-in-header>108</enum-in-header></header>
+				<text display-inline="yes-display-inline">Paragraph (2) of section 45(b) is amended by striking <quote>$3 amount</quote> and inserting <quote>$2 amount</quote>.</text>
+			</subsection><subsection id="H7BA1B52874EC465383B46B17AE77099E">
+				<enum>(h)</enum>
+				<header>Effective date</header>
+				<text display-inline="yes-display-inline">The amendments made by this section shall take effect as if included in the provisions of the
+			 Energy Improvement and Extension Act of 2008 to which they relate.</text>
+			</subsection></section><section id="H289709B8B1C64E4084AC0838F2A64571">
+			<enum>10.</enum>
+			<header>Amendments relating to Tax Extenders and Alternative Minimum Tax Relief Act of 2008</header>
+			<subsection id="H79EC94A0B7B84D30BADE2EDC4C9B5864">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>208</enum-in-header></header>
+				<text display-inline="yes-display-inline">Subsection (b) of section 208 of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008
+			 is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="H94C58932F3694E0FAC29F5EAEF2188AF" style="OLC">
+					<subsection id="HED9296C2AC0740E4B76C79B8EA961BC0">
+						<enum>(b)</enum>
+						<header>Effective date</header>
+						<paragraph id="H5F36F01300064D97A0AE4C25326F8758">
+							<enum>(1)</enum>
+							<header>In general</header>
+							<text display-inline="yes-display-inline">The amendment made by subsection (a) shall take effect on January 1, 2008. Notwithstanding the
+			 preceding sentence, such amendment shall not apply with respect to the
+			 withholding requirement under section 1445 of the Internal Revenue Code of
+			 1986 for any payment made before October 4, 2008.</text>
+						</paragraph><paragraph id="H0B3F223D532D4B5786F8785C051326FB">
+							<enum>(2)</enum>
+							<header>Amounts withheld on or before date of enactment</header>
+							<text>In the case of a regulated investment company—</text>
+							<subparagraph id="HDF2DE84DA2F64A098C53A44C38A275CD">
+								<enum>(A)</enum>
+								<text>which makes a distribution after December 31, 2007, and before October 4, 2008, and</text>
+							</subparagraph><subparagraph id="H2E75D55F357148A08CDDF4F683D33D9D">
+								<enum>(B)</enum>
+								<text>which would (but for the second sentence of paragraph (1)) have been required to withhold with
+			 respect to such distribution under section 1445 of such Code,</text>
+							</subparagraph><continuation-text continuation-text-level="paragraph">such investment company shall not be liable to any person to whom such distribution was made for
+			 any amount so withheld and paid over to the Secretary of the Treasury.</continuation-text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H7CB855E8C5BC45FCA0E503233DEA58C6">
+				<enum>(b)</enum>
+				<header>Amendments relating to section <enum-in-header>305</enum-in-header></header>
+				<text>Paragraphs (7)(B) and (8)(D) of section 168(e) are each amended by inserting <quote>which is not qualified leasehold improvement property</quote> after <quote>Property described in this paragraph</quote>.</text>
+			</subsection><subsection id="H7738CA4CCBF94EBD81912F36BFF0BBC0">
+				<enum>(c)</enum>
+				<header>Clerical amendments</header>
+				<paragraph id="HC0758A2F9DC94E37AD9FD656105A65BB">
+					<enum>(1)</enum>
+					<header>Amendment relating to section <enum-in-header>306</enum-in-header></header>
+					<text display-inline="yes-display-inline">Paragraph (5) of section 168(b) is amended by striking <quote>(2)(C)</quote> and inserting <quote>(2)(D)</quote>.</text>
+				</paragraph><paragraph id="H6D5A1CDC28844048B715FECE405CCC16">
+					<enum>(2)</enum>
+					<header>Amendments relating to section <enum-in-header>706</enum-in-header></header>
+					<subparagraph display-inline="no-display-inline" id="HB240B9EA827B4809906D821AB7991EC4">
+						<enum>(A)</enum>
+						<text>Paragraph (2) of section 1033(h) is amended by inserting <quote>is</quote> before <quote>compulsorily</quote>.</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HC8794EC8516B429EBD0C77886AC1BFF2">
+						<enum>(B)</enum>
+						<text>Subclause (II) of section 172(b)(1)(F)(ii) is amended by striking <quote>subsection (h)(3)(C)(i)</quote> and inserting <quote>section 165(h)(3)(C)(i)</quote>.</text>
+					</subparagraph><subparagraph id="HD2AE53C7D36B4229A117BB7AE9023C70">
+						<enum>(C)</enum>
+						<text>The heading for paragraph (1) of section 165(h) is amended by striking <quote><header-in-text level="paragraph" style="OLC">$100</header-in-text></quote> and inserting <quote><header-in-text level="paragraph" style="OLC">Dollar</header-in-text></quote>.</text>
+					</subparagraph></paragraph><paragraph id="HCF70895436DD4352B869B1D0B0B22C72">
+					<enum>(3)</enum>
+					<header>Amendment relating to section <enum-in-header>709</enum-in-header></header>
+					<text>Subsection (k) of section 143 is amended by redesignating the second paragraph (12) (relating to
+			 special rules for residences destroyed in Federally declared disasters) as
+			 paragraph (13).</text>
+				</paragraph><paragraph id="HAC742A570E1847D3B08BB7FEAB8B5DA4">
+					<enum>(4)</enum>
+					<header>Amendment relating to section <enum-in-header>712</enum-in-header></header>
+					<text display-inline="yes-display-inline">Section 712 of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 is amended by
+			 striking <quote>section 702(c)(1)(A)</quote> and inserting <quote>section 702(b)(1)(A)</quote>.</text>
+				</paragraph></subsection><subsection id="H230E515F048B44998A213B15660E1A65">
+				<enum>(d)</enum>
+				<header>Effective date</header>
+				<text>The amendments made by this section shall take effect as if included in the provisions of the Tax
+			 Extenders and Alternative Minimum Tax Relief Act of 2008 to which they
+			 relate.</text>
+			</subsection></section><section id="H1AA5E99838A545188188191E96F7BCB5">
+			<enum>11.</enum>
+			<header>Clerical amendments relating to Housing Assistance Tax Act of 2008</header>
+			<subsection id="H5F07D972DDF847B2B9E80BE4A69FBA90">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>3002</enum-in-header></header>
+				<text>Paragraph (1) of section 42(b) is amended by striking <quote>For purposes of this section, the term</quote> and inserting the following:</text>
+				<quoted-block display-inline="yes-display-inline" id="HA6FB828451BF46FDB4E440645EEEAAB1" style="OLC">
+					<text>For purposes of this section—</text><subparagraph id="H170EFC9DFFA1467A861D1815841ED3E4">
+						<enum>(A)</enum>
+						<header>In general</header>
+						<text display-inline="yes-display-inline">The term</text>
+					</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HF5275E32178B4177BA043B67DF02E9CB">
+				<enum>(b)</enum>
+				<header>Amendment relating to section <enum-in-header>3081</enum-in-header></header>
+				<text>Clause (iv) of section 168(k)(4)(E) is amended by striking <quote>adjusted minimum tax</quote> and inserting <quote>adjusted net minimum tax</quote>.</text>
+			</subsection><subsection id="H5869AE9E3A9C4020BF172A5F0EF2C0A9">
+				<enum>(c)</enum>
+				<header>Amendment relating to section <enum-in-header>3092</enum-in-header></header>
+				<text display-inline="yes-display-inline">Subsection (b) of section 121 is amended by redesignating the second paragraph (4) (relating to
+			 exclusion of gain allocated to nonqualified use) as paragraph (5).</text>
+			</subsection><subsection commented="no" id="H3E4A9998D1FA4024A54CD690DB8F7105">
+				<enum>(d)</enum>
+				<header>Effective date</header>
+				<text display-inline="yes-display-inline">The amendments made by this section shall take effect as if included in the provisions of the
+			 Housing Assistance Tax Act of 2008 to which they relate.</text>
+			</subsection></section><section id="H5B845BAE518B4725BCFAF0C35E67FD2B">
+			<enum>12.</enum>
+			<header>Amendments and provision relating to Heroes Earnings Assistance and Relief Tax Act of 2008</header>
+			<subsection id="H1B65F8B374444121965E39B922490DD3">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>106</enum-in-header></header>
+				<text display-inline="yes-display-inline">Paragraph (2) of section 106(c) of the Heroes Earnings Assistance and Relief Tax Act of 2008 is
+			 amended by striking <quote>substituting for</quote> and inserting <quote>substituting <quote>June 17, 2008</quote> for</quote>.</text>
+			</subsection><subsection id="H38E99C7D49784FE48551CDD2A6FE89C2">
+				<enum>(b)</enum>
+				<header>Amendment relating to section <enum-in-header>114</enum-in-header></header>
+				<text>Paragraph (1) of section 125(h) is amended by inserting <quote>(and shall not fail to be treated as an accident or health plan)</quote> before <quote>merely</quote>.</text>
+			</subsection><subsection id="HF6869FA54D9A42CF976365B89BF9A95A">
+				<enum>(c)</enum>
+				<header>Clerical amendments</header>
+				<paragraph id="H6D1796211EC5442AB65E828B99215034">
+					<enum>(1)</enum>
+					<header>Amendment relating to section <enum-in-header>110</enum-in-header></header>
+					<text>Subparagraph (B) of section 121(d)(12) is amended by inserting <quote>of paragraph (9)</quote> after <quote>and (D)</quote>.</text>
+				</paragraph><paragraph id="H320C8ED347C84B6E90E3621A65B47EC6">
+					<enum>(2)</enum>
+					<header>Amendment relating to section <enum-in-header>301</enum-in-header></header>
+					<text display-inline="yes-display-inline">Paragraph (2) of section 877(e) is amended by striking <quote>subparagraph (A) or (B) of</quote>.</text>
+				</paragraph></subsection><subsection id="H3717C36072A5404B9CF53ED3B9C54902">
+				<enum>(d)</enum>
+				<header>Effective date</header>
+				<text display-inline="yes-display-inline">The amendments made by this section shall take effect as if included in the provisions of the
+			 Heroes Earnings Assistance and Relief Tax Act of 2008 to which they
+			 relate.</text>
+			</subsection></section><section id="H577882AA763E4B499D82E238A7F3F380">
+			<enum>13.</enum>
+			<header>Amendments relating to Economic Stimulus Act of 2008</header>
+			<subsection id="H8AABE2723C604522BC0F925CF326ED8B">
+				<enum>(a)</enum>
+				<header>Amendments relating to section <enum-in-header>101</enum-in-header></header>
+				<text display-inline="yes-display-inline">Paragraph (2) of section 6213(g) is amended—</text>
+				<paragraph id="H4787F186A1E64266A1C650041BA88A8D">
+					<enum>(1)</enum>
+					<text>by striking <quote>32, or 6428</quote> in subparagraph (L) and inserting <quote>or 32</quote>, and</text>
+				</paragraph><paragraph id="HBA7A3060C7084F31983AFFF4BA32BA86">
+					<enum>(2)</enum>
+					<text>by striking <quote>and</quote> at the end of subparagraph (O), by striking the period at the end of subparagraph (P) and
+			 inserting <quote>, and</quote>, and by inserting after subparagraph (P) the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H1EA6B68154674E5B9A95C028075CA1D0" style="OLC">
+						<subparagraph id="H4DF455CB5B88415F9BD745960DFDD756">
+							<enum>(Q)</enum>
+							<text display-inline="yes-display-inline">an omission of a correct TIN required under section 6428(h) (relating to 2008 recovery rebates for
+			 individuals) to be included on a return.</text>
+						</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H6F137A75BD1140C4A6AF8ABF4847E5B9">
+				<enum>(b)</enum>
+				<header>Clerical amendment relating to section <enum-in-header>103</enum-in-header></header>
+				<text display-inline="yes-display-inline">Subclause (IV) of section 168(k)(2)(B)(i) is amended by striking <quote>clauses also apply</quote> and inserting <quote>clause also applies</quote>.</text>
+			</subsection><subsection id="H52B95D4250224380A3661CF924768BD7">
+				<enum>(c)</enum>
+				<header>Effective date</header>
+				<text>The amendments made by this section shall take effect as if included in the provisions of the
+			 Economic Stimulus Act of 2008 to which they relate.</text>
+			</subsection></section><section id="H4074E7B5E22B4A8DB7BB5E8BED325370">
+			<enum>14.</enum>
+			<header>Amendments relating to Tax Technical Corrections Act of 2007</header>
+			<subsection id="HCC9DF5C213E040398759FAB35735B5C6">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>4(c)</enum-in-header></header>
+				<text>Paragraph (1) of section 911(f) is amended by adding at the end the following flush sentence:</text>
+				<quoted-block display-inline="no-display-inline" id="HCCCF3215C5C346A08B1C39D96E1E46F5" style="OLC">
+					<quoted-block-continuation-text quoted-block-continuation-text-level="paragraph">For purposes of this paragraph, the amount excluded under subsection (a) shall be reduced by the
+			 aggregate amount of any deductions or exclusions disallowed under
+			 subsection (d)(6) with respect to such excluded amount.</quoted-block-continuation-text><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HB5E2584E2BDE405791462E47249B50C0">
+				<enum>(b)</enum>
+				<header>Clerical amendment relating to section <enum-in-header>11(g)</enum-in-header></header>
+				<text display-inline="yes-display-inline">Clause (iv) of section 56(g)(4)(C) is amended by striking <quote>a cooperative described in section 927(a)(4)</quote> and inserting <quote>an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies
+			 which is engaged in the marketing of agricultural or horticultural
+			 products</quote>.</text>
+			</subsection><subsection id="H107D46F20435421C8CE1BD38FC2EC431">
+				<enum>(c)</enum>
+				<header>Effective date</header>
+				<text display-inline="yes-display-inline">The amendments made by this section shall take effect as if included in the provisions of the Tax
+			 Technical Corrections Act of 2007 to which they relate.</text>
+			</subsection></section><section commented="no" id="H6BF770DDEA4745748F4309698162F7DF">
+			<enum>15.</enum>
+			<header>Amendment relating to Tax Relief and Health Care Act of 2006</header>
+			<subsection commented="no" id="HE7DC102E80D746D69EA0C2E1B382743C">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>105</enum-in-header></header>
+				<text display-inline="yes-display-inline">Subparagraph (B) of section 45A(b)(1) is amended by adding at the end the following: <quote>If any portion of wages are taken into account under subsection (e)(1)(A) of section 51, the
+			 preceding sentence shall be applied by substituting <quote>2-year period</quote> for <quote>1-year period</quote>.</quote>.</text>
+			</subsection><subsection commented="no" id="HC925C38003E54677A50C4BA387F982EC">
+				<enum>(b)</enum>
+				<header>Effective date</header>
+				<text display-inline="yes-display-inline">The amendment made by this section shall take effect as if included in the provision of the Tax
+			 Relief and Health Care Act of 2006 to which it relates.</text>
+			</subsection></section><section id="H8B242E06275A478E89F0092B3ED15E5F">
+			<enum>16.</enum>
+			<header>Amendment relating to Safe, Accountable, Flexible, Efficient Transportation Equity Act of 2005: A
+			 Legacy for Users</header>
+			<subsection id="H61AE72E22ED64B2785D02C815644210F">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>11161</enum-in-header></header>
+				<text>Paragraph (1) of section 9503(b) is amended by inserting before the period at the end the
+			 following: <quote>and taxes received under section 4081 shall be determined without regard to tax receipts
+			 attributable to the rate specified in section 4081(a)(2)(C)</quote>.</text>
+			</subsection><subsection id="H9F49D178DBA94B1793C4F3F0EE298464">
+				<enum>(b)</enum>
+				<header>Effective date</header>
+				<text display-inline="yes-display-inline">The amendment made by this section shall take effect as if included in the provision of the Safe,
+			 Accountable, Flexible, Efficient Transportation Equity Act of 2005: A
+			 Legacy for Users to which it relates.</text>
+			</subsection></section><section display-inline="no-display-inline" id="H2DE27954E93B4A26980746A2E8EFCF24">
+			<enum>17.</enum>
+			<header>Amendments relating to Energy Tax Incentives Act of 2005</header>
+			<subsection id="H7288350B1171482A8030A3601FC9DD84">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>1341</enum-in-header></header>
+				<text display-inline="yes-display-inline">Subparagraph (B) of section 30B(h)(5) is amended by inserting <quote>(determined without regard to subsection (g))</quote> before the period at the end.</text>
+			</subsection><subsection id="H3D142A4E09134AF68CC3315B9AD3BC4E">
+				<enum>(b)</enum>
+				<header>Amendment relating to section <enum-in-header>1342</enum-in-header></header>
+				<text display-inline="yes-display-inline">Paragraph (1) of section 30C(e) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="HFFCD4D33F4EA4B4295265183F65923F7" style="OLC">
+					<paragraph id="H501BE049457D43F299F00D7E079B717D">
+						<enum>(1)</enum>
+						<header>Reduction in basis</header>
+						<text display-inline="yes-display-inline">For purposes of this subtitle, the basis of any property for which a credit is allowable under
+			 subsection (a) shall be reduced by the amount of such credit so allowed
+			 (determined without regard to subsection (d)).</text>
+					</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H2A18C7B5B8D043659A7954B11E01D497">
+				<enum>(c)</enum>
+				<header>Effective date</header>
+				<text>The amendments made by this section shall take effect as if included in the provision of the Energy
+			 Tax Incentives Act of 2005 to which it relates.</text>
+			</subsection></section><section commented="no" id="HE880F75AC4C24A08A8909684A7E4B4F2">
+			<enum>18.</enum>
+			<header>Amendments relating to American Jobs Creation Act of 2004</header>
+			<subsection commented="no" id="HFDD2D717716240D3A6DD1AAA635F297F">
+				<enum>(a)</enum>
+				<header>Amendment relating to section <enum-in-header>101</enum-in-header></header>
+				<text>Subsection (d) of section 101 of the American Jobs Creation Act of 2004 is amended by adding at the
+			 end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H229BD49DC5D84F259844CFE62038A973" style="OLC">
+					<paragraph commented="no" id="H92DA94E74BB74DE6BD14686687F6B151">
+						<enum>(3)</enum>
+						<header>Coordination with section <enum-in-header>199</enum-in-header></header>
+						<text display-inline="yes-display-inline">This subsection shall be applied without regard to any deduction allowable under section 199.</text>
+					</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" id="HF60947E0664440408D835DA08454C8CD">
+				<enum>(b)</enum>
+				<header>Amendments relating to section <enum-in-header>102</enum-in-header></header>
+				<text display-inline="yes-display-inline">Paragraph (3) of section 199(b) is amended—</text>
+				<paragraph commented="no" id="H025E59B0EAE749A3B6AB0C6E022106B4">
+					<enum>(1)</enum>
+					<text>by inserting <quote>of a short taxable year or</quote> after <quote>in cases</quote>, and</text>
+				</paragraph><paragraph commented="no" id="H42BC655A60AC4D719C41B67280598FA8">
+					<enum>(2)</enum>
+					<text>by striking <quote><header-in-text level="paragraph" style="OLC">and dispositions</header-in-text></quote> and inserting <quote><header-in-text level="paragraph" style="OLC">, dispositions, and short taxable years</header-in-text></quote>.</text>
+				</paragraph></subsection><subsection id="HB8FD68AEDBAE430295D762FD51DB80AB">
+				<enum>(c)</enum>
+				<header>Clerical amendment relating to section <enum-in-header>413</enum-in-header></header>
+				<text>Paragraph (7) of section 904(h) is amended by striking <quote>as ordinary income under section 1246 or</quote>.</text>
+			</subsection><subsection commented="no" id="H9AE94DFDBBDB444A938AFEFEC6F7B4B0">
+				<enum>(d)</enum>
+				<header>Effective date</header>
+				<text display-inline="yes-display-inline">The amendments made by this section shall take effect as if included in the provision of the
+			 American Jobs Creation Act of 2004 to which they relate.</text>
+			</subsection></section><section id="HD5895A7E6FEA4ECD8AC79A6E0CC3383E">
+			<enum>19.</enum>
+			<header>Other clerical corrections</header>
+			<subsection id="H807FA28FD26346B0B74685A51C84383A">
+				<enum>(a)</enum>
+				<text>Paragraph (8) of section 30B(h) is amended by striking <quote>vehicle)., except that</quote> and inserting <quote>vehicle), except that</quote>.</text>
+			</subsection><subsection id="HD7D213EE0E3141CFBAB7EDA8EFE3F090">
+				<enum>(b)</enum>
+				<text>Subparagraph (A) of section 38(c)(2) is amended by striking <quote>credit credit</quote> and inserting <quote>credit</quote>.</text>
+			</subsection><subsection id="H85353F2C11344C8F98DB402B8B2FF23C">
+				<enum>(c)</enum>
+				<text>Section 46 is amended by adding a comma at the end of paragraph (4).</text>
+			</subsection><subsection id="H59D22EEC23CC4D229B475DCE1DE23B43">
+				<enum>(d)</enum>
+				<text>Subparagraph (E) of section 50(a)(2) is amended by inserting <quote>, 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(4)</quote> after <quote>under section 48(b)</quote>.</text>
+			</subsection><subsection id="HF13588CC40944D60AA1A5BEBEF4D31BA">
+				<enum>(e)</enum>
+				<text>Clause (i) of section 54A(d)(2)(A) is amended by striking <quote>100 percent or more</quote> and inserting <quote>100 percent</quote>.</text>
+			</subsection><subsection commented="no" id="HAE860DB1A57B46608EE9F7086A201DCE">
+				<enum>(f)</enum>
+				<text>Paragraph (2) of section 125(b) is amended by striking <quote>statutory nontaxable benefits</quote> each place it appears and inserting <quote>qualified benefits</quote>.</text>
+			</subsection><subsection id="H4E31573A62B34F51B9CF78AADE398CF0">
+				<enum>(g)</enum>
+				<text>Paragraph (2) of section 125(h) is amended by striking <quote>means, any</quote> and inserting <quote>means any</quote>.</text>
+			</subsection><subsection id="HA696F2D85460490296EAEC94B2531FDD">
+				<enum>(h)</enum>
+				<text>Subparagraph (F) of section 163(h)(4) is amended by striking <quote>Veterans Administration or the Rural Housing Administration</quote> and inserting <quote>Department of Veterans Affairs or the Rural Housing Service</quote>.</text>
+			</subsection><subsection id="H2358474DB3B94D1B9F1AF27CDF2E74E4">
+				<enum>(i)</enum>
+				<text>Subsection (a) of section 249 is amended by striking <quote>1563(a)(1)</quote> and inserting <quote>1563(a)(1))</quote>.</text>
+			</subsection><subsection id="HBF2BC85F222A4718B4396627860A1C15">
+				<enum>(j)</enum>
+				<text>Paragraphs (8) and (10) of section 280F(d) are each amended by striking <quote>subsection (a)(2)</quote> and inserting <quote>subsection (a)(1)</quote>.</text>
+			</subsection><subsection id="H11FBAFB899CC4C188139BE69AE8180A1">
+				<enum>(k)</enum>
+				<text>Clause (iii) of section 402A(c)(4)(E) is amended by striking <quote>403(b)(7)(A)(i)</quote> and inserting <quote>403(b)(7)(A)(ii)</quote>.</text>
+			</subsection><subsection id="H3946AB956731462399986E9F80E1EE2D">
+				<enum>(l)</enum>
+				<text>Subsection (b) of section 858 is amended by striking <quote>857(b)(8)</quote> and inserting <quote>857(b)(9)</quote>.</text>
+			</subsection><subsection id="HA6CCF65D637E45A8ACEF80C823E660F0">
+				<enum>(m)</enum>
+				<text>Subparagraph (A) of section 1012(c)(2) is amended by striking <quote>section 1012</quote> and inserting <quote>this section</quote>.</text>
+			</subsection><subsection id="HB219ED3302104A9990DA04ED6C78E241">
+				<enum>(n)</enum>
+				<text>The heading for section 1394(f) is amended by striking <quote><header-in-text level="subsection" style="OLC">designated under section <enum-in-header>1391(g)</enum-in-header></header-in-text></quote>.</text>
+			</subsection><subsection id="H3FD504A66EAE4CF291C71FEAEBD9C972">
+				<enum>(o)</enum>
+				<text>Paragraphs (1) and (2)(A) of section 1394(f) are each amended by striking <quote>a new empowerment zone facility bond</quote> and inserting <quote>an empowerment zone facility bond</quote>.</text>
+			</subsection><subsection id="H60006C7AFAF5479B8AA5FC0C6F4E5257">
+				<enum>(p)</enum>
+				<text>Subsections (e)(3)(B) and (f)(7)(B) of section 4943 are each amended by striking <quote>January 1, 1970</quote> and inserting <quote>January 1, 1971</quote>.</text>
+			</subsection><subsection id="HD225E868D8E94498B327F1269CAF64E9">
+				<enum>(q)</enum>
+				<text>Paragraph (2) of section 4982(f) is amended by adding a comma at the end.</text>
+			</subsection><subsection id="H08299B9F86A64FA682AAD576EFC7D83B">
+				<enum>(r)</enum>
+				<text>Paragraph (3) of section 6011(e) is amended by striking <quote>shall require than</quote> and inserting <quote>shall require that</quote>.</text>
+			</subsection><subsection id="HAFBC7BCD26254E5EBB6C8CAB1464415E">
+				<enum>(s)</enum>
+				<text>Subsection (b) of section 6072 is amended by striking <quote>6011(e)(2)</quote> and inserting <quote>6011(c)(2)</quote>.</text>
+			</subsection><subsection id="HF38AD990739349C3AC63EE42609B3BF5">
+				<enum>(t)</enum>
+				<text>Subsection (d) of section 6104 is amended by redesignating the second paragraph (6) (relating to
+			 disclosure of reports by Internal Revenue Service) and third paragraph (6)
+			 (relating to application to nonexempt charitable trusts and nonexempt
+			 private foundations) as paragraphs (7) and (8), respectively.</text>
+			</subsection><subsection id="id9EA63AFEC559418FA68CBACC43233E3F">
+				<enum>(u)</enum>
+				<text>Subsection  (c) of section 6662A is amended by striking <quote>section 6664(d)(2)(A)</quote> and inserting <quote>section 6664(d)(3)(A)</quote>.</text>
+			</subsection><subsection id="idc0bc155041e843cdb968926bd2b360ea">
+				<enum>(v)</enum>
+				<text>Subparagraph (FF) of section 6724(d)(2) is amended by striking <quote>section 6050W(c)</quote> and inserting <quote>section 6050W(f)</quote>.</text>
+			</subsection><subsection commented="no" id="HA7C28A10FE2B44A6A760C156623690BD">
+				<enum>(w)</enum>
+				<text display-inline="yes-display-inline">Section 9802 is amended by redesignating the second subsection (f) (relating to genetic information
+			 of a fetus or embryo) as subsection (g).</text>
+			</subsection><subsection id="H0E06F21FD70C4956BD3B1287C7C6EBB0">
+				<enum>(x)</enum>
+				<text>Paragraph (3) of section 13(e) of the Worker, Homeownership, and Business Assistance Act of 2009 is
+			 amended by striking <quote>subsection (d)</quote> and inserting <quote>subsection (c)</quote>.</text></subsection></section><section id="IDc81476931d8745eeac93d0afc4cb3c8a" section-type="subsequent-section">
+			<enum>20.</enum>
+			<header>Deadwood provisions</header>
+			<subsection id="IDc99a471f14c84efb8270a14dcf2da046">
+				<enum>(a)</enum>
+				<header>In general</header>
+				<paragraph id="IDc187772a462e4f4bb073395dd8159bc3">
+					<enum>(1)</enum>
+					<header>Adjustments in tax tables so that inflation will not result in tax increases</header>
+					<text>Paragraph (7) of section 1(f) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id3376195F681A444594A55CCBFD1D1675" style="OLC">
+						<paragraph id="ID5162cc6015a440de8775fdb0f579ac0b">
+							<enum>(7)</enum>
+							<header>Special rule for certain brackets</header>
+							<text>In prescribing tables under paragraph (1) which apply to taxable years beginning in a calendar year
+			 after 1994, the cost-of-living adjustment used in making adjustments to
+			 the dollar amounts at which the 36 percent rate bracket begins or at which
+			 the 39.6 percent rate bracket begins shall be determined under paragraph
+			 (3) by substituting <quote>1993</quote> for <quote>1992</quote>.</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="IDb7e534f54e9444cea2f7f3946e2ced4e">
+					<enum>(2)</enum>
+					<header>Certain plug-in electric vehicles</header>
+					<subparagraph id="IDeeeb11bc2fed413199c5e04e49569512">
+						<enum>(A)</enum>
+						<text>Subpart B of part IV of subchapter A of chapter 1 is amended by striking section 30 (and by
+			 striking the item relating to such section in the table of sections for
+			 such subpart).</text>
+					</subparagraph><subparagraph id="id25E2B44BC9D64DA7BB3606EA157AF6E1"><enum>(B)</enum><text>Subsection (b) of section 38, as amended by section 8(f)(1) of
+			 this Act, is amended by inserting <quote>plus</quote> at the end of paragraph (35), by striking paragraph (36), and by redesignating paragraph (37) as
+			 paragraph (36).</text></subparagraph><subparagraph id="id889DF59F62954187AE7037993BC38748"><enum>(C)</enum><text>Subclause (VI) of section 48C(c)(1)(A)(i) is amended by striking <quote>, qualified plug-in electric vehicles (as defined by section 30(d)),</quote>.</text></subparagraph><subparagraph id="IDf76b009caf4a43199e7cd736936197e7">
+						<enum>(D)</enum>
+						<text>Section 1016(a) is amended by striking paragraph (25).</text>
+					</subparagraph><subparagraph id="ID4a9a80acc9914ce58a2e2aaf106280fd">
+						<enum>(E)</enum>
+						<text>Section 6501(m) is amended by striking <quote>section 30(e)(6),</quote>.</text>
+					</subparagraph></paragraph><paragraph id="ID54389b1f1de04de19b522724cfaeda8d">
+					<enum>(3)</enum>
+					<header>Earned income credit</header>
+					<subparagraph id="id0B9D6874F3A84963B49B4BBC4FACEE43"><enum>(A)</enum><text>Paragraph (1) of section 32(b) is amended—</text>
+						<clause id="ID379a9dfd1ce94766af594b2d1f74bf6d">
+							<enum>(i)</enum>
+							<text>by striking subparagraphs (B) and (C), and</text>
+						</clause><clause id="ID927643a5d7114486a41785ac68eab2e3">
+							<enum>(ii)</enum>
+							<text>by striking <quote>(a) <header-in-text level="subsection" style="OLC">In general</header-in-text>.—In the case of taxable years beginning after 1995:</quote> in subparagraph (A) and moving the table 2 ems to the left.</text>
+						</clause></subparagraph><subparagraph id="id64DC83D001F04396BFC15786F92A783D"><enum>(B)</enum><text>Subparagraph (B) of section 32(b)(2) is amended by striking <quote>increased by</quote> and all that follows and inserting <quote>increased by $3,000.</quote>.</text></subparagraph></paragraph><paragraph id="idE9E7C75A0E0C47A09160FD7836E0D85D"><enum>(4)</enum><header>First-time homebuyer credit</header><text>Section 6213(g)(2) is amended by striking subparagraph (P), as amended by section 13(a)(2).</text></paragraph><paragraph id="ID34f0d37d550e4e8891e599ce730ba96c">
+					<enum>(5)</enum>
+					<header>Making work pay credit</header>
+					<subparagraph id="ID0027cd194e8d4807996883564d8c0c86">
+						<enum>(A)</enum>
+						<text>Subpart C of part IV of subchapter A of chapter 1 is amended by striking section 36A (and by
+			 striking the item relating to such section in the table of sections for
+			 such subpart).</text>
+					</subparagraph><subparagraph id="IDd2af9c2dac5446e6aed05cba42110505">
+						<enum>(B)</enum>
+						<text>Subparagraph (A) of section 6211(b)(4) is amended by striking <quote>, 36A</quote>.</text>
+					</subparagraph><subparagraph id="ID2e67ab3419a94c7c919a3633882cc30d">
+						<enum>(C)</enum>
+						<text>Section 6213(g)(2) is amended by striking subparagraph (N).</text>
+					</subparagraph></paragraph><paragraph id="ID57847f4bce354ab0bcee95791f52b481">
+					<enum>(6)</enum>
+					<header>General business credits</header>
+					<text>Subsection (d) of section 38 is amended by striking paragraph (3).</text>
+				</paragraph><paragraph id="IDa08d901b1e684f1cb8c3295bf0ae63ee">
+					<enum>(7)</enum>
+					<header>Low-income housing credit</header>
+					<text>Subclause (I) of section 42(h)(3)(C)(ii) is amended by striking <quote>($1.50 for 2001)</quote>.</text>
+				</paragraph><paragraph id="ID1204a4b7f78d47238a697a2335174e6d">
+					<enum>(8)</enum>
+					<header>Minimum tax credit</header>
+					<subparagraph id="IDa22e3ba5dbd344519c55fded6aa4f7c3">
+						<enum>(A)</enum><clause commented="no" display-inline="yes-display-inline" id="id8B5463BB87EE438887726986B6FD6E15"><enum>(i)</enum>
+							<text>Section 53 is amended by striking subsections (e) and (f).</text>
+						</clause><clause id="id4DA85AEAD8A34613B1B5D6DBE83B4A3C" indent="up1"><enum>(ii)</enum><text>The amendment made by clause (i) striking subsection (f) of section 53 of the Internal Revenue Code
+			 of 1986 shall not be construed to allow any tax abated by reason of
+			 section 53(f)(1) of such Code (as in effect before such amendment) to be
+			 included in the amount determined under section 53(b)(1) of such Code.</text></clause></subparagraph><subparagraph id="IDb29538a209d349b180f4338fcf75f930">
+						<enum>(B)</enum>
+						<text>Paragraph (4) of section 6211(b)(4) is amended by striking <quote>, 53(e)</quote>.</text>
+					</subparagraph></paragraph><paragraph id="ID8cfcf58ad3c648c7bb62d7e090b0fa50">
+					<enum>(9)</enum>
+					<header>Adjustments based on adjusted current earnings</header>
+					<text>Clause (ii) of section 56(g)(4)(F) is amended by striking <quote>In the case of any taxable year beginning after December 31, 1992, clause</quote> and inserting <quote>Clause</quote>.</text>
+				</paragraph><paragraph id="IDc760d994d3bc4cd39959d01a736f21b2">
+					<enum>(10)</enum>
+					<header>Items of tax preference; depletion</header>
+					<text>Paragraph (1) of section 57(a) is amended by striking <quote>Effective with respect to taxable years beginning after December 31, 1992, this</quote> and inserting <quote>This</quote>.</text>
+				</paragraph><paragraph id="ID76361a83141146a2923636908edd621b">
+					<enum>(11)</enum>
+					<header>Intangible drilling costs</header>
+					<subparagraph id="ID6c186f8ce5734a818c84f34a3fb6dc3e">
+						<enum>(A)</enum>
+						<text>Clause (i) of section 57(a)(2)(E) is amended by striking <quote>In the case of any taxable year beginning after December 31, 1992, this</quote> and inserting <quote>This</quote>.</text>
+					</subparagraph><subparagraph id="IDe5ca30a6a8034d6fa8c34653a7d2ed3c">
+						<enum>(B)</enum>
+						<text>Clause (ii) of section 57(a)(2)(E) is amended by striking <quote>(30 percent in the case of taxable years beginning in 1993)</quote>.</text>
+					</subparagraph></paragraph><paragraph id="ID20efeee1d7704f3f9e14c7dcf18395ef">
+					<enum>(12)</enum>
+					<header>Environmental tax</header>
+					<subparagraph id="ID4b1c68b6da96403ea0e4501c19952cd4">
+						<enum>(A)</enum>
+						<text>Subchapter A of chapter 1 is amended by striking part VII (and by striking the item relating to
+			 such part in the table of parts for such subchapter).</text>
+					</subparagraph><subparagraph id="IDc1d89d04f2af4543aeda7897b4d342cb">
+						<enum>(B)</enum>
+						<text>Paragraph (2) of section 26(b) is amended by striking subparagraph (B).</text>
+					</subparagraph><subparagraph id="id05DC39BE996344229C682D732C934484"><enum>(C)</enum><text>Section 30A(c) is amended by striking paragraph (1) and by redesignating paragraphs (2), (3), and
+			 (4) as paragraphs (1), (2), and (3), respectively.</text></subparagraph><subparagraph id="ID11de39a04e9f4fa5943508f13306ec0f">
+						<enum>(D)</enum>
+						<text>Subsection (a) of section 164 is amended by striking paragraph (5).</text></subparagraph><subparagraph id="id7247ce4d96cf4e7bb8bf0b8587dd6f48"><enum>(E)</enum><text>Section 275(a) is amended by striking the last sentence.</text></subparagraph><subparagraph id="ide4f92f16b5cb4829b5bdd6ae308782ab"><enum>(F)</enum><text>Section 882(a)(1) is amended by striking <quote>, 59A</quote>.</text></subparagraph><subparagraph id="id115B9FCC426646CEB0AEC223CC5811F9"><enum>(G)</enum><text>Section 936(a)(3) is amended by striking subparagraph (A) and by redesignating subparagraphs (B),
+			 (C), and (D) as subparagraphs (A), (B), and (C), respectively.</text></subparagraph><subparagraph id="id7CE63581C0624AC5A48085AA0F3316E4"><enum>(H)</enum><text>Section 1561(a) is amended—</text><clause id="idE8316D7E04F5477B94B7634A01F27E03"><enum>(i)</enum><text>by inserting <quote>and</quote> at the end of paragraph (2), by striking <quote>, and</quote> at the end of paragraph (3) and inserting a period, and by striking paragraph (4), and</text></clause><clause id="id934F22E78B004A75B86CB0898998651B"><enum>(ii)</enum><text>by striking <quote>, the amount specified in paragraph (3), and the amount specified in paragraph (4)</quote> and inserting <quote>and the amount specified in paragraph (3)</quote>.</text></clause></subparagraph><subparagraph id="id1536F742D006458F87EAFE43715156B1"><enum>(I)</enum><text>Section 4611(e) is amended—</text><clause id="idC0751578AD9E4A38B0FF2588EFB63FB4"><enum>(i)</enum><text>by striking <quote>section 59A, this section,</quote> in paragraph (2)(B) and inserting <quote>this section</quote>, and</text></clause><clause id="id8125322E24F04EF4AD1E1391ED7E3680"><enum>(ii)</enum><text>in paragraph (3)(A)—</text><subclause id="idF1E7C969CA214755B524B626C3EFBF6E"><enum>(I)</enum><text>by striking <quote>section 59A, </quote>, and</text></subclause><subclause id="id2F71DA74D47B41CBB799B3183CC673A0"><enum>(II)</enum><text>by striking the comma after <quote>rate)</quote>.</text></subclause></clause></subparagraph><subparagraph id="id5eb252fdd77449afbab92ed8f0c8b106"><enum>(J)</enum><text>Section 6425(c)(1)(A) is amended by inserting <quote>plus</quote> at end of clause (i), by striking <quote>plus</quote> and inserting <quote>over</quote> at the end of clause (ii), and by striking clause (iii).</text></subparagraph><subparagraph id="id42738918ae0a4871b589e585dc952630"><enum>(K)</enum><text>Section 6655 is amended—</text><clause id="idCA63AF9DCB0743AEB8E7CEC13FA1399B"><enum>(i)</enum><text>by striking clause (iii) of subsection (e)(2)(B) and inserting:</text><quoted-block display-inline="no-display-inline" id="id65F4EB840D3942F5AAA7F5BBCB0A2355" style="OLC"><clause id="id10A6D5C288AC41A4894E220D93ACE0DF"><enum>(iii)</enum><header>Modified alternative minimum taxable income</header><text>The term <term>modified alternative minimum taxable income</term> means alternative minimum taxable income (as defined in section 55(b)(2)) but determined without
+			 regard to the alternative tax net operating loss deduction (as defined in
+			 section 56(d)).</text></clause><after-quoted-block>, and</after-quoted-block></quoted-block></clause><clause id="idCB3A8FF91553474890BBDEB9A30B920A"><enum>(ii)</enum><text>in subsection (g)(1)(A), by inserting <quote>plus</quote> at the end of clause (ii), by striking clause (iii), and by redesignating clause (iv) as clause
+			 (iii).</text></clause></subparagraph><subparagraph id="idE1D063F9732A462498A57F382C70006C"><enum>(L)</enum><text>Section 9507(b)(1) is amended by striking <quote> 59A,</quote>.</text></subparagraph></paragraph><paragraph id="ID4aecea753e52452c9f385f21d392d44e">
+					<enum>(13)</enum>
+					<header>Standard deduction</header>
+					<subparagraph id="ID6c3472a2288a4fc4bd06692dde187de8">
+						<enum>(A)</enum>
+						<text>So much of paragraph (1) of section 63(c) as follows “the sum of—“ is amended to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="idA0CA83CD774E43AF9F5709632C553FDE" style="OLC">
+							<subparagraph id="ID7a3a214363284c76aa8c587be7b524e7">
+								<enum>(A)</enum>
+								<text>the basic standard deduction, and</text>
+							</subparagraph><subparagraph id="ID34ca9ac6c4fe403baa9110c5e75ee593">
+								<enum>(B)</enum>
+								<text>the additional standard deduction.</text>
+							</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph id="ID82f9c3e2f5f34efc81e4b439e68c4c5e">
+						<enum>(B)</enum>
+						<text>Subsection (e) of section 63 is amended by striking paragraphs (7), (8), and (9).</text>
+					</subparagraph></paragraph><paragraph id="IDd26bd3fc0c7f40a690025808521f7b17">
+					<enum>(14)</enum>
+					<header>Annuities; certain proceeds of endowment and life insurance contracts</header>
+					<text>Section 72 is amended—</text>
+					<subparagraph id="IDf96f25d9477d4968abce8793564b0d03">
+						<enum>(A)</enum>
+						<text>in subsection (c)(4), by striking <quote>; except that if such date was before January 1, 1954, then the annuity starting date is January 1,
+			 1954</quote>, and</text>
+					</subparagraph><subparagraph id="ID98cc8bc3b1d8407198c47644bd33380f">
+						<enum>(B)</enum>
+						<text>in subsection (g)(3), by striking <quote>January 1, 1954, or</quote> and <quote>, whichever is later</quote>.</text>
+					</subparagraph></paragraph><paragraph id="IDb38581371add4f168730434893f0491a">
+					<enum>(15)</enum>
+					<header>Unemployment compensation</header>
+					<text>Section 85 is amended by striking subsection (c).</text>
+				</paragraph><paragraph id="IDb2eeb0590db94c76b58a75e88b6d9848">
+					<enum>(16)</enum>
+					<header>Accident and health plans</header>
+					<text>Section 105(f) is amended by striking <quote>or (d)</quote>.</text>
+				</paragraph><paragraph id="ID5ce58a40c7c8403e9b5d84c3e18a2184">
+					<enum>(17)</enum>
+					<header>Flexible spending arrangements</header>
+					<text>Section 106(c)(1) is amended by striking <quote>Effective on and after January 1, 1997, gross</quote> and inserting <quote>Gross</quote>.</text>
+				</paragraph><paragraph id="ID646e550ed4c849c6913f97a5648d5510">
+					<enum>(18)</enum>
+					<header>Certain combat zone compensation of members of the armed forces</header>
+					<text>Subsection (c) of section 112 is amended—</text>
+					<subparagraph id="ID08852d62a9db42a699a0f7c6dadc0de4">
+						<enum>(A)</enum>
+						<text>by striking <quote>(after June 24, 1950)</quote> in paragraph (2), and</text>
+					</subparagraph><subparagraph id="ID6e20f295f05049088c594c360aa59064">
+						<enum>(B)</enum>
+						<text>striking <quote>such zone;</quote> and all that follows in paragraph (3) and inserting <quote>such zone.</quote>.</text>
+					</subparagraph></paragraph><paragraph id="IDae856602b47d4164bb4a77382b128a00">
+					<enum>(19)</enum>
+					<header>Legal service plans</header>
+					<subparagraph id="IDcbca5fd766b848488995c42a7cb08b67">
+						<enum>(A)</enum>
+						<text>Part III of subchapter B of chapter 1 is amended by striking section 120 (and by striking the item
+			 relating to such section in the table of sections for such subpart).</text>
+					</subparagraph><subparagraph id="ID14185d00173042ffbb4715309bebde4d">
+						<enum>(B)</enum>
+						<clause commented="no" display-inline="yes-display-inline" id="id1BCED2872EA94D67856DCD725323DE0B"><enum>(i)</enum>
+							<text>Section 414(n)(3)(C) is amended by striking <quote>120,</quote>.</text>
+						</clause><clause id="idB87263E0D98A4C26BF6A6E64B75E95B8" indent="up1">
+							<enum>(ii)</enum>
+							<text>Section 414(t)(2) is amended by striking <quote>120,</quote>.</text>
+						</clause><clause id="idBF4D56746A3946128F8B80E6CDA45BEA" indent="up1">
+							<enum>(iii)</enum>
+							<text>Section 501(c) is amended by striking paragraph (20).</text>
+						</clause><clause id="id427534DD87EF4C5A817DF3FEA957537F" indent="up1">
+							<enum>(iv)</enum>
+							<text>Section 3121(a) is amended by striking paragraph (17).</text>
+						</clause><clause id="idB67741A924AA40C7965DA503ECF2EA6C" indent="up1">
+							<enum>(v)</enum>
+							<text>Section 3231(e) is amended by striking paragraph (7).</text>
+						</clause><clause id="id4A6ACF01B9BC45C8A28989058ECBF6F9" indent="up1">
+							<enum>(vi)</enum>
+							<text>Section 3306(b) is amended by striking paragraph (12).</text>
+						</clause><clause id="id35F6DE05E8134229A1A385CAB23151B6" indent="up1">
+							<enum>(vii)</enum>
+							<text>Section 6039D(d)(1) is amended by striking <quote>120,</quote>.</text>
+						</clause><clause id="id754B6630C0F644F09B670BA46BBB2606" indent="up1">
+							<enum>(viii)</enum>
+							<text>Section 209(a)(14) of the Social Security Act is amended—</text>
+							<subclause id="idAD922D47B2C74C098328ECCDC63F36EA">
+								<enum>(I)</enum>
+								<text>by striking subparagraph (B), and</text>
+							</subclause><subclause id="id59B77E86903C47D697956648A267EBEB">
+								<enum>(II)</enum>
+								<text>by striking <quote>(14)(A)</quote> and inserting <quote>(14)</quote>.</text>
+							</subclause></clause></subparagraph></paragraph><paragraph id="ID6b9bc904743f4d77a27169b21f42b576">
+					<enum>(20)</enum>
+					<header>Principal residence</header><text>Section 121(b)(3) is amended—</text>
+					<subparagraph id="ID2b71e07a1b124265a57151407a757a40">
+						<enum>(A)</enum>
+						<text>by striking subparagraph (B), and</text>
+					</subparagraph><subparagraph id="IDf5fcb9b82b1c4925a238307e61b7a10f">
+						<enum>(B)</enum>
+						<text>in subparagraph (A), by striking <quote>(A) <header-in-text level="subparagraph" style="OLC">In general</header-in-text>.—</quote> and moving the text 2 ems to the left.</text>
+					</subparagraph></paragraph><paragraph id="ID3b34d6111df64e798cfd125760b99d51">
+					<enum>(21)</enum>
+					<header>Certain reduced uniformed services retirement pay</header>
+					<text>Section 122(b)(1) is amended by striking <quote>after December 31, 1965,</quote>.</text>
+				</paragraph><paragraph id="ID136267e1bf0f4e94b42c845a2e9cea0e">
+					<enum>(22)</enum>
+					<header>Great plains conservation program</header>
+					<text>Section 126(a) is amended by striking paragraph (6) and by redesignating paragraphs (7), (8), (9),
+			 and (10) as paragraphs (6), (7), (8), and (9), respectively.</text>
+				</paragraph><paragraph id="ID8081d5452e544dd38bcf7bb192779301">
+					<enum>(23)</enum>
+					<header>Treble damage payments under the antitrust law</header>
+					<text>Section 162(g) is amended by striking the last sentence.</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID26878d47a455451cb19d6da1fb6833d5"><enum>(24)</enum><header display-inline="yes-display-inline">State legislators’ travel expenses away from home</header><text display-inline="yes-display-inline">Paragraph (4) of section 162(h) is amended by striking <quote>For taxable years beginning after December 31, 1980, this</quote> and inserting <quote>This</quote>.</text></paragraph><paragraph id="ID11feee4ae99f4a839dd8ccdf17ea2d10">
+					<enum>(25)</enum>
+					<header>Interest</header>
+					<subparagraph id="ID31c982cbbab44f4c987c1fec47c510c5">
+						<enum>(A)</enum>
+						<text>Section 163 is amended—</text>
+						<clause id="IDa3a9c8612e204687ae059a875bd265f4">
+							<enum>(i)</enum>
+							<text>by striking paragraph (6) of subsection (d), and</text>
+						</clause><clause id="ID6be7f1437df145b98665718456250709">
+							<enum>(ii)</enum>
+							<text>by striking paragraph (5) of subsection (h).</text>
+						</clause></subparagraph><subparagraph id="IDfe9035654bd84277b1b7cea03f693d48">
+						<enum>(B)</enum>
+						<text>Section 56(b)(1)(C) is amended by striking clause (ii) and by redesignating clauses (iii), (iv),
+			 and (v) as clauses (ii), (iii), and (iv), respectively.</text>
+					</subparagraph></paragraph><paragraph id="ID9b125e41536d4a748a0c5ad989e78760">
+					<enum>(26)</enum>
+					<header>Qualified motor vehicle taxes</header>
+					<text>Section 164 is amended by striking subsections (a)(6) and (b)(6).</text>
+				</paragraph><paragraph id="ID288c264d52354d68aec5af1ffdbb886e">
+					<enum>(27)</enum>
+					<header>Disaster losses</header>
+					<subparagraph id="id00A2AA84A8F74C4B95B787D0574DE3BB"><enum>(A)</enum><text>Subsection (h) of section 165 is amended by striking paragraph (3).</text></subparagraph><subparagraph id="ide00da9b0bef64ae6a52b782080a41d9e"><enum>(B)</enum><text>Subsection (i) of section 165 is amended—</text><clause id="id460b9f32227242f0a773c2cf5dd8e1fb"><enum>(i)</enum><text>in paragraph (1)—</text><subclause id="idc85233ae3d6f45c4a65ae19dc0e06c4f"><enum>(I)</enum><text>by striking <quote>(as defined by clause (ii) of subsection (h)(3)(C))</quote>, and</text></subclause><subclause id="id9fc6d24e043f4c7e85184ce9761f60e6"><enum>(II)</enum><text>by striking <quote>(as defined by clause (i) of such subsection)</quote>,</text></subclause></clause><clause id="id6626675063434fd6ba821c3ea31a4877"><enum>(ii)</enum><text>by striking <quote>(as defined by subsection (h)(3)(C)(i)</quote> in paragraph (4), and</text></clause><clause id="id065dedfca8eb46c79eadd7dad4ddb108"><enum>(iii)</enum><text>by adding at the end the following new paragraph:</text><quoted-block display-inline="no-display-inline" id="id3B4883CE3131457D8EA7A3A9D2B31218" style="OLC"><paragraph id="id9704b55dee6c4884bcd4b966cd94cb71"><enum>(5)</enum><header>Federally declared disasters</header><text>For purposes of this subsection—</text><subparagraph id="id7fff734638bc4c539386a54d1e256bac"><enum>(A)</enum><header>In general</header><text>The term <term>Federally declared disaster</term> means any disaster subsequently determined by the President of the United States to warrant
+			 assistance by the Federal Government under the Robert T. Stafford Disaster
+			 Relief and Emergency Assistance Act.</text></subparagraph><subparagraph id="id254a0c9c7bc04fc6a7e96217fd17b44a"><enum>(B)</enum><header>Disaster area</header><text>The term <term>disaster area</term> means the area so determined to warrant such assistance.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></clause></subparagraph><subparagraph id="idd2020accc68148a8921df478f0fbba6b"><enum>(C)</enum><text>Section 1033(h)(3) is amended by striking <quote>section 165(h)(3)(C)</quote> and inserting <quote>section 165(i))(5)</quote>.</text></subparagraph></paragraph><paragraph id="ID0fdb4e97ce904397be2076c33016de28">
+					<enum>(28)</enum>
+					<header>Charitable, etc., contributions and gifts</header>
+					<text>Section 170 is amended—</text>
+					<subparagraph id="IDa2eb007483cc4b1eb4c9559c97147b6a">
+						<enum>(A)</enum>
+						<text>by striking paragraph (3) of subsection (b),</text>
+					</subparagraph><subparagraph id="ID8e75af1368924f9180ababfb35f67295">
+						<enum>(B)</enum>
+						<text>by striking paragraph (6) of subsection (e), and</text>
+					</subparagraph><subparagraph id="ID3cca7c1e277d4cfb9c464b88d35a6daf">
+						<enum>(C)</enum>
+						<text>by striking subsection (k).</text>
+					</subparagraph></paragraph><paragraph id="ID3dacbf9f063c435495de33c8f84e6cd2">
+					<enum>(29)</enum>
+					<header>Amortizable bond premium</header>
+					<subparagraph id="IDd5eff9278e7545e1a3c65262105d1555">
+						<enum>(A)</enum>
+						<text>Subparagraph (B) of section 171(b)(1) is amended to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="id0DA3B21077264161B0A2A53859966CF3" style="OLC">
+							<subparagraph id="ID8307252f8d23405dbca9e151ebc802fc">
+								<enum>(B)</enum>
+								<clause commented="no" display-inline="yes-display-inline" id="idD759D9BF17CB45F09F8E16BB9C0F06C6"><enum>(i)</enum>
+									<text>with reference to the amount payable on maturity (or if it results in a smaller amortizable bond
+			 premium attributable to the period before the call date, with reference to
+			 the amount payable on the earlier call date), in the case of a bond
+			 described in subsection (a)(1), and</text>
+								</clause><clause id="id1667EB755E714421A7DEF3C166A15B25" indent="up1">
+									<enum>(ii)</enum>
+									<text>with reference to the amount payable on maturity or on an earlier call date, in the case of a bond
+			 described in subsection (a)(2).</text>
+								</clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph id="ID8892697757e74e19955562eff489c7a3">
+						<enum>(B)</enum>
+						<text>Paragraphs (2) and (3)(B) of section 171(b) are each amended by striking <quote>paragraph (1)(B)(ii)</quote> and inserting <quote>paragraph (1)(B)(i)</quote>.</text>
+					</subparagraph></paragraph><paragraph id="IDabb8f1056b91481387b5e85f1e03834f">
+					<enum>(30)</enum>
+					<header>Net operating loss carrybacks, carryovers, and carryforwards</header>
+					<subparagraph id="ID59a3153465674ad591691f5e59c45a24">
+						<enum>(A)</enum>
+						<text>Section 172 is amended—</text>
+						<clause id="IDcf36ae5b96744e08b4aa04ce8e75dcba">
+							<enum>(i)</enum>
+							<text>by striking subparagraphs (D), (H), (I) and (J) of subsection (b)(1) and by redesignating
+			 subparagraphs (E), (F), and (G) as subparagraphs (D), (E), and (F),
+			 respectively, and</text>
+						</clause><clause id="ID766a6c8555924e6db5bef8b814c93d21">
+							<enum>(ii)</enum>
+							<text>by striking subsections (g) and (j) and by redesignating subsections (h), (i), and (k) as
+			 subsections (g), (h), and (i), respectively.</text>
+						</clause></subparagraph><subparagraph id="id9F8917D3ADD34DFD9731B714038D5033"><enum>(B)</enum><text>Each of the following provisions of section 172 (as redesignated by subparagraph (A)) are amended
+			 as follows:</text><clause commented="no" display-inline="no-display-inline" id="ID039bcc04652040ac8bf612d558951ecf"><enum>(i)</enum><text display-inline="yes-display-inline">By striking <quote>ending after August 2, 1989</quote> in subsection (b)(1)(D)(i)(II).</text></clause><clause commented="no" display-inline="no-display-inline" id="id07E126B556A4458D82E26A77038D4933"><enum>(ii)</enum><text display-inline="yes-display-inline">By striking <quote>subsection (h)</quote> in subsection (b)(1)(D)(ii) and inserting <quote>subsection (g)</quote>.</text></clause><clause id="idB5911469B938494384F706CF6450781D"><enum>(iii)</enum><text>By striking <quote>section 165(h)(3)(C)(i)</quote> in subsection (b)(1)(E)(ii)(II), as amended by this Act, and inserting <quote>section 165(i)(5)</quote>.</text></clause><clause commented="no" display-inline="no-display-inline" id="id10BC38442C804148B27E1832B92E16BF"><enum>(iv)</enum><text>By striking <quote>subsection (i)</quote> and all that follows in the last sentence of subsection (b)(1)(E)(ii) and inserting <quote>subsection (h)).</quote>.</text></clause><clause commented="no" display-inline="no-display-inline" id="id6E4B2DFDD14347BDA0B8DCFCADB5E77E"><enum>(v)</enum><text>By striking <quote>subsection (i)</quote> in subsection (b)(1)(F) and inserting <quote>subsection (h)</quote>.</text></clause><clause id="ID94cdce3fd4da41c2b9e9a181fc8a21dd">
+							<enum>(vi)</enum>
+							<text>By striking subparagraph (F) of paragraph (2) of subsection (g).</text></clause><clause id="id67BFB42D956D4039B8EDF31563E8223C"><enum>(vii)</enum><text>By striking <quote>subsection (b)(1)(E)</quote> each place it appears in subsection (g)(4) and inserting <quote>subsection (b)(1)(D)</quote>.</text></clause><clause id="idFB7E13C4DD704769AE589586F02431D1"><enum>(viii)</enum><text>By striking the last sentence of subsection (h)(1).</text></clause><clause commented="no" display-inline="no-display-inline" id="id2F7B0744666D4AA592C725D51B2B97C3"><enum>(ix)</enum><text>By striking <quote>subsection (b)(1)(G)</quote> each place it appears in subsection (h)(3) and inserting <quote>subsection (b)(1)(F)</quote>.</text></clause></subparagraph><subparagraph id="idFB51B88BEDD749AA9BDFBC16E33644F8"><enum>(C)</enum><text>Paragraph (5) of section 382(l) is amended by striking subparagraph (F) and by redesignating
+			 subparagraphs (G) and (H) as subparagraphs (F) and (G), respectively.</text></subparagraph></paragraph><paragraph id="ID964500e5808744d1b2a030877feaf976">
+					<enum>(31)</enum>
+					<header>Research and experimental expenditures</header>
+					<text>Subparagraph (A) of section 174(a)(2) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id8EE0B49ED6B34AF9B7FDF2FC5ECF4552" style="OLC">
+						<subparagraph id="ID0f57e893fe2d4997b97785bae580a524">
+							<enum>(I)</enum>
+							<header>Without consent</header>
+							<text>A taxpayer may, without the consent of the Secretary, adopt the method provided in this subsection
+			 for his first taxable year for which expenditures described in paragraph
+			 (1) are paid or incurred.</text>
+						</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="ID8b070f8f7b7f4c96b8f535a91ec640fe">
+					<enum>(32)</enum>
+					<header>Amortization of certain research and experimental expenditures</header>
+					<text>Paragraph (2) of section 174(b) is amended by striking <quote>beginning after December 31, 1953</quote>.</text>
+				</paragraph><paragraph id="ID3fe69e9d587e48178b5670a008dbe4d7">
+					<enum>(33)</enum>
+					<header>Soil and water conservation expenditures</header>
+					<text>Paragraph (1) of section 175(d) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="idAEB38DE0B4534EE4AFACEC1684C00DE8" style="OLC">
+						<paragraph id="IDedef267874b143e5859b915a35d4b45b">
+							<enum>(1)</enum>
+							<header>Without consent</header>
+							<text>A taxpayer may, without the consent of the Secretary, adopt the method provided in this section for
+			 the taxpayer’s first taxable year for which expenditures described in
+			 subsection (a) are paid or incurred.</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="ID35743cbd9178400fa3af082a91edbb35">
+					<enum>(34)</enum>
+					<header>Clean-fuel vehicles</header>
+					<subparagraph id="ID50e1e5f72fa041448d7be4ab10ff882c">
+						<enum>(A)</enum>
+						<text>Part VI of subchapter A of chapter 1 is amended by striking section 179A (and by striking the item
+			 relating to such section in the table of sections for such part).</text>
+					</subparagraph><subparagraph id="id5F1539232A504BA383F010611938B831"><enum>(B)</enum><text>Section 30C(e) is amended by adding at the end the following:</text><quoted-block display-inline="no-display-inline" id="id88855DE9192A48A386EA50FC2F66789A" style="OLC"><paragraph id="id143CB76B42174C7EAE9C8B635B2345ED"><enum>(7)</enum><header>Reference</header><text>For purposes of this section, any reference to section 179A shall be treated as a reference to such
+			 section as in effect immediately before its repeal.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subparagraph><subparagraph id="ID710e586b280847ec8b9eb79d66dddb24">
+						<enum>(C)</enum>
+						<text>Section 62(a) is amended by striking paragraph (14).</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idDC280878A9E84E2E967269A4AD1E1D7E"><enum>(D)</enum><text display-inline="yes-display-inline">Section 263(a)(1) is amended by striking subparagraph (H).</text></subparagraph><subparagraph id="IDac8b2c2155774f108e908717e27553f3">
+						<enum>(E)</enum>
+						<text>Section 280F(a)(1) is amended by striking subparagraph (C).</text>
+					</subparagraph><subparagraph id="ID81faefa8de93419cadfb69d3c375d94a">
+						<enum>(F)</enum>
+						<text>Section 312(k)(3) is amended by striking <quote>179A,</quote> each place it appears.</text>
+					</subparagraph><subparagraph id="ID8f2f35be588e4cf29d3eaa848c6a37f8">
+						<enum>(G)</enum>
+						<text>Section 1016(a) is amended by striking paragraph (24).</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id4A02978D3D994FB3B6811BF17E571260"><enum>(H)</enum><text display-inline="yes-display-inline">Section 1245(a) is amended by striking <quote>179A,</quote> each place it appears in paragraphs (2)(C) and (3)(C).</text></subparagraph></paragraph><paragraph id="ID3e33d553b87546cb8b9de3503d78e3b5">
+					<enum>(35)</enum>
+					<header>Qualified disaster expenses</header>
+					<text>Part VI of subchapter A of chapter 1 is amended by striking section 198A (and by striking the item
+			 relating to such section in the table of sections for such part).</text>
+				</paragraph><paragraph id="IDec7d9f3485104ceabed241aa2222b4db">
+					<enum>(36)</enum>
+					<header>Activities not engaged in for profit</header>
+					<text>Section 183(e)(1) is amended by striking the last sentence.</text>
+				</paragraph><paragraph id="IDdaf71f40efe4432fa3eaf3fbb533f096">
+					<enum>(37)</enum>
+					<header>Domestic production activities</header>
+					<subparagraph id="ID64f21b57a73546fdba6bba046947d175">
+						<enum>(A)</enum>
+						<text>Subsection (a) of section 199 is amended by striking paragraph (2) and by striking   <quote><header-in-text level="paragraph" style="OLC">In general</header-in-text>.—</quote>, by redesignating subparagraphs (A) and (B) of paragraph (1) as paragraphs (1) and (2), and by
+			 moving paragraphs (1) and (2) (as so redesignated) 2 ems to the left.</text>
+					</subparagraph><subparagraph id="ID58e1f486c1724048a311883810bc60a1">
+						<enum>(B)</enum>
+						<text>Paragraphs (2) and (6)(B) of section 199(d) are each amended by striking <quote>(a)(1)(B)</quote> and inserting <quote>(a)(2)</quote>.</text>
+					</subparagraph></paragraph><paragraph id="ID7938dee318db47258da95dd69da719d9">
+					<enum>(38)</enum>
+					<header>Retirement savings</header>
+					<subparagraph id="ID43d43d6f19644de59d2860472691ac3b">
+						<enum>(A)</enum>
+						<text>Subparagraph (A) of section 219(b)(5) is amended to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="id8ACB77CB9189497499BB4CC17535C908" style="OLC">
+							<subparagraph id="ID043d518913984b5182beb6854852e3e9">
+								<enum>(A)</enum>
+								<header>In general</header>
+								<text>The deductible amount is $5,000.</text>
+							</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph id="ID520abf022bcf43ee90311ef385934433">
+						<enum>(B)</enum>
+						<text>Clause (ii) of section 219(b)(5)(B) is amended to read:</text>
+						<quoted-block display-inline="no-display-inline" id="id8C41212509AE4F828BDD3E0449D0071D" style="OLC">
+							<clause id="IDbfb5b47cbfbd4543924c983db73372c0">
+								<enum>(ii)</enum>
+								<header>Applicable amount</header>
+								<text>For purposes of clause (i), the applicable amount is $1,000.</text>
+							</clause><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph id="ID1a7e13094f1144bbb5d7943f2d831a82">
+						<enum>(C)</enum>
+						<text>Clause (ii) of section 219(g)(2)(A) is amended by striking <quote>for a taxable year beginning after December 31, 2006</quote>.</text>
+					</subparagraph><subparagraph id="ID100113617d8349f3a534c14a0b98cac0">
+						<enum>(D)</enum>
+						<text>Section 219(g)(3)(B) is amended by striking clauses (i) and (ii) and inserting the following:</text>
+						<quoted-block display-inline="no-display-inline" id="id7B69109D6A7C403095B26ECD3BBBADB3" style="OLC">
+							<clause id="IDecf043c999ac432da2bdadca3d3910d4">
+								<enum>(i)</enum>
+								<text>In the case of a taxpayer filing a joint return, $80,000.</text>
+							</clause><clause id="IDc2cc28f13bd6410a995dc1c4205b6c2f">
+								<enum>(ii)</enum>
+								<text>In the case of any other taxpayer (other than a married individual filing a separate return),
+			 $50,000.</text>
+							</clause><after-quoted-block>.</after-quoted-block></quoted-block></subparagraph><subparagraph id="id213E6B562949464B8DAA62DC835E8054"><enum>(E)</enum><text>Paragraph (8) of section 219(g) is amended by striking <quote>the dollar amount in the last row of the table contained in paragraph (3)(B)(i), the dollar amount
+			 in the last row of the table contained in paragraph (3)(B)(ii), and the
+			 dollar amount contained in paragraph (7)(A),</quote> and inserting <quote>each of the dollar amounts in paragraphs (3)(B)(i), (3)(B)(ii), and (7)(A)</quote>.</text></subparagraph></paragraph><paragraph id="id57843E209002428EA121D77720A8E6A8"><enum>(39)</enum><header>Reports regarding qualified voluntary retirement contributions</header><subparagraph id="idB1A4F0A2D4B14983B581AA625601B16D"><enum>(A)</enum><text>Section 219 is amended by striking paragraph (4) of subsection (f) and subsection (h).</text></subparagraph><subparagraph id="idA35D83DA52DE4349ADE4A0C0D133AA74"><enum>(B)</enum><text>Section 6652 is amended by striking subsection (g).</text>
+					</subparagraph></paragraph><paragraph id="IDbf7ea477c20045c497898365f3544efe">
+					<enum>(40)</enum>
+					<header>Interest on education loans</header>
+					<text>Paragraph (1) of section 221(b) is amended by striking <quote>shall not exceed</quote> and all that follows and inserting <quote>shall not exceed $2,500.</quote>.</text>
+				</paragraph><paragraph id="IDc2e51df33fc14bc1bf6923ba6934fd8d">
+					<enum>(41)</enum>
+					<header>Dividends received on certain preferred stock; and dividends paid on certain preferred stock of
+			 public utilities</header>
+					<subparagraph id="ID1e002c8ded394ad594d2280e4d735ef5">
+						<enum>(A)</enum>
+						<text>Sections 244 and 247 are hereby repealed, and the table of sections for part VIII of subchapter B
+			 of chapter 1 is amended by striking the items relating to sections 244 and
+			 247.</text>
+					</subparagraph><subparagraph id="ID64d8e8000f92437b945c66442c2207d8">
+						<enum>(B)</enum>
+						<text>Paragraph (5) of section 172(d) is amended to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="id8CFCB1F0FBD441F59102EE595092992D" style="OLC">
+							<paragraph id="ID4fe7113cc38249f292f899bf1d3c5b9b">
+								<enum>(5)</enum>
+								<header>Computation of deduction for dividends received</header>
+								<text>The deductions allowed by section 243 (relating to dividends received by corporations) and 245
+			 (relating to dividends received from certain foreign corporations) shall
+			 be computed without regard to section 246(b) (relating to limitation on
+			 aggregate amount of deductions).</text>
+							</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph id="ID20a6f7df48104ddb8bdf879783bdfd75">
+						<enum>(C)</enum>
+						<text>Paragraph (1) of section 243(c) is amended to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="id6931A70EA54C4284BC092C19E3ED66A5" style="OLC">
+							<paragraph id="ID8bc09a3ab76c43fa8061c1b93148440e">
+								<enum>(1)</enum>
+								<header>In general</header>
+								<text>In the case of any dividend received from a 20-percent owned corporation, subsection (a)(1) shall
+			 be applied by substituting ’80 percent’ for <quote>70 percent</quote>.</text>
+							</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph id="IDb6d9a89c960d475997d0dac05a251ef3">
+						<enum>(D)</enum>
+						<text>Section 243(d) is amended by striking paragraph (4).</text>
+					</subparagraph><subparagraph id="ID7e2da049c0c5445f966c945b14defc50">
+						<enum>(E)</enum>
+						<text>Section 246 is amended—</text>
+						<clause id="ID91e649d0ead946a199c13acafe87b21a">
+							<enum>(i)</enum>
+							<text>by striking <quote>, 244,</quote> in subsection (a)(1),</text>
+						</clause><clause id="ID374963dc7166477b852eab5423fb0dc2">
+							<enum>(ii)</enum>
+							<text>in subsection (b)(1)—</text>
+							<subclause id="ID7a7a0e500b37476a873af1eb7e38df24">
+								<enum>(I)</enum>
+								<text>by striking <quote>sections 243(a)(1), and 244(a),</quote> the first place it appears and inserting <quote>section 243(a)(1)</quote>,</text>
+							</subclause><subclause id="IDc0fd2486c5fa4238bbc4c622dbcc3873">
+								<enum>(II)</enum>
+								<text>by striking <quote>244(a),</quote> the second place it appears, and</text>
+							</subclause><subclause id="IDe7adc757182340eaad6010d8dc1c92a0">
+								<enum>(III)</enum>
+								<text>by striking <quote>subsection (a) or (b) of section 245, and 247,</quote> and inserting <quote>and subsection (a) or (b) of section 245,</quote>, and</text>
+							</subclause></clause><clause id="ID4758623898b54ec98c0ea197ceaf41d3">
+							<enum>(iii)</enum>
+							<text>by striking <quote>, 244,</quote> in subsection (c)(1).</text>
+						</clause></subparagraph><subparagraph id="ID58f76392d71b4e239cbb8ce293313c2c">
+						<enum>(F)</enum>
+						<text>Section 246A is amended by striking <quote>, 244,</quote> both places it appears in subsections (a) and (e).</text>
+					</subparagraph><subparagraph id="ID3d5ba5b62d8a4fb286c1dac88cee333d">
+						<enum>(G)</enum>
+						<text>Sections 263(g)(2)(B)(iii), 277(a), 301(e)(2), 469(e)(4), 512(a)(3)(A), subparagraphs (A), (C), and
+			 (D) of section 805(a)(4), 805(b)(5), 812(e)(2)(A), 815(c)(2)(A)(iii),
+			 832(b)(5), 833(b)(3)(E), and 1059(b)(2)(B) are each amended
+			 by striking <quote>,	244,</quote> each place it appears.</text>
+					</subparagraph><subparagraph id="ID8895f33e2dce482885fde12311ada144">
+						<enum>(H)</enum>
+						<text>Section 1244(c)(2)(C) is amended by striking <quote>244,</quote>.</text>
+					</subparagraph><subparagraph id="IDffc3576922654e49bf13b818524ef011">
+						<enum>(I)</enum>
+						<text>Section 805(a)(4)(B) is amended by striking <quote>, 244(a),</quote> each place it appears.</text>
+					</subparagraph><subparagraph id="ID490825f3f5b2459880b702307e142748">
+						<enum>(J)</enum>
+						<text>Section 810(c)(2)(B) is amended by striking <quote>244 (relating to dividends on certain preferred stock of public utilities),</quote>.</text>
+					</subparagraph><subparagraph id="id62D289AC8D9B49AE8D08EB308D453D1E"><enum>(K)</enum><text>The amendments made by this paragraph shall not apply to preferred stock issued before October 1,
+			 1942 (determined in the same manner as under section 247 of the Internal
+			 Revenue Code of 1986 as in effect before its repeal by such amendments).</text></subparagraph></paragraph><paragraph id="IDb84390978bf940c3811a0af722eed05c">
+					<enum>(42)</enum>
+					<header>Organization expenses</header>
+					<text>Section 248(c) is amended by striking <quote>beginning after December 31, 1953,</quote> and by striking the last sentence.</text>
+				</paragraph><paragraph id="IDbc18dfa3ea3e4ccc8eaac2022644885d">
+					<enum>(43)</enum>
+					<header>Bond repurchase premium</header>
+					<text>Section 249(b)(1) is amended by striking <quote>, in the case of bonds or other evidences of indebtedness issued after February 28, 1913,</quote>.</text>
+				</paragraph><paragraph id="ID500be856f30f4bbc90a0bcad69132ca1">
+					<enum>(44)</enum>
+					<header>Amount of gain where loss previously disallowed</header>
+					<text>Section 267(d) is amended by striking <quote>(or by reason of section 24(b) of the Internal Revenue Code of 1939)</quote> in paragraph (1), by striking <quote>after December 31, 1953,</quote> in paragraph (2), by striking the second sentence, and by striking <quote>or by reason of section 118 of the Internal Revenue Code of 1939</quote> in the last sentence.</text>
+				</paragraph><paragraph id="ID9249dd631d6a4c618330d4fe8520c9ea">
+					<enum>(45)</enum>
+					<header>Acquisitions made to evade or avoid income tax</header>
+					<text>Paragraphs (1) and (2) of section 269(a) are each amended by striking <quote>or acquired on or after October 8, 1940,</quote>.</text>
+				</paragraph><paragraph id="ID10360472775e49a98ae2906e41009c34">
+					<enum>(46)</enum>
+					<header>Meals and entertainment</header>
+					<text>Paragraph (3) of section 274(n) is amended—</text>
+					<subparagraph id="IDcdcfb597284d4e45b70dc5de23ab08e5">
+						<enum>(A)</enum>
+						<text>by striking <quote>(A) <header-in-text level="subparagraph" style="OLC">In general</header-in-text>.—</quote>,</text>
+					</subparagraph><subparagraph id="ID003bc29d55184f66b5cdad97059320fe">
+						<enum>(B)</enum>
+						<text>by striking <quote>substituting <quote>the applicable percentage</quote> for</quote> and inserting <quote>substituting <quote>80 percent</quote> for</quote>, and</text>
+					</subparagraph><subparagraph id="IDfbb383493223407c832e62579ec637d8">
+						<enum>(C)</enum>
+						<text>by striking subparagraph (B).</text>
+					</subparagraph></paragraph><paragraph id="IDea93359d64b9447f8a85b03f47418851">
+					<enum>(47)</enum>
+					<header>Interest on indebtedness incurred by corporations to acquire stock or assets of another corporation</header>
+					<subparagraph id="id050C7409DF92457998BF3A396FBCFD66"><enum>(A)</enum><text>Section 279 is amended—</text>
+						<clause id="IDfd36c623ba5f450b8d3d219e6056318f">
+							<enum>(i)</enum>
+							<text>by striking <quote>after December 31, 1967,</quote> in subsection (a)(2),</text>
+						</clause><clause id="ID3309b808e89e4ec7a1abd69e229e8c8a">
+							<enum>(ii)</enum>
+							<text>by striking <quote>after October 9, 1969,</quote> in subsection (b),</text>
+						</clause><clause id="ID00d9d06cda874b37b4e70a8be13a7259">
+							<enum>(iii)</enum>
+							<text>by striking <quote>after October 9, 1969, and</quote> in subsection (d)(5), and</text>
+						</clause><clause id="ID5e0a225840f746128cd3895745d4feba">
+							<enum>(iv)</enum>
+							<text>by striking subsection (i) and redesignating subsection (j) as subsection (i).</text>
+						</clause></subparagraph><subparagraph id="idEBDD2C2ED8E84B0AB67EC2C72AEAED2F"><enum>(B)</enum><text>The amendments made by this paragraph shall not—</text><clause id="id8DFD16582F5C410DA2AD494C7A2493ED"><enum>(i)</enum><text>apply to obligations issued on or before October 9, 1969 (determined in the same manner as under
+			 section 279 of the Internal
+			 Revenue Code of 1986 as in effect before such amendments), and</text></clause><clause id="id62A93EFBE12B4734B5DF974EEDFC1F8D"><enum>(ii)</enum><text>be construed to require interest on obligations issued on or before December 31, 1967, to be taken
+			 into account under section 279(a)(2) of such Code (as in effect after such
+			 amendments).</text></clause></subparagraph></paragraph><paragraph id="ID98209126055240d0b480a56469676c20">
+					<enum>(48)</enum>
+					<header>Bank holding companies</header><subparagraph id="id0F5FDAF469834F42B53258FFA768E742"><enum>(A)</enum>
+						<text>Clause (iii) of section 304(b)(3)(D) is repealed.</text>
+					</subparagraph><subparagraph id="id2138486AC73449E092D2A6ACABB45C69"><enum>(B)</enum><text>The heading of subparagraph (D) of section 304(b)(3) is amended by striking <quote><header-in-text level="subparagraph" style="OLC">and special rule</header-in-text>.</quote></text></subparagraph></paragraph><paragraph id="IDb64c28b395b241008fede065f5095c65">
+					<enum>(49)</enum>
+					<header>Effect on earnings and profits</header>
+					<text>Subsection (d) of section 312 is amended by striking paragraph (2) and redesignating paragraph (3)
+			 as paragraph (2).</text>
+				</paragraph><paragraph id="id8BA0C352377E448E941F298654294BED"><enum>(50)</enum><header>Disqualified stock</header><text>Paragraph (3) of section 355(d) is amended by striking <quote>after October 9, 1990, and</quote> each place it appears.</text></paragraph><paragraph id="ID5106782b4da64d02a11684c822de43bf">
+					<enum>(51)</enum>
+					<header>Basis to corporations</header>
+					<text>Section 362 is amended by striking <quote>on or after June 22, 1954</quote> in subsection (a) and by striking <quote>, on or after June 22, 1954,</quote> each place it appears in subsection (c).</text>
+				</paragraph><paragraph id="ID1333398379224a648e83c3ee5129cd66">
+					<enum>(52)</enum>
+					<header>Individual retirement accounts</header>
+					<text>Clause (i) of section 408(p)(2)(E) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="idEFA180FAB6F84AB4964216E7F73298BE" style="OLC">
+						<clause id="IDcadf250418204f3b83fe97848cc150a6">
+							<enum>(i)</enum>
+							<header>In general</header>
+							<text>For purposes of subparagraph (A)(ii), the applicable amount is $10,000.</text>
+						</clause><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="ID9ed91c6f01434348ab2fcd97e76e352c">
+					<enum>(53)</enum>
+					<header>Tax credit employee stock ownership plans</header>
+					<text>Section 409 is amended by striking subsection (q).</text>
+				</paragraph><paragraph id="IDbcc0a5d2d717424f9e5d58c20376835d">
+					<enum>(54)</enum>
+					<header>Catch-up contributions</header>
+					<text>Subparagraph (B) of section 414(v)(2) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id159F477E2BBB41D49771D6F08F8B007F" style="OLC">
+						<subparagraph id="ID204d7053d3e444f3ba55aa063b26acaa">
+							<enum>(II)</enum>
+							<clause commented="no" display-inline="yes-display-inline" id="id43152135045B4C09B36D9CBCDC57D654"><enum>(i)</enum>
+								<text>In the case of an applicable employer plan other than a plan described in section 401(k)(11) or
+			 408(p), the applicable dollar amount is $5,000.</text>
+							</clause><clause id="id39A06FB65EC14176BE39BAF6EEBCAE39" indent="up1">
+								<enum>(ii)</enum>
+								<text>In the case of an applicable employer plan described in section 401(k)(11) or 408(p), the
+			 applicable dollar amount is $2,500.</text>
+							</clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="ID22a613f215bc4e2bb58181c2cac273f0">
+					<enum>(55)</enum>
+					<header>Employee stock purchase plans</header>
+					<text>Section 423(a) is amended by striking <quote>after December 31, 1963,</quote>.</text>
+				</paragraph><paragraph id="ID6c93657a79d34d22aa76a11316e16d13">
+					<enum>(56)</enum>
+					<header>Transition rules</header>
+					<subparagraph id="IDf27a868228054c37b0b4a8ed2d8132a1">
+						<enum>(A)</enum><clause commented="no" display-inline="yes-display-inline" id="id1783754EBCBA4B6EB1F9D4F18A0AA92E"><enum>(i)</enum>
+							<text>Paragraph (5) of section 430(c) is amended by striking subparagraph (B) and by striking <quote>(A) <header-in-text level="subparagraph" style="OLC">In general</header-in-text>.—</quote></text></clause><clause id="id7BC5B5502A6E4F9B8BAE36F4D11E34D4" indent="up1"><enum>(ii)</enum><text>Paragraph (5) of section 303(c) of the Employee Retirement Income Security Act of 1974 (29
+			 U.S.C.1082(c)) is amended by striking subparagraph (B) and by striking <quote>(A) <header-in-text level="subparagraph" style="OLC">In general</header-in-text>.—</quote></text>
+						</clause></subparagraph><subparagraph id="ID6330f179ea4748bd8b5e18b95446554a">
+						<enum>(B)</enum><clause commented="no" display-inline="yes-display-inline" id="id9B3328674ACD40CCA09B83F574DABBF9"><enum>(i)</enum>
+							<text>Paragraph (2) of section 430(h) is amended by striking subparagraph (G).</text>
+						</clause><clause id="idAADE69A91A8F4443AF6CADA9C1D904B1" indent="up1"><enum>(ii)</enum><text>Paragraph (2) of section 303(h) of the Employee Retirement Income Security Act of 1974 (29
+			 U.S.C.1082(h)) is amended by striking subparagraph (G).</text></clause></subparagraph><subparagraph id="IDcaabb60b704e4336934e0f62273da435">
+						<enum>(C)</enum><clause commented="no" display-inline="yes-display-inline" id="id832D477CBAD640E88941F883565E42DF"><enum>(i)</enum>
+							<text>Paragraph (3) of section 436(j) is amended by striking subparagraphs (B) and (C) and by striking <quote>(A) <header-in-text level="subparagraph" style="OLC">In general</header-in-text>.—</quote>.</text>
+						</clause><clause id="id2D03532666044E819D1BCDFC6C5F2D12" indent="up1"><enum>(ii)</enum><text>Subparagraph (C) of section 206(g)(9) of the Employee Retirement Income Security Act of 1974 (29
+			 U.S.C. 1056(g)(9)) is amended by striking clauses (ii) and (iii) and by
+			 striking <quote>(i) <header-in-text level="clause" style="OLC">In general</header-in-text>.—</quote>.</text></clause></subparagraph><subparagraph id="IDf6943af0ef2d4ac78b0917a034f6857c">
+						<enum>(D)</enum><clause commented="no" display-inline="yes-display-inline" id="id4F2355440B0E4034AB9BF06F58341C67"><enum>(i)</enum>
+							<text>Section 436 is amended by striking subsection (m).</text>
+						</clause><clause id="id79E14379EA7F452195911600FD5C42AC" indent="up1"><enum>(ii)</enum><text>Section 206(g) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1056">29 U.S.C. 1056(g)</external-xref>) is
+			 amended by striking paragraph (10).</text></clause></subparagraph></paragraph><paragraph id="ID7046860240724289909c024ee9b6cef2">
+					<enum>(57)</enum>
+					<header>Limitation on deductions for certain farming</header>
+					<subparagraph id="ID0349635a3cec4925a42ba0428ca3b3af">
+						<enum>(A)</enum>
+						<text>Section 464 is amended by striking <quote>any farming syndicate (as defined in subsection (c))</quote> both places it appears in subsections (a) and (b) and inserting <quote>any taxpayer to whom subsection (d) applies</quote>.</text>
+					</subparagraph><subparagraph id="ID7b533dd15b744b0c8530008232be1c93">
+						<enum>(B)</enum>
+						<clause commented="no" display-inline="yes-display-inline" id="id74BD6190E19A4A148118112EAB4CD874"><enum>(i)</enum>
+							<text>Subsection (c) of section 464 is hereby moved to the end of section 461 and redesignated as
+			 subsection (j).</text>
+						</clause><clause id="id73CEEBDD77A14A33A4282D1480549DB6" indent="up1">
+							<enum>(ii)</enum>
+							<text>Such subsection (j) is amended—</text>
+							<subclause id="id94C052A5E42A484B85FC0287787D3745">
+								<enum>(I)</enum>
+								<text>by striking <quote>For purposes of this section</quote> in paragraph (1) and inserting <quote>For purposes of subsection (i)(4)</quote>, and</text>
+							</subclause><subclause id="idE08208BD009E4BB18B56A419C0A30FB2">
+								<enum>(II)</enum>
+								<text>by adding at the end the following new paragraphs:</text>
+								<quoted-block display-inline="no-display-inline" id="id7C274D5FBA994C88A67EEED50FF3B325" style="OLC">
+									<paragraph id="ID1283ea1da947418286758a7215da52ff">
+										<enum>(3)</enum>
+										<header>Farming</header>
+										<text>For purposes of this subsection, the term <quote>farming</quote> has the meaning given to such term by section 464(e).</text>
+									</paragraph><paragraph id="ID52d22f12de264ee69e45875faa5db4f2">
+										<enum>(4)</enum>
+										<header>Limited entrepreneur</header>
+										<text>For purposes of this subsection, the term <quote>limited entrepreneur</quote> means a person who—</text>
+										<subparagraph id="IDb1236dfed5f74ac48222018afcb7905f">
+											<enum>(A)</enum>
+											<text>has an interest in an enterprise other than as a limited partner, and</text>
+										</subparagraph><subparagraph id="ID40dba4b56abf49559b6a7b7f5f1ed1b9">
+											<enum>(B)</enum>
+											<text>does not actively participate in the management of such enterprise.</text>
+										</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+							</subclause></clause><clause id="IDf0b75c26138343ac9b58cfa45b61aac5">
+							<enum>(iii)</enum>
+							<text>Paragraph (4) of section 461(i) is amended by striking <quote>section 464(c)</quote> and inserting <quote>subsection (j)</quote>.</text>
+						</clause></subparagraph><subparagraph id="IDd0e23391c5ed402f8cf7fab210282f75">
+						<enum>(C)</enum>
+						<text>Section 464 is amended—</text>
+						<clause id="ID4cff7a33f17c4cb59cb0a7d22c97f6d2">
+							<enum>(i)</enum>
+							<text>by striking subsections (e) and (g) and redesignating subsections (d) and (f) as subsections (c)
+			 and (d), respectively, and</text>
+						</clause><clause id="IDdf470b378a46482c84092b6250709696">
+							<enum>(ii)</enum>
+							<text>by adding at the end the following new subsection:</text>
+							<quoted-block display-inline="no-display-inline" id="id1272370D7C4A48709310E6B94CCE8D23" style="OLC">
+								<subsection id="ID1736764f00ee479ea6ece12e15ff5e0d">
+									<enum>(e)</enum>
+									<header>Farming</header>
+									<text>For purposes of this section, the term <quote>farming</quote> means the cultivation of land or the raising or harvesting of any agricultural or horticultural
+			 commodity including the raising, shearing, feeding, caring for, training,
+			 and management of animals. For purposes of the preceding sentence, trees
+			 (other than trees bearing fruit or nuts) shall not be treated as an
+			 agricultural or horticultural commodity.</text>
+								</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+						</clause></subparagraph><subparagraph id="IDf8c6719cfba543849f260aea5c14b3fc">
+						<enum>(D)</enum>
+						<text>Subsection (d) of section 464 of such Code (as redesignated by subparagraph (C)) is amended—</text>
+						<clause id="IDa0001a1335564d6595404a347dbe8fb9">
+							<enum>(i)</enum>
+							<text>by striking paragraph (1) and redesignating paragraphs (2), (3), and (4) as paragraphs (1), (2),
+			 and (3), respectively, and</text>
+						</clause><clause id="ID522d5162dcca4bf999e587ee27a8e663">
+							<enum>(ii)</enum>
+							<text>by striking <quote><header-in-text level="subsection" style="OLC">Subsections (a) and (b) to apply to</header-in-text></quote> in the heading.</text>
+						</clause></subparagraph><subparagraph id="ID9b3d3ff33a7943789d5b1e31127167e8">
+						<enum>(E)</enum>
+						<text>Subparagraph (A) of section 58(a)(2) is amended by striking <quote>section 464(c)</quote> and inserting <quote>section 461(j)</quote>.</text>
+					</subparagraph></paragraph><paragraph id="ID6ead4a0fd0fa415fbf917b0d1329bdb8">
+					<enum>(58)</enum>
+					<header>Deductions limited to amount at risk</header>
+					<text>Subparagraph (A) of section 465(c)(3) is amended by striking <quote>In the case of taxable years beginning after December 31, 1978, this</quote> and inserting <quote>This</quote>.</text>
+				</paragraph><paragraph id="ID92f4b7c54477404cb6f052c56f58e400">
+					<enum>(59)</enum>
+					<header>Passive activity losses and credits limited</header>
+					<subparagraph id="ID94b875253f1d4c1697dfcb7951807488">
+						<enum>(A)</enum>
+						<text>Section 469 is amended by striking subsection (m).</text>
+					</subparagraph><subparagraph id="IDb97e141593194f19a5e2f7f8205f9423">
+						<enum>(B)</enum>
+						<text>Subsection (b) of section 58 is amended by adding <quote>and</quote> at the end of paragraph (1), by striking paragraph (2), and by redesignating paragraph (3) as
+			 paragraph (2).</text>
+					</subparagraph></paragraph><paragraph id="ID2796b48010264482b032c6252bf5ffc6">
+					<enum>(60)</enum>
+					<header>Adjustments required by changes in method of accounting</header>
+					<text>Section 481(b)(3) is amended by striking subparagraph (C).</text>
+				</paragraph><paragraph id="ID5effd8b04eed40d2aff39ad346763f08">
+					<enum>(61)</enum>
+					<header>Exemption from tax on corporations, certain trusts, etc</header>
+					<text>Section 501 is amended by striking subsection (s).</text>
+				</paragraph><paragraph id="IDab1d66d7446e45ef96e08ebb51c3331c">
+					<enum>(62)</enum>
+					<header>Requirements for exemption</header>
+					<subparagraph id="ID97f51feb47984511be2e6d9d7c60998b">
+						<enum>(A)</enum>
+						<text>Section 503(a)(1) is amended to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="id2242374AFBDB427FB8853121906BEE9D" style="OLC">
+							<paragraph id="IDf2a47827f4de47fbb6d08478f454de75">
+								<enum>(1)</enum>
+								<header>General rule</header>
+								<text>An organization described in paragraph (17) or (18) of section 501(c), or described in section
+			 401(a) and referred to in section 4975(g)(2) or (3), shall not be exempt
+			 from taxation under section 501(a) if it has engaged in a prohibited
+			 transaction.</text>
+							</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph id="ID91bfae3c5baa44ba998cddc6d75c48fc">
+						<enum>(B)</enum>
+						<text>Paragraph (2) of section 503(a) is amended by striking <quote>described in section 501(c)(17) or (18) or paragraph (a)(1)(B)</quote> and inserting <quote>described in paragraph (1)</quote>.</text>
+					</subparagraph><subparagraph id="IDf92ac36eab0946fc98976d7dae3363c2">
+						<enum>(C)</enum>
+						<text>Subsection (c) of section 503 is amended by striking <quote>described in section 501(c)(17) or (18) or subsection (a)(1)(B)</quote> and inserting <quote>described in subsection (a)(1)</quote>.</text>
+					</subparagraph></paragraph><paragraph id="ID6f23e93b58944aedb1327a6034d99f5f">
+					<enum>(63)</enum>
+					<header>Accumulated taxable income</header>
+					<text>Paragraph (1) of section 535(b) and paragraph (1) of section 545(b) are each amended by striking <quote>section 531</quote> and all that follows and inserting <quote>section 531 or the personal holding company tax imposed by section 541.</quote>.</text>
+				</paragraph><paragraph id="ID1042769e4e4d42d2b885ea85c2ba7c7f">
+					<enum>(64)</enum>
+					<header>Definition of property</header><text>Subsection (b) of section 614 is amended—</text><subparagraph id="id0C714A52ED3D4B18852423DC8EEAF53F"><enum>(A)</enum><text>by striking paragraphs (3)(C) and (5), and</text></subparagraph><subparagraph id="idF8723DDF78E741BB9760CEE72F649EE8"><enum>(B)</enum><text>in paragraph (4), by striking <quote>whichever of the following years is later: The first taxable year beginning after December 31,
+			 1963, or</quote> .</text>
+					</subparagraph></paragraph><paragraph id="IDa51c876d23f94b03a78a899c2547b75e">
+					<enum>(65)</enum>
+					<header>Amounts received by surviving annuitant under joint and survivor annuity contract</header>
+					<text>Subparagraph (A) of section 691(d)(1) is amended by striking <quote>after December 31, 1953, and</quote>.</text>
+				</paragraph><paragraph id="IDa00bf6945ae24d71a6995cd172288aff">
+					<enum>(66)</enum>
+					<header>Income taxes of members of armed forces on death</header>
+					<text>Section 692(a)(1) is amended by striking <quote>after June 24, 1950</quote>.</text>
+				</paragraph><paragraph id="IDe9d6b492f3bb497094ea8e739baf9b79">
+					<enum>(67)</enum>
+					<header>Special rules for computing reserves</header>
+					<text>Paragraph (7) of section 807(e) is amended by striking subparagraph (B) and redesignating
+			 subparagraph (C) as subparagraph (B).</text>
+				</paragraph><paragraph id="ID3b683cbfd9e54750aad5f0996cf70fc0">
+					<enum>(68)</enum>
+					<header>Insurance company taxable income</header>
+					<subparagraph id="ID50c03994f6574996a68b1578c41956c6">
+						<enum>(A)</enum>
+						<text>Section 832(e) is amended by striking <quote>of taxable years beginning after December 31, 1966,</quote>.</text>
+					</subparagraph><subparagraph id="ID8f7a1e3734db473b86491c9eb62e73a1">
+						<enum>(B)</enum>
+						<text>Section 832(e)(6) is amended by striking <quote>In the case of any taxable year beginning after December 31, 1970, the</quote> and inserting <quote>The</quote>.</text>
+					</subparagraph></paragraph><paragraph id="ID6f517ab412494a4787afcaccaa40e3b9">
+					<enum>(69)</enum>
+					<header>Capitalization of certain policy acquisition expenses</header>
+					<text>Section 848 is amended by striking subsection (j).</text>
+				</paragraph><paragraph id="ID30a591515c1a41af93d2df9c5f2f07af">
+					<enum>(70)</enum>
+					<header>Tax on nonresident alien individuals</header>
+					<text>Subparagraph (B) of section 871(a)(1) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id6C61E3D7870D4C76A3F4F27F84663265" style="OLC">
+						<subparagraph id="IDe70b5feacbed4d97b254e0ef80d24c7c">
+							<enum>(II)</enum>
+							<text>gains described in subsection (b) or (c) of section 631,</text>
+						</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="IDb20cb861dd5e4573b720d09ec23ef9b1">
+					<enum>(71)</enum>
+					<header>Limitation on credit</header>
+					<text>Paragraph (2) of section 904(d) is amended by striking subparagraph (J).</text>
+				</paragraph><paragraph id="ID907e1c2be8924bae87549f12d7991115">
+					<enum>(72)</enum>
+					<header>Foreign earned income</header>
+					<text>Clause (i) of section 911(b)(2)(D) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="idCE872B893E5842A9AFA6FDFD3B3EB46A" style="OLC">
+						<clause id="ID48c692b2cd4b47bca5d899193e71b51a">
+							<enum>(i)</enum>
+							<header>In general</header>
+							<text>The exclusion amount for any calendar year is $80,000.</text>
+						</clause><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="ID195a127c1f154ce6bc30ffd0311bb8de">
+					<enum>(73)</enum>
+					<header>Basis of property acquired from decedent</header>
+					<text>Section 1014 is amended—</text>
+					<subparagraph id="ID369ea8fb096c42ce9df570a34dc759ef">
+						<enum>(A)</enum>
+						<text>by striking <quote>or section 811(j) of the Internal Revenue Code of 1939 where the decedent died after October 21,
+			 1942</quote> in subsection (a)(2), and</text>
+					</subparagraph><subparagraph id="IDfa7ad6f2058f4f47aed83bb6e6f61849">
+						<enum>(B)</enum>
+						<text>by striking paragraphs (7) and (8) of subsection (b).</text>
+					</subparagraph></paragraph><paragraph id="ID950bc602470c4b87bfa220a81f7bfb84">
+					<enum>(74)</enum>
+					<header>Adjusted basis</header>
+					<text>Section 1016(a) is amended by striking paragraph (12).</text>
+				</paragraph><paragraph id="ID21175dc6444046b899cf918437fbf777">
+					<enum>(75)</enum>
+					<header>Property on which lessee has made improvements</header>
+					<text>Section 1019 is amended by striking the last sentence.</text>
+				</paragraph><paragraph id="ID515669c5b2d3452f86afae7e16180864">
+					<enum>(76)</enum>
+					<header>Involuntary conversion</header>
+					<text>Section 1033 is amended by striking subsection (j) and by redesignating subsections (k) and (l) as
+			 subsections (j) and (k), respectively.</text>
+				</paragraph><paragraph id="ID9dc912c19d1646da88c6025065411d82">
+					<enum>(77)</enum>
+					<header>Property acquired during affiliation</header>
+					<text>Section 1051 is hereby repealed, and the table of sections for part IV of subchapter O of chapter 1
+			 is amended by striking the item relating to section 1051.</text>
+				</paragraph><paragraph id="IDe15d61033b3246b19611c3867648a7a5">
+					<enum>(78)</enum>
+					<header>Capital gains and losses</header>
+					<text>Section 1222 is amended by striking the last sentence.</text>
+				</paragraph><paragraph id="ID35883db605c64dae80b5af503c8f746e">
+					<enum>(79)</enum>
+					<header>Holding period of property</header>
+					<subparagraph id="IDf012d1ff89984a199bd4ba18a6084f12">
+						<enum>(A)</enum>
+						<text>Paragraph (1) of section 1223 is amended by striking <quote>after March 1, 1954,</quote>.</text>
+					</subparagraph><subparagraph id="IDb10caecaa34d4c3abfd4e28fa67fcbcf">
+						<enum>(B)</enum>
+						<text>Paragraph (4) of section 1223 is amended by striking <quote>‘(or under so much of section 1052(c) as refers to section 113(a)(23) of the Internal Revenue Code
+			 of 1939)</quote>’.</text>
+					</subparagraph><subparagraph id="IDbb9eb6ce434d4427b4f151f107732590">
+						<enum>(C)</enum>
+						<text>Paragraphs (6) and (8) of section 1223 are repealed.</text>
+					</subparagraph></paragraph><paragraph id="ID0e19571b9d054996bd884551bab26632">
+					<enum>(80)</enum>
+					<header>Property used in the trade or business and involuntary conversions</header>
+					<text>Subparagraph (A) of section 1231(c)(2) is amended by striking <quote>beginning after December 31, 1981</quote>.</text>
+				</paragraph><paragraph id="ID1a0ec90f7224459b80b37ef4897368fc">
+					<enum>(81)</enum>
+					<header>Sale or exchange of patents</header>
+					<text>Section 1235 is amended—</text>
+					<subparagraph id="IDec8b93b4eaf148dba09faceb2ab5d68d">
+						<enum>(A)</enum>
+						<text>by striking subsection (c) and by redesignating subsections (d) and (e) as subsections (c) and (d),
+			 respectively, and</text>
+					</subparagraph><subparagraph id="IDa0c646fda3d740438e298443a6aeeb47">
+						<enum>(B)</enum>
+						<text>by striking <quote>subsection (d)</quote> in subsection (b)(2)(B) and inserting <quote>subsection (c)</quote>.</text>
+					</subparagraph></paragraph><paragraph id="ID5da9def095fb437e995d037cf0f9f289">
+					<enum>(82)</enum>
+					<header>Dealers in securities</header>
+					<text>Subsection (b) of section 1236 is amended by striking <quote>after November 19, 1951,</quote>.</text>
+				</paragraph><paragraph id="IDc21eecf389ac43aaa9dec8c7f9fea177">
+					<enum>(83)</enum>
+					<header>Sale of patents</header>
+					<text>Subsection (a) of section 1249 is amended by striking <quote>after December 31, 1962,</quote>.</text>
+				</paragraph><paragraph id="ID30fbf86fcfb64932a3ef5896497787d5">
+					<enum>(84)</enum>
+					<header>Gain from disposition of farmland</header>
+					<text>Paragraph (1) of section 1252(a) is amended—</text><subparagraph id="id0971556B2068418C94C7E816FCFB03DE"><enum>(A)</enum><text>by striking <quote>after December 31, 1969</quote> the first place it appears, and</text>
+					</subparagraph><subparagraph id="id8891652BEBA44CD38C1D2D8F7BDCA67A"><enum>(B)</enum><text>by striking <quote>after December 31, 1969,</quote> in subparagraph (A).</text></subparagraph></paragraph><paragraph id="ID018a0be97661494e87e9b3d3cde03499">
+					<enum>(85)</enum>
+					<header>Treatment of amounts received on retirement or sale or exchange of debt instruments</header>
+					<text>Subsection (c) of section 1271 is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id13590E8C3E8B448589734807EF861A8E" style="OLC">
+						<subsection id="IDb88c7c136aad4c4ba293ecdd24e0fe1d">
+							<enum>(c)</enum>
+							<header>Special rule for certain obligations with respect to which original issue discount not currently
+			 includible</header>
+							<paragraph id="ID82d29a11870148d19ebe6e4d9b47923a">
+								<enum>(1)</enum>
+								<header>In general</header>
+								<text>On the sale or exchange of debt instruments issued by a government or political subdivision thereof
+			 after December 31, 1954, and before July 2, 1982, or by a corporation
+			 after December 31, 1954, and on or before May 27, 1969, any gain realized
+			 which does not exceed—</text>
+								<subparagraph id="IDcaae6ccdf0af41c7aa4c3522640d271b">
+									<enum>(A)</enum>
+									<text>an amount equal to the original issue discount, or</text>
+								</subparagraph><subparagraph id="ID26705b63aa75452293c563b8e2acd698">
+									<enum>(B)</enum>
+									<text>if at the time of original issue there was no intention to call the debt instrument before
+			 maturity, an amount which bears the same ratio to the original issue
+			 discount as the number of complete months that the debt instrument was
+			 held by the taxpayer bears to the number of complete months from the date
+			 of original issue to the date of maturity, shall be considered as ordinary
+			 income.</text>
+								</subparagraph></paragraph><paragraph id="ID50b06c4441cd4b8ba17db3c1203c925a">
+								<enum>(2)</enum>
+								<header>Subsection (a)(2)(a) not to apply</header>
+								<text>Subsection (a)(2)(A) shall not apply to any debt instrument referred to in paragraph (1) of this
+			 subsection.</text>
+							</paragraph><paragraph id="ID584cbaa1494747ed8ab4abfd7fe30985">
+								<enum>(3)</enum>
+								<header>Cross reference</header>
+								<text>For current inclusion of original issue discount, see section 1272.</text>
+							</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="ID32347660e098454e8dc0ebc5e44e2ddc">
+					<enum>(86)</enum>
+					<header>Amount and method of adjustment</header>
+					<text>Section 1314 is amended by striking subsection (d) and by redesignating subsection (e) as
+			 subsection (d).</text>
+				</paragraph><paragraph id="IDff4e4bce76574f50af95c127e5e2195c">
+					<enum>(87)</enum>
+					<header>Election; revocation; termination</header>
+					<text>Clause (iii) of section 1362(d)(3)(A) is amended by striking <quote>unless</quote> and all that follows and inserting <quote>unless the corporation was an S corporation for such taxable year.</quote>.</text>
+				</paragraph><paragraph id="IDd4c88e00c7f047e8a8197fea7398b16e">
+					<enum>(88)</enum>
+					<header>Old-age, survivors, and disability insurance</header>
+					<text>Subsection (a) of section 1401 is amended by striking <quote>the following percent</quote> and all that follows and inserting <quote>12.4 percent of the amount of the self-employment income for such taxable year.</quote>.</text>
+				</paragraph><paragraph id="IDddfb946cd15649468946b1d46da95c5a">
+					<enum>(89)</enum>
+					<header>Hospital insurance</header>
+					<text>Paragraph (1) of section 1401(b) is amended by striking: <quote>the following percent</quote> and all that follows and inserting <quote>2.9 percent of the amount of the self-employment income for such taxable year.</quote>.</text>
+				</paragraph><paragraph id="ID87c15d37a3c74f3c84a9d16446631711">
+					<enum>(90)</enum>
+					<header>Ministers, members of religious orders, and christian science practitioners</header>
+					<text>Paragraph (3) of section 1402(e) is amended—</text><subparagraph id="idBCD737F2946549E4887072FF328329B6"><enum>(A)</enum><text>by striking <quote>whichever of the following dates is later: (A)</quote> and</text></subparagraph><subparagraph id="id3AD274784F504C2EBA76413EC72B2A7D"><enum>(B)</enum><text>by striking <quote>;or (B)</quote>’ and all that follows and inserting a period.</text></subparagraph></paragraph><paragraph id="ID43d64d4171b94586a2454251fdaba696">
+					<enum>(91)</enum>
+					<header>Withholding of tax on nonresident aliens</header>
+					<text>The first sentence of subsection (b) of section 1441 and the first sentence of paragraph (5) of
+			 section 1441(c) are each amended by striking <quote>gains subject to tax</quote> and all that follows through <quote>October 4, 1966</quote> and inserting <quote>and gains subject to tax under section 871(a)(1)(D)</quote>.</text>
+				</paragraph><paragraph id="ID52c67d7bf99e44efb14f58bfb463754f">
+					<enum>(92)</enum>
+					<header>Affiliated group defined</header>
+					<text>Subparagraph (A) of section 1504(a)(3) is amended by striking <quote>for a taxable year which includes any period after December 31, 1984</quote> in clause (i) and by striking <quote>in a taxable year beginning after December 31, 1984</quote> in clause (ii).</text>
+				</paragraph><paragraph id="ID6fc903390d9d4ba4b095b26fc1787187">
+					<enum>(93)</enum>
+					<header>Disallowance of the benefits of the graduated corporate rates and accumulated earnings credit</header>
+					<subparagraph id="ID18850dbd27dd4830a737a18347f9149b">
+						<enum>(A)</enum>
+						<text>Subsection (a) of section 1551 is amended—</text>
+						<clause id="IDa848e15e8e22431c892637e7d8d19b47">
+							<enum>(i)</enum>
+							<text>by striking paragraph (1) and by redesignating paragraphs (2) and (3) as paragraphs (1) and (2),
+			 respectively, and</text>
+						</clause><clause id="IDc022dd457c644a52b5e226132a8f0c18">
+							<enum>(ii)</enum>
+							<text>by striking <quote>after June 12, 1963,</quote> each place it appears.</text>
+						</clause></subparagraph><subparagraph id="ID7cea1f7773b04547ada232d2fb5aca2f">
+						<enum>(B)</enum>
+						<text>Section 1551(b) is amended—</text>
+						<clause id="ID74f202dbe584495b87e3349597823777">
+							<enum>(i)</enum>
+							<text>by striking <quote>or (2)</quote> in paragraph (1), and</text>
+						</clause><clause id="IDc68f8bd767ea45179eceaf76579aa547">
+							<enum>(ii)</enum>
+							<text>by striking <quote>(a)(3)</quote> in paragraph (2) and inserting <quote>(a)(2)</quote>.</text>
+						</clause></subparagraph></paragraph><paragraph id="ID9836d83eba5046518af6bd2ec0c7ccd2">
+					<enum>(94)</enum>
+					<header>Credit for state death taxes</header>
+					<subparagraph id="IDa300408739944b43a4d8e4f515e0a4d0">
+						<enum>(A)</enum><clause commented="no" display-inline="yes-display-inline" id="idE6E835F47D0F4EE2A507A1B3E988A958"><enum>(i)</enum>
+							<text>Part II of subchapter A of chapter 11 is amended by striking section 2011 (and by striking the item
+			 relating to such section in the table of sections for such subpart).</text>
+						</clause><clause id="id05BB25D527FC44ED85A827970A83BAD0" indent="up1"><enum>(ii)</enum><text>Section 2106(a)(4) is amended by striking <quote>section 2011(a)</quote> and inserting <quote>2058(a)</quote>.</text></clause></subparagraph><subparagraph id="ID66f53d9cf63f4b9290cbd96618820bb8">
+						<enum>(B)</enum><clause commented="no" display-inline="yes-display-inline" id="id02A381C098CF48949818E6417DF9E485"><enum>(i)</enum>
+							<text>Subchapter A of chapter 13 is amended by striking section 2604 (and by striking the item relating
+			 to such section in the table of sections for such subpart).</text>
+						</clause><clause id="id3C1EA57576294045B542025AEC2836D5" indent="up1"><enum>(ii)</enum><text>Clause (ii) of section 164(b)(4)(A) is amended by inserting <quote>(as in effect before its repeal)</quote> after <quote>section 2604</quote>.</text></clause><clause id="id848B28452CE1497584224DB7E9BE9C2E" indent="up1"><enum>(iii)</enum><text>Section 2654(a)(1) is amended by striking <quote>(computed without regard to section 2604)</quote>.</text></clause></subparagraph></paragraph><paragraph id="ID82a6c2d9b83546a8856f2db9a9637919">
+					<enum>(95)</enum>
+					<header>Gross estate</header>
+					<text>Subsection (c) of section 2031 is amended by striking paragraph (3) and by amending paragraph
+			 (1)(B) to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id261F64523E82433380F4130BFAE379A2" style="OLC">
+						<subparagraph id="IDca594fbbbc4f4e7881a3b71058b2a46a">
+							<enum>(II)</enum>
+							<text>$500,000.</text>
+						</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="ID0fad35be90234992b3baedcf427a629b">
+					<enum>(96)</enum>
+					<subparagraph commented="no" display-inline="yes-display-inline" id="id27010FC61BCF460C81BDE8971EBF79F6"><enum>(A)</enum>
+						<text>Part IV of subchapter A of chapter 11 is amended by striking section 2057 (and by striking the item
+			 relating to such section in the table of sections for such subpart).</text>
+					</subparagraph><subparagraph id="idD35AC7650B63429C8067856B17899A9D" indent="up1">
+						<enum>(B)</enum>
+						<text>Paragraph (10) of section 2031(c) is amended by inserting <quote>(as in effect before its repeal)</quote> immediately before the period at the end thereof.</text>
+					</subparagraph></paragraph><paragraph id="IDb9f4472e07894c29a36d95ec4361c93c">
+					<enum>(97)</enum>
+					<header>Property within the United States</header>
+					<text>Subsection (c) of section 2104 is amended by striking <quote>With respect to estates of decedents dying after December 31, 1969, deposits</quote> and inserting <quote>Deposits</quote>.</text>
+				</paragraph><paragraph id="ID47e73b9b7d934d39955945710a315185">
+					<enum>(98)</enum>
+					<header>FICA taxes</header><subparagraph id="id9B645AB74CCD4A49905615ED10CCDD6F"><enum>(A)</enum>
+						<text>Subsection (a) of section 3101 is amended by striking <quote>the following percentages</quote> and all that follows and inserting <quote>6.2 percent of the wages (as defined in section 3121(a)) received by the individual with respect to
+			 employment
+			 (as defined in section 3121(b))</quote>.</text>
+					</subparagraph><subparagraph id="IDf207341420ae4f2298b776f70cc77561"><enum>(B)</enum><clause commented="no" display-inline="yes-display-inline" id="id708A2B1D7E9644BCB4AB51F9FC754562"><enum>(i)</enum><text>Subsection (a) of section 3111 is amended by striking <quote>the following percentages</quote> and all that follows and inserting <quote>6.2 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to
+			 employment (as
+			 defined in section 3121(b)).</quote></text></clause><clause id="id94FD2AB4873C4535AF8D2186F95534E7" indent="up1"><enum>(ii)</enum><text>Subsection (b) of section 3111 is amended by striking <quote>the following percentages</quote> and all that follows and inserting <quote>1.45 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to
+			 employment
+			 (as defined in section 3121(b)).</quote></text></clause></subparagraph><subparagraph id="id511F9A6172DB4262B47EFCD2A2175291"><enum>(C)</enum><clause commented="no" display-inline="yes-display-inline" id="id39DF3B0DF8A14451B4CE6CCAB6C05EE8"><enum>(i)</enum><text>Section 3121(b) is amended by striking paragraph (17).</text></clause><clause id="idF3D76C5F2BF248798E4B7F3DC2836FE0" indent="up1"><enum>(ii)</enum><text>Section 210(a) of the Social Security Act is amended by striking paragraph
+			 (17).</text></clause></subparagraph></paragraph><paragraph id="ID0932459b912b4c43b7ec8ab86d60b570">
+					<enum>(99)</enum>
+					<header>Railroad retirement</header><subparagraph id="id42C4479F5E47462BBDF3686258D12DA2"><enum>(A)</enum>
+						<text>Subsection (b) of section 3201 is amended to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="idF9AB90FCBE014004963C903ACB795D70" style="OLC">
+							<subsection id="ID8787f62e606d4c9cb11253f3c0fb7c09">
+								<enum>(b)</enum>
+								<header>Tier 2 tax</header>
+								<text>In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to
+			 the percentage determined under section 3241 for any calendar year of the
+			 compensation received during such calendar year by such employee for
+			 services rendered by such employee.</text>
+							</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph id="ID88c9dee0cb794c9fb6ab04361be1bd6e">
+						<enum>(B)</enum>
+						<text>Subsection (b) of section 3211 is amended to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="idAA60BF0391254E258A50E9E31F091F38" style="OLC">
+							<subsection id="IDd42d0a3c6272464699242f281ebc6f74">
+								<enum>(b)</enum>
+								<header>Tier 2 tax</header>
+								<text>In addition to other taxes, there is hereby imposed on the income of each employee representative a
+			 tax equal to the percentage determined under section 3241 for any calendar
+			 year of the compensation received during such calendar year by such
+			 employee representative for services rendered by such employee
+			 representative.</text>
+							</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph id="ID5bb3d42326ce4a44852b33a394af4e2f"><enum>(C)</enum><text>Subsection (b) of section 3221 is amended to read as follows:</text><quoted-block display-inline="no-display-inline" id="id62C665055E6E42A0A4B3B70B0DEA9466" style="OLC">
+							<subsection id="ID039e895a5e3e456e95a99f4751384c12">
+								<enum>(b)</enum>
+								<header>Tier 2 tax</header>
+								<text>In addition to other taxes, there is hereby imposed on the income of each employer a tax equal to
+			 the percentage determined under section 3241 for any calendar year of the
+			 compensation paid during such calendar year by such employer for services
+			 rendered for such employer.</text>
+							</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph><subparagraph id="IDc9eb5bbbc60f4c7f826781c165955646">
+						<enum>(D)</enum>
+						<text>Subsection (b) of section 3231 is amended—</text><clause id="id6E3295A06D694B1C8B4C001A90E43239"><enum>(i)</enum><text>by striking <quote>compensation; except</quote> and all that follows in the first sentence and inserting <quote>compensation.</quote>, and</text>
+						</clause><clause id="id4AFF423BF78647DEA7AFBCF372348BCC"><enum>(ii)</enum><text>by striking the second sentence.</text></clause></subparagraph></paragraph><paragraph id="ID1f98189984b24de9b2809765f4e9571b">
+					<enum>(100)</enum>
+					<header>Credits against Federal unemployment tax</header>
+					<subparagraph id="ID902f475fddee448da33b5bf7cd0c987c">
+						<enum>(A)</enum>
+						<text>Paragraph (4) of section 3302(f) is amended—</text>
+						<clause id="IDa72b2955650549e280b7be14523d250c">
+							<enum>(i)</enum>
+							<text>by striking <quote>subsection—</quote> and all that follows through <quote>(A) <header-in-text level="subparagraph" style="OLC">In general</header-in-text>.—The</quote> and inserting <quote>subsection, the</quote></text>
+						</clause><clause id="IDcd312817b69a4f9ca59c5bff69997e47">
+							<enum>(ii)</enum>
+							<text>by striking subparagraph (B),</text>
+						</clause><clause id="IDc10825729d8c4f1c91f3b7f7b3f1e780">
+							<enum>(iii)</enum>
+							<text>by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and</text>
+						</clause><clause id="IDe01d3a3e58b849fabab67ebdeccdce6a">
+							<enum>(iv)</enum>
+							<text>by moving the text of such subparagraphs (as so redesignated) 2 ems to the left.</text>
+						</clause></subparagraph><subparagraph id="ID0dea182d5dc046999787ab1f5e001df4">
+						<enum>(B)</enum>
+						<text>Paragraph (5) of section 3302(f) is amended by striking subparagraph (D) and by redesignating
+			 subparagraph (E) as subparagraph (D).</text>
+					</subparagraph></paragraph><paragraph id="ID11cc4a5c9445455ca98476688d6d54dc">
+					<enum>(101)</enum>
+					<header>Domestic service employment taxes</header>
+					<text>Section 3510(b) is amended by striking paragraph (4).</text>
+				</paragraph><paragraph id="ID0a4e83f235db4c54a200c0892da9a402">
+					<enum>(102)</enum>
+					<header>Luxury passenger automobiles</header>
+					<subparagraph id="id96238036fbad437991a944bceb90b451"><enum>(A)</enum><text>Chapter 31 is amended by striking subchapter A (and by striking the item relating to such
+			 subchapter in the table of subchapters for such chapter).</text></subparagraph><subparagraph id="idf26b41ed7cea40819154fda171646077"><enum>(B)</enum><clause commented="no" display-inline="yes-display-inline" id="id196DC6F1C524420E982E80EAC015052F"><enum>(i)</enum><text>Section 4221 is amended—</text><subclause id="idBA04D23BD0D44A829569EA30CD79982A" indent="up1"><enum>(I)</enum><text>in subsections (a) and (d)(1), by striking <quote>subchapter A or</quote> and inserting <quote>subchapter</quote>,</text></subclause><subclause id="idE73B17CC90D84F789748F33B5B84D515" indent="up1"><enum>(II)</enum><text>in subsection (a), by striking <quote>In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall
+			 not apply.</quote>, and</text></subclause><subclause id="id691D44955B9441BBA25BE426A13F2F8A" indent="up1"><enum>(III)</enum><text>in subsection (c), by striking <quote>4001(c), 4001(d), or</quote>.</text></subclause></clause><clause id="id2D6B1510E50A4D69A3EAA4E5E1474C29" indent="up1"><enum>(ii)</enum><text>Section 4222 is amended by striking <quote>4001(c), 4001(d),</quote>.</text></clause><clause id="idCEE9511D145F4988AF1768363788A90A" indent="up1"><enum>(iii)</enum><text>Section 4293 is amended by striking <quote>subchapter A of chapter 31,</quote>.</text></clause></subparagraph></paragraph><paragraph id="IDb8b79709571e4c758b8784272f6287d1">
+					<enum>(103)</enum>
+					<header>Tax on fuel used in commercial transportation on inland waterways</header>
+					<text>Section 4042(b)(2)(A) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id34FCB75CB6824F86AE6E9D0AA5AC2B01" style="OLC">
+						<subparagraph id="ID0e142fb5a5354840b7850ef9d2f3d057">
+							<enum>(I)</enum>
+							<text>The Inland Waterways Trust Fund financing rate is 20 cents per gallon.</text>
+						</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="IDfd273f575f8a448a892f130e383e0d7a">
+					<enum>(104)</enum>
+					<header>Transportation by air</header>
+					<text>Section 4261(e) is amended—</text>
+					<subparagraph id="IDb4e4d0fedece42ab856afd2289615eb9">
+						<enum>(A)</enum>
+						<text>in paragraph (1), by striking subparagraph (C), and</text>
+					</subparagraph><subparagraph id="IDe5adbf0f64964715be6161e78af41b14">
+						<enum>(B)</enum>
+						<text>by striking paragraph (5).</text>
+					</subparagraph></paragraph><paragraph id="ID69381790c7444ae0a70bf5f7f33527b2">
+					<enum>(105)</enum>
+					<header>Taxes on failure to distribute income</header>
+					<subparagraph id="ID298683085b1b457a8eed2d648019d784"><enum>(A)</enum><text>Subsection (g) of section 4942 is amended 
+			
+				
+				 by striking <quote>For all taxable years beginning on or after January 1, 1975, subject</quote> in paragraph (2)(A) and inserting <quote>Subject</quote>.</text></subparagraph><subparagraph id="ID23afd0f5da124601919f1f2bf53b8b9b">
+						<enum>(B)</enum>
+						<text>Section 4942(i)(2) is amended by striking <quote>beginning after December 31, 1969, and</quote>.</text>
+					</subparagraph></paragraph><paragraph id="IDd4bb497ccd2e4d36a2e7db7d1b8dbcc3">
+					<enum>(106)</enum>
+					<header>Taxes on taxable expenditures</header>
+					<text>Section 4945(f) is amended by striking <quote>(excluding therefrom any preceding taxable year which begins before January 1, 1970)</quote>.</text>
+				</paragraph><paragraph id="ID8129e121923949f5b996110c5e9ca83c">
+					<enum>(107)</enum>
+					<header>Definitions and special rules</header>
+					<text>Section 4682(h) is amended—</text><subparagraph id="id832B61616F3C4EC29CF3AE20BFF5DECC"><enum>(A)</enum><text>by striking paragraph (1) and redesignating paragraphs (2), (3), and (4) as paragraphs (1), (2),
+			 and (3), respectively, and</text></subparagraph><subparagraph id="idD49F2851F2C542EF94CF7995664EA1A3"><enum>(B)</enum><text>in paragraph (1) (as so redesignated)—</text><clause id="id6703BDCBF59B4B1FBBF2A37E681B98B5"><enum>(i)</enum><text>by striking the heading and inserting <quote><header-in-text level="paragraph" style="OLC">In general</header-in-text></quote>, and</text></clause><clause id="id2790157DDFB14F629410480DA573103C"><enum>(ii)</enum><text>by striking <quote>after 1991</quote> in subparagraph (C).</text>
+						</clause></subparagraph></paragraph><paragraph id="IDa136fae324af4d3e9869027ef1ce9493">
+					<enum>(108)</enum>
+					<header>Returns</header>
+					<text>Subsection (a) of section 6039D is amended by striking <quote>beginning after December 31, 1984,</quote>.</text>
+				</paragraph><paragraph id="ID3fe1c9c10a3047608408b327b56f66fb">
+					<enum>(109)</enum>
+					<header>Information returns</header>
+					<text>Subsection (c) of section 6060 is amended by striking <quote>‘year</quote>’ and all that follows and inserting <quote>year.</quote>.</text>
+				</paragraph><paragraph id="ID7fc3a26994514381baed541a5dc56186">
+					<enum>(110)</enum>
+					<header>Collection</header>
+					<text>Section 6302 is amended—</text>
+					<subparagraph id="IDa54fc23aaefc4a7191d8066607db67c1">
+						<enum>(A)</enum>
+						<text>in subsection (e)(2), by striking <quote>imposed by</quote> and all that follows through <quote>with respect to</quote> and inserting <quote>imposed by sections 4251, 4261, or 4271 with respect to</quote>,</text>
+					</subparagraph><subparagraph id="IDab5f231713bc4be5b1a867c3d06d771c">
+						<enum>(B)</enum>
+						<text>by striking the last sentence of subsection (f)(1), and</text>
+					</subparagraph><subparagraph id="IDb5efe23c2b4c45cdadf562ed914b617d">
+						<enum>(C)</enum>
+						<text>in subsection (h)—</text><clause id="id9EEE506A46DF45F390273319D0495228"><enum>(i)</enum><text>by striking paragraph (2) and redesignating paragraphs (3) and (4) as paragraphs (2) and (3),
+			 respectively, and</text></clause><clause id="id742D14BD69CD42828C48A7C613708375"><enum>(ii)</enum><text>by amending paragraph (3) (as so redesignated) to read as follows:</text><quoted-block display-inline="no-display-inline" id="idB5338C35A0C545AE8933F07FBE39B2E0" style="OLC"><paragraph id="idD2907D04957B4CCFB82524B9E74C9202"><enum>(3)</enum><header>Coordination with other  electronic fund transfer requirements</header><text>Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or
+			 5703(b) shall be paid in such a manner as to ensure that the requirements
+			 of the second sentence of paragraph (1)(A) of this subsection are
+			 satisfied.</text>
+								</paragraph><after-quoted-block>.</after-quoted-block></quoted-block></clause></subparagraph></paragraph><paragraph id="IDa9e03a33f5334d2fb93f4ca35631e16f">
+					<enum>(111)</enum>
+					<header>Abatements</header>
+					<text>Section 6404(f) is amended by striking paragraph (3).</text>
+				</paragraph><paragraph id="IDb59583d8fcb34132ac1a133c9995d6e4">
+					<enum>(112)</enum>
+					<header>2008 Recovery rebate for individuals</header>
+					<subparagraph id="ID89bad1c28bbd45139ab3aed8bf5f892e">
+						<enum>(A)</enum>
+						<text>Subchapter B of chapter 65 is amended by striking section 6428 (and by striking the item relating
+			 to such section in the table of sections for such subchapter).</text>
+					</subparagraph><subparagraph id="ID07cf413d2c3345d7a127edb159d8acc4">
+						<enum>(B)</enum>
+						<text>Subparagraph (A) of section 6211(b)(4) is amended by striking <quote>6428,</quote>.</text></subparagraph><subparagraph id="idF755F1EFA8F340C38CC646A8CC231E0B"><enum>(C)</enum><text>Paragraph (2) of section 6213(g), as amended by section 13(a)(2) and paragraphs (4) and (5)(C) of
+			 this
+			 subsection, is amended by striking subparagraph (Q), by redesignating
+			 subparagraph (O) as subparagraph (N), by
+			 inserting <quote>and</quote> at the end of subparagraph (M), and by striking the comma at the end of subparagraph (N) (as so
+			 redesignated) and inserting a period.</text></subparagraph><subparagraph id="id758B389BFA6449B782FEFE88F8CB202F"><enum>(D)</enum><text>Paragraph (2) of <external-xref legal-doc="usc" parsable-cite="usc/31/1324">section 1324(b)</external-xref> of title 31, United States Code, is amended by striking <quote>6428, or 6431,</quote> and inserting <quote>or 6431</quote>.</text></subparagraph></paragraph><paragraph id="ID6955c0836eb04371b2f8826cdc147931">
+					<enum>(113)</enum>
+					<header>Advance payment of portion of increased child credit for 2003</header>
+					<text>Subchapter B of chapter 65 is amended by striking section 6429 (and by striking the item relating
+			 to
+			 such section in the table of sections for such subchapter).</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id0E8DF356AB824F198AB373F689BC4C39"><enum>(114)</enum><header display-inline="yes-display-inline">Failure by corporation to pay estimated income tax</header><text display-inline="yes-display-inline">Clause (i) of section 6655(g)(4)(A) is amended by striking <quote>(or the corresponding provisions of prior law)</quote>.</text></paragraph><paragraph id="IDed26921ceff64dd3ba427b1e618f228b">
+					<enum>(115)</enum>
+					<header>Retirement</header>
+					<text>Section 7447(i)(3)(B)(ii) is amended by striking <quote>at 4 percent per annum to December 31, 1947, and at 3 percent per annum thereafter</quote>, and inserting <quote>at 3 percent per annum</quote>.</text>
+				</paragraph><paragraph id="ID86f3b1a28f5a440fb81df390b3de14ef">
+					<enum>(116)</enum>
+					<header>Annuities to surviving spouses and dependent children of judges</header>
+					<subparagraph id="ID391c2ef5bb8247a7a1f525847ee35169">
+						<enum>(A)</enum>
+						<text>Paragraph (2) of section 7448(a) is amended—</text><clause id="idE23CAF334A394B03AFC71BEA848A899B"><enum>(i)</enum><text>by striking <quote>or under section 1106 of the Internal Revenue Code of 1939</quote> and,</text></clause><clause id="id8FA6726ADB8E4665AC89786483ED5BE6"><enum>(ii)</enum><text>by striking <quote>or pursuant to section 1106(d) of the Internal Revenue Code of 1939</quote>.</text>
+						</clause></subparagraph><subparagraph id="ID75abee6e98bc47dfa2f5a0983a67120b">
+						<enum>(B)</enum>
+						<text>Subsection (g) of section 7448 is amended by striking <quote>or other than pursuant to section 1106 of the Internal Revenue Code of 1939</quote>.</text>
+					</subparagraph><subparagraph id="IDa7ddfb5eb1ef4b05b432adc703e1b0ea">
+						<enum>(C)</enum>
+						<text>Subsections (g), (j)(1), and (j)(2) of section 7448 are each amended by striking <quote>at 4 percent per annum to December 31, 1947, and at 3 percent per annum thereafter</quote> and inserting <quote>at 3 percent per annum</quote>.</text>
+					</subparagraph></paragraph><paragraph id="ID14d0f0fe049349e0b1ad5f336d2806f4">
+					<enum>(117)</enum>
+					<header>Merchant marine capital construction funds</header>
+					<text>Paragraph (4) of section 7518(g) is amended by striking <quote>any nonqualified withdrawal</quote> and all that follows through <quote>‘shall be determined</quote> and inserting <quote>any nonqualified withdrawal shall be determined</quote>.</text>
+				</paragraph><paragraph id="ID25e7a48a0d694f058099750f0813aac0">
+					<enum>(118)</enum>
+					<header>Valuation tables</header>
+					<subparagraph id="IDd4710c4bde3747e9a39bcc027f834953">
+						<enum>(A)</enum>
+						<text>Subsection (c) of section 7520 is amended by striking paragraph (2) and redesignating paragraph
+			 (3) as paragraph (2).</text>
+					</subparagraph><subparagraph id="ID5a0e48cb0f5d4af8b1ed293522e93965">
+						<enum>(B)</enum>
+						<text>Paragraph (2) of section 7520(c) (as redesignated by subparagraph (A)) is amended—</text>
+						<clause id="IDe01e4407c6304cb5878c868445ecd75b">
+							<enum>(i)</enum>
+							<text>by striking <quote>Not later than December 31, 1989, the</quote> and inserting <quote>The</quote>, and</text>
+						</clause><clause id="ID804474491cb04e4da4e4ac2cea9f8da9">
+							<enum>(ii)</enum>
+							<text>by striking <quote>thereafter</quote> in the last sentence thereof.</text>
+						</clause></subparagraph></paragraph><paragraph id="ID5fec331eea0f496aafba55db2b4adf44">
+					<enum>(119)</enum>
+					<header>Definition of employee</header>
+					<text>Section 7701(a)(20) is amended by striking <quote>chapter 21</quote> and all that follows and inserting <quote>chapter 21.</quote>.</text>
+				</paragraph></subsection><subsection id="IDf304d07f73c545bf8f701e42a646f2cc">
+				<enum>(b)</enum>
+				<header>Effective date</header>
+				<paragraph id="IDa7e860a7edbf4bdfb63ca4b7713eaa70">
+					<enum>(1)</enum>
+					<header>General rule</header>
+					<text>Except as otherwise provided in subsection (a) or paragraph (2) of this subsection, the amendments
+			 made by this
+			 section shall take effect on the date of enactment of this Act.</text>
+				</paragraph><paragraph id="IDb08e42bb4e13495fbc1314cb1ac2c34e">
+					<enum>(2)</enum>
+					<header>Savings provision</header>
+					<text>If—</text>
+					<subparagraph id="ID9f3d2336e99c4e4bb5f4103b2a88af8b">
+						<enum>(A)</enum>
+						<text>any provision amended or repealed by the amendments made by this section applied to—</text>
+						<clause id="IDdb912eefdecf4868b1c5b6df4baf3601">
+							<enum>(i)</enum>
+							<text>any transaction occurring before the date of the enactment of this Act,</text>
+						</clause><clause id="IDb764ee56122a4057a2f3d24d782a7fba">
+							<enum>(ii)</enum>
+							<text>any property acquired before such date of enactment, or</text>
+						</clause><clause id="ID4f816c547dc047e0897337a22c0182e6">
+							<enum>(iii)</enum>
+							<text>any item of income, loss, deduction, or credit taken into account before such date of enactment,
+			 and</text>
+						</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID2722f4826ede44378436ac551510c72c"><enum>(B)</enum><text>the treatment of such transaction, property, or item under such provision would (without regard to
+			 the amendments or repeals made by this section) affect the liability for
+			 tax for periods ending after date of enactment, nothing in the amendments
+			 or repeals made by this section shall be construed to affect the
+			 treatment of such transaction, property, or item for purposes of
+			 determining liability for tax for periods ending after such date of
+			 enactment.</text></subparagraph></paragraph></subsection></section></legis-body>
+	<endorsement><action-date>April 28, 2014</action-date><action-desc>Read twice and placed on the calendar</action-desc></endorsement></bill>
+
+

@@ -1,0 +1,235 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1899096ba">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide for the sealing or expungement of records relating to Federal nonviolent criminal offenses, and for other purposes.;
+   		H.R. 5158 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-07-23</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide for the sealing or expungement of records relating to Federal nonviolent criminal offenses, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5158 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-07-18</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>69 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1899096ba</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5158ih</identifier>
+<identifier type="preferred citation">H.R. 5158</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5158_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5158ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5158ih/html/BILLS-113hr5158ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5158ih/pdf/BILLS-113hr5158ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5158ih/xml/BILLS-113hr5158ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-07-23</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-07-23</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr5158ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Chaka Fattah</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Frank R. Wolf</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Agriculture</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 3632(a)</partNumber>
+  <partNumber>Title 18 Section 3632(b)(2)(A)</partNumber>
+  <partNumber>Title 18 Section 5031</partNumber>
+  <partNumber>Title 18 Section 5038</partNumber>
+  <partNumber>Title 18 Chapter 229</partNumber>
+  <partNumber>Title 18 Chapter 403</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 3632(a)</identifier>
+ <identifier type="USC citation">18 U.S.C. 3632(b)(2)(A)</identifier>
+ <identifier type="USC citation">18 U.S.C. 5031</identifier>
+ <identifier type="USC citation">18 U.S.C. 5038</identifier>
+ <identifier type="USC citation">18 U.S.C. Chapter 229</identifier>
+ <identifier type="USC citation">18 U.S.C. Chapter 403</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 21 Section 862a</partNumber>
+  <partNumber>Title 21 Section 862a(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">21 U.S.C. 862a</identifier>
+ <identifier type="USC citation">21 U.S.C. 862a(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 28 Section 534</partNumber>
+  <partNumber>Title 28 Section 534(g)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">28 U.S.C. 534</identifier>
+ <identifier type="USC citation">28 U.S.C. 534(g)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 16911</partNumber>
+  <partNumber>Title 42 Section 3796dd(c)</partNumber>
+  <partNumber>Title 42 Section 3796dd(c)(1)(B)</partNumber>
+  <partNumber>Title 42 Section 5603</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 16911</identifier>
+ <identifier type="USC citation">42 U.S.C. 3796dd(c)</identifier>
+ <identifier type="USC citation">42 U.S.C. 3796dd(c)(1)(B)</identifier>
+ <identifier type="USC citation">42 U.S.C. 5603</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr5158ih</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5158</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <action date="2014-07-18">Mr. Fattah (for himself and Mr. Wolf) introduced the following bill; which was referred to the Committee on the Judiciary, and in addition to the Committees on Agriculture and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsag00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Agriculture</name>
+                      <name type="authority-short">Agriculture</name>
+                </congCommittee>
+ <congCommittee authorityId="hsju00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congCommittee authorityId="hswm00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="371" bioGuideId="F000043" chamber="H" congress="113" gpoId="8120" party="D" role="SPONSOR" state="PA">
+                      <name type="parsed">Mr. Fattah</name>
+                      <name type="authority-fnf">Chaka Fattah</name>
+                      <name type="authority-lnf">Fattah, Chaka</name>
+                </congMember>
+ <congMember authorityId="1238" bioGuideId="W000672" chamber="H" congress="113" gpoId="8201" party="R" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Wolf</name>
+                      <name type="authority-fnf">Frank R. Wolf</name>
+                      <name type="authority-lnf">Wolf, Frank R.</name>
+                      <name type="authority-other">Frank Wolf</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="18">
+                      <section detail="(a)" number="3632"></section>
+                      <section detail="(b)(2)(A)" number="3632"></section>
+                      <section number="5031"></section>
+                      <section number="5038"></section>
+                      <chapter number="229"></chapter>
+                      <chapter number="403"></chapter>
+                </USCode>
+ <USCode title="21">
+                      <section number="862a"></section>
+                      <section detail="(a)" number="862a"></section>
+                </USCode>
+ <USCode title="28">
+                      <section number="534"></section>
+                      <section detail="(g)" number="534"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="16911"></section>
+                      <section detail="(c)" number="3796dd"></section>
+                      <section detail="(c)(1)(B)" number="3796dd"></section>
+                      <section number="5603"></section>
+                </USCode>
+</extension>
+</mods>

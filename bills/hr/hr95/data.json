@@ -1,0 +1,113 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-01-03", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-01-03", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-01-03", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Referred to House House Administration", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-12-12T16:12:00-05:00", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on House Administration. H. Rept. 113-292, Part I.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr95-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-12-12T16:12:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-01-03", 
+  "number": "95", 
+  "official_title": "To reduce Federal spending and the deficit by terminating taxpayer financing of presidential election campaigns and party conventions.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Cole, Tom", 
+    "state": "OK", 
+    "thomas_id": "01742", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-01-03", 
+  "subjects": [
+    "Budget deficits and national debt", 
+    "Elections, voting, political campaign regulation", 
+    "Government trust funds", 
+    "Tax administration and collection, taxpayers", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Reported to House without amendment, Part I", 
+    "date": "2013-12-12", 
+    "text": "Amends the Internal Revenue Code to terminate: (1) the taxpayer election to designate $3 of income tax liability to the Presidential Election Campaign Fund for taxable years beginning after December 31, 2011, (2) the Presidential Election Campaign Fund, and (3) the Presidential Primary Matching Payment Account.\n\nDirects that any amounts remaining in the Presidential Election Campaign Fund after its termination be transferred to the general fund of the Treasury to be used only for reducing the deficit."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reduce Federal spending and the deficit by terminating taxpayer financing of presidential election campaigns and party conventions.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:18:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR95:@@@L&summ2=m&"
+}

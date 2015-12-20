@@ -1,0 +1,153 @@
+<bill session="113" type="s" number="1691" updated="2015-09-01T10:22:01-04:00">
+  <state datetime="2014-12-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-12-18"/>
+  </status>
+  <introduced datetime="2013-11-13"/>
+  <titles>
+    <title type="short" as="introduced">Border Patrol Agent Pay Reform Act of 2013</title>
+    <title type="short" as="passed house">Border Patrol Agent Pay Reform Act of 2014</title>
+    <title type="short" as="passed house" partial="1">Homeland Security Cybersecurity Workforce Assessment Act</title>
+    <title type="short" as="reported to senate">Border Patrol Agent Pay Reform Act of 2014</title>
+    <title type="short" as="passed senate">Border Patrol Agent Pay Reform Act of 2014</title>
+    <title type="short" as="passed senate" partial="1">Homeland Security Cybersecurity Workforce Assessment Act</title>
+    <title type="short" as="enacted">Border Patrol Agent Pay Reform Act of 2014</title>
+    <title type="short" as="enacted" partial="1">Homeland Security Cybersecurity Workforce Assessment Act</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to improve the security of the United States border and to provide for reforms and rates of pay for border patrol agents.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2014-05-20"/>
+    <cosponsor id="300027" joined="2014-09-08"/>
+    <cosponsor id="400134" joined="2014-06-25"/>
+    <cosponsor id="412554" joined="2014-02-25"/>
+    <cosponsor id="300071" joined="2013-11-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Committee on Homeland Security and Governmental Affairs. Hearings held.</text>
+    </action>
+    <calendar datetime="2014-06-25" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-08-26">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper under authority of the order of the Senate of 08/05/2014 with an amendment in the nature of a substitute. With written report No. 113-248.</text>
+    </action>
+    <calendar datetime="2014-08-26" calendar="Senate Legislative" under="General Orders" number="548">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.</text>
+    </calendar>
+    <action datetime="2014-09-18">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S5865-5872" label="consideration"/>
+    </action>
+    <action datetime="2014-09-18">
+      <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+      <reference ref="CR S5865-5868" label="text"/>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="2014-09-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+      <reference ref="CR S5868-5872" label="text"/>
+    </vote>
+    <action datetime="2014-09-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-09-19T12:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2014-09-25">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+    <action datetime="2014-12-10T12:24:00-05:00">
+      <text>Mr. Chaffetz moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-12-10T12:24:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8945-8951" label="consideration"/>
+    </action>
+    <action datetime="2014-12-10T12:24:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1691.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2014-12-10T12:47:00-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8945-8949" label="text"/>
+    </vote>
+    <action datetime="2014-12-10T12:47:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2014-12-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-12-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-277" type="public" datetime="2014-12-18">
+      <text>Became Public Law No: 113-277.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="3463"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Labor standards"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3931"/>
+  </amendments>
+  <summary>12/18/2014--Public Law.
+Border Patrol Agent Pay Reform Act of 2014 - (Sec. 2) States as the purposes of this Act: (1) strengthening U.S. Customs and Border Protection (CBP) and ensuring that border patrol agents are sufficiently ready to conduct necessary work and will perform overtime hours in excess of a 40-hour workweek based on the needs of CBP, and (2) ensuring CBP has the flexibility to cover shift changes and retains the right to assign scheduled and unscheduled work for mission requirements and planning based on operational need.
+
+Requires a border patrol agent, not later than 30 days before the first day of each year beginning after the enactment of this Act, to make an election whether such agent shall, for that year, be assigned to: (1) the level 1 border patrol rate of pay (i.e., hourly rate of pay equal to 1.25 times the otherwise applicable hourly rate of basic pay); (2) the level 2 border patrol rate of pay (i.e., the hourly rate of pay equal to 1.125 times the otherwise hourly rate of basic pay); or (3) the basic border patrol rate of pay, with additional overtime as needed by CBP. Requires: (1) the Office of Personnel Management (OPM) to promulgate regulations establishing procedures for such elections, and (2) CBP to provide each border patrol agent with information on each type of election available and how to make an election. Exempts from such limitation agents working at CBP headquarters or a CBP training location.
+
+Provides that an agent who fails to elect a pay level or an agent who is assigned a canine shall&#160; be assigned to the level 1 rate of pay.
+
+Requires CBP to: (1)&#160;assign an agent to the basic border patrol rate of pay until it determines that the agent is able to perform scheduled overtime on a daily basis, and (2) take such action to ensure that not more than 10% of the agents stationed at a location are assigned to the level 2 border patrol rate of pay or the basic border patrol rate of pay. Allows CBP to waive the 10% limitation if it determines that it may do so and adequately fulfill its operational requirements.
+
+Requires CBP to develop, implement, and report on,&#160;a plan to ensure that the assignment of a border patrol agent during the three years of service before such agent becomes eligible for immediate retirement are consistent with the average border patrol rate of pay level to which the agent has been assigned during the course of his or her career. Requires the Comptroller General (GAO) to report to Congress on the effectiveness of the plan in ensuring that agents are not able to artificially enhance their retirement annuities.
+
+Specifies the terms and conditions of level 1 and 2 border patrol rates of pay, premium pay, eligibility for leave without pay, overtime, and compensatory time off. Requires CBP to avoid the use of scheduled overtime work by border patrol agents to the maximum extent practicable.
+
+Includes supplemental pay from levels 1 and 2 rates of pay as part of a border patrol agent's basic pay for purposes of calculating retirement annuities.
+
+Requires: (1)&#160;CBP to conduct a comprehensive analysis that examines the staffing requirements for CBP and estimates the cost of such requirements and submit a report on such analysis to GAO,&#160;and (2) GAO to report on the methodology used by CBP to carry out its analysis and whether GAO concurs with the findings in the CBP report.&#160;
+
+States that nothing in this Act shall be construed to: (1) limit the right of CBP to assign both scheduled and unscheduled work to a border patrol agent based on the needs of the agency in excess of the hours of work normally applicable under the election made by the agent; (2) require compensation of an agent for other than for hours during which the agent is actually performing work or using approved leave; or (3) exempt an agent from any limitations on pay, earnings, or compensation prescribed by law.
+
+Requires OPM to promulgate regulations to carry out this Act.
+
+(Sec. 3) Amends the Homeland Security Act of 2002 to authorize the Secretary of Homeland Security to: (1) establish positions in the excepted service in which the incumbent performs, manages, or supervises functions that execute the responsibilities of the Department of Homeland Security (DHS) relating to cybersecurity (qualified positions), including positions formerly identified as senior level positions and positions in the Senior Executive Service (SES); and (2) appoint an individual to such a qualified position. Requires the Secretary to fix the rates of basic pay for any qualified position in relation to the rates of pay provided for comparable positions in the Department of Defense (DOD) and allows the Secretary to provide such employees with additional compensation, incentives, and allowances.
+
+Requires the Secretary to annually submit to Congress for five years a report that: (1) discusses the process used in accepting applications and accessing candidates for qualified positions, ensuring adherence to veteran preferences; (2) describes how the Secretary plans to fulfill the critical need of DHS to recruit and retain employees in a qualified position; (3) discusses how such planning is integrated into the strategic workforce of DHS; (4) provides information on the number of employees, including veterans, hired and the number of separations and retirements of employees in qualified positions; and (5) describes the training provided to supervisors of employees in qualified positions on the use of new authorities. Establishes a probationary period of three years for all employees hired.
+
+Directs the National Protection and Programs Directorate to report to Congress on the availability of, and benefits of using, cybersecurity personnel and facilities outside of the National Capital Region.
+
+(Sec. 4) Homeland Security Cybersecurity Workforce Assessment Act - Requires the Secretary to: (1) identify all cybersecurity workforce positions within DHS; (2) determine the primary cybersecurity work category and specialty area of all DHS cybersecurity workforce positions; (3) assign the corresponding data element code, as set forth in OPM's Guide to Data Standards, that is aligned with the National Initiative for Cybersecurity Education's National Cybersecurity Workforce Framework report; (4) establish procedures to identify open positions that include cybersecurity functions; and (5) assign the appropriate employment code to each such position.
+
+Directs the Secretary, annually through 2021, to: (1) identify cybersecurity work categories and specialty areas of critical need in the DHS cybersecurity workforce, and (2) submit a report to the OPM Director that describes such categories and areas and substantiates the critical need designations.
+
+Requires: (1) the OPM Director to provide the Secretary with guidance for identifying cybersecurity work categories and specialty areas of critical need, including areas with acute skill and emerging skill shortages; and (2) the Secretary to identify specialty areas of critical need in DHS's cybersecurity workforce and submit a progress report to Congress.
+
+Directs GAO to analyze, monitor, and report on the implementation of DHS cybersecurity workforce measures.</summary>
+</bill>

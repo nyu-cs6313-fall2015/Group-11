@@ -1,0 +1,156 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-16", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-16", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-16", 
+      "references": [
+        {
+          "reference": "Permanent Select", 
+          "type": null
+        }
+      ], 
+      "text": "Referred to House Intelligence", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-20", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3920-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Bentivolio, Kerry L.", 
+      "sponsored_at": "2014-01-16", 
+      "state": "MI", 
+      "thomas_id": "02135", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2014-01-16", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Glenn", 
+      "sponsored_at": "2014-01-16", 
+      "state": "PA", 
+      "thomas_id": "01952", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-16", 
+  "number": "3920", 
+  "official_title": "To amend the Foreign Intelligence Surveillance Act of 1978 to limit the acquisition of certain business records under that Act.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "American Privacy Protection Act", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Nugent, Richard B.", 
+    "state": "FL", 
+    "thomas_id": "02001", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-01-16", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Business records", 
+    "First Amendment rights", 
+    "Intelligence activities, surveillance, classified information", 
+    "Right of privacy", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-16", 
+    "text": "American Privacy Protection Act - Amends the Foreign Intelligence Surveillance Act of 1978 (FISA), with respect to the authority of the Federal Bureau of Investigation (FBI) to make an application to a FISA court for an order requiring the production of tangible things (commonly referred to as \"business records\"), to limit the items that the FBI may seek to tangible things not pertaining to a U.S. person for an investigation to obtain foreign intelligence information not concerning a U.S. person (thus removes the FBI's authority to make such applications for an investigation regarding a U.S. person or to protect against international terrorism or clandestine intelligence activities)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Privacy Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Foreign Intelligence Surveillance Act of 1978 to limit the acquisition of certain business records under that Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:22-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3920:@@@L&summ2=m&"
+}

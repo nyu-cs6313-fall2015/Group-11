@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-10", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4472-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2014-06-20", 
+      "state": "NY", 
+      "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2014-06-20", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-10", 
+  "number": "4472", 
+  "official_title": "To provide for the establishment of a grant program to support United States-Israeli cooperation for neuroscience-related research, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "US-Israel Global Neuroscience Partnership Act of 2014", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Fattah, Chaka", 
+    "state": "PA", 
+    "thomas_id": "00371", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-10", 
+  "subjects": [
+    "Advisory bodies", 
+    "Department of Health and Human Services", 
+    "Executive agency funding and structure", 
+    "Health", 
+    "Health programs administration and funding", 
+    "Health technology, devices, supplies", 
+    "International organizations and cooperation", 
+    "Israel", 
+    "Medical research", 
+    "Middle East", 
+    "National Institutes of Health (NIH)", 
+    "Neurological disorders", 
+    "Research administration and funding", 
+    "Research and development"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-10", 
+    "text": "US-Israel Global Neuroscience Partnership Act of 2014 - Directs the Secretary of Health and Human Services (HHS) to award grants to eligible entities for U.S.-Israel cooperative neuroscience research.\n\nEstablishes in the National Institutes of Health (NIH) an International Neuroscience-Related Research Advisory Board.\n\nTerminates the grant program and the Advisory Board seven years after the date of enactment of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "US-Israel Global Neuroscience Partnership Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the establishment of a grant program to support United States-Israeli cooperation for neuroscience-related research, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:35-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4472:@@@L&summ2=m&"
+}

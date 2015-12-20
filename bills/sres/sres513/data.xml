@@ -1,0 +1,58 @@
+<bill session="113" type="sr" number="513" updated="2015-09-01T10:21:25-04:00">
+  <state datetime="2014-07-31">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-23"/>
+  <titles>
+    <title type="official" as="introduced">A resolution honoring the 70th anniversary of the Warsaw Uprising.</title>
+  </titles>
+  <sponsor id="300073"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2014-07-23"/>
+    <cosponsor id="300038" joined="2014-07-28"/>
+    <cosponsor id="400222" joined="2014-07-24"/>
+    <cosponsor id="412194" joined="2014-07-28"/>
+    <cosponsor id="400325" joined="2014-07-31"/>
+    <cosponsor id="412322" joined="2014-07-23"/>
+    <cosponsor id="412491" joined="2014-07-29"/>
+    <cosponsor id="412323" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-23" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S4770" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2014-07-29" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-07-29">
+      <text>Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2014-07-29" calendar="Senate Legislative" under="General Orders" number="496">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 496.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-07-31" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR 8/1/2014 S5314" label="consideration"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="hr" number="690"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Conflicts and wars"/>
+    <term name="Europe"/>
+    <term name="Germany"/>
+    <term name="Poland"/>
+    <term name="World history"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2014--Passed Senate without amendment.
+Recognizes the 70th anniversary of the Warsaw Uprising, which occurred during World War II and serves as a symbol of heroism and the power of the human spirit.</summary>
+</bill>

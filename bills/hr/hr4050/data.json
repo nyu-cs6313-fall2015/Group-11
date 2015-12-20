@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-11", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4050-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Kilmer, Derek", 
+      "sponsored_at": "2014-02-11", 
+      "state": "WA", 
+      "thomas_id": "02169", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-11", 
+  "number": "4050", 
+  "official_title": "To amend the Servicemembers Civil Relief Act to provide for alternate means of proof of period of military service for purposes of the interest rate limitation.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1960-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Servicemembers Opportunity Act", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Heck, Denny", 
+    "state": "WA", 
+    "thomas_id": "02170", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-02-11", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Interest, dividends, interest rates", 
+    "Personnel records", 
+    "Veterans' loans, housing, homeless programs"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-02-11", 
+    "text": "Servicemembers Opportunity Act - Amends the Servicemembers Civil Relief Act to allow any appropriate indicator of military service, including a certified letter from a commanding officer or information from the Defense Manpower Database Center, as proof of service for purposes of interest rate limitations provided to servicemembers under such Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Servicemembers Opportunity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Servicemembers Civil Relief Act to provide for alternate means of proof of period of military service for purposes of the interest rate limitation.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:25-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4050:@@@L&summ2=m&"
+}

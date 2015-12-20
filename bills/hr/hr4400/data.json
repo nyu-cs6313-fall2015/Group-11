@@ -1,0 +1,167 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-04", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4400-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Barton, Joe", 
+      "sponsored_at": "2014-04-04", 
+      "state": "TX", 
+      "thomas_id": "00062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2014-04-04", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2014-04-04", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "sponsored_at": "2014-04-04", 
+      "state": "CA", 
+      "thomas_id": "01832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2014-04-04", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-04", 
+  "number": "4400", 
+  "official_title": "To protect consumers by requiring reasonable security policies and procedures to protect data containing personal information, and to provide for nationwide notice in the event of a security breach.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1193-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1976-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2025-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Data Accountability and Trust Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Rush, Bobby L.", 
+    "state": "IL", 
+    "thomas_id": "01003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-04", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business records", 
+    "Commerce", 
+    "Computer security and identity theft", 
+    "Computers and information technology", 
+    "Consumer affairs", 
+    "Consumer credit", 
+    "Federal Trade Commission (FTC)", 
+    "Federal preemption", 
+    "Fraud offenses and financial crimes", 
+    "Internet and video services", 
+    "Marketing and advertising", 
+    "Right of privacy"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-04", 
+    "text": "Data Accountability and Trust Act - Requires the Federal Trade Commission (FTC) to promulgate regulations requiring each person engaged in interstate commerce that owns or possesses data containing personal information to establish specified security policies and procedures to treat and protect such information.\n\nRequires the regulations to include methods for disposing of both electronic and nonelectronic data.\n\nRequires information brokers to submit their security policies to the FTC in conjunction with a notification of a security breach notification or on FTC request. Authorizes the FTC to conduct information security practices audits of brokers who have had a security breach or require such brokers to conduct independent audits.\n\nRequires information brokers to: (1) establish procedures to verify the accuracy of information that identifies individuals, (2) provide to individuals whose personal information it maintains a means to review it, (3) place a conspicuous notice on the Internet instructing individuals how to request access to such information, and (4) correct inaccurate information.\n\nDirects the FTC to require information brokers to establish measures which facilitate the auditing or retracing of access to, or transmissions of, any data containing personal information.\n\nMakes it unlawful for information brokers to obtain or disclose personal information by false pretenses (pretexting).\n\nRequires such person to notify the FTC and affected individuals of information security breaches. Sets forth requirements concerning such notification, including method of notification requirements and timeliness requirements. Allows an exemption from notification requirements if such person determines that there is no reasonable risk of identity theft, fraud, or other unlawful conduct.\n\nPreempts state information security laws."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Data Accountability and Trust Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To protect consumers by requiring reasonable security policies and procedures to protect data containing personal information, and to provide for nationwide notice in the event of a security breach.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4400:@@@L&summ2=m&"
+}

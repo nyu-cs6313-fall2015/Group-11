@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="4050" updated="2015-09-01T10:20:25-04:00">
+  <state datetime="2014-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-11"/>
+  </status>
+  <introduced datetime="2014-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Servicemembers Opportunity Act</title>
+    <title type="official" as="introduced">To amend the Servicemembers Civil Relief Act to provide for alternate means of proof of period of military service for purposes of the interest rate limitation.</title>
+  </titles>
+  <sponsor id="412584"/>
+  <cosponsors>
+    <cosponsor id="412583" joined="2014-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-11" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-02-18">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1960"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Personnel records"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2014--Introduced.
+Servicemembers Opportunity Act - Amends the Servicemembers Civil Relief Act to allow any appropriate indicator of military service, including a certified letter from a commanding officer or information from the Defense Manpower Database Center, as proof of service for purposes of interest rate limitations provided to servicemembers under such Act.</summary>
+</bill>

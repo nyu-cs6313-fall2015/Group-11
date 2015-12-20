@@ -1,0 +1,599 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H65F82A9C6DE149E09DE408120AFDDD62" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>113 HR 5823 IH: Incentivizing Healthcare Quality Outcomes Act of 2014</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2014-12-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 5823</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20141209">December 9, 2014</action-date>
+			<action-desc><sponsor name-id="M001142">Mr. Matheson</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to create incentives for healthcare providers to
+			 promote quality healthcare outcomes, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H64DFCC551D9C43A7BC95B4CEC86327DD" style="OLC">
+		<section id="H05E667DA830A456FB5EF9122F06265DA" section-type="section-one"><enum>1.</enum><header>Short title; findings</header>
+			<subsection id="H028CD50C0EFB4B279971B95ED766C7F8"><enum>(a)</enum><header>Short title</header><text>This Act may be cited as the <quote><short-title>Incentivizing Healthcare Quality Outcomes Act of 2014</short-title></quote>.</text>
+			</subsection><subsection id="HAB30DB5FD2374E478C20B0D58E4E6AC5"><enum>(b)</enum><header>Findings</header><text>Congress makes the following findings:</text>
+				<paragraph id="H671ED760825142F096C62F7761AF9F45"><enum>(1)</enum><text>Healthcare delivery organizations are faced with an unmanageable array of quality measures and
+			 methods of risk adjustment that are overly process oriented, may not
+			 relate to health outcomes, and create a significant administrative burden.</text>
+				</paragraph><paragraph id="HEE816926EA084A3190B6EA6833BC803A"><enum>(2)</enum><text>Existing quality measures and methods of risk adjustment used to adjust Medicare payments should be
+			 replaced with a comprehensive and clinically credible quality measurement
+			 system based on the rate of occurrence of potentially preventable
+			 outcomes.</text>
+				</paragraph><paragraph id="H105AF7516F744D07A43DF047885C7E0E"><enum>(3)</enum><text>Payment adjustment for quality outcomes should be applied to all types of healthcare delivery
+			 organizations including hospitals, health systems, Medicare Advantage
+			 plans, health homes, and accountable care organizations as well as
+			 healthcare professionals.</text>
+				</paragraph></subsection></section><section id="HCAE0A83BD56840BBB63A8C39ECEE9452"><enum>2.</enum><header>Incentivizing healthcare quality outcomes</header>
+			<subsection id="HDC7BE8F313FA407E901192D547818280"><enum>(a)</enum><header>In general</header><text>Title XVIII of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395">42 U.S.C. 1395 et seq.</external-xref>) is amended by adding at the end the
+			 following new section:</text>
+				<quoted-block id="HF1B69B2F8B7B43FD81390D0735F43CFA" style="traditional">
+					<section id="HE02934CFB90B4C80A7516018CC4FD32A"><enum>1899B.</enum><header>Incentivizing healthcare quality outcomes</header><subsection commented="no" display-inline="yes-display-inline" id="H8C9F5651A51F4B32828D7119AB201962"><enum>(a)</enum><header>Adjustment of payments to health-Care delivery organization for potentially preventable outcomes</header>
+							<paragraph id="HB66A42F10E3D4CB99B810F432DF23097"><enum>(1)</enum><header>In general</header><text>In order to provide an incentive for each applicable healthcare delivery organization (as defined
+			 in subsection (k)) to reduce potentially preventable outcomes, the amount
+			 of payments to the organization under this title for an applicable
+			 prospective period (as defined in such subsection) shall be the amount
+			 otherwise determined multiplied by the healthcare delivery
+			 organization-specific adjustment factor determined under paragraph (2) for
+			 such period.</text>
+							</paragraph><paragraph id="HA0B49B184EAA488E90665B2FD476C09B"><enum>(2)</enum><header>Healthcare delivery organization specific payment adjustment factor</header>
+								<subparagraph id="H32FD929261CC41298A9F881EAF833306"><enum>(A)</enum><header>In general</header><text>For purposes of paragraph (1), subject to subparagraph (B), the healthcare delivery
+			 organization-specific payment adjustment factor described in this
+			 paragraph for an applicable healthcare delivery organization for an
+			 applicable prospective period is equal to 1 minus the ratio (expressed as
+			 a percentage), as determined by the Secretary, of—</text>
+									<clause id="H2DEF3E7518734B81BC730CCB9ECC77EA"><enum>(i)</enum><text>the composite aggregate payments for excess potentially preventable outcomes (described in
+			 subsection (c)(1)) for the organization and period; to</text>
+									</clause><clause id="HD327470D36964C20AFD928BC4937F9F6"><enum>(ii)</enum><text>the aggregate payments under this title to the organization for such period.</text>
+									</clause></subparagraph><subparagraph id="H48BB69055F4F441EA38BF20AB0888D09"><enum>(B)</enum><header>Phase-in of healthcare delivery organization-specific adjustment factor</header><text>In no case shall the healthcare delivery organization-specific payment adjustment factor under
+			 subparagraph (A) be—</text>
+									<clause id="H5A9737285CC14656809959A751EFBAFE"><enum>(i)</enum><text>less than 97 percent or more than 103 percent for fiscal year 2016;</text>
+									</clause><clause id="H2B9FFE801D9147209D4D02500C2648EF"><enum>(ii)</enum><text>be less than 94 percent or more than 106 percent for fiscal year 2017; or</text>
+									</clause><clause id="H0B4E0776354543338316E54AB39AEF63"><enum>(iii)</enum><text>be less than 90 percent or more than 110 percent for fiscal year 2018 and each subsequent fiscal
+			 year.</text>
+									</clause></subparagraph></paragraph></subsection><subsection id="HA6174C233FD646B2AA4C2A34A526180D"><enum>(b)</enum><header>Adjustment to the annual update factor for payments to healthcare professionals in a geographic
+			 region for potentially preventable outcomes</header>
+							<paragraph id="H5E23BD9474B24DE2B797A95A7957DB20"><enum>(1)</enum><header>In general</header><text>In order to provide an incentive for healthcare professionals (that are not part of an applicable
+			 healthcare delivery organization) in a geographic region to coordinate
+			 care and reduce potentially preventable outcomes, the annual update factor
+			 for traditional Medicare fee-for-service payments to all such
+			 professionals in a geographic region established under paragraph (3) for
+			 an applicable prospective period (beginning on or after October 1, 2015)
+			 shall be equal to the annual update factor that would otherwise apply
+			 multiplied by the geographic-specific potentially preventable outcomes
+			 adjustment factor (as described in paragraph (2)) for the geographic
+			 region and period.</text>
+							</paragraph><paragraph id="HA7CEFBFCF2F746E7BE03D7856D39F9DB"><enum>(2)</enum><header>Geographic-specific potentially preventable outcomes adjustment factor</header>
+								<subparagraph id="H7A3C11D9072A446682B05C69A176D74E"><enum>(A)</enum><header>In general</header><text>For purposes of paragraph (1), subject to subparagraph (B), the geographic-specific potentially
+			 preventable outcomes adjustment factor described in this paragraph for a
+			 geographic region for an applicable prospective period is equal to 1 minus
+			 the ratio (expressed as a percentage), as determined by the Secretary, of—</text>
+									<clause id="H1C262214A2AA4BFAB5C0BE4087D3CB53"><enum>(i)</enum><text>the sum of the composite aggregate payments for excess potentially preventable outcomes (described
+			 in subsection (c)(1)) for Medicare beneficiaries enrolled in traditional
+			 Medicare fee-for-service across all applicable healthcare delivery
+			 organizations physically located in the geographic region for the
+			 applicable historical period; to</text>
+									</clause><clause id="H7BFB0E119DE9482D966DD6B3959991D5"><enum>(ii)</enum><text>the aggregate payments for Medicare beneficiaries enrolled in traditional Medicare fee-for-service
+			 across all applicable healthcare delivery organizations physically located
+			 in the geographic region for such applicable historical period.</text>
+									</clause></subparagraph><subparagraph id="H6BDC2876EA6F48AE8ECE031CEB9827F9"><enum>(B)</enum><header>Phase-in</header><text>In no case shall the geographic-specific potentially preventable outcomes adjustment factor for a
+			 geographic region under this paragraph—</text>
+									<clause id="H4CBCF1D35C69427A9D2F1F69C98F2593"><enum>(i)</enum><text>be less than 95 percent or more than 105 percent for fiscal year 2016;</text>
+									</clause><clause id="HFBA7D1526E944C9BADBEAFA3FC314BCB"><enum>(ii)</enum><text>be less than 90 percent or more than 110 percent for fiscal year 2017; or</text>
+									</clause><clause id="HFE497B45B0D4437EBD09D8E402AB4283"><enum>(iii)</enum><text>be less than 80 percent or more than 120 percent for fiscal year 2018 and each subsequent fiscal
+			 year.</text>
+									</clause></subparagraph></paragraph><paragraph id="H415A4310694F45AEBC32CB5E4743F677"><enum>(3)</enum><header>Geographic region</header>
+								<subparagraph id="H053EEF646DE74296BE8F0FF845652652"><enum>(A)</enum><header>In general</header><text>For the purposes of this subsection and subject to subparagraph (B), the Secretary shall establish
+			 geographic regions to which healthcare professionals shall be assigned.</text>
+								</subparagraph><subparagraph id="HD90B47EE1C894032BA1F8E6D8CCC0F88"><enum>(B)</enum><header>Restrictions</header>
+									<clause id="HA8B648BC579545A2BECC3FC44DE4D70F"><enum>(i)</enum><header>Geographic regions</header><text>To the extent practical, the Secretary shall define geographic regions based on core base
+			 statistical areas as defined by the Director of the Office of Management
+			 and Budget.</text>
+									</clause><clause id="HF92362243E5245D4AC261137FF805A22"><enum>(ii)</enum><header>Assignment of healthcare professionals to geographic regions</header><text>The geographic region to which a healthcare professional is assigned shall be the geographic region
+			 in which a plurality of Medicare beneficiaries treated by such
+			 professional for the applicable historical period reside, as determined by
+			 the Secretary.</text>
+									</clause></subparagraph></paragraph><paragraph id="H94D4B5EA1D8F440FA08526FC14A62D1A"><enum>(4)</enum><header>Report on using individual healthcare professional performance</header><text>No later than January 1, 2017, the Secretary shall submit to Congress a report proposing a method
+			 of combining the potentially preventable outcomes performance of
+			 individual healthcare professionals with the geographic-specific
+			 potentially preventable outcomes performance for a geographic region under
+			 paragraph (2) for the purpose of determining the potentially preventable
+			 outcomes adjustment factor under paragraph (1) to the annual adjustment
+			 factor for payments to such individual healthcare professionals.</text>
+							</paragraph></subsection><subsection id="H0A65E21EB32D447FBC33C9A81ADE2FD4"><enum>(c)</enum><header>Composite aggregate payments for excess potentially preventable outcomes</header>
+							<paragraph id="HCFC763E68CBD41B2807BD4466CACC746"><enum>(1)</enum><header>In general</header><text>The composite aggregate payments for excess potentially preventable outcomes for an applicable
+			 healthcare delivery organization or geographic region for an applicable
+			 historical period described in this paragraph is equal to the sum of the
+			 following for the healthcare delivery organization or geographic region
+			 and period:</text>
+								<subparagraph id="HC22482CBE89E42969EB9D82165CAAE0A"><enum>(A)</enum><header>Preventable complications</header><text>The aggregate payments for excess inpatient potentially preventable complications (as defined in
+			 subsection (e)(1)(B)).</text>
+								</subparagraph><subparagraph id="H38D0A44D42A741D185515916F8E14711"><enum>(B)</enum><header>Preventable readmissions</header><text>The aggregate payments for excess potentially preventable readmissions (as defined in subsection
+			 (f)(1)(B)).</text>
+								</subparagraph><subparagraph id="HCAEF31E3EF764302B62E546675B4B7E6"><enum>(C)</enum><header>Preventable admissions</header><text>The aggregate payments for excess potentially preventable admissions computed (as defined in
+			 subsection (g)(1)(B)).</text>
+								</subparagraph><subparagraph id="HD7FE8F26BC6A4C1EA610EA2B86965F80"><enum>(D)</enum><header>Preventable emergency room visits</header><text>The aggregate payments for excess potentially preventable emergency room visits (as defined in
+			 subsection (h)(1)(B)).</text>
+								</subparagraph><subparagraph id="HD1470BB1AC504DE0AE6FBE8037C7A7C3"><enum>(E)</enum><header>Preventable outpatient ancillary services</header><text>The aggregate payments for excess potentially preventable outpatient ancillary services (as defined
+			 in subsection (i)(1)(B)).</text>
+								</subparagraph></paragraph><paragraph id="H9161EB6099B248A8B8E9420532632784"><enum>(2)</enum><header>Offsetting potentially preventable outcome values being positive or negative</header><text>The aggregate payments for individual excess potentially preventable outcomes under subsections
+			 (e)(1)(B), (f)(1)(B), (g)(1)(B), (h)(1)(B), and (i)(1)(B) may have a
+			 positive value (indicating the healthcare delivery organization had more
+			 potentially preventable outcomes than expected) or a negative value
+			 (indicating the healthcare delivery organization had fewer potentially
+			 preventable outcomes than expected). The summing of the individual excess
+			 potentially preventable outcomes in paragraph (1) for potentially
+			 preventable outcomes allows negative values for individual potentially
+			 preventable outcomes to offset in part or in whole positive values of
+			 other potentially preventable outcomes.</text>
+							</paragraph><paragraph id="HB02552835F344AD990331C4D1A8F5555"><enum>(3)</enum><header>Exclusions</header><text>The Secretary shall determine the applicability of each type of potentially preventable outcome to
+			 different types of healthcare delivery organizations and may exclude
+			 potentially preventable outcomes from the calculation of aggregate
+			 payments referred to in paragraph (1) for types of healthcare delivery
+			 organizations if the Secretary determines that such outcomes are not
+			 applicable for such types of organizations.</text>
+							</paragraph></subsection><subsection id="H819261B31F1A4B6D98085EB80B5C1192"><enum>(d)</enum><header>Superseding existing payment adjustments for quality; budget neutral adjustment</header>
+							<paragraph id="H9CF0C91AAD61463DA8A87FAF0681A87B"><enum>(1)</enum><header>In general</header><text>For applicable prospective periods beginning on or after October 1, 2015, no payment adjustment for
+			 quality performance shall be made pursuant any of the following
+			 provisions:</text>
+								<subparagraph id="H67AC0CC75F994C4DBC9606A9F340545C"><enum>(A)</enum><text>Payment adjustments for hospital acquired conditions under section 1886(d)(4)(D), as added by
+			 section 5001(c) of Deficit Reduction Act of 2005.</text>
+								</subparagraph><subparagraph id="HD707AC1B00F54CD588443DF2FBA993AF"><enum>(B)</enum><text>Payment adjustments for value based purchasing for inpatient hospital services under section
+			 1886(o) and for physicians’ services under section 1848(p).</text>
+								</subparagraph><subparagraph id="HC7EAE89587EB474EA12E5F9D19867863"><enum>(C)</enum><text>Payment adjustments for hospital readmissions under section 1886(q), as added by section 3025 of
+			 the Patient Protection and Affordable Care Act.</text>
+								</subparagraph><subparagraph id="H47448B13A9EA4F7D9062B60EA99CFFEA"><enum>(D)</enum><text>Payment adjustments for hospital acquired conditions under section 1886(p), as added by section
+			 3008 of the Patient Protection and Affordable Care Act.</text>
+								</subparagraph><subparagraph id="HF184548817A446DA872ECDE24C64A001"><enum>(E)</enum><text>Payment adjustments for Medicare Advantage Plans under Sections 1853(n) and 1853(o).</text>
+								</subparagraph><subparagraph id="H09C6FE3EE99843429DC82634AD382E6F"><enum>(F)</enum><text>Other payment adjustments for quality as determined by the Secretary.</text>
+								</subparagraph></paragraph><paragraph id="H558624D16679464793F0A973DA8ED11A"><enum>(2)</enum><header>Payment adjustments for reporting quality information unchanged</header><text>Payment adjustments for reporting quality information that are unrelated to actual quality
+			 performance under sections 1833(t)(17), 1848(a), 1848(k), 1848(m) and
+			 1833(i)(2)(D) shall not be affected by this subsection.</text>
+							</paragraph><paragraph id="H9F920A6AAA6D4620841A4C68AA160876"><enum>(3)</enum><header>Mandated reductions under current law</header><text>The Secretary shall determine the annual reductions in payment mandated by the provisions described
+			 in paragraph (1) for fiscal year 2016 and for each subsequent fiscal year.</text>
+							</paragraph><paragraph id="H506E52FADA6A47A1A8C613CD866E2DD7"><enum>(4)</enum><header>Payment reduction factor to achieve budget neutrality</header><text>The Secretary shall determine a payment reduction factor for fiscal year 2016 and for each
+			 subsequent fiscal year, to be applied under subsections (e)(1)(A)(ii),
+			 (f)(1)(A)(ii), (g)(1)(A)(ii), (h)(1)(A)(ii), and (i)(1)(A)(ii), subject to
+			 the limitations in subsections (a)(2)(B) and (b)(2)(B), so that there is
+			 an aggregate payment reduction under this section for such fiscal year
+			 equivalent to the aggregate reduction in payment determined under
+			 paragraph (3) for such fiscal year.</text>
+							</paragraph></subsection><subsection id="H093E99E9F4D04C4E8F22DDA5135231BF"><enum>(e)</enum><header>Aggregate payments for excess inpatient potentially preventable complications</header>
+							<paragraph id="H0A367D55A05E4EAB91E8E96CACE8B89D"><enum>(1)</enum><header>Excess inpatient potentially preventable complications; aggregate payments for excess inpatient
+			 potentially preventable complications defined</header><text>In this section:</text>
+								<subparagraph id="H6B71678EE7FB47DB89B5450C4725417D"><enum>(A)</enum><header>Excess inpatient potentially preventable complications</header>
+									<clause id="HC53EF367957C4EBD8C7E9487AF7AA891"><enum>(i)</enum><header>In general</header><text>The term <term>excess inpatient potentially preventable complications</term> means, for an applicable hospital and other applicable healthcare delivery organizations
+			 determined appropriate by the Secretary for an applicable historical
+			 period for each type of inpatient hospital potentially preventable
+			 complication identified under paragraph (2), the sum across all risk
+			 classes (as defined in clause (iii)) of the difference between—</text>
+										<subclause id="H4BD48EFF4FFB47EC91CF09950F9993BC"><enum>(I)</enum><text>the expected number of inpatient hospital potentially preventable complications for the type of
+			 complication for the applicable hospital based on the standard
+			 complication rate computed under clause (ii) in each risk class; and</text>
+										</subclause><subclause id="HDFBC7B87E4EE49CDA4158E2F926D2824"><enum>(II)</enum><text>the applicable hospital’s actual number of inpatient hospital potentially preventable complications
+			 for the type of inpatient potentially preventable complication in each
+			 risk class in the applicable historical period.</text></subclause><continuation-text continuation-text-level="clause">Such difference may be a positive or negative number.</continuation-text></clause><clause id="H71405A469FF04530B00651CAA1F96604"><enum>(ii)</enum><header>Standard complication rate</header><text>In carrying out clause (i)(I), the standard complication rate shall be based on the average rate of
+			 each type of inpatient hospital potentially preventable complication in
+			 each risk class in the applicable historical period, multiplied by the
+			 payment reduction factor established under subsection (d)(3) for the
+			 applicable prospective period.</text>
+									</clause><clause id="HB17A9DD613384382BE17A615354189FE"><enum>(iii)</enum><header>Risk classes</header><text>In this subparagraph, the term <term>risk classes</term> means such exhaustive and mutually exclusive risk classes as the Secretary shall establish in
+			 order to apply a risk-adjustment methodology that meets the criteria in
+			 subsection (j)(2) and account for the age, reason for admission, severity
+			 of illness, and other risk factors identified by the Secretary of patients
+			 at the time of hospital admission.</text>
+									</clause></subparagraph><subparagraph id="H4355EFDC8F204DA483DE146CD3F9C1DF"><enum>(B)</enum><header>Aggregate payments for excess inpatient hospital potentially preventable complications</header>
+									<clause id="HCDE46F275FF44D8B935A0FE91ED95E0A"><enum>(i)</enum><header>In general</header><text>The term <term>aggregate payments for excess inpatient hospital potentially preventable complications</term> means, for an applicable hospital and other applicable healthcare delivery organizations
+			 determined appropriate by the Secretary and applicable historical period,
+			 for all types of inpatient hospital potentially preventable complications
+			 identified under paragraph (2), an amount equal to the sum of the amount
+			 determined under clause (ii) for such hospital and other applicable
+			 healthcare delivery organizations determined appropriate by the Secretary
+			 for each type of inpatient hospital potentially preventable complication
+			 for such period.</text>
+									</clause><clause id="HD4F02484E9EA404EA2E5A72023707987"><enum>(ii)</enum><header>Amount determined</header><text>The amount determined under this clause, with respect to an applicable hospital and other
+			 applicable healthcare delivery organizations determined appropriate by the
+			 Secretary and an applicable historical period, for a type of inpatient
+			 hospital potentially preventable complication identified under paragraph
+			 (2) is equal to the product of—</text>
+										<subclause id="H71FAAF2B82B3405FB85D79BE3B9E776C"><enum>(I)</enum><text>the excess inpatient hospital potentially preventable complications (as defined in subparagraph
+			 (A)) of the applicable hospital and other applicable healthcare delivery
+			 organizations determined appropriate by the Secretary for the type of
+			 inpatient hospital potentially preventable complication during the
+			 applicable historical period; and</text>
+										</subclause><subclause id="H564F1034F1C94992A488DFEC13C9C11D"><enum>(II)</enum><text>the estimated national average standardized incremental cost of that inpatient hospital potentially
+			 preventable complication for applicable hospitals and other applicable
+			 healthcare delivery organizations determined appropriate by the Secretary
+			 during the applicable historical period (as determined under clause (iii))
+			 adjusted by each hospital’s applicable payment adjustment factors.</text>
+										</subclause></clause><clause id="H6E9719F4CA0D45A4B827D1298D5B4CA2"><enum>(iii)</enum><header>Methodology for estimating national average incremental cost of inpatient hospital potentially
+			 preventable complications</header><text>In carrying out clause (ii)(II), the Secretary shall establish and apply a methodology to estimate
+			 the national average standardized incremental cost of each inpatient
+			 hospital potentially preventable complication identified under paragraph
+			 (2).</text>
+									</clause></subparagraph></paragraph><paragraph id="H035C863A040F46969EF1BD22C61A7BEC"><enum>(2)</enum><header>Inpatient hospital potentially preventable complications</header><text>For purposes of this subsection, the Secretary shall select a methodology of identifying
+			 potentially preventable complications that includes each inpatient
+			 hospital complication that meets all of the following requirements:</text>
+								<subparagraph id="H63F5C283FAD544F58924E6DA0B05C25D"><enum>(A)</enum><text>The complication occurs during the stay and was not present on admission as an inpatient.</text>
+								</subparagraph><subparagraph id="H5807C4FD66814FDD81801CD19BDAF9B8"><enum>(B)</enum><text>The complication is a harmful event, such as a surgical complication, or an acute illness, such as
+			 an infection or an acute exacerbation of underlying chronic disease.</text>
+								</subparagraph><subparagraph id="H5ABA2900DE424F04AAC668674C859D01"><enum>(C)</enum><text>The complication could reasonably be prevented with adequate care and treatment and is not a
+			 natural progression of a patient’s underlying illnesses present on
+			 admission.</text>
+								</subparagraph><subparagraph id="H155127A751334E7D81C96A09F4B3DD0D"><enum>(D)</enum><text>The complication may be reasonably construed as related to the care rendered during the stay.</text>
+								</subparagraph><subparagraph id="HEE87F0D5A5B94A3E949D6A44BCC24830"><enum>(E)</enum><text>The complication meets criteria applicable under subsection (j)(1) to the outcome described in this
+			 subsection.</text>
+								</subparagraph></paragraph></subsection><subsection id="H2A78A25C5E76426BAE5D0E3902F19DE3"><enum>(f)</enum><header>Aggregate payments for excess potentially preventable readmissions</header>
+							<paragraph id="H87C9D769A26B43BA858B69C7E7D98E80"><enum>(1)</enum><header>Excess potentially preventable readmissions; aggregate payments for excess potentially preventable
+			 readmissions defined</header><text>For purposes of this subsection:</text>
+								<subparagraph id="HBF9F93A6B8F2495F94934594AA873777"><enum>(A)</enum><header>Excess potentially preventable readmissions</header>
+									<clause id="H3E40DE7C22714E49B88EC81CCBC009D1"><enum>(i)</enum><header>In general</header><text>The term <term>excess potentially preventable readmissions</term> means, for an applicable hospital or other applicable healthcare delivery organization determined
+			 appropriate by the Secretary for an applicable historical period and with
+			 respect to potentially preventable readmissions identified under paragraph
+			 (2) for each risk class (as defined in clause (iii)) the difference
+			 between—</text>
+										<subclause id="HA21EEF951F104CC4A5E8B228C3B9AC7A"><enum>(I)</enum><text>the expected number of potentially preventable readmissions for the applicable hospital based on
+			 the standard readmission rate in each risk class (as defined in clause
+			 (ii)); and</text>
+										</subclause><subclause id="H5BF2FB1165324ED2BE31DC5079965E7B"><enum>(II)</enum><text>the applicable hospital’s actual number of potentially preventable readmissions in each risk class
+			 for the applicable historical period.</text></subclause><continuation-text continuation-text-level="clause">Such difference may be a positive or negative number.</continuation-text></clause><clause id="H1D0F6C3F8528444D8AD48B3B1F9B9F39"><enum>(ii)</enum><header>Standard readmission rate</header><text>In carrying out clause (i)(I), the standard readmission rate shall be based on the average
+			 potentially preventable readmission rate in each risk class, as
+			 established under clause (iii), in the applicable historical period,
+			 multiplied by the payment reduction factor established under subsection
+			 (d)(3) for the applicable prospective period.</text>
+									</clause><clause id="HC66D013EE01A4D00AB9C553902D0ED15"><enum>(iii)</enum><header>Risk adjustment</header><text>In this subparagraph, the term <term>risk classes</term> means such exhaustive and mutually exclusive risk classes as the Secretary shall establish in
+			 order to apply a risk-adjustment methodology that meets the criteria in
+			 subsection (j)(2) and account for the age, reason for admission, severity
+			 of illness, and other risk factors identified by the Secretary of patients
+			 that were present in patients at the time of hospital discharge from the
+			 hospital admission that preceded their readmission.</text>
+									</clause></subparagraph><subparagraph id="H68D652A6403D4568A299A0FF578B102C"><enum>(B)</enum><header>Aggregate payments for excess potentially preventable readmissions</header>
+									<clause id="H832D5B4B4684445FBE970C7D580FE671"><enum>(i)</enum><header>In general</header><text>The term <term>aggregate payments for excess potentially preventable readmissions</term> means, for an applicable historical period, for all potentially preventable readmissions
+			 identified under paragraph (2), an amount equal to the amount determined
+			 under clause (ii).</text>
+									</clause><clause id="HFB5C158821F949DD9FDAF8A6EC4EB34E"><enum>(ii)</enum><header>Amount determined</header><text>The amount determined under this clause, with respect to an applicable hospital and other
+			 applicable healthcare delivery organizations determined appropriate by the
+			 Secretary and an applicable historical period, is equal to the sum across
+			 all risk classes of the product of—</text>
+										<subclause id="H7C6DA254170042D39B9C30DA5EAA6192"><enum>(I)</enum><text>the excess potentially preventable readmissions in the risk class for the applicable hospital and
+			 other applicable healthcare delivery organizations determined appropriate
+			 by the Secretary for the applicable historical period; and</text>
+										</subclause><subclause id="H141D55EC45BB4CD2B36D2D72EB3DE8C8"><enum>(II)</enum><text>the average payment for potentially preventable readmissions (as defined in clause (iii)) in the
+			 risk class for applicable hospitals and other applicable healthcare
+			 delivery organizations determined appropriate by the Secretary for the
+			 applicable historical period.</text>
+										</subclause></clause><clause id="H72742C92886246CA8A9F11BAA72871BA"><enum>(iii)</enum><header>Average payment for potentially preventable readmissions</header><text>In clause (ii)(II), the term <term>average payment for potentially preventable readmissions for a risk class</term> means, for applicable hospitals and other applicable healthcare delivery organizations determined
+			 appropriate by the Secretary for an applicable historical period, the
+			 average payment for all potentially preventable readmissions that follow a
+			 prior discharge in that risk class.</text>
+									</clause></subparagraph></paragraph><paragraph id="H5FD84FD99BE543839F2A64629870DFDA"><enum>(2)</enum><header>Potentially preventable readmissions</header><text>For purposes of this subsection, the Secretary shall select a methodology of identifying
+			 potentially preventable readmissions under paragraph (1) that includes
+			 each readmission that meets all of the following requirements:</text>
+								<subparagraph id="H7EB7F08017D8447091D75EB656BABAAE"><enum>(A)</enum><text>The readmission is within 30 days from the date of the initial discharge and could reasonably have
+			 been prevented by—</text>
+									<clause id="HA19414D4F6B84F8BB788762649FAF8F5"><enum>(i)</enum><text>the provision of appropriate care consistent with accepted standards in the prior discharge;</text>
+									</clause><clause id="H7E7E395C5CC44065854EA0218782EFC5"><enum>(ii)</enum><text>adequate discharge planning;</text>
+									</clause><clause id="HFB6A5FE81DEF4B3198F1C16C104404D3"><enum>(iii)</enum><text>adequate post-discharge followup; or</text>
+									</clause><clause id="H090FB96A09BE463BBE042F3E3650D11C"><enum>(iv)</enum><text>improved coordination between the inpatient and outpatient healthcare teams.</text>
+									</clause></subparagraph><subparagraph id="H3C1F2DB3D75F4469B940160B289E3FAB"><enum>(B)</enum><text>The readmission is for a condition or procedure related to the care during the prior admission or
+			 during the care immediately following the prior discharge, including—</text>
+									<clause id="H5E33E1DD14794D2F9347920B3A73463E"><enum>(i)</enum><text>a readmission for the same or closely related condition or procedure as the prior discharge;</text>
+									</clause><clause id="H970500FFC9654E0291713824BF19BD79"><enum>(ii)</enum><text>a readmission for an infection or other complication of care;</text>
+									</clause><clause id="HD6DA0CFC09DB4755A25546D3FBF5FE99"><enum>(iii)</enum><text>a readmission for a condition or procedure indicative of a failed surgical intervention; and</text>
+									</clause><clause id="H5FA20456A8284F4A940738DA1F6E0B2A"><enum>(iv)</enum><text>a readmission for an acute decompensation of a coexisting chronic disease.</text>
+									</clause></subparagraph><subparagraph id="H8DB64711577E40BCB2E1C35C64BD5F0E"><enum>(C)</enum><text>The readmission is back to the same hospital or to any other hospital.</text>
+								</subparagraph><subparagraph id="H0800DFB1999D40E2BD3CF7FE1866ED98"><enum>(D)</enum><text>The readmission does not occur under any of the following circumstances:</text>
+									<clause id="H6B8B3B3C9E834662B31521B26F7DACCC"><enum>(i)</enum><text>The original discharge was a patient-initiated discharge and was against medical advice and the
+			 circumstances of such discharge and readmission are documented in the
+			 patient’s medical record.</text>
+									</clause><clause id="H21AF6715847A4AE3A68A658AEE1294B0"><enum>(ii)</enum><text>The readmission was a planned readmission.</text>
+									</clause><clause id="H97DB596FE2654794839159F97E463FF7"><enum>(iii)</enum><text>Such other exclusion as the Secretary determines appropriate.</text>
+									</clause></subparagraph><subparagraph id="H875ECF43B9504E468C24D6FB2DFFEFD1"><enum>(E)</enum><text>The readmission meets criteria applicable under subsection (j)(1) to the outcome described in this
+			 subsection.</text>
+								</subparagraph></paragraph></subsection><subsection id="HB0EDCEF03F254F5287F375168BC41036"><enum>(g)</enum><header>Aggregate payments for excess potentially preventable admissions</header>
+							<paragraph id="HF3DCE60B188E4CF39205F03645719669"><enum>(1)</enum><header>Excess potentially preventable admissions; aggregate payments for excess potentially preventable
+			 admissions defined</header><text>In this subsection:</text>
+								<subparagraph id="HC47FA71EDE1E495191BEBF4BE0DEF41A"><enum>(A)</enum><header>Excess potentially preventable admissions</header>
+									<clause id="H1241F5C2D8C449CA868275E943EECF9E"><enum>(i)</enum><header>In general</header><text>The term <term>excess potentially preventable admissions</term> means, for an applicable healthcare delivery organization for an applicable historical period and
+			 with respect to potentially preventable admissions identified under
+			 paragraph (2), for each risk class (as defined in clause (iii)) the
+			 difference between—</text>
+										<subclause id="H8BFCC76ECFC04BDB8692D2E1D01D74A2"><enum>(I)</enum><text>the expected number of beneficiaries with one or more potentially preventable admissions for the
+			 applicable healthcare delivery organization based on the standard
+			 potentially preventable admission rate for beneficiaries in each risk
+			 class; and</text>
+										</subclause><subclause id="H0FBF45F278D742E89D0D5F6D71A6F0CE"><enum>(II)</enum><text>the applicable healthcare delivery organization’s actual number of beneficiaries with one or more
+			 potentially preventable admissions in each risk class for the applicable
+			 historical period for beneficiaries assigned to the risk class.</text></subclause><continuation-text continuation-text-level="clause">Such difference may be a positive or negative number.</continuation-text></clause><clause id="HFE980CD9C6FE495483606C6D923EC01B"><enum>(ii)</enum><header>Standard potentially preventable admission rate</header><text>In carrying out clause (i)(I), the standard potentially preventable admission rate shall be based
+			 on the average number of beneficiaries with one or more potentially
+			 preventable admissions in each risk class, as defined in clause (iii), in
+			 the applicable historical period, multiplied by the payment reduction
+			 factor established under subsection (d)(3) for the applicable prospective
+			 period.</text>
+									</clause><clause id="HC0FF4B4617914ACE8C4C6FC19606A96C"><enum>(iii)</enum><header>Risk adjustment</header><text>In this subparagraph, the term <term>risk classes</term> means such exhaustive and mutually exclusive risk classes as the Secretary shall establish in
+			 order to apply a risk-adjustment methodology that meets the criteria in
+			 subsection (j)(2) and account for the age, reason for admission, severity
+			 of illness, and other risk factors identified by the Secretary. The risk
+			 class for a beneficiary shall be assigned under this subparagraph based on
+			 the beneficiary’s chronic illness burden and history of healthcare
+			 services for a time period of not less than 6 months preceding the
+			 beginning of the applicable historical period.</text>
+									</clause></subparagraph><subparagraph id="HBB440C6010BA4FBDA44287AA51196B39"><enum>(B)</enum><header>Aggregate payments for excess potentially preventable admissions</header>
+									<clause id="H1B5E066ED6544C74BC5086C5AAD7A341"><enum>(i)</enum><header>In general</header><text>The term <term>aggregate payments for excess potentially preventable admissions</term> means, for an applicable historical period, for potentially preventable admissions identified
+			 under paragraph (2), an amount equal to the amount determined under clause
+			 (ii).</text>
+									</clause><clause id="H0B65AF75413A439D83A4B339C0622DC4"><enum>(ii)</enum><header>Amount determined</header><text>The amount determined under this clause, with respect to an applicable healthcare delivery
+			 organization and an applicable historical period, for all beneficiaries
+			 with one or more potentially preventable admissions identified under
+			 paragraph (2) is equal to the sum across all risk classes of the product
+			 of—</text>
+										<subclause id="H92D922DF65374B43BE879775D81591B6"><enum>(I)</enum><text>the excess potentially preventable admissions (as defined in subparagraph (A)) in the risk class
+			 for the applicable healthcare delivery organization during the applicable
+			 historical period; and</text>
+										</subclause><subclause id="H8F70318B69EB4AB48E314CBCEC3FDA6D"><enum>(II)</enum><text>the average payment per beneficiary of all potentially preventable admissions for beneficiaries in
+			 the risk class (as determined under clause (iii)) for applicable
+			 healthcare delivery organizations during the applicable historical period.</text>
+										</subclause></clause><clause id="HE084DF0BF7374CB99BF7CC520B2607B8"><enum>(iii)</enum><header>Average payment per beneficiary of all potentially preventable admissions</header><text>The term <term>average payment per beneficiary of all potentially preventable admissions</term> for a risk class means, for applicable healthcare delivery organizations for an applicable
+			 historical period, the average payment per beneficiary for all potentially
+			 preventable admissions in the risk class.</text>
+									</clause></subparagraph></paragraph><paragraph id="H484AFF57430C4FCF835A6BFF10D64AE4"><enum>(2)</enum><header>Potentially preventable admissions</header><text>For purposes of this subsection, the Secretary shall select a methodology of identifying
+			 potentially preventable admissions under paragraph (1) that includes each
+			 admission that meets all of the following requirements:</text>
+								<subparagraph id="H3A0B604BA3FB4721B4AFA6267470AE72"><enum>(A)</enum><text>The admission could reasonably have been prevented with adequate access to ambulatory care or
+			 coordinated healthcare services.</text>
+								</subparagraph><subparagraph id="H2A222142018F4FCA9C5726235C236EB3"><enum>(B)</enum><text>The services provided as part of the admission could be safely performed in an outpatient facility.</text>
+								</subparagraph><subparagraph id="HC305040966C44B4CA2961E0B9675363B"><enum>(C)</enum><text>The admission is not of a beneficiary with extensive comorbid disease or high severity of illness
+			 that may necessitate that care be delivered in a hospital setting.</text>
+								</subparagraph><subparagraph id="HF324663CFE024068BE984E1AA50DFA75"><enum>(D)</enum><text>The admission meets criteria applicable under subsection (j)(1) to the outcome described in this
+			 subsection.</text>
+								</subparagraph></paragraph></subsection><subsection id="HFA9355DC18C245BAAEE82F5477239709"><enum>(h)</enum><header>Aggregate payments for excess potentially preventable emergency room visits</header>
+							<paragraph id="H259F51ECDA4E4796ACA274625F3546E6"><enum>(1)</enum><header>Excess potentially preventable emergency room visits; aggregate payments for excess potentially
+			 preventable emergency room visits defined</header><text>In this subsection:</text>
+								<subparagraph id="H781F4CE7D6ED446CBCF67DB416F19885"><enum>(A)</enum><header>Excess potentially preventable emergency room visits</header>
+									<clause id="HC714A237799E4B4D9547927F12A4487C"><enum>(i)</enum><header>In general</header><text>The term <term>excess potentially preventable emergency room visits</term> means, for an applicable healthcare delivery organization for an applicable historical period and
+			 with respect to potentially preventable emergency room visits identified
+			 under paragraph (2), for each risk class (as defined in clause (iii)) the
+			 difference between—</text>
+										<subclause id="H196B6F75D01B45248B869FE8AA51CBC9"><enum>(I)</enum><text>the expected number of beneficiaries with one or more potentially preventable emergency room visits
+			 for the applicable healthcare delivery organization based on the standard
+			 potentially preventable emergency room visit rate for beneficiaries in
+			 each risk class (as defined in clause (ii)); and</text>
+										</subclause><subclause id="H44556A1207464034BD972DCAD44A5E70"><enum>(II)</enum><text>the applicable healthcare delivery organization’s actual number of beneficiaries with one or more
+			 potentially preventable emergency room visits for the applicable
+			 historical period for beneficiaries assigned to the risk class.</text></subclause><continuation-text continuation-text-level="clause">Such difference may be a positive or negative number.</continuation-text></clause><clause id="H2813D12705D647578994C9F840D12F6E"><enum>(ii)</enum><header>Standard potentially preventable emergency room visit rate</header><text>In carrying out clause (i)(I), the standard potentially preventable emergency room visit rate shall
+			 be based on the average number of beneficiaries with one or more
+			 potentially preventable emergency room visits in each risk class, as
+			 defined in clause (iii) in the applicable historical period, multiplied by
+			 the payment reduction factor established under subsection (d)(3) for the
+			 applicable prospective period.</text>
+									</clause><clause id="HF165EB05D22042BFB9AC69A765848409"><enum>(iii)</enum><header>Risk adjustment</header><text>In this subparagraph, the term <term>risk classes</term> means such exhaustive and mutually exclusive risk classes as the Secretary shall establish in
+			 order to apply a risk-adjustment methodology that meets the criteria in
+			 subsection (j)(2) and account for the age, reason for admission, severity
+			 of illness, and other risk factors identified by the Secretary. The risk
+			 class for a beneficiary shall be assigned based on the beneficiary’s
+			 chronic illness burden and history of healthcare services for a time
+			 period of not less than 6 months preceding the beginning of the applicable
+			 historical period.</text>
+									</clause></subparagraph><subparagraph id="HB114B721FAB94406AAC7628D2DCB934F"><enum>(B)</enum><header>Aggregate payments for excess potentially preventable emergency room visits</header>
+									<clause id="H688CFF74EBCF4ED8BF0C0F8CED0BCA28"><enum>(i)</enum><header>In general</header><text>The term <term>aggregate payments for excess potentially preventable emergency room visits</term> means, for an applicable historical period, for potentially preventable emergency room visits
+			 identified under paragraph (2), an amount equal to the amount determined
+			 under clause (ii).</text>
+									</clause><clause id="H8220F50E0A664CC7A13F69A50C479E59"><enum>(ii)</enum><header>Amount determined</header><text>The amount determined under this clause, with respect to an applicable healthcare delivery
+			 organization and an applicable historical period, for all beneficiaries
+			 with one or more potentially preventable emergency room visits identified
+			 under paragraph (2) is equal to the sum across all risk classes of the
+			 product of—</text>
+										<subclause id="H9DD0B51B8665418F93A6415A3368597B"><enum>(I)</enum><text>the excess potentially preventable emergency room visits (as defined in subparagraph (A)) in the
+			 risk class for the applicable healthcare delivery organization during the
+			 applicable historical period; and</text>
+										</subclause><subclause id="HA2C52CC05C4142BBA8FBB29BCC9D0631"><enum>(II)</enum><text>the average payment per beneficiary of all potentially preventable emergency room visits for
+			 beneficiaries in the risk class (as determined under clause (iii)) for
+			 applicable healthcare delivery organizations during the applicable
+			 historical period.</text>
+										</subclause></clause><clause id="HFB21204BBC5D4C87B221890E5578DDC8"><enum>(iii)</enum><header>Average payment per beneficiary of all potentially preventable emergency room visits</header><text>The term <term>average payment per beneficiary of all potentially preventable emergency room visits</term> means, for applicable healthcare delivery organizations for an applicable historical period for a
+			 risk class, the average payment per beneficiary for all potentially
+			 preventable emergency room visits in the risk class.</text>
+									</clause></subparagraph></paragraph><paragraph id="HECB8F519CF4749B4B0B00DF6F7E9C2F8"><enum>(2)</enum><header>Potentially preventable emergency room visits</header><text>For purposes of this subsection, the Secretary shall select a methodology of identifying
+			 potentially preventable emergency room visits under paragraph (1) that
+			 includes each such visit that meets all of the following requirements:</text>
+								<subparagraph id="H7335BAB0C71D4AA69D5C9FD1458022AE"><enum>(A)</enum><text>The visit did not require emergency medical attention because the condition could be treated or
+			 prevented by a physician or other healthcare provider in a nonemergency
+			 setting.</text>
+								</subparagraph><subparagraph id="H117390566959427E961B42D30D27758D"><enum>(B)</enum><text>The beneficiary involved does not have an extensive comorbid disease or high severity of illness
+			 that may necessitate that care be delivered in an emergency room setting.</text>
+								</subparagraph><subparagraph id="H27364D59AD424A71B5D983E7ACA2D1BE"><enum>(C)</enum><text>The visit meets criteria applicable under subsection (j)(1) to the outcome described in this
+			 subsection.</text>
+								</subparagraph></paragraph></subsection><subsection id="H0018264EEAEA466EAD72D811D920F465"><enum>(i)</enum><header>Aggregate payments for excess potentially preventable outpatient procedures and tests</header>
+							<paragraph id="H6E3FB73255524CC983B2A61F5FF8A7F0"><enum>(1)</enum><header>Excess potentially preventable outpatient procedures and tests; aggregate payments for excess
+			 potentially preventable outpatient procedures and tests defined</header><text>In this subsection:</text>
+								<subparagraph id="HA394DB6A560F4B3CA31A25ED951CD317"><enum>(A)</enum><header>Excess potentially preventable outpatient procedures and tests</header>
+									<clause id="H2E469F689C9A45859CA6708E2EB2D07B"><enum>(i)</enum><header>In general</header><text>The term <term>excess potentially preventable outpatient procedures and tests</term> means, for an applicable healthcare delivery organization for an applicable historical period and
+			 with respect to potentially preventable outpatient procedures and tests
+			 identified under paragraph (2), for each risk class (as defined in clause
+			 (iii)) the difference between—</text>
+										<subclause id="H0D38C7DA3E0E415A8D30E6E813922908"><enum>(I)</enum><text>the expected number of beneficiaries with one or more potentially preventable outpatient procedures
+			 and tests for the applicable healthcare delivery organization based on the
+			 standard potentially preventable rate of potentially preventable
+			 outpatient procedures and tests for beneficiaries in each risk class (as
+			 defined in clause (ii)); and</text>
+										</subclause><subclause id="H7F65BC6229C8471D90D2249BCACFCEAF"><enum>(II)</enum><text>the applicable healthcare delivery organization’s actual number of beneficiaries with one or more
+			 potentially preventable outpatient procedures and tests in each risk class
+			 for the applicable historical period for beneficiaries assigned to the
+			 risk class.</text></subclause><continuation-text continuation-text-level="clause">Such difference may be a positive or negative number.</continuation-text></clause><clause id="HB6A74FA0C8EA471FAAB983582666B9B3"><enum>(ii)</enum><header>Standard potentially preventable rate of outpatient procedures and tests</header><text>In carrying out clause (i)(I), the standard potentially preventable rate of outpatient procedures
+			 and tests shall be based on the average number of beneficiaries with one
+			 or more potentially preventable outpatient procedures and tests in each
+			 risk class, as defined in clause (iii) in the applicable historical
+			 period, multiplied by the payment reduction factor established under
+			 subsection (d)(3) for the applicable prospective period.</text>
+									</clause><clause id="HA642F7A43E694A6E9B7E2C26FFAFBF39"><enum>(iii)</enum><header>Risk adjustment</header><text>In this subparagraph, the term <term>risk classes</term> means such exhaustive and mutually exclusive risk classes as the Secretary shall establish in
+			 order to apply a risk-adjustment methodology that meets the criteria in
+			 subsection (j)(2) and account for the age, reason for admission, severity
+			 of illness, and other risk factors identified by the Secretary. The risk
+			 class for a beneficiary shall be assigned based on the beneficiary’s
+			 chronic illness burden and history of healthcare services for a time
+			 period of not less than 6 months preceding the beginning of the applicable
+			 historical period.</text>
+									</clause></subparagraph><subparagraph id="HB87BEA5AA0454258B1831C2B130366A1"><enum>(B)</enum><header>Aggregate payments for excess potentially preventable outpatient procedures and tests</header>
+									<clause id="HA8B384DDA9804A209721408D14D0D319"><enum>(i)</enum><header>In general</header><text>The term <term>aggregate payments for excess potentially preventable outpatient procedures and tests</term> means, for an applicable historical period, for all beneficiaries with one or more potentially
+			 preventable outpatient procedures and tests identified under paragraph
+			 (2), an amount equal to the amount determined under clause (ii).</text>
+									</clause><clause id="HBFAB381B7A9146F29EAD19A7E734E369"><enum>(ii)</enum><header>Amount determined</header><text>The amount determined under this clause, with respect to an applicable healthcare delivery
+			 organization and an applicable historical period, for potentially
+			 preventable outpatient procedures and tests identified under paragraph (2)
+			 is equal to the sum across all risk classes of the product of—</text>
+										<subclause id="H901E08DE3EBC4D6FA214434C72B44F85"><enum>(I)</enum><text>the excess potentially preventable outpatient procedures and tests (as defined in subparagraph (A))
+			 for the risk class for the applicable healthcare delivery organization
+			 during the applicable historical period; and</text>
+										</subclause><subclause id="H7241BEAD76CE4559AF39A2024F7B800D"><enum>(II)</enum><text>the average payment per beneficiary of all potentially preventable outpatient procedures and tests
+			 for beneficiaries in the risk class (as determined under clause (iii)) for
+			 applicable healthcare delivery organizations during the applicable
+			 historical period.</text>
+										</subclause></clause><clause id="H27C91FB84A4347678939929A47BE7254"><enum>(iii)</enum><header>Average payment per beneficiary of all potentially preventable outpatient procedures and tests</header><text>The term <term>average payment per beneficiary of all potentially preventable outpatient procedures and tests</term> for a risk class means, for applicable healthcare delivery organizations for an applicable
+			 historical period, the average payment per beneficiary of all potentially
+			 preventable outpatient procedures and tests in the risk class.</text>
+									</clause></subparagraph></paragraph><paragraph id="H0D9BFCF123E046A19A9E209AE50EB370"><enum>(2)</enum><header>Potentially preventable outpatient procedures and tests</header><text>For purposes of this subsection, the Secretary shall select a methodology of identifying
+			 potentially preventable outpatient procedures and tests that includes each
+			 procedure or test that meets all of the following requirements:</text>
+								<subparagraph id="H5912489682454637B9DE4939EF2D5236"><enum>(A)</enum><text>The procedure or test is provided or ordered by a physician or other healthcare provider to
+			 supplement or support the evaluation or treatment of a beneficiary
+			 including a procedure, diagnostic test, laboratory test, therapy service,
+			 or radiology service.</text>
+								</subparagraph><subparagraph id="HC200DC942C17434C8589E48F68A1BA02"><enum>(B)</enum><text>The procedure or test may be overused in the provision healthcare or treatment.</text>
+								</subparagraph><subparagraph id="H645BFD77462B4DF48A1D22547558B394"><enum>(C)</enum><text>The procedure or test is not for a beneficiary with extensive comorbid disease or high severity of
+			 illness that may necessitate frequent monitoring with outpatient
+			 procedures and tests.</text>
+								</subparagraph><subparagraph id="H7450D7E5AFFA4B2CA9FF941EED2FCEFA"><enum>(D)</enum><text>The procedure or test meets criteria applicable under subsection (j)(1) to the outcome described in
+			 this subsection.</text>
+								</subparagraph></paragraph></subsection><subsection id="HEFFFDDC51665499491B85948DDB6B9C9"><enum>(j)</enum><header>Selection of methods for identifying potentially preventable outcomes and method of risk adjustment</header>
+							<paragraph id="HC3AA724E88C44D09B5635EB88142FBEF"><enum>(1)</enum><header>Selection criteria for method for identifying potentially preventable outcomes</header><text>The Secretary shall select a methodology of identifying each of the potentially preventable
+			 outcomes. For each type of potentially preventable outcome the methodology
+			 selected shall meet the following criteria:</text>
+								<subparagraph id="H04509CA7C8E242848A81C676A7169135"><enum>(A)</enum><text>Be comprehensive with a uniform structure.</text>
+								</subparagraph><subparagraph id="HDA7E3FBD1084443CB0BF914BAE65C6F6"><enum>(B)</enum><text>Have available a method of risk adjustment that meets the criteria in paragraph (2).</text>
+								</subparagraph><subparagraph id="H71D30723F7C64EAE892827578DBB72BE"><enum>(C)</enum><text>Be clinically meaningful having exclusions for beneficiaries for whom the outcome is not
+			 potentially preventable including those beneficiaries with extensive
+			 comorbid disease or high severity of illness.</text>
+								</subparagraph><subparagraph id="H78BF1C9B2D7C424A89D7931D8C60DFE7"><enum>(D)</enum><text>To the extent possible have been successfully implemented in the payment organization of a State
+			 Medicaid program or a major payer or be certified by an entity with a
+			 contract under section 1890(a).</text>
+								</subparagraph><subparagraph id="H4521F0C6AD04429AA2D70A411E7F18DA"><enum>(E)</enum><text>Be open, transparent, and available for review and comment.</text>
+								</subparagraph><subparagraph id="H102B3534CB1E4388A7601A4BC0897A37"><enum>(F)</enum><text>To the extent possible, be in the public domain.</text>
+								</subparagraph><subparagraph id="HF3B7A5731EE44ED690100E96DC7FD4D7"><enum>(G)</enum><text>If commercially available methods are the only viable methods that meet the criteria in
+			 subparagraphs (A), (B), (C), and (D), the Secretary may select such
+			 commercial methods as long as such methods meet the criteria in
+			 subparagraph (E).</text>
+								</subparagraph></paragraph><paragraph id="H4772F397082B4D05BA55397ECC61425D"><enum>(2)</enum><header>Selection criteria for method of risk adjustment</header><text>The Secretary shall select a methodology for risk adjusting the rate of each of the potentially
+			 preventable outcomes. For each type of potentially preventable outcome,
+			 the methodology for risk adjustment shall meet the following criteria:</text>
+								<subparagraph id="H4E2AA171F52A424CAB3CB04F0CF71B7B"><enum>(A)</enum><text>The methodology is comprehensive with a uniform structure.</text>
+								</subparagraph><subparagraph id="H0545CBE9E162467281CD38A407359D41"><enum>(B)</enum><text>The methodology is clinically meaningful and explicitly recognize severity of illness, chronic
+			 illness burden, and patients with extensive comorbid disease or high
+			 severity of illness.</text>
+								</subparagraph><subparagraph id="H654C804E559344CE8BC03D6CA2BFB741"><enum>(C)</enum><text>To the extent possible, the methodology has been successfully implemented in payment under a State
+			 Medicaid program or by a major payer or is certified by an entity with a
+			 contract under section 1890(a).</text>
+								</subparagraph><subparagraph id="H083100A3DD9948F5A783C43E02DE3053"><enum>(D)</enum><text>The methodology is open and transparent and available for review and comment.</text>
+								</subparagraph><subparagraph id="H68DC1D1B919F468F9B1D8E7780D17BC7"><enum>(E)</enum><text>To the extent possible, the methodology is in the public domain.</text>
+								</subparagraph><subparagraph id="H91345294711442879DB6618E6665EFF8"><enum>(F)</enum><text>If commercially available methods are the only viable methods that meet the criteria in
+			 subparagraphs (A), (B), and (C), the Secretary may select such commercial
+			 methods as long as such methods meet the criteria in subparagraph (D).</text>
+								</subparagraph></paragraph></subsection><subsection id="H059EDD8F42E948A8A72300079D0CD643"><enum>(k)</enum><header>Definitions</header><text>In this section:</text>
+							<paragraph id="HF4737D50CAD341658073427BF95EE85C"><enum>(1)</enum><header>Applicable healthcare delivery organization</header><text>The term <term>applicable healthcare delivery organization</term> means a Medicare Advantage Plan receiving payments under part C, health home, accountable care
+			 organization, applicable hospital (as defined in subparagraph (C)),
+			 ambulatory surgery center, federally qualified health center, or other
+			 healthcare delivery organization identified by the Secretary.</text>
+							</paragraph><paragraph id="HC0C3CEB3774D4CBB9A56526147D90EF4"><enum>(2)</enum><header>Applicable historical period</header><text>The term <term>applicable historical period</term> means, with respect to an applicable healthcare delivery organization for a fiscal year, the most
+			 recent 2-year period for which data from the organization are available
+			 for purposes of this section.</text>
+							</paragraph><paragraph id="H519251AEDC694F2792C1A4E6DC1BAC9A"><enum>(3)</enum><header>Applicable hospital</header><text>The term <term>applicable hospitals</term> means a subsection (d) hospital (as defined in section 1886(d)(1)(B).</text>
+							</paragraph><paragraph id="H79F4A2CADE744A16B8B9CDB475FBAB72"><enum>(4)</enum><header>Applicable prospective period</header><text>The term <term>applicable prospective period</term> means—</text>
+								<subparagraph id="H3811EE6CE3C84E47B86632F9D857971C"><enum>(A)</enum><text>with respect to an organization, the fiscal year in which the healthcare delivery organization
+			 specific adjustment factor under subsection (a)(2) for an applicable
+			 historical period applies to the payments to the healthcare delivery
+			 organization; and</text>
+								</subparagraph><subparagraph id="HC320B6D5C1254804AAE51DF70C2983F2"><enum>(B)</enum><text>with respect to healthcare professionals, the year in which the geographic-specific potentially
+			 preventable outcomes adjustment factor under subsection (b)(2) for an
+			 applicable historical period applies to payments to the professionals.</text>
+								</subparagraph></paragraph><paragraph id="H85EA1656C28543C78C5E7D93319BA733"><enum>(5)</enum><header>Potentially preventable outcomes</header><text>The term <term>potentially preventable outcomes</term> means inpatient potentially preventable complications under subsection (e)(2), potentially
+			 preventable readmissions under subsection (f)(2), potentially preventable
+			 admissions under subsection (g)(2), potentially preventable emergency room
+			 visits under subsection (h)(2), and potentially preventable outpatient
+			 procedures and tests under subsection (i)(2).</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H38451A775AC44010BCE70BAE98F2BBA7"><enum>(b)</enum><header>Reporting of potentially preventable outcomes</header>
+				<paragraph id="H7FCEBD373B80415285D99CEB425EFACC"><enum>(1)</enum><header>Reporting to healthcare delivery organizations</header><text>For each applicable historical period, the Secretary of Health and Human Services (in this section
+			 referred to as the <quote>Secretary</quote>) shall provide confidential reports to applicable healthcare delivery organizations with respect
+			 to potentially preventable outcomes. The confidential reports shall be
+			 provided to a healthcare delivery organization at least 90 days before the
+			 date of their release to the public regarding potentially preventable
+			 outcomes of the healthcare delivery organization.</text>
+				</paragraph><paragraph id="H7B4B80A684A948BD941950C5C3ABF918"><enum>(2)</enum><header>Reporting health delivery organization specific information</header>
+					<subparagraph id="H5FB61BB895A64ED29BA538A23DFF4288"><enum>(A)</enum><header>In general</header><text>The Secretary shall make information available to the public regarding potentially preventable
+			 outcomes of each applicable healthcare delivery organization.</text>
+					</subparagraph><subparagraph id="H6B7FDA1FA7504C39AEEDBDE134400847"><enum>(B)</enum><header>Opportunity to review and submit corrections</header><text>The Secretary shall ensure that an applicable healthcare delivery organization has the opportunity
+			 to review, and submit corrections for, the information to be made public
+			 prior to such information being made public.</text>
+					</subparagraph><subparagraph id="HFA7843A2A7D74F138D319F4D10F4209D"><enum>(C)</enum><header>Web site posting</header><text>Such information shall be posted on the Hospital Compare Internet Web Site in an easily
+			 understandable format.</text>
+					</subparagraph></paragraph></subsection><subsection id="H6BDCEA6A88FB42D9A825C94A1C37C7AA"><enum>(c)</enum><header>Applicability to medicaid</header><text>The Secretary shall apply to State plans (or waivers) under title XIX of the Social Security Act
+			 regulations relating to payment adjustments for potentially preventable
+			 outcomes (as defined in section 1899B(k) of such Act) as appropriate for
+			 the Medicaid program. Such regulations shall be in effect no later than
+			 October 1, 2017.</text>
+			</subsection><subsection id="H2D616DB8E0E94E63A8BB2CE7665A659B"><enum>(d)</enum><header>Quality improvement grants</header>
+				<paragraph id="HF295D3BA2B6B482A800C0B61AB8FAA7C"><enum>(1)</enum><header>In general</header><text>Subject to paragraph (4)(D), beginning in fiscal year 2017 the Secretary shall award quality
+			 improvement grants to eligible healthcare delivery organizations described
+			 in paragraph (2) that meet the criteria established under paragraph (3).</text>
+				</paragraph><paragraph id="H69AD45ADB34941499352D265ADC9A235"><enum>(2)</enum><header>Eligible healthcare delivery organization</header><text>For purposes of this subsection for a fiscal year, an eligible healthcare delivery organization is
+			 an applicable healthcare delivery organization that has a healthcare
+			 delivery organization-specific adjustment factor for the fiscal year (as
+			 determined under section 1899B(a)(2) of the Social Security Act, as added
+			 by subsection (a)), that is lower than the healthcare delivery
+			 organization-specific adjustment factor (under such section) for 75
+			 percent of all other healthcare delivery organizations in such fiscal
+			 year.</text>
+				</paragraph><paragraph id="HC8ABF7B765064A8FB36FC69FF30BCCC8"><enum>(3)</enum><header>Criteria</header><text>The Secretary shall establish criteria for awarding grants under this subsection.</text>
+				</paragraph><paragraph id="HA56D608D0FD749E3BBEB49183A6AA024"><enum>(4)</enum><header>Limitations</header>
+					<subparagraph id="HCFBC5D2D1897410F815162C36DFAAA1F"><enum>(A)</enum><header>Use of grant funds</header><text>A healthcare delivery organization that applies for and receives a grant under this subsection
+			 shall use such grant to implement processes that lower the rate of
+			 potentially preventable outcomes.</text>
+					</subparagraph><subparagraph id="H365BA1C0688341BEA9F0662C3AD0C459"><enum>(B)</enum><header>Term of grant</header><text>Grants under this subsection shall be for 2 years.</text>
+					</subparagraph><subparagraph id="H3A72DC769C8C40D1B137B23A2B96D113"><enum>(C)</enum><header>Reports</header><text>A healthcare delivery organization that applies for and receives a grant under this subsection
+			 shall, not later than 30 months after the date of receiving such grant,
+			 submit a report to the Secretary on the processes funded by such grant and
+			 the resulting impact on rates of potentially preventable outcomes.</text>
+					</subparagraph><subparagraph id="H0D638F72B72841B1AF13927AB9491C13"><enum>(D)</enum><header>Amount of grants</header><text>The aggregate amount of funds awarded as grants under this subsection for a fiscal year shall not
+			 exceed 5 percent of the sum of the composite aggregate payments for excess
+			 potentially preventable outcomes for all healthcare delivery organizations
+			 in the applicable historical period (as determined under section
+			 1899B(c)(1) of the Social Security Act).</text>
+					</subparagraph></paragraph><paragraph id="H7C20EDE85AB74FB292E1344E0864B990"><enum>(5)</enum><header>Authorization of appropriations</header><text>There are authorized to be appropriated to carry out this subsection such sums as may be necessary
+			 for each of fiscal years 2017 through 2021.</text>
+				</paragraph></subsection><subsection id="H01C64FA9743F4D2E8CF3C367581797B6"><enum>(e)</enum><header>GAO report</header><text>Not later than January 1, 2018, the Comptroller General of the United States shall submit to
+			 Congress a report on the impact of section 1899B of the Social Security
+			 Act, as added by subsection (a), on Medicare beneficiaries care, Medicare
+			 expenditures, and Medicare providers, including the quality of care
+			 furnished under the Medicare program.</text>
+			</subsection><subsection id="H6777452CCF4A45FEB38105B16FF6EC81"><enum>(f)</enum><header>Application of definitions</header><text>In this section, the terms <term>applicable healthcare delivery organization</term>, <term>applicable historical period</term>, <term>potentially preventable outcomes</term> have the meanings given such terms in section 1899B(j) of the Social Security Act, as added by
+			 subsection (a).</text>
+			</subsection></section></legis-body>
+</bill>
+
+

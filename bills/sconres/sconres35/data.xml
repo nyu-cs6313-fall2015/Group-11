@@ -1,0 +1,52 @@
+<bill session="113" type="sc" number="35" updated="2015-09-01T10:21:27-04:00">
+  <state datetime="2014-04-10T12:08:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2014-04-10T12:08:00-04:00"/>
+  </status>
+  <introduced datetime="2014-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution providing for a conditional adjournment or recess of the Senate and an adjournment of the House of Representatives.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-04-09" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2330" label="consideration"/>
+      <reference ref="CR S2328" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2014-04-10T09:44:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-04-10T09:46:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2014-04-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-04-10T12:07:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H3184" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote2" datetime="2014-04-10T12:08:00-04:00" where="h" result="pass" state="PASSED:CONCURRENTRES">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H3184" label="text"/>
+    </vote>
+    <action datetime="2014-04-10T12:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+    <term name="House of Representatives"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2014--Passed House without amendment.
+Declares that when the Senate recesses or adjourns on any day from Thursday, April 10, 2014, through Thursday, April 24, 2014, it stand recessed or adjourned until 12:00 noon on Monday, April 28, 2014.
+
+Declares that when the House adjourns on any legislative day from Thursday, April 10, 2014, through Thursday, April 24, 2014, it stand adjourned until 2:00 p.m. on Monday, April 28, 2014.</summary>
+</bill>

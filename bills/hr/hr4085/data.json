@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-25", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4085-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2014-02-25", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Esty, Elizabeth H.", 
+      "sponsored_at": "2014-02-25", 
+      "state": "CT", 
+      "thomas_id": "02114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-25", 
+  "number": "4085", 
+  "official_title": "To amend title 4 of the United States Code to limit the extent to which States may tax the compensation earned by nonresident telecommuters and other multi-State workers.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2347-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Multi-State Worker Tax Fairness Act of 2014", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Himes, James A.", 
+    "state": "CT", 
+    "thomas_id": "01913", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-02-25", 
+  "subjects": [
+    "Commuting", 
+    "State and local taxation", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-02-25", 
+    "text": "Multi-State Worker Tax Fairness Act of 2014 - Prohibits a state from imposing an income tax on the compensation of a nonresident individual for any period in which such individual is not physically present in or working in such state or from deeming such nonresident individual to be present in or working in such state on the grounds that: (1) such individual is present at or working at home for convenience, or (2) such individual's work at home fails any convenience of the employer test or any similar test."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Multi-State Worker Tax Fairness Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 4 of the United States Code to limit the extent to which States may tax the compensation earned by nonresident telecommuters and other multi-State workers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4085:@@@L&summ2=m&"
+}

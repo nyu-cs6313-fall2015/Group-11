@@ -1,0 +1,235 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-09-18", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-09-18", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-09-18", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-09-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3123-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "17", 
+      "name": "Cartwright, Matt", 
+      "sponsored_at": "2013-09-18", 
+      "state": "PA", 
+      "thomas_id": "02159", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "sponsored_at": "2013-09-25", 
+      "state": "MO", 
+      "thomas_id": "01654", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Edwards, Donna F.", 
+      "sponsored_at": "2013-09-18", 
+      "state": "MD", 
+      "thomas_id": "01894", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2014-07-30", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2014-09-16", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2013-09-18", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2013-09-18", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2013-09-18", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2013-09-18", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2013-09-18", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2014-07-24", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2014-07-30", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-09-18", 
+  "number": "3123", 
+  "official_title": "To ensure prompt access to Supplemental Security Income, Social Security disability, and Medicaid benefits for persons released from certain public institutions.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Recidivism Reduction Act", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Carson, Andre", 
+    "state": "IN", 
+    "thomas_id": "01889", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-09-18", 
+  "subjects": [
+    "Correctional facilities and imprisonment", 
+    "Disability assistance", 
+    "Family relationships", 
+    "Intergovernmental relations", 
+    "Medicaid", 
+    "Poverty and welfare assistance", 
+    "Social security and elderly assistance", 
+    "Social welfare", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-09-18", 
+    "text": "Recidivism Reduction Act - Amends title XVI (Supplemental Security Income for Aged, Blind, and Disabled) (SSI) of the Social Security Act (SSA) to require the reinstatement upon release of an otherwise eligible disabled inmate for SSI benefits which were terminated because of the inmate's incarceration in a jail, prison, penal institution, or correctional facility for a period of 12 or more consecutive months. Requires automatic reinstatement of the benefit eligibility under SSA title XVI upon discharge or release of an individual who has become an inmate of a jail, prison, penal institution, or correctional facility, without the need to reapply for the benefits, if the period of sentence to the institution does not exceed 90 days.\n\nRequires the inmate to apply for reinstatement and resumption of such benefits within 36 months after release.\n\nRequires the reinstatement of SSI benefit eligibility for such an individual's spouse if the spouse was previously an SSI-eligible spouse.\n\nAmends SSA title II (Old Age, Survivors and Disability Insurance) (OASDI) to direct the Commissioner of Social Security to develop a system for prerelease application for resumption of suspended OASDI disability insurance benefits, or other benefits based on disability.\n\nAmends SSA title XIX (Medicaid) to require state Medicaid plans to provide that in the case of any individual enrolled for medical assistance immediately before becoming an inmate of a public institution under a sentence of 90 days or less: (1) the enrollment shall be reinstated automatically upon the individual's release from such institution without the need to apply for such assistance, and (2) any period of continuous eligibility in effect when the individual became such an inmate shall be reinstated as of the release date and the duration of such period shall be determined without regard to the period in which the individual was such an inmate.\n\nRequires an increase in the federal medical assistance percentage (FMAP) (matching rate) by five percentage points (not to exceed 100%) for medical assistance for items and services furnished during the one-year period beginning when the individual's eligibility for medical assistance under Medicaid is reinstated after release.\n\nAuthorizes case management services in order to engage in planning for services following an individual's release from a public institution."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Recidivism Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ensure prompt access to Supplemental Security Income, Social Security disability, and Medicaid benefits for persons released from certain public institutions.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:19:59-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3123:@@@L&summ2=m&"
+}

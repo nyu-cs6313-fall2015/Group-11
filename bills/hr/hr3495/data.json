@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-14", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-12-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Livestock, Rural Development, and Credit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3495-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Livestock, Rural Development, and Credit", 
+      "subcommittee_id": "29"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "36", 
+      "name": "Ruiz, Raul", 
+      "sponsored_at": "2013-12-02", 
+      "state": "CA", 
+      "thomas_id": "02109", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-11-14", 
+  "number": "3495", 
+  "official_title": "To amend the Food, Conservation, and Energy Act of 2008 to make improvements to the food safety education program carried out under such Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2642-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "29", 
+    "name": "Cardenas, Tony", 
+    "state": "CA", 
+    "thomas_id": "02107", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-11-14", 
+  "subjects": [
+    "Agricultural education", 
+    "Agriculture and food", 
+    "Department of Agriculture", 
+    "Executive agency funding and structure", 
+    "Food supply, safety, and labeling", 
+    "Government information and archives", 
+    "Health information and medical records", 
+    "Infectious and parasitic diseases", 
+    "Migrant, seasonal, agricultural labor"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-11-14", 
+    "text": "Amends the Food, Conservation, and Energy Act of 2008 to authorize appropriations for the food safety education program.\n\nIncludes in such program education: (1) about practices that prevent bacterial contamination of food, how to identify sources of food contamination, and other means of decreasing food contamination; and (2) aimed at farm workers."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Food, Conservation, and Energy Act of 2008 to make improvements to the food safety education program carried out under such Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3495:@@@L&summ2=m&"
+}

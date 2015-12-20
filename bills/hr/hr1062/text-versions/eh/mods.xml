@@ -1,0 +1,146 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee184d9d901">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To improve the consideration by the Securities and Exchange Commission of the costs and benefits of its regulations and orders.;
+   		SEC Regulatory Accountability Act;H.R. 1062 (EH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-05-17</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To improve the consideration by the Securities and Exchange Commission of the costs and benefits of its regulations and orders.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>SEC Regulatory Accountability Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1062 (EH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-05-17</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>12 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee184d9d901</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1062eh</identifier>
+<identifier type="preferred citation">H.R. 1062</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1062_eh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1062eh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1062eh/html/BILLS-113hr1062eh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1062eh/pdf/BILLS-113hr1062eh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr1062eh/xml/BILLS-113hr1062eh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-05-17</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-05</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr1062eh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 804(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 804(2)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 7262(b)</partNumber>
+  <partNumber>Title 15 Section 77b(b)</partNumber>
+  <partNumber>Title 15 Section 78c(f)</partNumber>
+  <partNumber>Title 15 Section 78o-3</partNumber>
+  <partNumber>Title 15 Section 78w</partNumber>
+  <partNumber>Title 15 Section 80a-2(c)</partNumber>
+  <partNumber>Title 15 Section 80b-2(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 7262(b)</identifier>
+ <identifier type="USC citation">15 U.S.C. 77b(b)</identifier>
+ <identifier type="USC citation">15 U.S.C. 78c(f)</identifier>
+ <identifier type="USC citation">15 U.S.C. 78o-3</identifier>
+ <identifier type="USC citation">15 U.S.C. 78w</identifier>
+ <identifier type="USC citation">15 U.S.C. 80a-2(c)</identifier>
+ <identifier type="USC citation">15 U.S.C. 80b-2(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Section 3506(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. 3506(c)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr1062eh</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1062</billNumber>
+ <billVersion reprint="false">eh</billVersion>
+ <fileSuffix>eh</fileSuffix>
+ <shortTitle>SEC Regulatory Accountability Act</shortTitle>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(2)" number="804"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="(b)" number="7262"></section>
+                      <section detail="(b)" number="77b"></section>
+                      <section detail="(f)" number="78c"></section>
+                      <section number="78o-3"></section>
+                      <section number="78w"></section>
+                      <section detail="(c)" number="80a-2"></section>
+                      <section detail="(c)" number="80b-2"></section>
+                </USCode>
+ <USCode title="44">
+                      <section detail="(c)" number="3506"></section>
+                </USCode>
+</extension>
+</mods>

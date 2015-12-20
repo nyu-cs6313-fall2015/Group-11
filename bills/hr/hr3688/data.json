@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-10", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-27", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3688-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "sponsored_at": "2013-12-10", 
+      "state": "NY", 
+      "thomas_id": "02148", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-12-10", 
+  "number": "3688", 
+  "official_title": "To amend title 18, United States Code, to direct the Bureau of Prisons to provide certain voting information to Federal prisoners upon their release from prison.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Ex-Offender Voter Registration Act of 2013", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Jeffries, Hakeem S.", 
+    "state": "NY", 
+    "thomas_id": "02149", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-12-10", 
+  "subjects": [
+    "Correctional facilities and imprisonment", 
+    "Crime and law enforcement", 
+    "Elections, voting, political campaign regulation", 
+    "Government information and archives"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-12-10", 
+    "text": "Ex-Offender Voter Registration Act of 2013 - Amends the federal criminal code to direct the Bureau of Prisons to include among reentry planning procedures the provision to federal prisoners of information about: (1) the laws and regulations governing the right of an individual convicted of a felony who has been released from prison to vote in each of the 50 states, and (2) any voter registration or application forms the prisoner will need to complete in order to vote in the state in which the prisoner will reside upon release."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ex-Offender Voter Registration Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 18, United States Code, to direct the Bureau of Prisons to provide certain voting information to Federal prisoners upon their release from prison.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:15-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3688:@@@L&summ2=m&"
+}

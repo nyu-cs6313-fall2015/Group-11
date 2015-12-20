@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="3881" updated="2015-09-01T10:20:21-04:00">
+  <state datetime="2014-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-15"/>
+  </status>
+  <introduced datetime="2014-01-15"/>
+  <titles>
+    <title type="short" as="introduced">Expansion of National Security Agency Oversight Act</title>
+    <title type="official" as="introduced">To amend the Foreign Intelligence Surveillance Act of 1978 to provide for more transparency of the programs carried out under that Act.</title>
+  </titles>
+  <sponsor id="412407"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2014-01-15"/>
+    <cosponsor id="412418" joined="2014-01-15"/>
+    <cosponsor id="412239" joined="2014-01-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-15" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-01-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-01-15">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2014-03-20">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Business records"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Internet and video services"/>
+    <term name="Telephone and wireless communication"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2014--Introduced.
+Expansion of National Security Agency Oversight Act - Amends the Foreign Intelligene Surveillance Act of 1978 (FISA) to include the House Committees on Armed Services and Foreign Affairs and the Senate Committees on Armed Services and Foreign Relations (in addition to the intelligence and judiciary committees) as congressional committees to which the Attorney General is required to report under FISA with respect to physical searches, pen register and trap and trace devices, access to certain business records for intelligence purposes, semiannual FISA reviews, and targeting of persons outside the United States to obtain intelligence information.</summary>
+</bill>

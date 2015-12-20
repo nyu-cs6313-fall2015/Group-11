@@ -1,0 +1,801 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-01", 
+      "references": [], 
+      "text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "calendar": "Senate Legislative", 
+      "number": "345", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 345.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-04-07", 
+      "references": [
+        {
+          "reference": "CR S2179-2180, S2181-2184", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-07", 
+      "references": [
+        {
+          "reference": "CR S2179", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2179", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on the motion to proceed to the measure presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "references": [
+        {
+          "reference": "CR S2203, S2203-2204, S2205, S2206-2207, S2208-2210, S2210-2223, S2227", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-09", 
+      "references": [
+        {
+          "reference": "CR S2293-2299, S2299-2300, S2305-2307, S2316-2317, S2318", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-09", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S2299", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2299", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "103", 
+      "status": "PROV_KILL:CLOTUREFAILED", 
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 53 - 44. Record Vote Number: 103.", 
+      "type": "vote-aux", 
+      "vote_type": "cloture", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-04-09", 
+      "references": [
+        {
+          "reference": "CR S2299", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote No. 103) entered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10", 
+      "references": [
+        {
+          "reference": "CR S5487-5488", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of the motion to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote No. 103) agreed to in Senate by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10", 
+      "references": [
+        {
+          "reference": "CR S5487", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote No. 103) agreed to in Senate by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S5487-5488", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5488", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "260", 
+      "text": "Upon reconsideration, cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 73 - 25. Record Vote Number: 260.", 
+      "type": "vote-aux", 
+      "vote_type": "cloture", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-09-10", 
+      "references": [
+        {
+          "reference": "CR S5487-5488, S5495-5497", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to measure considered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-11", 
+      "references": [
+        {
+          "reference": "CR S5524, S5528-5529-5530", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to measure considered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-11", 
+      "references": [
+        {
+          "reference": "CR S5530", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-11", 
+      "references": [
+        {
+          "reference": "CR S5530", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by motion.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-11", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [
+        {
+          "reference": "CR S5530", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion by Senator Reid to commit to Senate Committee on Health, Education, Labor, and Pensions with instructions to report back forthwith with amendment SA 3802 made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-11", 
+      "references": [
+        {
+          "reference": "CR S5530", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5530", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on the bill presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-15", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S5579-5580", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5579", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "262", 
+      "status": "PROV_KILL:CLOTUREFAILED", 
+      "text": "Cloture on the bill not invoked in Senate by Yea-Nay Vote. 52 - 40. Record Vote Number: 262.", 
+      "type": "vote-aux", 
+      "vote_type": "cloture", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt2962-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2962"
+    }, 
+    {
+      "amendment_id": "samdt2963-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2963"
+    }, 
+    {
+      "amendment_id": "samdt2964-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2964"
+    }, 
+    {
+      "amendment_id": "samdt2965-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2965"
+    }, 
+    {
+      "amendment_id": "samdt2966-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2966"
+    }, 
+    {
+      "amendment_id": "samdt2967-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2967"
+    }, 
+    {
+      "amendment_id": "samdt2968-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2968"
+    }, 
+    {
+      "amendment_id": "samdt3799-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3799"
+    }, 
+    {
+      "amendment_id": "samdt3800-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3800"
+    }, 
+    {
+      "amendment_id": "samdt3801-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3801"
+    }, 
+    {
+      "amendment_id": "samdt3802-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3802"
+    }, 
+    {
+      "amendment_id": "samdt3803-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3803"
+    }, 
+    {
+      "amendment_id": "samdt3804-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3804"
+    }, 
+    {
+      "amendment_id": "samdt3805-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3805"
+    }, 
+    {
+      "amendment_id": "samdt3806-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3806"
+    }, 
+    {
+      "amendment_id": "samdt3808-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3808"
+    }
+  ], 
+  "bill_id": "s2199-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2014-04-07", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2014-04-07", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bennet, Michael F.", 
+      "sponsored_at": "2014-04-09", 
+      "state": "CO", 
+      "thomas_id": "01965", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Booker, Cory A.", 
+      "sponsored_at": "2014-09-10", 
+      "state": "NJ", 
+      "thomas_id": "02194", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2014-04-08", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2014-04-07", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cantwell, Maria", 
+      "sponsored_at": "2014-04-07", 
+      "state": "WA", 
+      "thomas_id": "00172", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-04-07", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-04-08", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Donnelly, Joe", 
+      "sponsored_at": "2014-04-08", 
+      "state": "IN", 
+      "thomas_id": "01850", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-04-08", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "2014-04-08", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Franken, Al", 
+      "sponsored_at": "2014-04-08", 
+      "state": "MN", 
+      "thomas_id": "01969", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "sponsored_at": "2014-04-08", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hagan, Kay R.", 
+      "sponsored_at": "2014-04-07", 
+      "state": "NC", 
+      "thomas_id": "01902", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2014-04-08", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heitkamp, Heidi", 
+      "sponsored_at": "2014-04-08", 
+      "state": "ND", 
+      "thomas_id": "02174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2014-04-07", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2014-04-08", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2014-04-08", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "2014-04-09", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Manchin, Joe, III", 
+      "sponsored_at": "2014-04-07", 
+      "state": "WV", 
+      "thomas_id": "01983", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-04-07", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCaskill, Claire", 
+      "sponsored_at": "2014-04-08", 
+      "state": "MO", 
+      "thomas_id": "01820", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2014-09-10", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2014-04-07", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murphy, Christopher S.", 
+      "sponsored_at": "2014-04-09", 
+      "state": "CT", 
+      "thomas_id": "01837", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pryor, Mark L.", 
+      "sponsored_at": "2014-04-07", 
+      "state": "AR", 
+      "thomas_id": "01701", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reed, Jack", 
+      "sponsored_at": "2014-04-07", 
+      "state": "RI", 
+      "thomas_id": "00949", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reid, Harry", 
+      "sponsored_at": "2014-09-10", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rockefeller, John D., IV", 
+      "sponsored_at": "2014-04-08", 
+      "state": "WV", 
+      "thomas_id": "01424", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2014-04-07", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "sponsored_at": "2014-04-08", 
+      "state": "HI", 
+      "thomas_id": "02173", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2014-04-07", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Tester, Jon", 
+      "sponsored_at": "2014-04-08", 
+      "state": "MT", 
+      "thomas_id": "01829", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Udall, Mark", 
+      "sponsored_at": "2014-04-08", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Udall, Tom", 
+      "sponsored_at": "2014-04-08", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Walsh, John E.", 
+      "sponsored_at": "2014-04-07", 
+      "state": "MT", 
+      "thomas_id": "02198", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warner, Mark R.", 
+      "sponsored_at": "2014-04-08", 
+      "state": "VA", 
+      "thomas_id": "01897", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "sponsored_at": "2014-04-07", 
+      "state": "MA", 
+      "thomas_id": "02182", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2014-04-09", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "sponsored_at": "2014-07-23", 
+      "state": "OR", 
+      "thomas_id": "01247", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-04-07", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_cloture_result": "fail", 
+    "senate_cloture_result_at": "2014-09-15", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-01", 
+  "number": "2199", 
+  "official_title": "A bill to amend the Fair Labor Standards Act of 1938 to provide more effective remedies to victims of discrimination in the payment of wages on the basis of sex, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr377-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr377-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s84-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2172-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Paycheck Fairness Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Mikulski, Barbara A.", 
+    "state": "MD", 
+    "thomas_id": "00802", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:CLOTUREFAILED", 
+  "status_at": "2014-09-15", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Employment discrimination and employee rights", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Labor and employment", 
+    "Public contracts and procurement", 
+    "Racial and ethnic relations", 
+    "Sex, gender, sexual orientation discrimination", 
+    "Small business", 
+    "Wages and earnings", 
+    "Women's employment"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-01", 
+    "text": "Paycheck Fairness Act - Amends the portion of the Fair Labor Standards Act of 1938 (FLSA) known as the Equal Pay Act to revise remedies for, enforcement of, and exceptions to prohibitions against sex discrimination in the payment of wages.\n\nRevises the exception to the prohibition for a wage rate differential based on any other factor other than sex. Limits such factors to bona fide factors, such as education, training, or experience.\n\nStates that the bona fide factor defense shall apply only if the employer demonstrates that such factor: (1) is not based upon or derived from a sex-based differential in compensation, (2) is job-related with respect to the position in question, and (3) is consistent with business necessity. Makes such defense inapplicable where the employee demonstrates that: (1) an alternative employment practice exists that would serve the same business purpose without producing such differential, and (2) the employer has refused to adopt such alternative practice.\n\nRevises the prohibition against employer retaliation for employee complaints. Prohibits retaliation for inquiring about, discussing, or disclosing the wages of the employee or another employee in response to a complaint or charge, or in furtherance of a sex discrimination investigation, proceeding, hearing, or action, or an investigation conducted by the employer.\n\n Makes employers who violate sex discrimination prohibitions liable in a civil action for either compensatory or (except for the federal government) punitive damages.\n\nStates that any action brought to enforce the prohibition against sex discrimination may be maintained as a class action in which individuals may be joined as party plaintiffs without their written consent.\n\nAuthorizes the Secretary of Labor (Secretary) to seek additional compensatory or punitive damages in a sex discrimination action.\n\nRequires the Equal Employment Opportunity Commission (EEOC) and the Office of Federal Contract Compliance Programs to train EEOC employees and affected individuals and entities on matters involving wage discrimination. Authorizes the Secretary to make grants to eligible entities for negotiation skills training programs for girls and women. Directs the Secretary and the Secretary of Education to issue regulations or policy guidance to integrate such training into certain programs under their Departments. Directs the Secretary to conduct studies and provide information to employers, labor organizations, and the general public regarding the means available to eliminate pay disparities between men and women. Establishes the Secretary of Labor's National Award for Pay Equity in the Workplace for an employer who has made a substantial effort to eliminate pay disparities between men and women. Amends the Civil Rights Act of 1964 to require the EEOC to collect from employers pay information data regarding the sex, race, and national origin of employees for use in the enforcement of federal laws prohibiting pay discrimination. Directs: (1) the Commissioner of Labor Statistics to continue to collect data on woman workers in the Current Employment Statistics survey, (2) the Office of Federal Contract Compliance Programs to use specified types of methods in investigating compensation discrimination and in enforcing pay equity, and (3) the Secretary to make accurate information on compensation discrimination readily available to the public. Directs the Secretary and the Commissioner [sic] of the EEOC jointly to develop technical assistance material to assist small businesses to comply with the requirements of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Paycheck Fairness Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Fair Labor Standards Act of 1938 to provide more effective remedies to victims of discrimination in the payment of wages on the basis of sex, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:15-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2199:@@@L&summ2=m&"
+}

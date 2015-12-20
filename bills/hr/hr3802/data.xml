@@ -1,0 +1,90 @@
+<bill session="113" type="h" number="3802" updated="2015-09-01T10:20:17-04:00">
+  <state datetime="2014-07-22T17:14:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-22T17:14:00-04:00"/>
+  </status>
+  <introduced datetime="2013-12-19"/>
+  <titles>
+    <title type="official" as="introduced">To extend the legislative authority of the Adams Memorial Foundation to establish a commemorative work in honor of former President John Adams and his legacy, and for other purposes.</title>
+  </titles>
+  <sponsor id="400249"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2014-02-26"/>
+    <cosponsor id="400063" joined="2013-12-19"/>
+    <cosponsor id="412600" joined="2013-12-19"/>
+    <cosponsor id="412435" joined="2013-12-19"/>
+    <cosponsor id="412543" joined="2013-12-19"/>
+    <cosponsor id="400263" joined="2013-12-19"/>
+    <cosponsor id="400291" joined="2013-12-19"/>
+    <cosponsor id="400407" joined="2013-12-19"/>
+    <cosponsor id="412254" joined="2013-12-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-19" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-12-27">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-02-26">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2014-04-09">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2014-04-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-04-09" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-06-30T12:18:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-504.</text>
+    </action>
+    <calendar datetime="2014-06-30T12:18:00-04:00" calendar="Union" number="377">
+      <text>Placed on the Union Calendar, Calendar No. 377.</text>
+    </calendar>
+    <action datetime="2014-07-22T17:05:00-04:00">
+      <text>Mr. Daines moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-07-22T17:05:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6619-6620" label="consideration"/>
+    </action>
+    <action datetime="2014-07-22T17:05:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3802.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-22T17:14:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6619" label="text"/>
+    </vote>
+    <action datetime="2014-07-22T17:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1866"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="District of Columbia"/>
+    <term name="Monuments and memorials"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2014--Passed House amended.
+(This measure has not been amended since it was reported to the House on June 30, 2014. The summary of that version is repeated here.)
+
+Extends until December 2, 2020, the legislative authority of the Adams Memorial Foundation to establish a commemorative work on federal land in the District of Columbia in honor of former President John Adams and his family's legacy of public service.
+
+Sets forth provisions governing the deposit of excess funds received for the memorial's establishment to the National Park Foundation.</summary>
+</bill>

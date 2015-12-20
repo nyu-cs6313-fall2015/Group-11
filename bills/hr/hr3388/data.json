@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-10-30", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-09", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3388-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "21", 
+      "name": "Deutch, Theodore E.", 
+      "sponsored_at": "2013-10-30", 
+      "state": "FL", 
+      "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Frankel, Lois", 
+      "sponsored_at": "2013-12-19", 
+      "state": "FL", 
+      "thomas_id": "02119", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2013-11-13", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-10-30", 
+  "number": "3388", 
+  "official_title": "To authorize the Attorney General to provide a grant to assist Federal, State, tribal, and local law enforcement agencies in the rapid recovery of missing individuals.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2821-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Child and Elderly Missing Alert Program Act of 2013", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Chabot, Steve", 
+    "state": "OH", 
+    "thomas_id": "00186", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-10-30", 
+  "subjects": [
+    "Aging", 
+    "Child safety and welfare", 
+    "Crime and law enforcement", 
+    "Crimes against children", 
+    "Disability and paralysis", 
+    "Emergency communications systems", 
+    "Human trafficking", 
+    "Law enforcement administration and funding", 
+    "Neurological disorders", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-10-30", 
+    "text": "Child and Elderly Missing Alert Program of 2013 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Attorney General to award public safety and community policing grants to eligible nonprofit organizations to assist federal, state, tribal, and local law enforcement agencies in the rapid recovery of missing children and elderly and disabled individuals through the use of a rapid telephone and cellular alert call system. Defines an \"elderly individual\" as an individual 60 years of age or older.\n\nPermits the use of grant funds to: (1) maintain and expand technologies and techniques to ensure the highest level of performance of services; (2) provide both centralized and on-site training, and to distribute information, to law enforcement agency officials about missing individuals and use of a rapid telephone and cellular alert call system; (3) provide services to Child Abduction Response Teams; (4) assist law enforcement agencies to combat human trafficking through the use of rapid telephone and cellular alert calls; (5) share appropriate information on cases with the National Center for Missing and Exploited Children, the AMBER Alert, Silver Alert, and Blue Alert programs, and law enforcement; and (6) assist appropriate organizations with education and prevention programs related to missing individuals.\n\nDirects the Attorney General to annually: (1) require each grantee to submit the results of monitoring and evaluations of grant recipients, and (2) publish a report regarding such results and the effectiveness of activities carried out under each grant."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Child and Elderly Missing Alert Program Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Attorney General to provide a grant to assist Federal, State, tribal, and local law enforcement agencies in the rapid recovery of missing individuals.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3388:@@@L&summ2=m&"
+}

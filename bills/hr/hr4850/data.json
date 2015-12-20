@@ -1,0 +1,126 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-12", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4850-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2014-06-12", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-12", 
+  "number": "4850", 
+  "official_title": "To amend the Clean Air Act to prohibit the regulation of emissions of carbon dioxide from new or existing power plants under certain circumstances.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4808-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2414-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Coal Jobs and Affordable Energy Protection Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Daines, Steve", 
+    "state": "MT", 
+    "thomas_id": "02138", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-12", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Air quality", 
+    "Climate change and greenhouse gases", 
+    "Coal", 
+    "Economic performance and conditions", 
+    "Electric power generation and transmission", 
+    "Energy prices", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Oil and gas", 
+    "Public utilities and utility rates", 
+    "Unemployment"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-12", 
+    "text": "Coal Jobs and Affordable Energy Protection Act of 2014 - Amends the Clean Air Act to prohibit the Administrator of the Environmental Protection Agency (EPA) from promulgating any regulation or guidance that limits or prohibits new carbon dioxide emissions from a fossil fuel-fired power plant until it is certified: (1) by the Secretary of Labor that the regulation or guidance will not generate a loss of employment, (2) by the Director of the Congressional Budget Office (CBO) that it will not result in a loss in the gross domestic product, (3) by the Administrator of the Energy Information Administration that it will not generate an increase in electricity rates, and (4) by the Chairperson of the Federal Energy Regulatory Commission (FERC) and the President of the North American Electric Reliability Corporation that it will not effect the reliability of electricity delivery."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coal Jobs and Affordable Energy Protection Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Clean Air Act to prohibit the regulation of emissions of carbon dioxide from new or existing power plants under certain circumstances.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4850:@@@L&summ2=m&"
+}

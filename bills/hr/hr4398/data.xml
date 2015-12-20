@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="4398" updated="2015-09-01T10:20:32-04:00">
+  <state datetime="2014-04-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-04"/>
+  </status>
+  <introduced datetime="2014-04-04"/>
+  <titles>
+    <title type="short" as="introduced">GIF Act of 2014</title>
+    <title type="short" as="introduced">Global Internet Freedom Act of 2014</title>
+    <title type="official" as="introduced">To prohibit the National Telecommunications and Information Administration from relinquishing responsibility with respect to the Internet Assigned Numbers Authority functions.</title>
+  </titles>
+  <sponsor id="412488"/>
+  <cosponsors>
+    <cosponsor id="400209" joined="2014-05-02"/>
+    <cosponsor id="400656" joined="2014-05-07"/>
+    <cosponsor id="412295" joined="2014-05-02"/>
+    <cosponsor id="412311" joined="2014-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-04" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-04-11">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="4342"/>
+    <bill relation="unknown" session="113" type="h" number="4367"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Department of Commerce"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Internet and video services"/>
+  </subjects>
+  <amendments/>
+  <summary>4/4/2014--Introduced.
+Global Internet Freedom Act of 2014 or the GIF Act of 2014 - Prohibits the Assistant Secretary of Commerce for Communications and Information from relinquishing the responsibility of the National Telecommunications and Information Administration (NTIA) with respect to Internet Assigned Numbers Authority functions, including: (1) coordination of the assignment of technical Internet protocol parameters, (2) performance of administrative functions associated with Internet domain name system root zone management, and (3) allocation of Internet numbering resources.</summary>
+</bill>

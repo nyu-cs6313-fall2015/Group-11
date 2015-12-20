@@ -1,0 +1,132 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-31", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-31", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-05", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Water and Power Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 16.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3981-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-02-05", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-31", 
+  "number": "3981", 
+  "official_title": "To direct the Secretary of the Interior to allow for prepayment of repayment contracts between the United States and water users, to provide surface water storage enhancement, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Accelerated Revenue, Repayment, and Surface Water Storage Enhancement Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hastings, Doc", 
+    "state": "WA", 
+    "thomas_id": "00512", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Government lending and loan guarantees", 
+    "Public contracts and procurement", 
+    "Water resources development", 
+    "Water resources funding", 
+    "Water storage", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-31", 
+    "text": "Accelerated Revenue, Repayment, and Surface Water Storage Enhancement Act - Directs the Secretary of the Interior to convert certain existing water service contracts between the United States and water users' associations to repayment contracts to allow for prepayment of such contracts, upon the request of the contractor. Specifies the manner of conversion and the terms and conditions of prepayment.\n\nRequires the receipts generated from prepayment of contracts under this Act, beyond amounts necessary to cover the amount of receipts forgone from scheduled payments under current law for the 10-year period following the enactment of this Act, to be directed to the Reclamation Surface Water Storage Account. Requires the Secretary to allocate amounts in such Account to fund or provide loans for the construction of surface water storage for:\n\n increased municipal and industrial water supply; agricultural floodwater, erosion, and sedimentation reduction; agricultural drainage improvements; agricultural irrigation; increased recreation opportunities; reduced adverse impacts to fish and wildlife from water storage or diversion projects within watersheds associated with water storage projects funded under this Act; and other purposes consistent with reclamation laws or other federal law."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Accelerated Revenue, Repayment, and Surface Water Storage Enhancement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of the Interior to allow for prepayment of repayment contracts between the United States and water users, to provide surface water storage enhancement, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:23-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3981:@@@L&summ2=m&"
+}

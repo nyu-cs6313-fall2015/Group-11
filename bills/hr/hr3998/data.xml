@@ -1,0 +1,87 @@
+<bill session="113" type="h" number="3998" updated="2015-09-01T10:20:23-04:00">
+  <state datetime="2014-06-17T15:23:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-06-17T15:23:00-04:00"/>
+  </status>
+  <introduced datetime="2014-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Albuquerque, New Mexico, Federal Land Conveyance Act of 2014</title>
+    <title type="short" as="reported to house">Albuquerque, New Mexico, Federal Land Conveyance Act of 2014</title>
+    <title type="official" as="introduced">To authorize the Administrator of General Services to convey a parcel of real property in Albuquerque, New Mexico, to the Amy Biehl High School Foundation.</title>
+  </titles>
+  <sponsor id="412558"/>
+  <cosponsors>
+    <cosponsor id="412293" joined="2014-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-02-06">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-03-13" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-04-09T14:49:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-408.</text>
+    </action>
+    <calendar datetime="2014-04-09T14:49:00-04:00" calendar="Union" number="300">
+      <text>Placed on the Union Calendar, Calendar No. 300.</text>
+    </calendar>
+    <action datetime="2014-06-17T15:15:00-04:00">
+      <text>Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-06-17T15:16:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5380-5381" label="consideration"/>
+    </action>
+    <action datetime="2014-06-17T15:16:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3998.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-06-17T15:23:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5380" label="text"/>
+    </vote>
+    <action datetime="2014-06-17T15:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-06-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="898"/>
+    <bill relation="unknown" session="113" type="s" number="898"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Land transfers"/>
+    <term name="New Mexico"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2014--Passed House amended.
+Albuquerque, New Mexico, Federal Land Conveyance Act of 2014 - Directs the Administrator of General Services (GSA) to offer to convey to the Amy Biehl High School Foundation certain federal lands, including any improvements on such lands, located in Albuquerque, New Mexico.
+
+Requires such conveyance to be in accordance with a fair market value appraisal that is acceptable to the Administrator.
+
+Makes the Foundation responsible for the costs related to such conveyance.
+
+Requires the proceeds from such conveyance to be paid into the Federal Buildings Fund.
+
+Requires the conveyance to occur within three years of this Act's enactment.</summary>
+</bill>

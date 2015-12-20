@@ -1,0 +1,167 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-11", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3557", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3608", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-06-11T12:44:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11T17:07:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-17T16:48:00-04:00", 
+      "references": [], 
+      "text": "Mr. Harper moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-17T16:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5388-5389", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-17T16:48:00-04:00", 
+      "bill_ids": [
+        "scres37-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 37.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-17T16:56:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5388", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-06-17T16:56:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sconres37-113", 
+  "bill_type": "sconres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-06-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-06-17T16:56:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-06-11", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-11", 
+  "number": "37", 
+  "official_title": "A concurrent resolution authorizing the use of the rotunda of the United States Capitol in commemoration of the Shimon Peres Congressional Gold Medal ceremony.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Ayotte, Kelly", 
+    "state": "NH", 
+    "thomas_id": "02075", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2014-06-17T16:56:00-04:00", 
+  "subjects": [
+    "Congress", 
+    "Congressional tributes", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Israel", 
+    "Middle East", 
+    "U.S. Capitol"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2014-06-17", 
+    "text": "Authorizes the use of the rotunda of the Capitol on June 26, 2014, for the commemoration of the award of the congressional gold medal to Shimon Peres."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A concurrent resolution authorizing the use of the rotunda of the United States Capitol in commemoration of the Shimon Peres Congressional Gold Medal ceremony.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SC37:@@@L&summ2=m&"
+}

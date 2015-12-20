@@ -1,0 +1,500 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18649faed">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To increase the competitiveness of American manufacturing by reducing regulatory and other burdens, encouraging greater innovation and investment, and developing a stronger workforce for the twenty-first century, and for other purposes.;
+   		Reducing Employer Burdens, Unleashing Innovation, and Labor Development Act of 2013;H.R. 3355 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-10-29</dateIngested>
+</extension>
+<titleInfo>
+ <title>To increase the competitiveness of American manufacturing by reducing regulatory and other burdens, encouraging greater innovation and investment, and developing a stronger workforce for the twenty-first century, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Reducing Employer Burdens, Unleashing Innovation, and Labor Development Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3355 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-10-28</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>92 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18649faed</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3355ih</identifier>
+<identifier type="preferred citation">H.R. 3355</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3355_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3355ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3355ih/html/BILLS-113hr3355ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3355ih/pdf/BILLS-113hr3355ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr3355ih/xml/BILLS-113hr3355ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-10-29</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-04-30</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr3355ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Brett Guthrie</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Appropriations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Armed Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Foreign Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on House Administration</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Rules</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Science, Space, and Technology</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 551</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 551</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 3121</partNumber>
+  <partNumber>Title 16 Section 3142</partNumber>
+  <partNumber>Title 16 Section 3143</partNumber>
+  <partNumber>Title 16 Section 3170</partNumber>
+  <partNumber>Title 16 Section 3171</partNumber>
+  <partNumber>Title 16 Section 3192(h)(2)</partNumber>
+  <partNumber>Title 16 Section 668dd</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 3121</identifier>
+ <identifier type="USC citation">16 U.S.C. 3142</identifier>
+ <identifier type="USC citation">16 U.S.C. 3143</identifier>
+ <identifier type="USC citation">16 U.S.C. 3170</identifier>
+ <identifier type="USC citation">16 U.S.C. 3171</identifier>
+ <identifier type="USC citation">16 U.S.C. 3192(h)(2)</identifier>
+ <identifier type="USC citation">16 U.S.C. 668dd</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 19 Section 2296(a)</partNumber>
+  <partNumber>Title 19 Section 3803</partNumber>
+  <partNumber>Title 19 Section 3806(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">19 U.S.C. 2296(a)</identifier>
+ <identifier type="USC citation">19 U.S.C. 3803</identifier>
+ <identifier type="USC citation">19 U.S.C. 3806(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1002</partNumber>
+  <partNumber>Title 20 Section 2342(c)(1)(B)</partNumber>
+  <partNumber>Title 20 Section 2354(b)</partNumber>
+  <partNumber>Title 20 Section 2373(c)(2)(E)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1002</identifier>
+ <identifier type="USC citation">20 U.S.C. 2342(c)(1)(B)</identifier>
+ <identifier type="USC citation">20 U.S.C. 2354(b)</identifier>
+ <identifier type="USC citation">20 U.S.C. 2373(c)(2)(E)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 2801et seq.</partNumber>
+  <partNumber>Title 29 Section 2842</partNumber>
+  <partNumber>Title 29 Section 2842(a)(2)(B)</partNumber>
+  <partNumber>Title 29 Section 2842(b)(2)(D)</partNumber>
+  <partNumber>Title 29 Section 2843</partNumber>
+  <partNumber>Title 29 Section 2854(c)(1)(C)</partNumber>
+  <partNumber>Title 29 Section 2864(d)(4)(F)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 2801et seq.</identifier>
+ <identifier type="USC citation">29 U.S.C. 2842</identifier>
+ <identifier type="USC citation">29 U.S.C. 2842(a)(2)(B)</identifier>
+ <identifier type="USC citation">29 U.S.C. 2842(b)(2)(D)</identifier>
+ <identifier type="USC citation">29 U.S.C. 2843</identifier>
+ <identifier type="USC citation">29 U.S.C. 2854(c)(1)(C)</identifier>
+ <identifier type="USC citation">29 U.S.C. 2864(d)(4)(F)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 30 Section 181et seq.</partNumber>
+  <partNumber>Title 30 Section 185</partNumber>
+  <partNumber>Title 30 Section 3161et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">30 U.S.C. 181et seq.</identifier>
+ <identifier type="USC citation">30 U.S.C. 185</identifier>
+ <identifier type="USC citation">30 U.S.C. 3161et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 300gget seq.</partNumber>
+  <partNumber>Title 42 Section 4332(2)(C)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 300gget seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 4332(2)(C)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1344(a)</partNumber>
+  <partNumber>Title 43 Section 1344(b)</partNumber>
+  <partNumber>Title 43 Section 1611</partNumber>
+  <partNumber>Title 43 Section 1613</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1344(a)</identifier>
+ <identifier type="USC citation">43 U.S.C. 1344(b)</identifier>
+ <identifier type="USC citation">43 U.S.C. 1611</identifier>
+ <identifier type="USC citation">43 U.S.C. 1613</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 47 Section 1451(b)(1)(B)</partNumber>
+  <partNumber>Title 47 Section 309(j)</partNumber>
+  <partNumber>Title 47 Section 923(g)(6)</partNumber>
+  <partNumber>Title 47 Section 923(h)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">47 U.S.C. 1451(b)(1)(B)</identifier>
+ <identifier type="USC citation">47 U.S.C. 309(j)</identifier>
+ <identifier type="USC citation">47 U.S.C. 923(g)(6)</identifier>
+ <identifier type="USC citation">47 U.S.C. 923(h)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 1701et seq.</partNumber>
+  <partNumber>Title 50 Appendix 2401</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 1701et seq.</identifier>
+ <identifier type="USC citation">50 U.S.C. App. 2401</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 113 Page 768</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">113 Stat.	768</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 106-65</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 106-65</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-58</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-58</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-140</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-140</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-148</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-148</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-152</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-152</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-96</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-96</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr3355ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3355</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Reducing Employer Burdens, Unleashing Innovation, and Labor Development Act of 2013</shortTitle>
+ <action date="2013-10-28">Mr. Guthrie introduced the following bill; which was referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Armed Services, Education and the Workforce, Natural Resources, House Administration, the Judiciary, Rules, Appropriations, Science, Space, and Technology, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsap00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Appropriations</name>
+                      <name type="authority-short">Appropriations</name>
+                </congCommittee>
+ <congCommittee authorityId="hsas00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Armed Services</name>
+                      <name type="authority-short">Armed Services</name>
+                </congCommittee>
+ <congCommittee authorityId="hsed00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congCommittee authorityId="hsfa00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Foreign Affairs</name>
+                      <name type="authority-short">Foreign Affairs</name>
+                </congCommittee>
+ <congCommittee authorityId="hsha00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on House Administration</name>
+                      <name type="authority-short">House Administration</name>
+                </congCommittee>
+ <congCommittee authorityId="hsif00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congCommittee authorityId="hsii00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congCommittee authorityId="hsju00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congCommittee authorityId="hsru00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Rules</name>
+                      <name type="authority-short">Rules</name>
+                </congCommittee>
+ <congCommittee authorityId="hssy00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Science, Space, and Technology</name>
+                      <name type="authority-short">Science, Space, and Technology</name>
+                </congCommittee>
+ <congCommittee authorityId="hswm00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="1922" bioGuideId="G000558" chamber="H" congress="113" gpoId="7954" party="R" role="SPONSOR" state="KY">
+                      <name type="parsed">Mr. Guthrie</name>
+                      <name type="authority-fnf">Brett Guthrie</name>
+                      <name type="authority-lnf">Guthrie, Brett</name>
+                </congMember>
+ <law congress="106" isPrivate="false" number="65"></law>
+ <law congress="109" isPrivate="false" number="58"></law>
+ <law congress="110" isPrivate="false" number="140"></law>
+ <law congress="111" isPrivate="false" number="148"></law>
+ <law congress="111" isPrivate="false" number="152"></law>
+ <law congress="112" isPrivate="false" number="96"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="551"></section>
+                </USCode>
+ <USCode title="16">
+                      <section number="3121"></section>
+                      <section number="3142"></section>
+                      <section number="3143"></section>
+                      <section number="3170"></section>
+                      <section number="3171"></section>
+                      <section detail="(h)(2)" number="3192"></section>
+                      <section number="668dd"></section>
+                </USCode>
+ <USCode title="19">
+                      <section detail="(a)" number="2296"></section>
+                      <section number="3803"></section>
+                      <section detail="(a)" number="3806"></section>
+                </USCode>
+ <USCode title="20">
+                      <section number="1002"></section>
+                      <section detail="(c)(1)(B)" number="2342"></section>
+                      <section detail="(b)" number="2354"></section>
+                      <section detail="(c)(2)(E)" number="2373"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="et seq." number="2801"></section>
+                      <section number="2842"></section>
+                      <section detail="(a)(2)(B)" number="2842"></section>
+                      <section detail="(b)(2)(D)" number="2842"></section>
+                      <section number="2843"></section>
+                      <section detail="(c)(1)(C)" number="2854"></section>
+                      <section detail="(d)(4)(F)" number="2864"></section>
+                </USCode>
+ <USCode title="30">
+                      <section detail="et seq." number="181"></section>
+                      <section number="185"></section>
+                      <section detail="et seq." number="3161"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="300gg"></section>
+                      <section detail="(2)(C)" number="4332"></section>
+                </USCode>
+ <USCode title="43">
+                      <section detail="(a)" number="1344"></section>
+                      <section detail="(b)" number="1344"></section>
+                      <section number="1611"></section>
+                      <section number="1613"></section>
+                </USCode>
+ <USCode title="47">
+                      <section detail="(b)(1)(B)" number="1451"></section>
+                      <section detail="(j)" number="309"></section>
+                      <section detail="(g)(6)" number="923"></section>
+                      <section detail="(h)(1)" number="923"></section>
+                </USCode>
+ <USCode title="50">
+                      <section detail="et seq." number="1701"></section>
+                      <appendix detail="et seq." number="2401"></appendix>
+                </USCode>
+ <statuteAtLarge volume="113">
+                      <pages pages="768"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

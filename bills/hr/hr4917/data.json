@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4917-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "17", 
+      "name": "Cartwright, Matt", 
+      "sponsored_at": "2014-07-23", 
+      "state": "PA", 
+      "thomas_id": "02159", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-19", 
+  "number": "4917", 
+  "official_title": "To amend title 11 of the United States Code to provide bankruptcy protections for medically distressed debtors, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2471-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Medical Bankruptcy Fairness Act of 2014", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Shea-Porter, Carol", 
+    "state": "NH", 
+    "thomas_id": "01861", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-19", 
+  "subjects": [
+    "Bankruptcy", 
+    "Finance and financial sector", 
+    "Health care costs and insurance", 
+    "Military operations and strategy", 
+    "Military personnel and dependents", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-19", 
+    "text": "Medical Bankruptcy Fairness Act of 2014 - Amends federal bankruptcy law to cite circumstances under which a medically distressed debtor may elect to exempt from the property of the estate in bankruptcy up to $250,000 of the debtor's aggregate interest in: (1) specified real or personal property that the debtor (or debtor's dependent) uses as a residence, (2) a cooperative that owns the property used as a residence by the debtor or a dependent of the debtor, or (3) a burial plot for the debtor or debtor's dependent.\n\nApplies the same election to certain other property of a medically distressed debtor, including certain retirement funds held in a tax-exempt account.\n\nDeclares inapplicable to a medically distressed debtor: (1) certain presumptions that granting relief under Chapter 7 would constitute abuse of Chapter 7, and (2) mandatory court disapproval of a debtor's plan under chapter 13 upon objection by the trustee or the holder of an allowed unsecured claim.\n\nWaives the credit counseling prerequisite for filing for debt relief in the case of a medically distressed debtor.\n\nPermits a medically distressed debtor to discharge in bankruptcy debts for certain educational loans. Requires a debtor who seeks relief as a medically distressed debtor to attest in writing, and under penalty of perjury, that debtor's medical expenses are genuine, and are not specifically incurred to bring the debtor within the meaning of \"medically distressed debtor.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medical Bankruptcy Fairness Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 11 of the United States Code to provide bankruptcy protections for medically distressed debtors, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:46-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4917:@@@L&summ2=m&"
+}

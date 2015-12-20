@@ -1,0 +1,230 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18748339d">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To promote and ensure delivery of high quality special education and related services to students with visual disabilities or who are deaf or hard of hearing through instructional methodologies meeting their unique learning needs; to enhance accountability for the provision of such services, and for other purposes.;
+   		H.R. 4040 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-02-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To promote and ensure delivery of high quality special education and related services to students with visual disabilities or who are deaf or hard of hearing through instructional methodologies meeting their unique learning needs; to enhance accountability for the provision of such services, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4040 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-02-11</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>52 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18748339d</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4040ih</identifier>
+<identifier type="preferred citation">H.R. 4040</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4040_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4040ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4040ih/html/BILLS-113hr4040ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4040ih/pdf/BILLS-113hr4040ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4040ih/xml/BILLS-113hr4040ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-02-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-04-30</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr4040ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Matt Cartwright</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Takano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Steve Stockman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1400et seq.</partNumber>
+  <partNumber>Title 20 Section 1401(3)(A)(i)</partNumber>
+  <partNumber>Title 20 Section 1412</partNumber>
+  <partNumber>Title 20 Section 1412(a)(18)</partNumber>
+  <partNumber>Title 20 Section 1412(a)(3)</partNumber>
+  <partNumber>Title 20 Section 1412(a)(5)</partNumber>
+  <partNumber>Title 20 Section 1414(b)</partNumber>
+  <partNumber>Title 20 Section 1414(d)(1)(B)</partNumber>
+  <partNumber>Title 20 Section 1414(d)(3)(B)(iii)</partNumber>
+  <partNumber>Title 20 Section 1414(d)(3)(B)(iv)</partNumber>
+  <partNumber>Title 20 Section 1416</partNumber>
+  <partNumber>Title 20 Section 1416(a)</partNumber>
+  <partNumber>Title 20 Section 1418</partNumber>
+  <partNumber>Title 20 Section 1432(4)(F)</partNumber>
+  <partNumber>Title 20 Section 1432(4)(G)</partNumber>
+  <partNumber>Title 20 Section 1436(d)(3)</partNumber>
+  <partNumber>Title 20 Section 1450et seq.</partNumber>
+  <partNumber>Title 20 Section 1462(c)(2)</partNumber>
+  <partNumber>Title 20 Section 1462(c)(2)(E)</partNumber>
+  <partNumber>Title 20 Section 1482(d)(2)(A)</partNumber>
+  <partNumber>Title 20 Chapter 6</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1400et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 1401(3)(A)(i)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1412</identifier>
+ <identifier type="USC citation">20 U.S.C. 1412(a)(18)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1412(a)(3)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1412(a)(5)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1414(b)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1414(d)(1)(B)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1414(d)(3)(B)(iii)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1414(d)(3)(B)(iv)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1416</identifier>
+ <identifier type="USC citation">20 U.S.C. 1416(a)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1418</identifier>
+ <identifier type="USC citation">20 U.S.C. 1432(4)(F)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1432(4)(G)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1436(d)(3)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1450et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 1462(c)(2)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1462(c)(2)(E)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1482(d)(2)(A)</identifier>
+ <identifier type="USC citation">20 U.S.C. Chapter 6</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 794</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 794</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr4040ih</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>4040</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <action date="2014-02-11">Mr. Cartwright (for himself, Mr. Takano, and Mr. Stockman) introduced the following bill; which was referred to the Committee on Education and the Workforce</action>
+ <congCommittee authorityId="hsed00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congMember authorityId="2159" bioGuideId="C001090" chamber="H" congress="113" party="D" role="SPONSOR" state="PA">
+                      <name type="parsed">Mr. Cartwright</name>
+                      <name type="authority-fnf">Matt Cartwright</name>
+                      <name type="authority-lnf">Cartwright, Matthew A.</name>
+                      <name type="authority-other">Mr. Matthew Cartwright</name>
+                </congMember>
+ <congMember authorityId="2110" bioGuideId="T000472" chamber="H" congress="113" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Takano</name>
+                      <name type="authority-fnf">Mark Takano</name>
+                      <name type="authority-lnf">Takano, Mark</name>
+                </congMember>
+ <congMember authorityId="1114" bioGuideId="S000937" chamber="H" congress="113" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Stockman</name>
+                      <name type="authority-fnf">Steve Stockman</name>
+                      <name type="authority-lnf">Stockman, Steve</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="20">
+                      <section detail="et seq." number="1400"></section>
+                      <section detail="(3)(A)(i)" number="1401"></section>
+                      <section number="1412"></section>
+                      <section detail="(a)(18)" number="1412"></section>
+                      <section detail="(a)(3)" number="1412"></section>
+                      <section detail="(a)(5)" number="1412"></section>
+                      <section detail="(b)" number="1414"></section>
+                      <section detail="(d)(1)(B)" number="1414"></section>
+                      <section detail="(d)(3)(B)(iii)" number="1414"></section>
+                      <section detail="(d)(3)(B)(iv)" number="1414"></section>
+                      <section number="1416"></section>
+                      <section detail="(a)" number="1416"></section>
+                      <section number="1418"></section>
+                      <section detail="(4)(F)" number="1432"></section>
+                      <section detail="(4)(G)" number="1432"></section>
+                      <section detail="(d)(3)" number="1436"></section>
+                      <section detail="et seq." number="1450"></section>
+                      <section detail="(c)(2)" number="1462"></section>
+                      <section detail="(c)(2)(E)" number="1462"></section>
+                      <section detail="(d)(2)(A)" number="1482"></section>
+                      <chapter number="6"></chapter>
+                </USCode>
+ <USCode title="29">
+                      <section number="794"></section>
+                </USCode>
+</extension>
+</mods>

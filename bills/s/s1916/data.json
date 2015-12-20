@@ -1,0 +1,142 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-14", 
+      "references": [
+        {
+          "reference": "CR S326-327", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-14", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [
+        {
+          "reference": "CR S327", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-16", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "committees": [
+        "SSBK"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held.", 
+      "type": "hearings"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1916-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Johanns, Mike", 
+      "sponsored_at": "2014-01-29", 
+      "state": "NE", 
+      "thomas_id": "01899", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Paul, Rand", 
+      "sponsored_at": "2014-01-14", 
+      "state": "KY", 
+      "thomas_id": "02082", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-09-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-14", 
+  "number": "1916", 
+  "official_title": "A bill to amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to provide for an application process for interested parties to apply for a county to be designated as a rural area, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2672-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "HELP Rural Communities Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "McConnell, Mitch", 
+    "state": "KY", 
+    "thomas_id": "01395", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-01-14", 
+  "subjects": [
+    "Administrative remedies", 
+    "Banking and financial institutions regulation", 
+    "Consumer Financial Protection Bureau", 
+    "Consumer affairs", 
+    "Finance and financial sector", 
+    "Rural conditions and development"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-14", 
+    "text": "Helping Expand Lending Practices in Rural Communities Act of 2014 or the HELP Rural Communities Act of 2014 - Amends the Dodd-Frank Wall Street Reform and Consumer Protection Act to direct the Consumer Financial Protection Bureau (CFPB) to establish an application process under which a person who lives or does business in a state may apply to have a county designated as a rural area for purposes of a federal consumer financial law.\n\nPrescribes criteria for the CFPB to consider when evaluating such an application.\n\nRequires the CFPB to enter each such application into a sortable, downloadable database publicly accessible through its website."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "HELP Rural Communities Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Helping Expand Lending Practices in Rural Communities Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to provide for an application process for interested parties to apply for a county to be designated as a rural area, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1916:@@@L&summ2=m&"
+}

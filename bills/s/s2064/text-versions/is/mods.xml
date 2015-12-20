@@ -1,0 +1,172 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18788941e">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide for the repeal of certain provisions of the Patient Protection and Affordable Care Act that have the effect of rationing health care.;
+   		Four Rationers Repeal Act of 2014;S. 2064 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-03-04</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide for the repeal of certain provisions of the Patient Protection and Affordable Care Act that have the effect of rationing health care.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Four Rationers Repeal Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2064 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-02-27</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>5 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18788941e</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s2064is</identifier>
+<identifier type="preferred citation">S. 2064</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2064_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s2064is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2064is/html/BILLS-113s2064is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2064is/pdf/BILLS-113s2064is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2064is/xml/BILLS-113s2064is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-03-04</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s2064is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Pat Roberts</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Finance</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1315a</partNumber>
+  <partNumber>Title 42 Section 1315anote</partNumber>
+  <partNumber>Title 42 Section 1320a-7b(f)</partNumber>
+  <partNumber>Title 42 Section 1395jjj(b)(4)</partNumber>
+  <partNumber>Title 42 Section 1395w-104note</partNumber>
+  <partNumber>Title 42 Section 1396a(a)</partNumber>
+  <partNumber>Title 42 Section 299b-33</partNumber>
+  <partNumber>Title 42 Section 300gg-13(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1315a</identifier>
+ <identifier type="USC citation">42 U.S.C. 1315anote</identifier>
+ <identifier type="USC citation">42 U.S.C. 1320a-7b(f)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395jjj(b)(4)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-104note</identifier>
+ <identifier type="USC citation">42 U.S.C. 1396a(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 299b-33</identifier>
+ <identifier type="USC citation">42 U.S.C. 300gg-13(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-5</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-5</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-148</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-148</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s2064is</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2064</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Four Rationers Repeal Act of 2014</shortTitle>
+ <action date="2014-02-27">Mr. Roberts introduced the following bill; which was read twice and referred to the Committee on Finance</action>
+ <congCommittee authorityId="ssfi00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Finance</name>
+                      <name type="authority-short">Finance</name>
+                </congCommittee>
+ <congMember authorityId="968" bioGuideId="R000307" chamber="S" congress="113" gpoId="8275" party="R" role="SPONSOR" state="KS">
+                      <name type="parsed">Mr. Roberts</name>
+                      <name type="authority-fnf">Pat Roberts</name>
+                      <name type="authority-lnf">Roberts, Pat</name>
+                </congMember>
+ <law congress="111" isPrivate="false" number="5"></law>
+ <law congress="111" isPrivate="false" number="148"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section number="1315a"></section>
+                      <section detail="note" number="1315a"></section>
+                      <section detail="(f)" number="1320a-7b"></section>
+                      <section detail="(b)(4)" number="1395jjj"></section>
+                      <section detail="note" number="1395w-104"></section>
+                      <section detail="(a)" number="1396a"></section>
+                      <section number="299b-33"></section>
+                      <section detail="(a)" number="300gg-13"></section>
+                </USCode>
+</extension>
+</mods>

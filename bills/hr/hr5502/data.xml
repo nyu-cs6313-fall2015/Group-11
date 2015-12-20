@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="5502" updated="2015-09-01T10:21:01-04:00">
+  <state datetime="2014-09-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-17"/>
+  </status>
+  <introduced datetime="2014-09-17"/>
+  <titles>
+    <title type="short" as="introduced">FAIR Act</title>
+    <title type="short" as="introduced">Fifth Amendment Integrity Restoration Act of 2014</title>
+    <title type="official" as="introduced">To restore the integrity of the Fifth Amendment to the Constitution of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400145"/>
+  <cosponsors>
+    <cosponsor id="412517" joined="2014-09-17"/>
+    <cosponsor id="412213" joined="2014-09-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-17" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-09-17">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-09-17">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-10-28">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="2644"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Civil actions and liability"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Government trust funds"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/2014--Introduced.
+Fifth Amendment Integrity Restoration Act of 2014 or the FAIR Act - Amends the federal criminal code to increase the federal government's burden of proof in civil forfeiture proceedings to clear and convincing evidence. Requires the government, in addition to showing a substantial connection between the seized property and the offense in a forfeiture proceeding, to establish by clear and convincing evidence that the owner of any interest in the seized property intentionally used the property in connection with the offense or knowingly consented or was willfully blind to the use of the property by another in connection with the offense.
+
+Requires proceeds from the disposition of forfeited property to be deposited into the General Fund of the Treasury, rather than to Department of Justice (DOJ) accounts for law enforcement activities.</summary>
+</bill>

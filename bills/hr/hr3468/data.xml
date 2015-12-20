@@ -1,0 +1,98 @@
+<bill session="113" type="h" number="3468" updated="2015-09-01T10:20:09-04:00">
+  <state datetime="2014-12-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-12-18"/>
+  </status>
+  <introduced datetime="2013-11-13"/>
+  <titles>
+    <title type="short" as="introduced">Credit Union Share Insurance Fund Parity Act</title>
+    <title type="short" as="passed house">Credit Union Share Insurance Fund Parity Act</title>
+    <title type="short" as="passed senate">Credit Union Share Insurance Fund Parity Act</title>
+    <title type="short" as="enacted">Credit Union Share Insurance Fund Parity Act</title>
+    <title type="official" as="introduced">To amend the Federal Credit Union Act to extend insurance coverage to amounts held in a member account on behalf of another person, and for other purposes.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="400277" joined="2013-11-13"/>
+    <cosponsor id="412192" joined="2013-11-13"/>
+    <cosponsor id="412305" joined="2013-11-18"/>
+    <cosponsor id="400371" joined="2013-11-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-13" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2013-11-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-11-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-05-06T17:31:00-04:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-05-06T17:31:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3426-3428" label="consideration"/>
+    </action>
+    <action datetime="2014-05-06T17:31:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3468.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-05-06T17:40:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3426" label="text"/>
+    </vote>
+    <action datetime="2014-05-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2014-12-11">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S6608" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-12-11" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-12-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2014-12-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-12-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-252" type="public" datetime="2014-12-18">
+      <text>Became Public Law No: 113-252.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2572"/>
+    <bill relation="unknown" session="113" type="s" number="2698"/>
+    <bill relation="unknown" session="113" type="s" number="2699"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Bankruptcy"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Lawyers and legal services"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/2014--Public Law.
+Credit Union Share Insurance Fund Parity Act - Amends the Federal Credit Union Act regarding insured amounts payable in connection with a bankrupt state-chartered credit union for which the National Credit Union Administration (NCUA) Board is the liquidating agent.
+
+Revises requirements relating to the limitation to the standard maximum share insurance amount ($250,000) for the net amount of share insurance payable to any member at an insured credit union in the event of such a bankruptcy. Applies the limitation also to any person with funds lawfully held in a member account.
+
+Requires the Board to provide pass-through share insurance paid by certain lawyers administering deposits or shares of any interest on a lawyer's trust account (IOLTA), or paid by the escrow agent administering other similar escrow accounts.
+
+Defines "IOLTA" as a system in which lawyers place certain client funds in interest-bearing or dividend-bearing accounts, with the interest or dividends then used to fund programs such as legal service organizations providing services to clients in need.
+
+Treats IOLTAs as escrow accounts for share insurance purposes, and considers them as member accounts if the administering attorney or escrow agent is a member of the insured credit union in which the funds are held.
+
+Declares that nothing in this Act shall be construed as authorizing an insured credit union to accept IOLTA or similar escrow account deposits in an amount greater than authorized under federal or state law.</summary>
+</bill>

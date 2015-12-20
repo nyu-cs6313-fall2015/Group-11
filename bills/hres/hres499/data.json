@@ -1,0 +1,411 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-05", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-05", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Foreign Affairs", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-05", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-05", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-06", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-03-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Immigration and Border Security Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T15:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2268", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Royce moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T15:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2268-2273", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T15:55:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 499.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T16:31:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T19:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2286", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T19:12:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2268-2269", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "117", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 7, 1 Present (Roll no. 117).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres499-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2014-03-05", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Cook, Paul", 
+      "sponsored_at": "2014-03-05", 
+      "state": "CA", 
+      "thomas_id": "02103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Deutch, Theodore E.", 
+      "sponsored_at": "2014-03-05", 
+      "state": "FL", 
+      "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2014-03-05", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Holding, George", 
+      "sponsored_at": "2014-03-05", 
+      "state": "NC", 
+      "thomas_id": "02143", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Holt, Rush", 
+      "sponsored_at": "2014-03-05", 
+      "state": "NJ", 
+      "thomas_id": "01580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "sponsored_at": "2014-03-05", 
+      "state": "MA", 
+      "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2014-03-05", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "sponsored_at": "2014-03-05", 
+      "state": "IL", 
+      "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Marino, Tom", 
+      "sponsored_at": "2014-03-05", 
+      "state": "PA", 
+      "thomas_id": "02053", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2014-03-05", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Perry, Scott", 
+      "sponsored_at": "2014-03-05", 
+      "state": "PA", 
+      "thomas_id": "02157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2014-03-05", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2014-03-05", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Schneider, Bradley S.", 
+      "sponsored_at": "2014-03-06", 
+      "state": "IL", 
+      "thomas_id": "02124", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2014-03-05", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bill", 
+      "sponsored_at": "2014-03-11", 
+      "state": "PA", 
+      "thomas_id": "01681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Sires, Albio", 
+      "sponsored_at": "2014-03-05", 
+      "state": "NJ", 
+      "thomas_id": "01818", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2014-03-05", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-06", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-03-11T19:12:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-05", 
+  "number": "499", 
+  "official_title": "Condemning the violation of Ukrainian sovereignty, independence, and territorial integrity by military forces of the Russian Federation.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "39", 
+    "name": "Royce, Edward R.", 
+    "state": "CA", 
+    "thomas_id": "00998", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-03-11T19:12:00-04:00", 
+  "subjects": [
+    "Conflicts and wars", 
+    "Congressional tributes", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Elections, voting, political campaign regulation", 
+    "Energy storage, supplies, demand", 
+    "Europe", 
+    "Foreign aid and international relief", 
+    "Foreign and international banking", 
+    "Foreign property", 
+    "Human rights", 
+    "Immigration status and procedures", 
+    "International affairs", 
+    "International law and treaties", 
+    "International organizations and cooperation", 
+    "Military operations and strategy", 
+    "Russia", 
+    "Sanctions", 
+    "Sovereignty, recognition, national governance and status", 
+    "Trade restrictions", 
+    "Ukraine", 
+    "United Nations", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-03-11", 
+    "text": "Condemns Russia's military violation of Ukrainian sovereignty, independence, and territorial integrity.\n\n States that Russia's military intervention: (1) is in breach of its United Nations (U.N.) obligations, and of the 1994 Budapest Memorandum on Security Assurances in which it pledged to respect Ukraine's independence and existing borders; and (2) poses a threat to international peace and security.\n\nCalls on Russia to remove its military forces from Ukraine's Crimean peninsula, other than those operating in accordance with its 1997 agreement on the Status and Conditions of the Black Sea Fleet Stationing on the Territory of Ukraine, and to refrain from interference in all regions of Ukraine, including ending support of separatist and paramilitary forces in Crimea.\n\nDeclares that the Ukrainian people have the right to determine their own future free from outside interference.\n\nCommends the Ukrainian government for its restraint and avoidance of military provocations.\n\nCalls on: (1) the Ukrainian government to continue to protect the rights of minority populations within Ukraine, and (2) all Ukrainians to respect the legitimate government authorities in all parts of Ukraine.\n\nCalls for the deployment of independent monitors from the Organization for Security and Cooperation in Europe in Crimea and other areas of Ukraine.\n\nCalls on North Atlantic Treaty Organization (NATO) allies and European Union (EU) member states to suspend military cooperation with Russia.\n\nCalls upon the President and the leaders of other democratic states to boycott the G-8 summit in Sochi, Russia, to convene a G-7 summit in June 2014 that does not include Russia, and to consider expelling Russia from the group.\n\nCalls on the Administration to work with our European allies and other countries to impose visa, financial, trade, and other sanctions on senior Russian officials and others complicit in Russia's intervention, and on appropriate entities.\n\nStates that the United States should participate with its European allies and other countries to provide the Ukrainian government with financial, economic, and technical assistance.\n\nCalls on the United States, its European allies, and other countries and international organizations to provide assistance to ensure that new elections scheduled for May 2014 are free and in full accordance with international standards.\n\nCalls on the United States and its European allies, other countries, and international organizations to develop a long-term strategy to support economic development in Ukraine.\n\n Calls on Ukraine and European countries and former Soviet Republics to support energy diversification to reduce Russian control of energy exports.\n\nSupports Ukrainian efforts to: (1) achieve energy independence, and (2) combat corruption and protect individual rights through an independent judiciary and the rule of law.\n\nAffirms the right of all countries in the region to exercise their sovereign rights within their internationally recognized borders free from outside intervention and to conduct their foreign policy in accordance with their determination of the best interests of their peoples."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Condemning the violation of Ukrainian sovereignty, independence, and territorial integrity by military forces of the Russian Federation.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:18:40-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE499:@@@L&summ2=m&"
+}

@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="5353" updated="2015-09-01T10:20:58-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Medicaid Parity Act of 2014</title>
+    <title type="official" as="introduced">To amend title XIX of the Social Security Act to extend for 5 years payment parity with Medicare for primary care services furnished under the Medicaid program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400240"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2014-11-18"/>
+    <cosponsor id="400162" joined="2014-09-15"/>
+    <cosponsor id="400170" joined="2014-12-11"/>
+    <cosponsor id="400237" joined="2014-11-12"/>
+    <cosponsor id="412575" joined="2014-11-12"/>
+    <cosponsor id="400333" joined="2014-12-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="2229"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Medicaid"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2014--Introduced.
+Medicaid Parity Act of 2014 - Amends title XIX (Medicaid) of the Social Security Act to extend through 2019: (1) Medicaid payment parity with Medicare for primary care services furnished under the Medicaid program, and (2) the increased (to 100%) federal medical assistance percentage (FMAP, or federal matching rate) for additional payments for primary care services.</summary>
+</bill>

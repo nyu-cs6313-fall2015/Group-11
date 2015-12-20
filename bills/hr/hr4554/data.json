@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-09", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Introduction and Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-01", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 29 - 28.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4554-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "sponsored_at": "2014-05-01", 
+      "state": "MO", 
+      "thomas_id": "02137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-01", 
+  "number": "4554", 
+  "official_title": "To amend the securities laws to improve private market offerings, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Restricted Securities Relief Act of 2014", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Mulvaney, Mick", 
+    "state": "SC", 
+    "thomas_id": "02059", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-05-22", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Corporate finance and management", 
+    "Federal preemption", 
+    "Finance and financial sector", 
+    "Licensing and registrations", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-05-01", 
+    "text": "Restricted Securities Relief Act of 2014 - Directs the Securities and Exchange Commission (SEC) to revise specified regulations to: (1) reduce from six to three months the holding period for restricted securities issued by an issuer that is, and has been for at least 90 days immediately before the sale, subject to certain reporting requirements of the Securities Exchange Act of 1934; and (2) permit a securities issuer with no or nominal operations and no or nominal non-cash assets that has ceased to be such an issuer to sell its securities two years after filing with the SEC a Form 8-K stating that it is no longer an issuer with no or nominal operations and no or nominal non-cash assets.\n\nAmends the Securities Act of 1933 to exempt from any state or local registration or qualification requirements any security offered or sold in compliance with specified conditions for private resales of securities to institutions."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restricted Securities Relief Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the securities laws to improve private market offerings, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:36-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4554:@@@L&summ2=m&"
+}

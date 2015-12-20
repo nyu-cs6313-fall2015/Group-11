@@ -1,0 +1,59 @@
+<bill session="113" type="sc" number="30" updated="2015-09-01T10:21:27-04:00">
+  <state datetime="2013-12-26T12:09:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2013-12-26T12:09:00-05:00"/>
+  </status>
+  <introduced datetime="2013-12-20"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution providing for a conditional adjournment or recess of the Senate and an adjournment of the House of Representatives.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-12-20" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9115" label="consideration"/>
+      <reference ref="CR S9115" label="text as passed Senate"/>
+      <reference ref="CR S9109-9110" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2013-12-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-12-23T10:03:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-12-23T11:04:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2013-12-26T12:02:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H8133-8134" label="consideration"/>
+    </action>
+    <action datetime="2013-12-26T12:04:00-05:00">
+      <text>Prior to the adoption of S. Con. Res. 30, the Chair recognized Mr. Hoyer for the purpose of reservation of objection.</text>
+    </action>
+    <action datetime="2013-12-26T12:08:00-05:00">
+      <text>Mr. Hoyer subsequently withdrew his reservation of objection.</text>
+    </action>
+    <vote how="without objection" type="vote2" datetime="2013-12-26T12:09:00-05:00" where="h" result="pass" state="PASSED:CONCURRENTRES">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H8133" label="text"/>
+    </vote>
+    <action datetime="2013-12-26T12:09:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+    <term name="House of Representatives"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>12/26/2013--Passed House without amendment.
+Declares that when the Senate recesses or adjourns on any day from Friday, December 20, 2013, through Tuesday, December 31, 2013, it stand adjourned until 11:45 a.m. on Friday, January 3, 2014.
+
+Declares that when the House adjourns on any legislative day from Monday, December 23, 2013, through Tuesday, December 31, 2013, it stand adjourned until 11:00 a.m. on Friday, January 3, 2014.</summary>
+</bill>

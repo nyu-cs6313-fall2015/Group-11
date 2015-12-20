@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-14", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3869-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs", 
+      "subcommittee_id": "22"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2014-01-14", 
+      "state": "NY", 
+      "thomas_id": "02041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2014-01-14", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-14", 
+  "number": "3869", 
+  "official_title": "To provide for an equitable management of summer flounder based on geographic, scientific, and economic data and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1757-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Fluke Fairness Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bishop, Timothy H.", 
+    "state": "NY", 
+    "thomas_id": "01740", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-01-14", 
+  "subjects": [
+    "Atlantic Ocean", 
+    "Congressional oversight", 
+    "Fishes", 
+    "Government studies and investigations", 
+    "Hunting and fishing", 
+    "Marine and coastal resources, fisheries", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-14", 
+    "text": "Fluke Fairness Act - Directs the Mid-Atlantic Fishery Management Council to submit for approval by the Secretary of Commerce a modified fishery management plan for the commercial and recreational management of summer flounder, or an amendment to such plan, that: (1) is based on the best scientific information available; (2) reflects changes in the distribution, abundance, and location of summer flounder in establishing distribution of the commercial and recreational catch quotas; (3) considers regional, coastwide, or other management measures that comply with national standards under the Magnuson-Stevens Fishery Conservation and Management Act; and (4) prohibits the allocation of catch quotas on a state-by-state basis using historical landings data that does not reflect the status of the summer flounder stock, based on the most recent scientific information.\n\nRequires the Council, in preparing such modifications or amendments, to consult with the Atlantic States Marine Fisheries Commission.\n\nDirects the Secretary to prepare and approve a plan if the Council fails to submit such modifications or amendments.\n\nRequires a Comptroller General (GAO) report that assesses whether the subsequent implementation of the approved plan complies with national standards."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fluke Fairness Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for an equitable management of summer flounder based on geographic, scientific, and economic data and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:21-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3869:@@@L&summ2=m&"
+}

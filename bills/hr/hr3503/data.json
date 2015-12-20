@@ -1,0 +1,87 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-14", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3503-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-11-14", 
+  "number": "3503", 
+  "official_title": "To authorize the award of the Distinguished Service Cross to Robert L. Towles for acts of valor during the Vietnam War.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "13", 
+    "name": "Ryan, Tim", 
+    "state": "OH", 
+    "thomas_id": "01756", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-11-14", 
+  "subjects": [
+    "Private legislation"
+  ], 
+  "subjects_top_term": "Private legislation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-11-14", 
+    "text": "Authorizes the Secretary of the Army to award the Distinguished Service Cross to Robert L. Towles for acts of valor during the Vietnam War, notwithstanding otherwise applicable time limitations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the award of the Distinguished Service Cross to Robert L. Towles for acts of valor during the Vietnam War.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3503:@@@L&summ2=m&"
+}

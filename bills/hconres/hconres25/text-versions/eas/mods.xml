@@ -1,0 +1,228 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18640a1c4">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Concurrent resolution establishing the budget for the United States Government for fiscal year 2014 and setting forth appropriate budgetary levels for fiscal years 2015 through 2023.;
+   		H. Con. Res. 25 (EAS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-10-17</dateIngested>
+</extension>
+<titleInfo>
+ <title>Concurrent resolution establishing the budget for the United States Government for fiscal year 2014 and setting forth appropriate budgetary levels for fiscal years 2015 through 2023.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H. Con. Res. 25 (EAS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-10-16</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>134 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/9:</classification>
+<identifier type="local">P0b002ee18640a1c4</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hconres25eas</identifier>
+<identifier type="preferred citation">H. Con. Res. 25</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325575</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House concurrent resolutions</identifier>
+<identifier type="former package identifier">f:hc25eas.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hconres25eas/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hconres25eas/html/BILLS-113hconres25eas.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hconres25eas/pdf/BILLS-113hconres25eas.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hconres25eas/xml/BILLS-113hconres25eas.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-10-17</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-04-30</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hconres25eas</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 633(a)</partNumber>
+  <partNumber>Title 2 Section 901a</partNumber>
+  <partNumber>Title 2 Section 901(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 633(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 901a</identifier>
+ <identifier type="USC citation">2 U.S.C. 901(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1105</partNumber>
+  <partNumber>Title 31 Chapter 69</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1105</identifier>
+ <identifier type="USC citation">31 U.S.C. Chapter 69</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 39 Section 2009a</partNumber>
+</titleInfo>
+ <identifier type="USC citation">39 U.S.C. 2009a</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 10601</partNumber>
+  <partNumber>Title 42 Section 247d-6b</partNumber>
+  <partNumber>Title 42 Section 247d-7e</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 10601</identifier>
+ <identifier type="USC citation">42 U.S.C. 247d-6b</identifier>
+ <identifier type="USC citation">42 U.S.C. 247d-7e</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 116 Page 2322</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">116 Stat.	2322</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 122 Page 1651</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">122 Stat.	1651</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 98-473</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 98-473</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 106-393</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 106-393</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-297</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-297</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-246</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-246</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-148</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-148</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-152</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-152</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-240</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-240</identifier>
+</relatedItem>
+<extension>
+ <docClass>hconres</docClass>
+ <accessId>BILLS-113hconres25eas</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>25</billNumber>
+ <billVersion reprint="false">eas</billVersion>
+ <fileSuffix>eas</fileSuffix>
+ <law congress="98" isPrivate="false" number="473"></law>
+ <law congress="106" isPrivate="false" number="393"></law>
+ <law congress="107" isPrivate="false" number="297"></law>
+ <law congress="110" isPrivate="false" number="246"></law>
+ <law congress="111" isPrivate="false" number="148"></law>
+ <law congress="111" isPrivate="false" number="152"></law>
+ <law congress="112" isPrivate="false" number="240"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section detail="(a)" number="633"></section>
+                      <section number="901a"></section>
+                      <section detail="(c)" number="901"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="1105"></section>
+                      <chapter number="69"></chapter>
+                </USCode>
+ <USCode title="39">
+                      <section number="2009a"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="10601"></section>
+                      <section number="247d-6b"></section>
+                      <section number="247d-7e"></section>
+                </USCode>
+ <statuteAtLarge volume="116">
+                      <pages pages="2322"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="122">
+                      <pages pages="1651"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

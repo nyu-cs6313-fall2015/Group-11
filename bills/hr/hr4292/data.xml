@@ -1,0 +1,90 @@
+<bill session="113" type="h" number="4292" updated="2015-09-01T10:20:30-04:00">
+  <state datetime="2014-05-06T18:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-05-06T18:57:00-04:00"/>
+  </status>
+  <introduced datetime="2014-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Foreign Cultural Exchange Jurisdictional Immunity Clarification Act</title>
+    <title type="short" as="reported to house">Foreign Cultural Exchange Jurisdictional Immunity Clarification Act</title>
+    <title type="short" as="passed house">Foreign Cultural Exchange Jurisdictional Immunity Clarification Act</title>
+    <title type="official" as="introduced">To amend chapter 97 of title 28, United States Code, to clarify the exception to foreign sovereign immunity set forth in section 1605(a)(3) of such title.</title>
+  </titles>
+  <sponsor id="400071"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2014-03-25"/>
+    <cosponsor id="400080" joined="2014-03-25"/>
+    <cosponsor id="400154" joined="2014-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-03-26">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2014-03-31">
+      <text>Subcommittee on the Constitution and Civil Justice Discharged.</text>
+    </action>
+    <action datetime="2014-04-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-04-02" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-05-06T14:27:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 113-435.</text>
+    </action>
+    <calendar datetime="2014-05-06T14:27:00-04:00" calendar="Union" number="323">
+      <text>Placed on the Union Calendar, Calendar No. 323.</text>
+    </calendar>
+    <action datetime="2014-05-06T17:41:00-04:00">
+      <text>Mr. Chabot moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-05-06T17:41:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3428-3430" label="consideration"/>
+    </action>
+    <action datetime="2014-05-06T17:41:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4292.</text>
+    </action>
+    <action datetime="2014-05-06T17:54:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-05-06T18:31:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3433-3434" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="194" datetime="2014-05-06T18:57:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 4 (Roll no. 194).</text>
+      <reference ref="CR H3428-3429" label="text"/>
+    </vote>
+    <action datetime="2014-05-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Cultural exchanges and relations"/>
+    <term name="Government liability"/>
+    <term name="International law and treaties"/>
+    <term name="Jurisdiction and venue"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Property rights"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2014--Passed House without amendment.
+Foreign Cultural Exchange Jurisdictional Immunity Clarification Act - Amends the federal judicial code with respect to denial of a foreign state's immunity from the jurisdiction of U.S. or state courts (under the Foreign Sovereign Immunities Act) in cases where rights in property taken in violation of international law are in issue and that property (or any property exchanged for it) is: (1) present in the United States in connection with a commercial activity carried on by the foreign state in the United States; or (2) owned by an agency or instrumentality of the foreign state, and that agency or instrumentality is engaged in a commercial activity in the United States.
+
+Prohibits consideration as a commercial activity (excluded from jurisdictional immunity) any activity in the United States of a foreign state, or of any carrier, associated with a temporary exhibition or display if: (1) the work of art (or other object of cultural significance) is imported into the United States from any foreign country pursuant to an agreement for its temporary exhibition or display between a foreign state that is its owner or custodian and the United States or cultural or educational institutions within it; and (2) the President has determined, with notice in the Federal Register, that such work is culturally significant and its temporary exhibition or display is in the national interest. (Thus, grants jurisdictional immunity to the foreign state and associated carrier for such works.)
+
+Denies application of this prohibition to cases concerning rights in property taken in violation of international law in which: (1) the action is based upon a claim that the work was taken between January 30, 1933, and May 8, 1945, by the government of Germany or any government in Europe occupied, assisted, or allied by the German government; (2) the court determines that the activity associated with the exhibition or display is commercial; and (3) that determination is necessary for the court to exercise jurisdiction over the foreign state.</summary>
+</bill>

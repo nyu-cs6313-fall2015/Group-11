@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-15", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-03", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs Subcommittee on National Security and  International Trade and Finance", 
+      "committees": [
+        "SSBK"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Banking, Housing, and Urban Affairs Subcommittee on National Security and  International Trade and Finance. Hearings held.", 
+      "type": "hearings"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1927-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK", 
+      "subcommittee": "Subcommittee on National Security and International Trade and Finance", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2014-01-15", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-02-03", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-15", 
+  "number": "1927", 
+  "official_title": "A bill to protect information relating to consumers, to require notice of security breaches, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Data Security Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carper, Thomas R.", 
+    "state": "DE", 
+    "thomas_id": "00179", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-01-15", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Bank accounts, deposits, capital", 
+    "Banking and financial institutions regulation", 
+    "Commodity Futures Trading Commission", 
+    "Computer security and identity theft", 
+    "Consumer credit", 
+    "Department of the Treasury", 
+    "Federal Deposit Insurance Corporation (FDIC)", 
+    "Federal Reserve System", 
+    "Federal Trade Commission (FTC)", 
+    "Federal preemption", 
+    "Finance and financial sector", 
+    "Government information and archives", 
+    "Health information and medical records", 
+    "Insurance industry and regulation", 
+    "National Credit Union Administration", 
+    "Right of privacy", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-15", 
+    "text": "Data Security Act of 2014 - Prescribes security procedures which an entity that maintains or communicates sensitive account or personal information must implement and enforce in order to protect the information from an unauthorized use likely to result in substantial harm or inconvenience to the consumer.\n\nGrants exclusive enforcement powers to specified federal regulatory agencies with oversight of financial institutions.\n\nDenies a private right of action, including a class action, regarding any act or practice regulated under this Act.\n\nProhibits any civil or criminal action in state court or under state law relating to any act or practice governed under this Act.\n\nPrescribes data security standards to be implemented by federal agencies.\n\nPreempts state law with respect to the responsibilities of any person to protect against and investigate such data security breaches and mitigate any losses or harm resulting from them."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Data Security Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to protect information relating to consumers, to require notice of security breaches, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1927:@@@L&summ2=m&"
+}

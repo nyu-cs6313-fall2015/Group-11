@@ -1,0 +1,104 @@
+<bill session="113" type="h" number="5019" updated="2015-09-01T10:20:49-04:00">
+  <state datetime="2014-09-08T19:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-09-08T19:04:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-07"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 1335 Jefferson Road in Rochester, New York, as the "Specialist Theodore Matthew Glende Post Office".</title>
+  </titles>
+  <sponsor id="400378"/>
+  <cosponsors>
+    <cosponsor id="400031" joined="2014-07-10"/>
+    <cosponsor id="412221" joined="2014-07-09"/>
+    <cosponsor id="412563" joined="2014-07-10"/>
+    <cosponsor id="400087" joined="2014-07-09"/>
+    <cosponsor id="400122" joined="2014-07-09"/>
+    <cosponsor id="412453" joined="2014-07-09"/>
+    <cosponsor id="412451" joined="2014-07-10"/>
+    <cosponsor id="412454" joined="2014-07-09"/>
+    <cosponsor id="400641" joined="2014-07-09"/>
+    <cosponsor id="400195" joined="2014-07-09"/>
+    <cosponsor id="412561" joined="2014-07-10"/>
+    <cosponsor id="400219" joined="2014-07-10"/>
+    <cosponsor id="400246" joined="2014-07-10"/>
+    <cosponsor id="412297" joined="2014-07-09"/>
+    <cosponsor id="400251" joined="2014-07-09"/>
+    <cosponsor id="412562" joined="2014-07-10"/>
+    <cosponsor id="400257" joined="2014-07-09"/>
+    <cosponsor id="400271" joined="2014-07-09"/>
+    <cosponsor id="412560" joined="2014-07-09"/>
+    <cosponsor id="400289" joined="2014-07-09"/>
+    <cosponsor id="412383" joined="2014-07-09"/>
+    <cosponsor id="400333" joined="2014-07-09"/>
+    <cosponsor id="412393" joined="2014-07-10"/>
+    <cosponsor id="400366" joined="2014-07-10"/>
+    <cosponsor id="412319" joined="2014-07-09"/>
+    <cosponsor id="400416" joined="2014-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-07" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-24" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-09-08T14:45:00-04:00">
+      <text>Mr. Collins (GA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-09-08T14:45:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7253-7254" label="consideration"/>
+    </action>
+    <action datetime="2014-09-08T14:45:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5019.</text>
+    </action>
+    <action datetime="2014-09-08T14:51:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-09-08T18:57:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7275-7276" label="consideration"/>
+    </action>
+    <action datetime="2014-09-08T19:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="roll" type="vote" roll="482" datetime="2014-09-08T19:04:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 482).</text>
+      <reference ref="CR H7253" label="text"/>
+    </vote>
+    <action datetime="2014-09-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2014-11-12">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-11-13">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2014-11-13" calendar="Senate Legislative" under="General Orders" number="594">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 594.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1512"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="New York State"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/2014--Introduced.
+Designates the facility of the United States Postal Service located at 1335 Jefferson Road in Rochester, New York, as the "Specialist Theodore Matthew Glende Post Office."</summary>
+</bill>

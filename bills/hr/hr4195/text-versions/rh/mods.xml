@@ -1,0 +1,189 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee189726246">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend chapter 15 of title 44, United States Code (commonly known as the Federal Register Act), to modernize the Federal Register, and for other purposes.;
+   		Federal Register Modernization Act;H.R. 4195 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-07-04</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend chapter 15 of title 44, United States Code (commonly known as the Federal Register Act), to modernize the Federal Register, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Federal Register Modernization Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4195 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-07-03</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>12 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee189726246</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4195rh</identifier>
+<identifier type="preferred citation">H.R. 4195</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4195_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4195rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4195rh/html/BILLS-113hr4195rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4195rh/pdf/BILLS-113hr4195rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4195rh/xml/BILLS-113hr4195rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-07-04</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-07-04</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr4195rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Darrell E. Issa</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Elijah E. Cummings</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gerald E. &quot;Gerry&quot; Connolly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Oversight and Government Reform</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Section 1501</partNumber>
+  <partNumber>Title 44 Section 1503</partNumber>
+  <partNumber>Title 44 Section 1504</partNumber>
+  <partNumber>Title 44 Section 1505</partNumber>
+  <partNumber>Title 44 Section 1506</partNumber>
+  <partNumber>Title 44 Section 1510</partNumber>
+  <partNumber>Title 44 Chapter 15</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. 1501</identifier>
+ <identifier type="USC citation">44 U.S.C. 1503</identifier>
+ <identifier type="USC citation">44 U.S.C. 1504</identifier>
+ <identifier type="USC citation">44 U.S.C. 1505</identifier>
+ <identifier type="USC citation">44 U.S.C. 1506</identifier>
+ <identifier type="USC citation">44 U.S.C. 1510</identifier>
+ <identifier type="USC citation">44 U.S.C. Chapter 15</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 387</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr4195rh</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>4195</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle>Federal Register Modernization Act</shortTitle>
+ <action date="2014-03-11">Mr. Issa, Mr. Cummings, and Mr. Connolly) introduced the following bill; which was referred to the Committee on Oversight and Government Reform</action>
+ <action date="2014-07-03">Committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action>
+ <congCommittee authorityId="hsgo00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Oversight and Government Reform</name>
+                      <name type="authority-short">Oversight and Government Reform</name>
+                </congCommittee>
+ <congMember authorityId="1640" bioGuideId="I000056" chamber="H" congress="113" gpoId="7854" party="R" role="SPONSOR" state="CA">
+                      <name type="parsed">Mr. Issa</name>
+                      <name type="authority-fnf">Darrell E. Issa</name>
+                      <name type="authority-lnf">Issa, Darrell E.</name>
+                      <name type="authority-other">Darrell Issa</name>
+                </congMember>
+ <congMember authorityId="256" bioGuideId="C000984" chamber="H" congress="113" gpoId="7982" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">, Mr. Cummings</name>
+                      <name type="authority-fnf">Elijah E. Cummings</name>
+                      <name type="authority-lnf">Cummings, Elijah E.</name>
+                      <name type="authority-other">Elijah Cummings</name>
+                </congMember>
+ <congMember authorityId="1959" bioGuideId="C001078" chamber="H" congress="113" gpoId="8202" party="D" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Connolly</name>
+                      <name type="authority-fnf">Gerald E. &quot;Gerry&quot; Connolly</name>
+                      <name type="authority-lnf">Connolly, Gerald E. &quot;Gerry&quot;</name>
+                      <name type="authority-other">Gerald Connolly</name>
+                </congMember>
+ <congCalendar congress="113" number="387" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="44">
+                      <section number="1501"></section>
+                      <section number="1503"></section>
+                      <section number="1504"></section>
+                      <section number="1505"></section>
+                      <section number="1506"></section>
+                      <section number="1510"></section>
+                      <chapter number="15"></chapter>
+                </USCode>
+</extension>
+</mods>

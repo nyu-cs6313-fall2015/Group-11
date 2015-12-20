@@ -1,0 +1,207 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee185f37634">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To encourage the State of Alaska to enter into intergovernmental agreements with Indian tribes in the State relating to the enforcement of certain State laws by Indian tribes, to improve the quality of life in rural Alaska, to reduce alcohol and drug abuse, and for other purposes.;
+   		Alaska Safe Families and Villages Act of 2013;S. 1474 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-08-13</dateIngested>
+</extension>
+<titleInfo>
+ <title>To encourage the State of Alaska to enter into intergovernmental agreements with Indian tribes in the State relating to the enforcement of certain State laws by Indian tribes, to improve the quality of life in rural Alaska, to reduce alcohol and drug abuse, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Alaska Safe Families and Villages Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1474 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-08-01</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>13 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee185f37634</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1474is</identifier>
+<identifier type="preferred citation">S. 1474</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1474_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1474is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1474is/html/BILLS-113s1474is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1474is/pdf/BILLS-113s1474is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1474is/xml/BILLS-113s1474is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-08-13</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1474is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mark Begich</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lisa Murkowski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Indian Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 1162</partNumber>
+  <partNumber>Title 18 Section 2265note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 1162</identifier>
+ <identifier type="USC citation">18 U.S.C. 2265note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 1301et seq.</partNumber>
+  <partNumber>Title 25 Section 479a</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 1301et seq.</identifier>
+ <identifier type="USC citation">25 U.S.C. 479a</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 124 Page 2261</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">124 Stat.	2261</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 127 Page 54</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">127 Stat.	54</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 90-284</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 90-284</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-211</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-211</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-4</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-4</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1474is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1474</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Alaska Safe Families and Villages Act of 2013</shortTitle>
+ <action date="2013-08-01">Mr. Begich (for himself and Ms. Murkowski) introduced the following bill; which was read twice and referred to the Committee on Indian Affairs</action>
+ <congCommittee authorityId="slia00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Indian Affairs</name>
+                      <name type="authority-short">Indian Affairs</name>
+                </congCommittee>
+ <congMember authorityId="1898" bioGuideId="B001265" chamber="S" congress="113" gpoId="8301" party="D" role="SPONSOR" state="AK">
+                      <name type="parsed">Mr. Begich</name>
+                      <name type="authority-fnf">Mark Begich</name>
+                      <name type="authority-lnf">Begich, Mark</name>
+                </congMember>
+ <congMember authorityId="1694" bioGuideId="M001153" chamber="S" congress="113" gpoId="8234" party="R" role="COSPONSOR" state="AK">
+                      <name type="parsed">Ms. Murkowski</name>
+                      <name type="authority-fnf">Lisa Murkowski</name>
+                      <name type="authority-lnf">Murkowski, Lisa</name>
+                </congMember>
+ <law congress="90" isPrivate="false" number="284"></law>
+ <law congress="111" isPrivate="false" number="211"></law>
+ <law congress="113" isPrivate="false" number="4"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="18">
+                      <section number="1162"></section>
+                      <section detail="note" number="2265"></section>
+                </USCode>
+ <USCode title="25">
+                      <section detail="et seq." number="1301"></section>
+                      <section number="479a"></section>
+                </USCode>
+ <statuteAtLarge volume="124">
+                      <pages pages="2261"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="127">
+                      <pages pages="54"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

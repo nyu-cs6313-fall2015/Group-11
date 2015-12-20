@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="3208" updated="2015-09-01T10:20:01-04:00">
+  <state datetime="2013-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-27"/>
+  </status>
+  <introduced datetime="2013-09-27"/>
+  <titles>
+    <title type="official" as="introduced">To clarify that certain natural gas facilities are not subject to the Natural Gas Act.</title>
+  </titles>
+  <sponsor id="412487"/>
+  <cosponsors>
+    <cosponsor id="400114" joined="2013-09-27"/>
+    <cosponsor id="412460" joined="2013-09-27"/>
+    <cosponsor id="400352" joined="2013-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-27" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-10-03">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Industrial facilities"/>
+    <term name="Motor fuels"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2013--Introduced.
+Amends the Natural Gas Act to exclude from its jurisdiction persons who would not otherwise be subject to the Act if the sole reason for inclusion would be the person's construction or operation of a facility not otherwise subject to the Act that liquefies, stores, processes, or delivers natural gas for vehicular natural gas or other end use purposes even though natural gas may be reinjected into an interstate pipeline, as long as such reinjections are incidental to the facility's provision of natural gas for end use purposes and are required by certain facility needs.</summary>
+</bill>

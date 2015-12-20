@@ -1,0 +1,180 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-08", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Immigration and Border Security Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 21 - 11.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-12T16:25:00-05:00", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 113-673.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-12T16:25:00-05:00", 
+      "calendar": "Union", 
+      "number": "505", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 505.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5401-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Chaffetz, Jason", 
+      "sponsored_at": "2014-09-08", 
+      "state": "UT", 
+      "thomas_id": "01956", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2014-09-08", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2014-09-08", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-09-09", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-08", 
+  "number": "5401", 
+  "official_title": "To impose limitations on the immigration status and immigration benefits for Libyan and third country nationals acting on behalf of Libyan entities.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Protecting the Homeland Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gowdy, Trey", 
+    "state": "SC", 
+    "thomas_id": "02058", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-09-10", 
+  "subjects": [
+    "Africa", 
+    "Area studies and international education", 
+    "Aviation and airports", 
+    "Foreign labor", 
+    "Homeland security", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Libya", 
+    "Nuclear power", 
+    "Nuclear weapons"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2014-12-12", 
+    "text": "Protecting the Homeland Act - Terminates the nonimmigrant status of any Libyan national, or of any foreign national acting on behalf of a Libyan entity, who is engaging in aviation maintenance, flight operations, or nuclear-related studies or training.\n\nMakes the following benefits unavailable to any Libyan national or any foreign national acting on behalf of a Libyan entity where the purpose is to engage in, or seek to obtain, aviation maintenance, flight operations, or nuclear-related studies or training:\n\n application for school transfer, application for extension of stay, employment authorization or practical training, request for reinstatement of student status, or application for change of nonimmigrant status."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting the Homeland Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Protecting the Homeland Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To impose limitations on the immigration status and immigration benefits for Libyan and third country nationals acting on behalf of Libyan entities.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:59-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5401:@@@L&summ2=m&"
+}

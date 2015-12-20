@@ -1,0 +1,135 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-07-31", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-09-13", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-09-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2884-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Courts, Intellectual Property, and the Internet", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2013-08-02", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-07-31", 
+  "number": "2884", 
+  "official_title": "To require the Attorney General to make competitive grants to State, tribal, and local governments to establish and maintain witness protection and assistance programs.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1418-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Witness Security and Protection Grant Program Act of 2013", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Cummings, Elijah E.", 
+    "state": "MD", 
+    "thomas_id": "00256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-07-31", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Drug trafficking and controlled substances", 
+    "Evidence and witnesses", 
+    "Juvenile crime and gang violence", 
+    "Law enforcement administration and funding", 
+    "Organized crime", 
+    "Performance measurement", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-07-31", 
+    "text": "Witness Security and Protection Grant Program Act of 2013 - Directs the Attorney General to: (1) make competitive grants to state, tribal, and local governments to establish or maintain programs that provide protection or assistance to witnesses in court proceedings involving a homicide, a serious violent felony, a serious drug offense, gangs, or organized crime; (2) evaluate grant applicants based on specified criteria, including the prevalence of witness intimidation and the number of such crimes per capita in the applicant's jurisdiction; (3) provide technical assistance to applicants for establishing or maintaining such programs; and (4) develop and disseminate best practice models to assist such governments in addressing witness safety, short-term and permanent witness relocation, financial and housing assistance, and other necessary witness protection or assistance services. Urges such governments to use such models to evaluate, improve, and develop witness protection or witness assistance programs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Witness Security and Protection Grant Program Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Attorney General to make competitive grants to State, tribal, and local governments to establish and maintain witness protection and assistance programs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:19:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR2884:@@@L&summ2=m&"
+}

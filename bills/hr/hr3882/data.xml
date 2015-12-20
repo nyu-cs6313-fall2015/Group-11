@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="3882" updated="2015-09-01T10:20:21-04:00">
+  <state datetime="2014-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-15"/>
+  </status>
+  <introduced datetime="2014-01-15"/>
+  <titles>
+    <title type="short" as="introduced">National Security Agency Accountability Act</title>
+    <title type="official" as="introduced">To require the Comptroller General to produce annual reports on programs under the Foreign Intelligence Surveillance Act of 1978.</title>
+  </titles>
+  <sponsor id="412407"/>
+  <cosponsors>
+    <cosponsor id="412239" joined="2014-01-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-15" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-01-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-01-15">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2014-03-20">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Business records"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Internet and video services"/>
+    <term name="Specialized courts"/>
+    <term name="Telephone and wireless communication"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2014--Introduced.
+National Security Agency Accountability Act - Amends the Foreign Intelligence Surveillance Act of 1978 to require the Comptroller General to report annually to the House and Senate Intelligence and Judiciary Committees on the effectiveness of the programs and activities carried out under such Act.
+
+Requires each report to include: (1) an analysis of the restrictions placed on access to information obtained under such Act; (2) the number of incidents of non-compliance with such Act and a description of actions taken in response to such incidents; (3) a description of the minimization procedures used to carry out such Act and of how such procedures are verified to be in use and effective; (4) the number of applications made under each appropriate provision of such Act, the number of such applications approved by a court, and the number of times such applications resulted in an oral argument before the court; and (5) the number of times employees of or contractors to the National Security Agency (NSA) search information acquired under such Act.</summary>
+</bill>

@@ -1,0 +1,192 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee189cad4f8">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide for temporary emergency impact aid for local educational agencies.;
+   		Public School Emergency Relief Act;H.R. 5611 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-09-24</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide for temporary emergency impact aid for local educational agencies.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Public School Emergency Relief Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5611 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-09-18</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>14 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee189cad4f8</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5611ih</identifier>
+<identifier type="preferred citation">H.R. 5611</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5611_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5611ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5611ih/html/BILLS-113hr5611ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5611ih/pdf/BILLS-113hr5611ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5611ih/xml/BILLS-113hr5611ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-09-24</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-09-24</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr5611ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Steve Israel</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Peter T. King</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1400et seq.</partNumber>
+  <partNumber>Title 20 Section 1401</partNumber>
+  <partNumber>Title 20 Section 1681</partNumber>
+  <partNumber>Title 20 Section 6801et seq.</partNumber>
+  <partNumber>Title 20 Section 7011</partNumber>
+  <partNumber>Title 20 Section 7703</partNumber>
+  <partNumber>Title 20 Section 7703(b)(3)(B)(i)</partNumber>
+  <partNumber>Title 20 Section 7801</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1400et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 1401</identifier>
+ <identifier type="USC citation">20 U.S.C. 1681</identifier>
+ <identifier type="USC citation">20 U.S.C. 6801et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 7011</identifier>
+ <identifier type="USC citation">20 U.S.C. 7703</identifier>
+ <identifier type="USC citation">20 U.S.C. 7703(b)(3)(B)(i)</identifier>
+ <identifier type="USC citation">20 U.S.C. 7801</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 701</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 701</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 2000det seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 2000det seq.</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr5611ih</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5611</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Public School Emergency Relief Act</shortTitle>
+ <action date="2014-09-18">Mr. Israel (for himself and Mr. King of New York) introduced the following bill; which was referred to the Committee on Education and the Workforce</action>
+ <congCommittee authorityId="hsed00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congMember authorityId="1663" bioGuideId="I000057" chamber="H" congress="113" gpoId="8063" party="D" role="SPONSOR" state="NY">
+                      <name type="parsed">Mr. Israel</name>
+                      <name type="authority-fnf">Steve Israel</name>
+                      <name type="authority-lnf">Israel, Steve</name>
+                </congMember>
+ <congMember authorityId="635" bioGuideId="K000210" chamber="H" congress="113" gpoId="8064" party="R" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. King of New York</name>
+                      <name type="authority-fnf">Peter T. King</name>
+                      <name type="authority-lnf">King, Peter T.</name>
+                      <name type="authority-other">Peter King</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="20">
+                      <section detail="et seq." number="1400"></section>
+                      <section number="1401"></section>
+                      <section number="1681"></section>
+                      <section detail="et seq." number="6801"></section>
+                      <section number="7011"></section>
+                      <section number="7703"></section>
+                      <section detail="(b)(3)(B)(i)" number="7703"></section>
+                      <section number="7801"></section>
+                </USCode>
+ <USCode title="29">
+                      <section number="701"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="2000d"></section>
+                </USCode>
+</extension>
+</mods>

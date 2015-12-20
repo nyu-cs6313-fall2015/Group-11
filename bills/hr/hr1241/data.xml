@@ -1,0 +1,89 @@
+<bill session="113" type="h" number="1241" updated="2015-09-01T10:19:18-04:00">
+  <state datetime="2013-12-03T13:48:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-12-03T13:48:00-05:00"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title type="official" as="introduced">To facilitate a land exchange involving certain National Forest System lands in the Inyo National Forest, and for other purposes.</title>
+  </titles>
+  <sponsor id="412513"/>
+  <cosponsors>
+    <cosponsor id="400618" joined="2013-11-18"/>
+    <cosponsor id="400267" joined="2013-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-18" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-03-28">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-04-24" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2013-12-02T15:18:00-05:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-281.</text>
+    </action>
+    <calendar datetime="2013-12-02T15:18:00-05:00" calendar="Union" number="202">
+      <text>Placed on the Union Calendar, Calendar No. 202.</text>
+    </calendar>
+    <action datetime="2013-12-03T13:44:00-05:00">
+      <text>Mr. McClintock moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-12-03T13:44:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7423" label="consideration"/>
+    </action>
+    <action datetime="2013-12-03T13:44:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1241.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-12-03T13:48:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7423" label="text"/>
+    </vote>
+    <action datetime="2013-12-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+    </action>
+    <calendar datetime="2014-11-13">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-12-10">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-303.</text>
+    </action>
+    <calendar datetime="2014-12-10" calendar="Senate Legislative" under="General Orders" number="643">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 643.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands, Forests, and Mining" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1888"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>12/3/2013--Passed House without amendment.
+Directs the Secretary of Agriculture (USDA), in any land exchange involving the conveyance of certain National Forest System land within the boundaries of Inyo National Forest in California, to accept for acquisition in such exchange certain non-federal lands in California lying outside the boundaries of the Forest, if acquiring them is desirable for National Forest System purposes.
+
+Authorizes the Secretary to accept a cash equalization payment that exceeds 25%. Requires any such payment to be deposited into the Treasury account established under the Sisk Act and made available for the acquisition of land for addition to the System.
+
+Declares that: (1) nothing in this Act shall be construed to grant the Secretary new land exchange authority, and (2) this Act modifies the use of land exchange authorities already available to the Secretary.</summary>
+</bill>

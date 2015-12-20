@@ -1,0 +1,84 @@
+<bill session="113" type="s" number="2921" updated="2015-09-01T10:22:27-04:00">
+  <state datetime="2014-12-16">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-12-16"/>
+  </status>
+  <introduced datetime="2014-11-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the community based outpatient clinic of the Department of Veterans Affairs located at 310 Home Boulevard in Galesburg, Illinois, as the "Lane A. Evans VA Community Based Outpatient Clinic".</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="400222" joined="2014-11-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S5995" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2014-12-03">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S6305" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-12-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6305" label="text"/>
+    </vote>
+    <action datetime="2014-12-04T12:25:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-12-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-12-04">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-12-08T16:45:00-05:00">
+      <text>Mr. Roe (TN) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-12-08T16:45:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8859-8860" label="consideration"/>
+    </action>
+    <action datetime="2014-12-08T16:45:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2921.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2014-12-08T16:55:00-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8859" label="text"/>
+    </vote>
+    <action datetime="2014-12-08T16:55:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2014-12-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-12-16" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-234" type="public" datetime="2014-12-16">
+      <text>Became Public Law No: 113-234.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="5700"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Home and outpatient care"/>
+    <term name="House of Representatives"/>
+    <term name="Illinois"/>
+    <term name="Members of Congress"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>12/16/2014--Public Law.
+Designates the community based outpatient clinic of the Department of Veterans Affairs (VA) located at 310 Home Boulevard in Galesburg, Illinois, as the "Lane A. Evans VA Community Based Outpatient Clinic."</summary>
+</bill>

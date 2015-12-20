@@ -1,0 +1,53 @@
+<bill session="113" type="hc" number="108" updated="2015-09-01T10:21:14-04:00">
+  <state datetime="2014-07-29">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="official" as="introduced">Providing for the correction of the enrollment of H.R. 5021.</title>
+  </titles>
+  <sponsor id="412270"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-17T13:54:00-04:00">
+      <text>Mr. Chaffetz asked unanimous consent to consider as introduced.</text>
+    </action>
+    <action datetime="2014-07-17T13:54:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H6391" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote" datetime="2014-07-17T13:54:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H6391" label="text"/>
+    </vote>
+    <action datetime="2014-07-17T13:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-07-29" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate, pursuant to the order of 7/23/2014, without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5039" label="consideration"/>
+    </vote>
+    <action datetime="2014-07-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Other Legislative Involvement"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="5021"/>
+    <bill relation="unknown" session="113" type="h" number="5021"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2014--Passed Senate without amendment.
+Directs the Clerk of the House of the Representatives to make corrections in the enrollment of H.R. 5021 (Highway and Transportation Funding Act of 2014) by prohibiting the budgetary effects of that Act and its amendments from being entered on the PAYGO scorecards of either the House of Representatives or of the Senate.</summary>
+</bill>

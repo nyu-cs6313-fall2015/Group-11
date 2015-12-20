@@ -1,0 +1,111 @@
+<bill session="113" type="h" number="3362" updated="2015-09-01T10:20:06-04:00">
+  <state datetime="2014-01-16T12:01:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-01-16T12:01:00-05:00"/>
+  </status>
+  <introduced datetime="2013-10-29"/>
+  <titles>
+    <title type="short" as="introduced">Exchange Information Disclosure Act</title>
+    <title type="short" as="passed house">Exchange Information Disclosure Act</title>
+    <title type="official" as="introduced">To amend the Patient Protection and Affordable Care Act to require transparency in the operation of American Health Benefit Exchanges.</title>
+  </titles>
+  <sponsor id="400400"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2013-11-15"/>
+    <cosponsor id="400052" joined="2014-01-07"/>
+    <cosponsor id="412269" joined="2013-10-29"/>
+    <cosponsor id="412457" joined="2013-11-15"/>
+    <cosponsor id="412191" joined="2014-01-07"/>
+    <cosponsor id="412256" joined="2014-01-09"/>
+    <cosponsor id="412445" joined="2013-11-19"/>
+    <cosponsor id="410396" joined="2014-01-09"/>
+    <cosponsor id="412538" joined="2014-01-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-29" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-29">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-10-29">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-11-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-01-08T18:54:00-05:00">
+      <text>Rules Committee Resolution H. Res. 455 Reported to House. The resolution provides for consideration of H.R. 2279, H.R. 3362, and H.R. 3811. In each case, general debate shall be confined to one hour and one motion to recommit is allowed. The resolution specifies certain amendments are in order for H.R. 2279. Further amendments to H.R. 3362 and H.R. 3811 are not in order.</text>
+    </action>
+    <action datetime="2014-01-16T10:13:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 455.</text>
+      <reference ref="CR H1218-1228" label="consideration"/>
+    </action>
+    <action datetime="2014-01-16T10:13:00-05:00">
+      <text>The resolution provides for consideration of H.R. 2279, H.R. 3362, and H.R. 3811. In each case, general debate shall be confined to one hour and one motion to recommit is allowed. The resolution specifies certain amendments are in order for H.R. 2279. Further amendments to H.R. 3362 and H.R. 3811 are not in order.</text>
+    </action>
+    <action datetime="2014-01-16T10:14:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 3362.</text>
+    </action>
+    <action datetime="2014-01-16T11:17:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H1226" label="consideration"/>
+      <reference ref="CR H1226" label="text"/>
+    </action>
+    <action datetime="2014-01-16T11:17:00-05:00">
+      <text>Ms. Clark (MA) moved to recommit with instructions to Energy and Commerce.</text>
+      <reference ref="CR H1226" label="consideration"/>
+    </action>
+    <action datetime="2014-01-16T11:17:00-05:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Clark(MA) motion to recommit with instructions pending reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting a new section on Disclosure of Lower Costs and Additional Health Benefits Provided to Individuals and Families. Subsequently, the reservation was removed.</text>
+    </action>
+    <action datetime="2014-01-16T11:25:00-05:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H1227" label="consideration"/>
+    </action>
+    <action datetime="2014-01-16T11:52:00-05:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 186 - 226 (Roll no. 22).</text>
+      <reference ref="CR H1228" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="23" datetime="2014-01-16T12:01:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 259 - 154 (Roll no. 23).</text>
+    </vote>
+    <action datetime="2014-01-16T12:01:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-01-27">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="hr" number="455"/>
+    <bill relation="rule" session="113" type="hr" number="455"/>
+    <bill relation="identical" session="113" type="s" number="1590"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Government information and archives"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Income tax credits"/>
+    <term name="Internet and video services"/>
+    <term name="Medicaid"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments>
+    <amendment number="h531"/>
+  </amendments>
+  <summary>1/16/2014--Passed House amended.
+Exchange Information Disclosure Act - Amends the Patient Protection and Affordable Care Act to expand reporting requirements related to health care exchanges. Requires the Secretary of Health and Human Services (HHS) to publish reports weekly through March 30, 2015, on: (1) consumer interactions with healthcare.gov or subsequent sites and any efforts undertaken to remedy problems that impact taxpayers and consumers; (2) calls to the federal customer service call center, including the number of calls received by the call center, problems identified by users, and referrals of those calls; (3) all navigators and certified application counselors that have been trained and certified by health care exchanges; and (4) all agents and brokers who have been trained and certified by the federal health care exchange.</summary>
+</bill>

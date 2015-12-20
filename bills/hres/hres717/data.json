@@ -1,0 +1,170 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-09T17:40:00-04:00", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "The House Committee on Rules reported an original measure, H. Rept. 113-584, by Mr. Burgess.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-09T17:40:00-04:00", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-56, modified by the amendment printed in this report, shall be considered as adopted.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-09T17:40:00-04:00", 
+      "calendar": "House", 
+      "number": "138", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the House Calendar, Calendar No. 138.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-09-10T12:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7402-7408", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10T12:45:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 717.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10T13:31:00-04:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 717, the Chair put the question on ordering the previous question, and by voice vote, announced that the ayes had prevailed. Mr. Polis demanded the yeas and nays and the chair postponed fruther proceedings on the question of ordering the previous question until later in the legislative day.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10T15:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7410-7411", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10T15:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7408, H7410-7411", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On ordering the previous question Agreed to by the Yeas and Nays: 227 - 196 (Roll no. 490).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10T15:43:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7402", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "491", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by recorded vote: 233 - 187 (Roll no. 491).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-09-10T15:43:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres717-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-09-09T17:40:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-09-10T15:43:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-09", 
+  "number": "717", 
+  "official_title": "Providing for consideration of the bill (H.R. 3522) to authorize health insurance issuers to continue to offer for sale current group health insurance coverage in satisfaction of the minimum essential health insurance coverage requirement, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3522-113", 
+      "reason": "ruled-by", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "26", 
+    "name": "Burgess, Michael C.", 
+    "state": "TX", 
+    "thomas_id": "01751", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-09-10T15:43:00-04:00", 
+  "subjects": [
+    "Congress", 
+    "House of Representatives", 
+    "Legislative rules and procedure"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-09", 
+    "text": "Sets forth the rule for consideration of the bill (H.R. 3522) to authorize health insurance issuers to continue to offer for sale current group health insurance coverage in satisfaction of the minimum essential health insurance coverage requirement."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the bill (H.R. 3522) to authorize health insurance issuers to continue to offer for sale current group health insurance coverage in satisfaction of the minimum essential health insurance coverage requirement, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:18:46-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE717:@@@L&summ2=m&"
+}

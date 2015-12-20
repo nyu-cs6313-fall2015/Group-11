@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA0346DA12DD34CC4A4AFD8656C4F6F7A" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>113 HR 5781 IH: California Emergency Drought Relief Act of 2014</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2014-12-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 5781</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20141202">December 2, 2014</action-date>
+			<action-desc><sponsor name-id="V000129">Mr. Valadao</sponsor> (for himself, <cosponsor name-id="N000181">Mr. Nunes</cosponsor>, <cosponsor name-id="M001165">Mr. McCarthy of California</cosponsor>, <cosponsor name-id="M001177">Mr. McClintock</cosponsor>, <cosponsor name-id="C000059">Mr. Calvert</cosponsor>, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, and <cosponsor name-id="C001059">Mr. Costa</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide short-term water supplies to drought-stricken California.</official-title>
+	</form>
+	<legis-body id="H3B5425844A0F460698BA66D31D0E8E25" style="OLC">
+		<section id="HEF1EB8DDB40F48F0A39802A9CBE9E993" section-type="section-one"><enum>1.</enum><header>Short title; table of contents</header>
+			<subsection id="HB132E05181534C2398709FB79314385A"><enum>(a)</enum><header>Short title</header><text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>California Emergency Drought Relief Act of 2014</short-title></quote>.</text>
+			</subsection><subsection id="H6FB908FECC1A4DD1AEC02B7695C7263F"><enum>(b)</enum><header>Table of contents</header><text>The table of contents for this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="HEF1EB8DDB40F48F0A39802A9CBE9E993" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="H3EC9CEE32A7243A7A51816AB40BFBB49" level="title">Title I—California Emergency Drought Relief</toc-entry>
+					<toc-entry idref="H8538AD5CC91E408B9A1239D90F73F311" level="section">Sec. 101. Definitions.</toc-entry>
+					<toc-entry idref="HDAD5011C40D248888357D6FA87233614" level="section">Sec. 102. Emergency projects.</toc-entry>
+					<toc-entry idref="H74130E6EBB9D4BACAA27EFA140B933A8" level="section">Sec. 103. Temporary operational flexibility for first few storms of the water year.</toc-entry>
+					<toc-entry idref="H6C5E0FB785AD4E57ADB362B68877B3EA" level="section">Sec. 104. Progress report.</toc-entry>
+					<toc-entry idref="H11C0781FF225432FADDA983CD357ADAE" level="section">Sec. 105. Status of surface storage studies.</toc-entry>
+					<toc-entry idref="HBA11360A02AF45B19F192C509537D5CB" level="title">Title II—Protection of Third-Party Water Rights</toc-entry>
+					<toc-entry idref="H7BE3814872E04DBF90BC1F8727AF5720" level="section">Sec. 201. Offset for State Water Project.</toc-entry>
+					<toc-entry idref="H5F6E87C8C8EF49C7A58E34F57F2EC0FF" level="section">Sec. 202. Area of origin protections.</toc-entry>
+					<toc-entry idref="H758B4FF855384CB08FB50AE70CF57D78" level="section">Sec. 203. No redirected adverse impacts.</toc-entry>
+					<toc-entry idref="H074B72554C824C53A7696C713BFAAF08" level="section">Sec. 204. Allocations For Sacramento Valley Contractors.</toc-entry>
+					<toc-entry idref="HC88A0604F43841369BFAE4C110783CCC" level="title">Title III—Miscellaneous Provisions</toc-entry>
+					<toc-entry idref="HF92C04E3AAC24CDEB6474D0296E89FA1" level="section">Sec. 301. Effect on existing obligations.</toc-entry>
+					<toc-entry idref="HFAFEE6A276584D8A9A8E5DA569D32B8C" level="section">Sec. 302. Termination of authorities.</toc-entry>
+				</toc>
+			</subsection></section><title id="H3EC9CEE32A7243A7A51816AB40BFBB49"><enum>I</enum><header>California Emergency Drought Relief</header>
+			<section id="H8538AD5CC91E408B9A1239D90F73F311"><enum>101.</enum><header>Definitions</header><text display-inline="no-display-inline">In this title:</text>
+				<paragraph id="HFE65E4B887B74B22923BEFB606C09E9F"><enum>(1)</enum><header>Central valley project</header><text>The term <term>Central Valley Project</term> has the meaning given the term in section 3403 of the Central Valley Project Improvement Act (106
+			 Stat. 4707).</text>
+				</paragraph><paragraph id="H08A9019703974DA4A7BED16FB93D17BA"><enum>(2)</enum><header>Delta</header><text>The term <term>Delta</term> means the Sacramento-San Joaquin Delta and the Suisun Marsh, as defined in sections 12220 and
+			 29101 of the California Public Resources Code.</text>
+				</paragraph><paragraph id="HB538BE8C075F499EAC4DD941F2168A1A"><enum>(3)</enum><header>Negative impact on the long-term survival</header><text>The term <term>negative impact on the long-term survival</term> means to reduce appreciably the likelihood of both the survival and recovery of a listed species
+			 in the wild by reducing the reproduction, numbers, or distribution of that
+			 species.</text>
+				</paragraph><paragraph id="HF0FE34B3F9464340ADB795D0A9EAE1CB"><enum>(4)</enum><header>Salmonid biological opinion</header><text>The term <term>salmonid biological opinion</term> means the biological opinion issued by the National Marine Fisheries Service on June 4, 2009.</text>
+				</paragraph><paragraph id="H186FF635003A4B31AF6E132046F4D158"><enum>(5)</enum><header>Secretaries</header><text>The term <term>Secretaries</term> means—</text>
+					<subparagraph id="H96684B4A71D945DE825FF8BE6170BDE4"><enum>(A)</enum><text>the Secretary of Commerce; and</text>
+					</subparagraph><subparagraph id="H1DEBBAFB1CBA461F8BF28FB6AE1450D3"><enum>(B)</enum><text>the Secretary of the Interior.</text>
+					</subparagraph></paragraph><paragraph id="H736D172C682D42A083A7332CB2FACCF7"><enum>(6)</enum><header>Smelt biological opinion</header><text>The term <term>smelt biological opinion</term> means the biological opinion on the Long-Term Operational Criteria and Plan for coordination of
+			 the Central Valley Project and State Water Project issued by the United
+			 States Fish and Wildlife Service on December 15, 2008.</text>
+				</paragraph><paragraph id="H83B370AB9F6946A3B6993F8A4E906B90"><enum>(7)</enum><header>State</header><text>The term <term>State</term> means the State of California.</text>
+				</paragraph><paragraph id="HCC7137BD7DAA43AA9C30513722ADE5AB"><enum>(8)</enum><header>State water project</header><text>The term <term>State Water Project</term> means the water project described by California Water Code section 11550 et seq. and operated by
+			 the California Department of Water Resources.</text>
+				</paragraph></section><section id="HDAD5011C40D248888357D6FA87233614"><enum>102.</enum><header>Emergency projects</header>
+				<subsection id="H443654BAD713477ABC38D96781CCC431"><enum>(a)</enum><header>In general</header><text>Subject to the priority of individuals or entities, including those with Sacramento River
+			 Settlement Contracts, that have priority to the diversion and use of water
+			 over water rights held by the United States for operations of the Central
+			 Valley Project and over rights held by the State for operations of the
+			 State Water Project and the United States obligation to make a substitute
+			 supply of water available to the San Joaquin River Exchange Contractors,
+			 the Secretaries shall direct the operations of the Central Valley Project
+			 and allow the State Water Project to provide the maximum quantity of water
+			 supplies possible to Central Valley Project agricultural, municipal and
+			 industrial, and refuge service and repayment contractors, and State Water
+			 Project contractors, by approving, consistent with applicable laws
+			 (including regulations)—</text>
+					<paragraph id="HD73CA0AE815F46A1B27523C4B67CC18C"><enum>(1)</enum><text>any project or operations to provide additional water supplies if there is any possible way
+			 whatsoever that the Secretaries can do so unless the project or operations
+			 constitute a highly inefficient way of providing additional water
+			 supplies; and</text>
+					</paragraph><paragraph id="H45986E2597CF40AA91AC070A15555A18"><enum>(2)</enum><text>any projects or operations as quickly as possible based on available information to address the
+			 emergency conditions.</text>
+					</paragraph></subsection><subsection id="H77F0A1D4E37841CC916C6423359CBB16"><enum>(b)</enum><header>Mandate</header><text>In carrying out subsection (a), the applicable Secretary shall—</text>
+					<paragraph id="HDD8F13FD219D4C5A9794CCF789344146"><enum>(1)</enum><text display-inline="yes-display-inline">authorize and implement actions to ensure that the Delta Cross Channel Gates remain open to the
+			 maximum extent practicable using findings from the United States
+			 Geological Survey on diurnal behavior of juvenile salmonids, timed to
+			 maximize the peak flood tide period and provide water supply and water
+			 quality benefits, consistent with operational criteria and monitoring set
+			 forth in the California State Water Resources Control Board’s Order
+			 Approving a Temporary Urgency Change in License and Permit Terms in
+			 Response to Drought Conditions, effective January 31, 2014, or a successor
+			 order;</text>
+					</paragraph><paragraph id="H5AE0433267FE4B73A7C12E1EB5BC6BE0"><enum>(2)</enum>
+						<subparagraph commented="no" display-inline="yes-display-inline" id="H9A05086CD7364975944437C85E7F2F09"><enum>(A)</enum><text>implement turbidity control strategies that allow for increased water deliveries for the Central
+			 Valley Project and State Water Project while avoiding a negative impact on
+			 the long-term survival delta smelt (Hypomesus transpacificus) due to
+			 entrainment at Central Valley Project and State Water Project pumping
+			 plants;</text>
+						</subparagraph><subparagraph id="HE84BFD835DD145518370FE7022E89AF9" indent="up1"><enum>(B)</enum><text>operating within the ranges provided for in the smelt biological opinion and the salmonid
+			 biological opinion to minimize water supply reductions for the Central
+			 Valley Project and the State Water Project, manage reverse flow in Old and
+			 Middle Rivers at −5,000 cubic feet per second (cfs) unless current
+			 scientific data indicate a less negative Old and Middle River flow is
+			 necessary to avoid a negative impact on the long-term survival of the
+			 listed species; and</text>
+						</subparagraph><subparagraph display-inline="no-display-inline" id="H08BA43291FEB47459BAF0FD88A723C6D" indent="up1"><enum>(C)</enum><text>show in writing that any determination to manage OMR reverse flow at rates less negative than −5000
+			 cubic feet per second is necessary to avoid a significant negative impact
+			 on the long-term survival of the Delta smelt, including an explanation of
+			 the data examined and the connection between those data and the choice
+			 made prior to reducing pumping to a rate less negative than −5000 cfs;</text>
+						</subparagraph></paragraph><paragraph id="HBB1F24B9FC2C4F979154DE43755DB9BB"><enum>(3)</enum><text>adopt a 1:1 inflow to export ratio for the increment of increased flow of the San Joaquin River, as
+			 measured as a 3-day running average at Vernalis during the period from
+			 April 1 through May 31, resulting from voluntary sale, transfers, or
+			 exchanges of water from agencies with rights to divert water from the San
+			 Joaquin River or its tributaries on the condition that a proposed sale,
+			 transfer, or exchange under this paragraph may only proceed if the
+			 Secretary of the Interior determines that the environmental effects of the
+			 proposed sale, transfer, or exchange are consistent with effects
+			 permissible under applicable law (including regulations), and provided
+			 that Delta conditions are suitable to allow movement of the acquired,
+			 transferred, or exchanged water through the Delta consistent with the
+			 Central Valley Project’s and the State Water Project’s permitted water
+			 rights;</text>
+					</paragraph><paragraph id="HE67ECD57287040B383EDDA32F5C92519"><enum>(4)</enum><text>issue all necessary permit decisions under the authority of the Secretaries within 30 days of
+			 receiving a completed application by the State to place and use temporary
+			 barriers or operable gates in Delta channels to improve water quantity and
+			 quality for Central Valley Project and State Water Project contractors and
+			 other water users, which barriers or gates should provide benefits for
+			 species protection and in-Delta water user water quality and shall be
+			 designed such that formal consultations under section 7 of the Endangered
+			 Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1536">16 U.S.C. 1536</external-xref>) would not be necessary;</text>
+					</paragraph><paragraph id="H0DA75230C5264B29BA0C1DDDF79091A9"><enum>(5)</enum>
+						<subparagraph commented="no" display-inline="yes-display-inline" id="H14DD350485BC445B8C5A087B2A452363"><enum>(A)</enum><text>complete all requirements under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et
+			 seq.) and the Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1531">16 U.S.C. 1531 et seq.</external-xref>)
+			 necessary to make final permit decisions on water transfer requests
+			 associated with voluntarily fallowing nonpermanent crops in the State,
+			 within 30 days of receiving such a request; and</text>
+						</subparagraph><subparagraph id="HA57A93EE61C04596AC8130CC70562002" indent="up1"><enum>(B)</enum><text>allow any water transfer request associated with fallowing to maximize the quantity of water
+			 supplies available for nonhabitat uses as long as the fallowing and
+			 associated water transfer are in compliance with applicable Federal laws
+			 (including regulations);</text>
+						</subparagraph></paragraph><paragraph id="HF06F84A35AFF4F2D8E50B91823B0BEAF"><enum>(6)</enum><text>allow any North of Delta agricultural water service contractor with unused Central Valley Project
+			 water to take delivery of such unused water through April 15, of the
+			 contract year immediately following the contract year in which such water
+			 was allocated, if—</text>
+						<subparagraph id="H551420B9FEF94F7DB1D6A2E96AD6A3FD"><enum>(A)</enum><text>the contractor requests the extension; and</text>
+						</subparagraph><subparagraph id="H7A958DBE38FC4FC6B22BEB6E24916E4C"><enum>(B)</enum><text>the requesting contractor certifies that, without the extension, the contractor would have
+			 insufficient supplies to adequately meet water delivery obligations;</text>
+						</subparagraph></paragraph><paragraph id="HB4CCAF46B2004E4A88971558A6EA58E1"><enum>(7)</enum><text>to the maximum extent possible based on the availability and quality of groundwater and without
+			 causing land subsidence—</text>
+						<subparagraph id="HE5D43DC9522B49ED9720C56C8BA13EC8"><enum>(A)</enum><text>meet the Level 2 and Level 4 water supply needs of units of the National Wildlife Refuge System in
+			 the Central Valley of California, the Gray Lodge, Los Banos, Volta, North
+			 Grasslands, and Mendota State wildlife management areas, and the
+			 Grasslands Resources Conservation District in the Central Valley of
+			 California through the improvement or installation of wells to use
+			 groundwater resources and the purchase of water from willing sellers; and</text>
+						</subparagraph><subparagraph id="H7B22D6E591504B9D8DADC2227AF151F8"><enum>(B)</enum><text>make a quantity of Central Valley Project water obtained from the measures implemented under
+			 subparagraph (A) available to Central Valley Project water service
+			 contractors; and</text>
+						</subparagraph></paragraph><paragraph id="HD2BBD400235B41F1ADA5F07A6070C20B"><enum>(8)</enum><text>implement instream and offsite projects in the Delta and upstream in the Sacramento River and San
+			 Joaquin basins, in coordination with the California Department of Water
+			 Resources and the California Department of Fish and Wildlife, that offset
+			 the effects on species listed as threatened or endangered under the
+			 Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1531">16 U.S.C. 1531 et seq.</external-xref>) due to actions
+			 taken under this Act.</text>
+					</paragraph></subsection><subsection id="H461BABC834C24A5AA2104BB7335CA1E3"><enum>(c)</enum><header>Other agencies</header><text>To the extent that a Federal agency other than agencies headed by the Secretaries has a role in
+			 approving projects described in subsections (a) and (b), the provisions of
+			 this section shall apply to those Federal agencies.</text>
+				</subsection><subsection id="H5CF5B52DA64D4DAFBFDEEA5CA06C1248"><enum>(d)</enum><header>Accelerated project decision and elevation</header>
+					<paragraph id="H3262917C991A4AFE8D519861362079C7"><enum>(1)</enum><header>In general</header><text>Upon the request of the State, the heads of Federal agencies shall use the expedited procedures
+			 under this subsection to make final decisions relating to a Federal
+			 project or operation to provide additional water supplies or address
+			 emergency drought conditions pursuant to subsections (a) and (b).</text>
+					</paragraph><paragraph id="HA7B3F35D5AEB45A6A46A284FCA2AE9D5"><enum>(2)</enum><header>Request for resolution</header>
+						<subparagraph id="H9A391F9D33554A1F83B2EB4513F6E706"><enum>(A)</enum><header>In general</header><text>Upon the request of the State, the head of an agency referred to in subsection (a), or the head of
+			 another Federal agency responsible for carrying out a review of a project,
+			 as applicable, the Secretary of the Interior shall convene a final project
+			 decision meeting with the heads of all relevant Federal agencies to decide
+			 whether to approve a project to provide emergency water supplies.</text>
+						</subparagraph><subparagraph id="H998B215FDBBE4554B7861F3B6C3B4666"><enum>(B)</enum><header>Meeting</header><text>The Secretary of the Interior shall convene a meeting requested under subparagraph (A) not later
+			 than 7 days after receiving the meeting request.</text>
+						</subparagraph></paragraph><paragraph id="HA2AC438D66354E2EA629A89B88C40DA3"><enum>(3)</enum><header>Notification</header><text>Upon receipt of a request for a meeting under this subsection, the Secretary of the Interior shall
+			 notify the heads of all relevant Federal agencies of the request,
+			 including the project to be reviewed and the date for the meeting.</text>
+					</paragraph><paragraph id="HA9D444222AB940B28CACA04CBB3F1205"><enum>(4)</enum><header>Decision</header><text>Not later than 10 days after the date on which a meeting is requested under paragraph (2), the head
+			 of the relevant Federal agency shall issue a final decision on the project
+			 in writing.</text>
+					</paragraph><paragraph id="H622528A37123426C8B516D72E2CC44F4"><enum>(5)</enum><header>Meeting convened by secretary</header><text>The Secretary of the Interior may convene a final project decision meeting under this subsection at
+			 any time, at the discretion of the Secretary, regardless of whether a
+			 meeting is requested under paragraph (2).</text>
+					</paragraph></subsection></section><section id="H74130E6EBB9D4BACAA27EFA140B933A8"><enum>103.</enum><header>Temporary operational flexibility for first few storms of the water year</header>
+				<subsection id="H332723DDC4DE4878BA13A0B6BA1512C8"><enum>(a)</enum><header>In general</header><text>Consistent with avoiding a negative impact on the long-term survival in the short-term upon listed
+			 fish species beyond the range of those authorized under the Endangered
+			 Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1531">16 U.S.C. 1531 et seq.</external-xref>) and other environmental
+			 protections under subsection (d), the Secretaries shall authorize the
+			 Central Valley Project and the State Water Project, combined, to operate
+			 at levels that result in negative Old and Middle River flows at −7500
+			 cubic feet per second (based on United States Geological Survey gauges on
+			 Old and Middle Rivers) daily average for 28 cumulative days after October
+			 1, as described in subsection (b).</text>
+				</subsection><subsection id="H50B51C0351924FBBA90FF8EB4A6C1AC0"><enum>(b)</enum><header>Days of temporary operational flexibility</header><text>The temporary operational flexibility described in subsection (a) shall be authorized on days that
+			 the California Department of Water Resources determines the daily average
+			 river flow of the Sacramento River is at, or above, 17,000 cubic feet per
+			 second as measured at the Sacramento River at Freeport gauge maintained by
+			 the United States Geologic Survey.</text>
+				</subsection><subsection id="H63749227CA584E878CC729DD8FB502E0"><enum>(c)</enum><header>Compliance with ESA authorizations</header><text>In carrying out this section, the Secretaries may continue to impose any requirements under the
+			 smelt and salmonid biological opinions during any period of temporary
+			 operational flexibility as they determine are reasonably necessary to
+			 avoid additional negative impacts on the long-term survival of a listed
+			 fish species beyond the range of those authorized under the Endangered
+			 Species Act of 1973.</text>
+				</subsection><subsection id="HD6E9F9AAFC274A65B5DF2A946733B727"><enum>(d)</enum><header>Other environmental protections</header>
+					<paragraph id="H943BDB2379A24FE59CF259D808F39D62"><enum>(1)</enum><text>The Secretaries’ actions under this section shall be consistent with applicable regulatory
+			 requirements under state law, including State Water Resources Control
+			 Board Decision 1641, as it may be implemented in any given year.</text>
+					</paragraph><paragraph id="H506BE38A32D94FA280B45F55C42388C3"><enum>(2)</enum><text>During the first flush of sediment out of the Delta in each water year, and provided that such
+			 determination is based upon objective evidence, OMR flow may be managed at
+			 rates less negative than −5000 cubic feet per second for a minimum
+			 duration to avoid movement of adult Delta smelt (Hypomesus transpacificus)
+			 to areas in the southern Delta that would be likely to increase
+			 entrainment at Central Valley Project and State Water Project pumping
+			 plants.</text>
+					</paragraph><paragraph id="HC2D2B41CEBBF4EB4BAA309F73281F859"><enum>(3)</enum><text>This section shall not affect the application of the salmonid biological opinion from April 1 to
+			 May 31, unless the Secretary of Commerce finds that some or all of such
+			 applicable requirements may be adjusted during this time period to provide
+			 emergency water supply relief without resulting in additional adverse
+			 effects beyond those authorized under the Endangered Species Act of 1973.
+			 In addition to any other actions to benefit water supply, the Secretary
+			 and the Secretary of Commerce shall consider allowing through-Delta water
+			 transfers to occur during this period.</text>
+					</paragraph><paragraph id="H4F39D94107CF4643BF93E2A33BE8CCE1"><enum>(4)</enum><text>During operations under this section, the Commissioner of Reclamation, in coordination with the
+			 Fish and Wildlife Service, National Marine Fisheries Service, and
+			 California Department of Fish and Wildlife, shall undertake a monitoring
+			 program and other data gathering to ensure incidental take levels are not
+			 exceeded, and to identify potential negative impacts and actions, if any,
+			 necessary to mitigate impacts of the temporary operational flexibility to
+			 species listed under the Endangered Species Act of 1973.</text>
+					</paragraph></subsection><subsection id="H907EB498C7804B558F9310C46C907DE6"><enum>(e)</enum><header>Technical adjustments to target period</header><text>If, before temporary operational flexibility has been implemented on 28 cumulative days, the
+			 Secretaries operate the Central Valley Project and the State Water Project
+			 combined at levels that result in Old and Middle River flows less negative
+			 than −7500 cubic feet per second during days of temporary operational
+			 flexibility as defined in subsection (b), the duration of such operation
+			 shall not be counted toward the 28 cumulative days specified in subsection
+			 (a).</text>
+				</subsection><subsection id="HE5C7D9665A0D4823B92E1863223CD502"><enum>(f)</enum><header>Emergency consultation; effect on running averages</header>
+					<paragraph id="H04914F5C7B3D4C76BC45A092B426FB5C"><enum>(1)</enum><text>If necessary to implement the provisions of this section, the Commissioner shall use the emergency
+			 consultation procedures under the Endangered Species Act of 1973 and its
+			 implementing regulation at section 402.05, title 50, Code of Federal
+			 Regulations, to temporarily adjust the operating criteria under the
+			 biological opinions, solely for the 28 cumulative days of temporary
+			 operational flexibility—</text>
+						<subparagraph id="H76C490F8C6104591B030991399E70E03"><enum>(A)</enum><text>no more than necessary to achieve the purposes of this section consistent with the environmental
+			 protections in subsections (c) and (d); and</text>
+						</subparagraph><subparagraph id="H386262BA5EB6467884F9863DAEE7B2FD"><enum>(B)</enum><text>including, as appropriate, adjustments to ensure that the actual flow rates during the periods of
+			 temporary operational flexibility do not count toward the 5-day and 14-day
+			 running averages of tidally filtered daily Old and Middle River flow
+			 requirements under the biological opinions.</text>
+						</subparagraph></paragraph><paragraph commented="no" id="H6945A506A71743A09BD5F9175262A3C3"><enum>(2)</enum><text>At the conclusion of the 28 cumulative days of temporary operational flexibility, the Commissioner
+			 shall not reinitiate consultation on these adjusted operations, and no
+			 mitigation shall be required, if the effects on listed fish species of
+			 these operations under this section remain within the range of those
+			 authorized under the Endangered Species Act. If the Commissioner
+			 reinitiates consultation, no mitigation measures shall be required.</text>
+					</paragraph></subsection><subsection id="H8526725ADD1244E2B810549B63CE42F3"><enum>(g)</enum><header>Level of detail required for analysis</header><text>In articulating the determinations required under this section, the Secretaries shall fully satisfy
+			 the requirements herein but shall not be expected to provide a greater
+			 level of supporting detail for the analysis than feasible to provide
+			 within the short time frame permitted for timely decision-making in
+			 response to changing conditions in the Delta.</text>
+				</subsection></section><section id="H6C5E0FB785AD4E57ADB362B68877B3EA"><enum>104.</enum><header>Progress report</header><text display-inline="no-display-inline">Ninety days after the date of the enactment of this Act and every 90 days thereafter, the
+			 Secretaries shall provide a progress report describing the implementation
+			 of sections 101, 102, and 103 to the Committee on Natural Resources in the
+			 House of Representatives and the Committee on Energy and Natural Resources
+			 in the Senate.</text>
+			</section><section id="H11C0781FF225432FADDA983CD357ADAE"><enum>105.</enum><header>Status of surface storage studies</header><text display-inline="no-display-inline">One year after the date of the enactment of this Act, the Secretary of the Interior shall provide a
+			 progress report on the status of feasibility studies undertaken pursuant
+			 to section 103(d)(1) to the Committee on Natural Resources in the House of
+			 Representatives and the Committee on Energy and Natural Resources in the
+			 Senate. The report shall include timelines for study completion, draft
+			 environmental impact statements, final environmental impact statements,
+			 and Records of Decision.</text>
+			</section></title><title id="HBA11360A02AF45B19F192C509537D5CB"><enum>II</enum><header>Protection of Third-Party Water Rights</header>
+			<section id="H7BE3814872E04DBF90BC1F8727AF5720"><enum>201.</enum><header>Offset for State Water Project</header>
+				<subsection id="H68001183F662459EA099259CD003E2D1"><enum>(a)</enum><header>Implementation impacts</header><text>The Secretary of the Interior shall confer with the California Department of Fish and Wildlife in
+			 connection with the implementation of this Act on potential impacts to any
+			 consistency determination for operations of the State Water Project issued
+			 pursuant to California Fish and Game Code section 2080.1.</text>
+				</subsection><subsection id="H1FE8B418161C4409AD47A97F6AF59FF0"><enum>(b)</enum><header>Additional yield</header><text>If, as a result of the application of this Act, the California Department of Fish and Wildlife—</text>
+					<paragraph id="HEFB863C32E544A1594582CC2BCE61C24"><enum>(1)</enum><text>revokes the consistency determinations pursuant to California Fish and Game Code section 2080.1
+			 that are applicable to the State Water Project;</text>
+					</paragraph><paragraph id="H48B8C73E268144CF8EB283DB612AC1FE"><enum>(2)</enum><text>amends or issues one or more new consistency determinations pursuant to California Fish and Game
+			 Code section 2080.1 in a manner that directly or indirectly results in
+			 reduced water supply to the State Water Project as compared with the water
+			 supply available under the Smelt Biological Opinion and the Salmonid
+			 Biological Opinion; or</text>
+					</paragraph><paragraph id="HB0C2F3A6D71C4407A7D0026F98ECD8E3"><enum>(3)</enum><text>requires take authorization under section 2081 for operation of the State Water Project in a manner
+			 that directly or indirectly results in reduced water supply to the State
+			 Water Project as compared with the water supply available under the Smelt
+			 Biological Opinion and the Salmonid Biological Opinion,</text></paragraph><continuation-text continuation-text-level="subsection">and as a consequence of the Department’s action, Central Valley Project yield is greater than it
+			 would have been absent the Department’s actions, then that additional
+			 yield shall be made available to the State Water Project for delivery to
+			 State Water Project contractors to offset losses resulting from the
+			 Department’s action.</continuation-text></subsection><subsection id="HA1D796EAC53A471EA712305C15F7B0DB"><enum>(c)</enum><header>Notification related to environmental protections</header><text>The Secretary of the Interior shall immediately notify the Director of the California Department of
+			 Fish and Wildlife in writing if the Secretary of the Interior determines
+			 that implementation of the Biological Opinions consistent with this Act
+			 reduces environmental protections for any species covered by the opinions.</text>
+				</subsection></section><section id="H5F6E87C8C8EF49C7A58E34F57F2EC0FF"><enum>202.</enum><header>Area of origin protections</header>
+				<subsection id="HA09EECEDB27142E6A837625A7299B9DA"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of the Interior is directed, in the operation of the Central Valley Project, to
+			 adhere to California’s water rights laws governing water rights priorities
+			 and to honor water rights senior to those held by the United States for
+			 operation of the Central Valley Project, regardless of the source of
+			 priority, including any appropriative water rights initiated prior to
+			 December 19, 1914, as well as water rights and other priorities perfected
+			 or to be perfected pursuant to California Water Code Part 2 of Division 2.
+			 Article 1.7 (commencing with section 1215 of chapter 1 of part 2 of
+			 division 2, sections 10505, 10505.5, 11128, 11460, 11461, 11462, and
+			 11463, and sections 12200 to 12220, inclusive).</text>
+				</subsection><subsection id="H928B2FF3D7054454A7EB70A9C82501F7"><enum>(b)</enum><header>Diversions</header><text>Any action undertaken by the Secretary of the Interior or the Secretary of Commerce pursuant to
+			 both this Act and section 7 of the Endangered Species Act of 1973 (16
+			 U.S.C. 1531, et seq.) that requires that diversions from the Sacramento
+			 River or the San Joaquin River watersheds upstream of the Delta be
+			 bypassed shall not be undertaken in a manner that alters the water rights
+			 priorities established by California law.</text>
+				</subsection><subsection id="H3D6BB7270C1D40DF9CDEE4CF19621C5B"><enum>(c)</enum><header>NEPA</header><text>Nothing in this title alters the existing authorities provided to and obligations placed upon the
+			 Federal Government under the Endangered Species Act of 1973 (16 U.S.C.
+			 1531, et seq.), as amended.</text>
+				</subsection><subsection id="H291A0286F50E4B90BB2FB3F3EC2C2B19"><enum>(d)</enum><header>Contracts</header><text>With respect to individuals and entities with water rights on the Sacramento River, the mandates of
+			 this section may be met, in whole or in part, through a contract with the
+			 Secretary executed pursuant to section 14 of <external-xref legal-doc="public-law" parsable-cite="pl/76/260">Public Law 76–260</external-xref>, 53 Stat.
+			 1187 (<external-xref legal-doc="usc" parsable-cite="usc/43/389">43 U.S.C. 389</external-xref>) that is in conformance with the Sacramento River
+			 Settlement Contracts renewed by the Secretary in 2005.</text>
+				</subsection></section><section id="H758B4FF855384CB08FB50AE70CF57D78"><enum>203.</enum><header>No redirected adverse impacts</header>
+				<subsection id="H3119FE52E3A84AA1B9E7AAB6C827D86B"><enum>(a)</enum><header>In general</header><text>The Secretary of the Interior shall ensure that, except as otherwise provided for in a water
+			 service or repayment contract, actions taken in compliance with legal
+			 obligations imposed pursuant to or as a result of this Act, including such
+			 actions under section 7 of the Endangered Species Act of 1973 (16 U.S.C.
+			 1531 et seq.) and other applicable Federal and State laws, shall not
+			 directly or indirectly—</text>
+					<paragraph id="H047E6BA425CD47ABAE376F823879A2FC"><enum>(1)</enum><text>result in the involuntary reduction of water supply or fiscal impacts to individuals or districts
+			 who receive water from either the State Water Project or the United States
+			 under water rights settlement contracts, exchange contracts, water service
+			 contracts, repayment contracts, or water supply contracts; or</text>
+					</paragraph><paragraph id="H86CBB0540479427BBAE537549868EF17"><enum>(2)</enum><text>cause redirected adverse water supply or fiscal impacts to those within the Sacramento River
+			 watershed, the San Joaquin River watershed or the State Water Project
+			 service area.</text>
+					</paragraph></subsection><subsection id="H414FF0D9451B4847B06014DBA22721AF"><enum>(b)</enum><header>Costs</header><text>To the extent that costs are incurred solely pursuant to or as a result of this Act and would not
+			 otherwise have been incurred by any entity or public or local agency or
+			 subdivision of the State of California, such costs shall not be borne by
+			 any such entity, agency, or subdivision of the State of California, unless
+			 such costs are incurred on a voluntary basis.</text>
+				</subsection><subsection id="H7E63277EB8534EE1B0C7CA5D0D3C2C88"><enum>(c)</enum><header>Rights and obligations not modified or amended</header><text>Nothing in this Act shall modify or amend the rights and obligations of the parties to any
+			 existing—</text>
+					<paragraph id="H892D7C44C85D4C41A69586C835880BE7"><enum>(1)</enum><text>water service, repayment, settlement, purchase, or exchange contract with the United States,
+			 including the obligation to satisfy exchange contracts and settlement
+			 contracts prior to the allocation of any other Central Valley Project
+			 water; or</text>
+					</paragraph><paragraph id="H72C5842E96DE404991DFF1D15B8492C1"><enum>(2)</enum><text>State Water Project water supply or settlement contract with the State.</text>
+					</paragraph></subsection></section><section id="H074B72554C824C53A7696C713BFAAF08"><enum>204.</enum><header>Allocations For Sacramento Valley Contractors</header>
+				<subsection commented="no" id="H735477B4D72242A09CE14DD8A98F79A1"><enum>(a)</enum><header>Allocations</header>
+					<paragraph id="H862EEBBAD3EC4AC79E768D7C687C771B"><enum>(1)</enum><header>In general</header><text>Subject to paragraph (2) and subsection (b), the Secretary of the Interior is directed, in the
+			 operation of the Central Valley Project, to allocate water provided for
+			 irrigation purposes to existing Central Valley Project agricultural water
+			 service contractors within the Sacramento River Watershed in compliance
+			 with the following:</text>
+						<subparagraph commented="no" id="H254F6D46441143F1B647EFF147CF695F"><enum>(A)</enum><text>Not less than 100 percent of their contract quantities in a <quote>Wet</quote> year.</text>
+						</subparagraph><subparagraph commented="no" id="H04B4F7028BB04FDD85923950FD5E6537"><enum>(B)</enum><text>Not less than 100 percent of their contract quantities in an <quote>Above Normal</quote> year.</text>
+						</subparagraph><subparagraph commented="no" id="H4059C1E1D02943EBA8B17D5AA30D4318"><enum>(C)</enum><text>Not less than 100 percent of their contract quantities in a <quote>Below Normal</quote> year that is preceded by an <quote>Above Normal</quote> or a <quote>Wet</quote> year.</text>
+						</subparagraph><subparagraph commented="no" id="H510987F20FC548BDBBECF251F46FBA8D"><enum>(D)</enum><text>Not less than 50 percent of their contract quantities in a <quote>Dry</quote> year that is preceded by a <quote>Below Normal,</quote> an <quote>Above Normal,</quote> or a <quote>Wet</quote> year.</text>
+						</subparagraph><subparagraph commented="no" id="H3171A412024B474AA73F180242353F09"><enum>(E)</enum><text>In all other years not identified herein, the allocation percentage for existing Central Valley
+			 Project agricultural water service contractors within the Sacramento River
+			 Watershed shall not be less than twice the allocation percentage to
+			 south-of-Delta Central Valley Project agricultural water service
+			 contractors, up to 100 percent; provided, that nothing herein shall
+			 preclude an allocation to existing Central Valley Project agricultural
+			 water service contractors within the Sacramento River Watershed that is
+			 greater than twice the allocation percentage to South-of-Delta Central
+			 Valley Project agricultural water service contractors.</text>
+						</subparagraph></paragraph><paragraph id="H3CEAA86BE9804667A615CBDE2483B97C"><enum>(2)</enum><header>Conditions</header><text>The Secretary’s actions under paragraph (a) shall be subject to—</text>
+						<subparagraph id="H618F9FCB090945FCA09319C404F7D38D"><enum>(A)</enum><text>the priority of individuals or entities with Sacramento River water rights, including those with
+			 Sacramento River Settlement Contracts, that have priority to the diversion
+			 and use of Sacramento River water over water rights held by the United
+			 States for operations of the Central Valley Project;</text>
+						</subparagraph><subparagraph id="H28C141E07A094E2A8D982FA259D26CEE"><enum>(B)</enum><text>the United States obligation to make a substitute supply of water available to the San Joaquin
+			 River Exchange Contractors; and</text>
+						</subparagraph><subparagraph id="HF96E798231144CC0AA667AC13512E128"><enum>(C)</enum><text>the Secretary of the Interior’s obligation to make water available to managed wetlands pursuant to
+			 section 3406(d) of the Central Valley Project Improvement Act, (Public Law
+			 102–575).</text>
+						</subparagraph></paragraph></subsection><subsection id="HE43B259C434A4E6282B83EC8431E9DC1"><enum>(b)</enum><header>Protection of municipal and industrial supplies</header><text>Nothing in subsection (a) shall be deemed to—</text>
+					<paragraph id="H94F13C4EEA7E4A7EABB3C1B717BD5E84"><enum>(1)</enum><text>modify any provision of a water service contract that addresses municipal and industrial water
+			 shortage policies of the Secretary;</text>
+					</paragraph><paragraph id="H9FFDC19460B54146A358FD1F1B7D432A"><enum>(2)</enum><text>affect or limit the authority of the Secretary of the Interior to adopt or modify municipal and
+			 industrial water shortage policies;</text>
+					</paragraph><paragraph id="HE0481C16FCCC4FBFAF0B1F2D6E9CCDD4"><enum>(3)</enum><text>affect or limit the authority of the Secretary of the Interior to implement municipal and
+			 industrial water shortage policies; or</text>
+					</paragraph><paragraph id="H93AD9D19E4D94B8D87DBC8AC56E4B318"><enum>(4)</enum><text>affect allocations to Central Valley Project municipal and industrial contractors pursuant to such
+			 policies.</text></paragraph><continuation-text continuation-text-level="subsection">Neither subsection (a) nor the Secretary of the Interior’s implementation of subsection (a) shall
+			 constrain, govern or affect, directly or indirectly, the operations of the
+			 Central Valley Project’s American River Division or any deliveries from
+			 that Division, its units or its facilities.</continuation-text></subsection><subsection id="H0D756EDAF8E64E33A93AD511FFDB7E87"><enum>(c)</enum><header>No effect on allocations</header><text>This section shall not—</text>
+					<paragraph id="HAE393219709A412CBC93375175CC7647"><enum>(1)</enum><text>affect the allocation of water to Friant Division contractors; or</text>
+					</paragraph><paragraph id="H3F2F02EE0EF240AA8D5212B4E5246293"><enum>(2)</enum><text>result in the involuntary reduction in contract water allocations to individuals or entities with
+			 contracts to receive water from the Friant Division.</text>
+					</paragraph></subsection><subsection id="HBD29F463E39741D3956D7962E43F04FC"><enum>(d)</enum><header>Program for water rescheduling</header><text display-inline="yes-display-inline">The Secretary of the Interior shall direct that the United States Bureau of Reclamation develop and
+			 implement a program, not later than one year after the date of the
+			 enactment of this Act, to provide for the opportunity for existing Central
+			 Valley Project agricultural water service contractors within the
+			 Sacramento River Watershed to reschedule water, provided for under their
+			 Central Valley Project water service contracts, from one year to the next.</text>
+				</subsection><subsection id="HD7E3FB2BFB03447EBE8056FA956F400C"><enum>(e)</enum><header>Definitions</header><text>In this section:</text>
+					<paragraph id="H76F37E6BADDC4984BEDCF35FF4F10B25"><enum>(1)</enum><text>The term <term>existing Central Valley Project agricultural water service contractors within the Sacramento River
+			 Watershed</term> means water service contractors within the Shasta, Trinity, and Sacramento River Divisions of the
+			 Central Valley Project, that have a water service contract in effect, on
+			 the date of the enactment of this section, that provides water for
+			 irrigation.</text>
+					</paragraph><paragraph id="H92CBDFD1850A4D28AC3F7C60F1EE7083"><enum>(2)</enum><text>The year type terms used in subsection (a) have the meaning given those year types in the
+			 Sacramento Valley Water Year Type (40–30–30) Index.</text>
+					</paragraph></subsection></section></title><title id="HC88A0604F43841369BFAE4C110783CCC"><enum>III</enum><header>Miscellaneous Provisions</header>
+			<section id="HF92C04E3AAC24CDEB6474D0296E89FA1"><enum>301.</enum><header>Effect on existing obligations</header><text display-inline="no-display-inline">Nothing in this Act preempts or modifies any existing obligation of the United States under Federal
+			 reclamation law to operate the Central Valley Project in conformity with
+			 State law, including established water rights priorities.</text>
+			</section><section id="HFAFEE6A276584D8A9A8E5DA569D32B8C"><enum>302.</enum><header>Termination of authorities</header><text display-inline="no-display-inline">This Act shall expire on September 30, 2016, or the date on which the Governor of the State
+			 suspends the state of drought emergency declaration, whichever is later.</text>
+			</section></title></legis-body>
+</bill>
+
+

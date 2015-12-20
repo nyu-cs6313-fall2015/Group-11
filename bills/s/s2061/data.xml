@@ -1,0 +1,67 @@
+<bill session="113" type="s" number="2061" updated="2015-09-01T10:22:12-04:00">
+  <state datetime="2014-09-18">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Preventing Conflicts of Interest with Contractors Act</title>
+    <title type="short" as="reported to senate">Preventing Conflicts of Interest with Contractors Act</title>
+    <title type="short" as="passed senate">Preventing Conflicts of Interest with Contractors Act</title>
+    <title type="official" as="introduced">A bill to prevent conflicts of interest relating to contractors providing background investigation fieldwork services and investigative support services.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2014-02-27"/>
+    <cosponsor id="412243" joined="2014-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2014-06-25" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-09-16">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-257.</text>
+    </action>
+    <calendar datetime="2014-09-16" calendar="Senate Legislative" under="General Orders" number="565">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 565.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="2014-09-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+      <reference ref="CR S5873-5874" label="consideration"/>
+      <reference ref="CR S5873-5874" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2014-09-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-09-19T12:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-09-19">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Office of Personnel Management (OPM)"/>
+    <term name="Performance measurement"/>
+    <term name="Personnel records"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>9/18/2014--Passed Senate amended.
+Preventing Conflicts of Interest with Contractors Act - Provides that a contract may not be entered into, and an extension of or option on a contract may not be exercised, with a contractor to conduct a quality review process relating to background investigation fieldwork services or background investigation support services if the contractor is performing the services to be reviewed.
+
+Defines, for purposes of this Act:
+
+ "agency" as an executive agency, a military department, an element of the intelligence community, the U.S. Postal Service (USPS), or the Postal Regulatory Commission; "background investigation fieldwork services" as the investigatory fieldwork conducted to determine the eligibility of an individual for logical and physical access to federally-controlled facilities or information systems, suitability or fitness for federal employment, eligibility for access to classified information or to hold a national security sensitive position, or fitness to perform work for or on behalf of the federal government as a contractor or employee, including interviews with individuals who might have relevant knowledge of the individual and reviews of educational and employment records, criminal and other legal records, and credit history; and "quality review process" as performing the final quality review of a background investigation to ensure that investigative, administrative, and other required standards have been met before the completed background investigation is delivered to the adjudicating agency (i.e., the agency that requested the background check and that has final decision-making authority).</summary>
+</bill>

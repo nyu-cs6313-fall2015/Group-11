@@ -1,0 +1,222 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1865c9790">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 38, United States Code, to improve oversight of educational assistance provided under laws administered by the Secretary of Veterans Affairs and the Secretary of Defense, and for other purposes.;
+   		Servicemember Education Reform and Vocational Enhancement Act of 2013;Servicemember Education Reform and Vocational Enhancement Act of 2013;S. 1717 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-11-20</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 38, United States Code, to improve oversight of educational assistance provided under laws administered by the Secretary of Veterans Affairs and the Secretary of Defense, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Servicemember Education Reform and Vocational Enhancement Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>SERVE Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1717 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-11-14</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>24 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee1865c9790</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1717is</identifier>
+<identifier type="preferred citation">S. 1717</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1717_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1717is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1717is/html/BILLS-113s1717is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1717is/pdf/BILLS-113s1717is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1717is/xml/BILLS-113s1717is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-11-20</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1717is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Tim  Kaine</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Saxby Chambliss</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Veterans&apos; Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 2143</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 2143</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1002</partNumber>
+  <partNumber>Title 20 Section 1085(m)</partNumber>
+  <partNumber>Title 20 Section 1088</partNumber>
+  <partNumber>Title 20 Section 1094</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1002</identifier>
+ <identifier type="USC citation">20 U.S.C. 1085(m)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1088</identifier>
+ <identifier type="USC citation">20 U.S.C. 1094</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 2864(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 2864(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 3325</partNumber>
+  <partNumber>Title 38 Section 3672(b)(2)(A)</partNumber>
+  <partNumber>Title 38 Section 3693</partNumber>
+  <partNumber>Title 38 Section 3698</partNumber>
+  <partNumber>Title 38 Section 5902</partNumber>
+  <partNumber>Title 38 Chapter 33</partNumber>
+  <partNumber>Title 38 Chapter 36</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 3325</identifier>
+ <identifier type="USC citation">38 U.S.C. 3672(b)(2)(A)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3693</identifier>
+ <identifier type="USC citation">38 U.S.C. 3698</identifier>
+ <identifier type="USC citation">38 U.S.C. 5902</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 33</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 36</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1395i</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1395i</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1717is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1717</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Servicemember Education Reform and Vocational Enhancement Act of 2013</shortTitle>
+ <shortTitle>SERVE Act of 2013</shortTitle>
+ <action date="2013-11-14">Mr. Kaine (for himself and Mr. Chambliss) introduced the following bill; which was read twice and referred to the Committee on Veterans&apos; Affairs</action>
+ <congCommittee authorityId="ssva00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                      <name type="authority-short">Veterans&apos; Affairs</name>
+                </congCommittee>
+ <congMember authorityId="2176" bioGuideId="K000384" chamber="S" congress="113" party="D" role="SPONSOR" state="VA">
+                      <name type="parsed">Mr. Kaine</name>
+                      <name type="authority-fnf">Tim  Kaine</name>
+                      <name type="authority-lnf">Kaine, Tim</name>
+                      <name type="authority-other">Timothy Michael Kaine</name>
+                </congMember>
+ <congMember authorityId="188" bioGuideId="C000286" chamber="S" congress="113" gpoId="8284" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Chambliss</name>
+                      <name type="authority-fnf">Saxby Chambliss</name>
+                      <name type="authority-lnf">Chambliss, Saxby</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section number="2143"></section>
+                </USCode>
+ <USCode title="20">
+                      <section number="1002"></section>
+                      <section detail="(m)" number="1085"></section>
+                      <section number="1088"></section>
+                      <section number="1094"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="(c)" number="2864"></section>
+                </USCode>
+ <USCode title="38">
+                      <section number="3325"></section>
+                      <section detail="(b)(2)(A)" number="3672"></section>
+                      <section number="3693"></section>
+                      <section number="3698"></section>
+                      <section number="5902"></section>
+                      <chapter number="33"></chapter>
+                      <chapter number="36"></chapter>
+                </USCode>
+ <USCode title="42">
+                      <section number="1395i"></section>
+                </USCode>
+</extension>
+</mods>

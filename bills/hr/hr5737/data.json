@@ -1,0 +1,137 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-19", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Communications and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5737-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Communications and Technology", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2014-12-01", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gohmert, Louie", 
+      "sponsored_at": "2014-11-20", 
+      "state": "TX", 
+      "thomas_id": "01801", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2014-12-03", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2014-11-19", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-19", 
+  "number": "5737", 
+  "official_title": "To prohibit the National Telecommunications and Information Administration from relinquishing responsibilities with respect to Internet domain name functions unless it certifies that it has received a proposal for such relinquishment that meets certain criteria, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Defending Internet Freedom Act of 2014", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kelly, Mike", 
+    "state": "PA", 
+    "thomas_id": "02051", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-19", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Business records", 
+    "Corporate finance and management", 
+    "First Amendment rights", 
+    "Internet and video services", 
+    "Licensing and registrations", 
+    "Public contracts and procurement", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-11-19", 
+    "text": "Defending Internet Freedom Act of 2014 - Prohibits the Assistant Secretary of Commerce for Communications and Information from relinquishing the responsibilities of the National Telecommunications and Information Administration (NTIA) with respect to Internet domain name functions (including Internet Assigned Numbers Authority [IANA] functions) unless the Assistant Secretary certifies to Congress that a proposal has been received that ensures:\n\n control over the management of the Internet domain name system (DNS) will not be exercised by a governmental or intergovernmental body; standards for freedoms of speech, of the press, of assembly, and of association are at least as protective as the First Amendment to the U.S. Constitution; the Internet Corporation for Assigned Names and Numbers (ICANN) will increase the transparency of its deliberations and adopt disclosure procedures that are at least as protective of public access as the Freedom of Information Act; a private, nonprofit corporation, to be known as the IANA Consortium, will be established to manage the content of root zones listing DNS domains available on the Internet; an Internet Freedom Panel will be established to review and veto DNS changes proposed by ICANN that the Panel considers a threat to freedom of expression, the openness, stability, resiliency, or security of the Internet, responsiveness to the user community, or other commitments undertaken by ICANN in the Affirmation of Commitments in effect between the NTIA and ICANN; ICANN will remain subject to U.S. law; the U.S. government will be granted ownership of the \".gov\" and \".mil\" top-level domains and specified servers will be maintained in the United States; audits of ICANN and the IANA Consortium; and establishment of a joint office of inspector general for ICANN and the IANA Consortium. Requires such a certification to also ensure amendments to ICANN bylaws concerning: (1) advice from the Governmental Advisory Committee; (2) a required supermajority of the board of directors for votes regarding changes to bylaws or fees; and (3) terms of office and removal procedures for ICANN's directors, president, secretary, and chief financial officer.\n\nRequires the Assistant Secretary, if such a certification is not submitted to Congress by a specified deadline, to: (1) extend the existing contract between the NTIA and ICANN if an option exists to extend the contract during the base period of performance ending on September 30, 2015, or during subsequent option periods for an extended contract, or (2) seek to enter a new contract subject to certain conditions for the performance of such functions if there is not an option to extend the existing contract."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Defending Internet Freedom Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the National Telecommunications and Information Administration from relinquishing responsibilities with respect to Internet domain name functions unless it certifies that it has received a proposal for such relinquishment that meets certain criteria, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:05-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5737:@@@L&summ2=m&"
+}

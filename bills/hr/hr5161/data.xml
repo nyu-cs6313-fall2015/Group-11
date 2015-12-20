@@ -1,0 +1,95 @@
+<bill session="113" type="h" number="5161" updated="2015-09-01T10:20:52-04:00">
+  <state datetime="2014-09-11T13:23:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-09-11T13:23:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-22"/>
+  <titles>
+    <title type="short" as="introduced">E-LABEL Act</title>
+    <title type="short" as="introduced">Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014</title>
+    <title type="short" as="reported to house">E-LABEL Act</title>
+    <title type="short" as="reported to house">Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014</title>
+    <title type="short" as="passed house">E-LABEL Act</title>
+    <title type="short" as="passed house">Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014</title>
+    <title type="official" as="introduced">To promote the non-exclusive use of electronic labeling for devices licensed by the Federal Communications Commission.</title>
+  </titles>
+  <sponsor id="412256"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2014-07-22"/>
+    <cosponsor id="400124" joined="2014-07-22"/>
+    <cosponsor id="412239" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-22" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-07-25">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-09-08T14:31:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 113-575.</text>
+    </action>
+    <calendar datetime="2014-09-08T14:31:00-04:00" calendar="Union" number="426">
+      <text>Placed on the Union Calendar, Calendar No. 426.</text>
+    </calendar>
+    <action datetime="2014-09-09T18:31:00-04:00">
+      <text>Mr. Latta moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-09-09T18:31:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7349-7350" label="consideration"/>
+    </action>
+    <action datetime="2014-09-09T18:31:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5161.</text>
+    </action>
+    <action datetime="2014-09-09T18:36:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-09-11T13:15:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7438-7439" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="496" datetime="2014-09-11T13:23:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 496).</text>
+      <reference ref="CR 9/9/2014 H7349" label="text"/>
+    </vote>
+    <action datetime="2014-09-11T13:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="2583"/>
+    <bill relation="unknown" session="113" type="s" number="2583"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Computers and information technology"/>
+    <term name="Consumer affairs"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Licensing and registrations"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>9/11/2014--Passed House without amendment.
+Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014 or the E-LABEL Act - Amends the Communications Act of 1934 to require the Federal Communications Commission (FCC) to promulgate regulations or take other appropriate action to allow manufacturers of radiofrequency devices with display the option to use electronic labeling for the equipment in place of affixing physical labels to the equipment.
+
+Defines "radiofrequency device with display" as any equipment or device that: (1) requires the FCC's authorization before the equipment or device may be marketed or sold within the United States, and (2) is capable of digitally displaying required labeling and regulatory information.</summary>
+</bill>

@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-13", 
+      "how": "by Voice Vote", 
+      "references": [
+        {
+          "reference": "S1632", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1632", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-03-13T18:17:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2137-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-13", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-03-13", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-13", 
+  "number": "2137", 
+  "official_title": "A bill to ensure that holders of flood insurance policies under the National Flood Insurance Program do not receive premium refunds for coverage of second homes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Lee, Mike", 
+    "state": "UT", 
+    "thomas_id": "02080", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2014-03-13", 
+  "subjects": [
+    "Disaster relief and insurance", 
+    "Emergency management", 
+    "Floods and storm protection", 
+    "Housing finance and home ownership"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2014-03-13", 
+    "text": "Prohibits the Administrator of the Federal Emergency Management Agency (FEMA) from refunding any flood insurance premium collected in excess of mandatory rates cited in the Homeowner Flood Insurance Affordability Act of 2014, if the premium refund is for flood insurance coverage for a residential property that is not the primary residence of an individual."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to ensure that holders of flood insurance policies under the National Flood Insurance Program do not receive premium refunds for coverage of second homes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2137:@@@L&summ2=m&"
+}

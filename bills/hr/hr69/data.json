@@ -1,0 +1,346 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-01-03", 
+      "references": [
+        {
+          "reference": "CR E11", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-01-03", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-01-31", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-03", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-12-22T16:01:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-685.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-22T16:01:00-05:00", 
+      "calendar": "Union", 
+      "number": "516", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 516.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr69-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs", 
+      "subcommittee_id": "22"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2013-02-04", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2013-02-12", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2013-01-03", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Faleomavaega, Eni F. H.", 
+      "sponsored_at": "2013-01-15", 
+      "state": "AS", 
+      "thomas_id": "00367", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Farr, Sam", 
+      "sponsored_at": "2013-01-15", 
+      "state": "CA", 
+      "thomas_id": "00368", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2013-01-15", 
+      "state": "NY", 
+      "thomas_id": "02041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hanabusa, Colleen W.", 
+      "sponsored_at": "2013-01-15", 
+      "state": "HI", 
+      "thomas_id": "02010", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2013-02-12", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "sponsored_at": "2013-07-08", 
+      "state": "MA", 
+      "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2013-06-05", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "sponsored_at": "2013-02-25", 
+      "state": "CA", 
+      "thomas_id": "02111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2013-01-03", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pierluisi, Pedro R.", 
+      "sponsored_at": "2013-01-03", 
+      "state": "PR", 
+      "thomas_id": "01953", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sablan, Gregorio Kilili Camacho", 
+      "sponsored_at": "2013-01-03", 
+      "state": "MP", 
+      "thomas_id": "01962", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2013-03-04", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2013-03-20", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-04-03", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-01-03", 
+  "number": "69", 
+  "official_title": "To strengthen enforcement mechanisms to stop illegal, unreported, and unregulated fishing, to amend the Tuna Conventions Act of 1950 to implement the Antigua Convention, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s269-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bordallo, Madeleine Z.", 
+    "state": "GU", 
+    "thomas_id": "01723", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advisory bodies", 
+    "Arctic and polar regions", 
+    "Assault and harassment offenses", 
+    "Atlantic Ocean", 
+    "Civil actions and liability", 
+    "Costa Rica", 
+    "Crimes against animals and natural resources", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Customs enforcement", 
+    "Department of Commerce", 
+    "Fishes", 
+    "Foreign aid and international relief", 
+    "Fraud offenses and financial crimes", 
+    "Government information and archives", 
+    "International law and treaties", 
+    "International organizations and cooperation", 
+    "Latin America", 
+    "Licensing and registrations", 
+    "Marine and coastal resources, fisheries", 
+    "Pacific Ocean", 
+    "Public lands and natural resources", 
+    "Seafood", 
+    "Trade restrictions", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2014-12-22", 
+    "text": "Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2014 - Title I: Strengthening Fisheries Enforcement Mechanisms - (Sec. 101) Amends the High Seas Driftnet Fishing Moratorium Protection Act to direct Department of Commerce and Department of Homeland Security (DHS) to enforce that Act and:\n\n the Pacific Salmon Treaty Act of 1985, the Dolphin Protection Consumer Information Act, the Tuna Conventions Act of 1950, the North Pacific Anadromous Stocks Act of 1992, the South Pacific Tuna Act of 1988, the Antarctic Marine Living Resources Convention Act of 1984, the Atlantic Tunas Convention Act of 1975, the Northwest Atlantic Fisheries Convention Act of 1995, the Western and Central Pacific Fisheries Convention Implementation Act, and the North Pacific Halibut Act of 1982. Directs Commerce to prevent a person from violating those Acts in the same manner as though specified enforcement provisions of the Magnuson-Stevens Fishery Conservation and Management Act had been incorporated into each Act, including civil and criminal penalties, permit sanctions, and civil forfeiture procedures. Sets forth additional enforcement authorities relating to searches and seizures, inspections, shipment detentions, the carrying of firearms, arrests, and the execution of subpoenas.\n\nAuthorizes Commerce to: (1) engage in international cooperation to help other nations combat illegal, unreported, and unregulated fishing and achieve sustainable fisheries; and (2) disclose certain enforcement information to state or federal agencies or internationally to ensure compliance with measures Commerce enforces, including international fishery agreements to which the United States is a party.\n\nDirects Commerce to take actions to improve the effectiveness of arrangements made pursuant to an international fishery agreement.\n\nAuthorizes: (1) the development and publication of a list of vessels engaged in illegal, unreported, or unregulated fishing (IUU) or fishing-related activities in support of IUU, including vessels or vessel owners identified by an international fishery management organization or arrangement made pursuant to an international fishery agreement; and (2) taking action against listed vessels.\n\nRevises certain sanctions, including denying port privileges and prohibition of fish and fish product importation, if Commerce has not yet issued a positive certification regarding whether a nation's nationals or vessels engage in IUU.\n\nRequires Commerce to identify in reports on international compliance nations that: (1) violate conservation and management measures required under an international fishery management agreement to which the United States is a party, or (2) fail to effectively address or regulate IUU. Applies the provisions of the Act that apply to nations to other entities that have competency to enter into international fishery management agreements as appropriate.\n\nAuthorizes appropriations through FY2019 for enforcement of the fishery laws mentioned in this title and for the identification of those nations.\n\n(Sec. 102) Amends the High Seas Driftnet Fisheries Enforcement Act to require denial of port privileges and other sanctions for large-scale driftnet fishing vessels of a nation that receives a negative IUU or conservation certification.\n\n(Sec. 107) Amends the Antarctic Marine Living Resources Convention Act of 1984 remove a requirement that, in order to be a violation of the Act, a person knew, or reasonably should have known, that an Antarctic marine living resource was harvested in violation of the Act.\n\n(Sec. 108) Amends the Atlantic Tunas Convention Act of 1975 to remove a requirement for Commerce to submit an annual report on the conservation and management of highly migratory species.\n\n(Sec. 109) Amends the High Seas Fishing Compliance Act of 1995 to void high seas fishing permits if any other required permit or authorization is expired, revoked, or suspended or if the vessel is no longer documented under U.S. laws or eligible for the documentation.\n\n(Sec. 113) Amends the Magnuson-Stevens Fishery Conservation and Management Act to make it unlawful for any person to import, export, transport, sell, acquire, or purchase in interstate or foreign commerce any fish taken, possessed, transported, or sold in violation of any treaty or in contravention of any binding conservation measure adopted by an international agreement or organization to which the United States is a party.\n\nTitle II: Implementation of the Antigua Convention - (Sec. 202) Antigua Convention Implementing Act of 2011 [sic] - Amends the Tuna Conventions Act of 1950 to revise provisions regarding: (1) the Inter-American Tropical Tuna Commission, (2) the General Advisory Committee, (3) the Scientific Advisory Subcommittee, and (4) enforcement.\n\nRepeals the Eastern Pacific Tuna Licensing Act of 1984. Title III: Agreement on Port State Measures to Prevent, Deter, and Eliminate Illegal, Unreported and Unregulated Fishing - Port State Measures Agreement Act of 2014 - Authorizes Commerce to promulgate regulations to carry out the implementation of the Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing, done at the Food and Agriculture Organization of the United Nations, in Rome, Italy, November 22, 2009, and signed by the United States November 22, 2009. (The Agreement provides tools for nations to address IUU fishing and to prevent IUU-caught fish from entering markets and competing with legally-caught fish. It recognizes that all seafood must pass through a port to get to market and allows nations to use inspections to prevent IUU fish from reaching the market.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Antigua Convention Implementing Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To strengthen enforcement mechanisms to stop illegal, unreported, and unregulated fishing, to amend the Tuna Conventions Act of 1950 to implement the Antigua Convention, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T17:49:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR69:@@@L&summ2=m&"
+}

@@ -1,0 +1,270 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-02-15", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-05-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-05-07", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-01-14T12:35:00-05:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Financial Services. H. Rept. 113-325.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-14T12:36:00-05:00", 
+      "calendar": "Union", 
+      "number": "242", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 242.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-01-14T13:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H196", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Garrett moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-14T13:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H196-198", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-14T13:02:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 801.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-14T13:19:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-14T13:59:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H199-200", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-14T14:09:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H196", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "15", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 4 (Roll no. 15).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-01-15", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr801-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Delaney, John K.", 
+      "sponsored_at": "2013-02-15", 
+      "state": "MD", 
+      "thomas_id": "02133", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Himes, James A.", 
+      "sponsored_at": "2013-02-15", 
+      "state": "CT", 
+      "thomas_id": "01913", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "sponsored_at": "2013-05-06", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2013-03-20", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2013-09-09", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "sponsored_at": "2013-02-15", 
+      "state": "MO", 
+      "thomas_id": "02137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-05-07", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-01-14T14:09:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-02-15", 
+  "number": "801", 
+  "official_title": "To amend the Securities Exchange Act of 1934 to make the shareholder threshold for registration of savings and loan holding companies the same as for bank holding companies.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5405-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s872-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Holding Company Registration Threshold Equalization Act of 2014", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Womack, Steve", 
+    "state": "AR", 
+    "thomas_id": "01991", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-01-14T14:09:00-05:00", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Finance and financial sector", 
+    "Licensing and registrations", 
+    "Securities"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2014-01-14", 
+    "text": "Holding Company Registration Threshold Equalization Act of 2014 - Amends the Securities Exchange Act of 1934 to require an issuer that is a savings and loan holding company to register with the Securities and Exchange Commission (SEC) if: (1) its assets exceed $10 million, and (2) it has a class of equity security held of record by 2,000 or more persons.\n\nRequires termination of such registration after a savings and loan holding company certifies that its holders of record of that class of security have been reduced to fewer than 1,200 persons.\n\nSuspends automatically the duty of a savings and loan holding company to file supplementary and periodic information if the securities of each class to which the registration statement relates (other than any class of asset-backed securities) are held of record by fewer than 1,200 persons."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Holding Company Registration Threshold Equalization Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Holding Company Registration Threshold Equalization Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Securities Exchange Act of 1934 to make the shareholder threshold for registration of savings and loan holding companies the same as for bank holding companies.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:19:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR801:@@@L&summ2=m&"
+}

@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="5027" updated="2015-09-01T10:20:50-04:00">
+  <state datetime="2014-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-08"/>
+  </status>
+  <introduced datetime="2014-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Energy Savings and Building Efficiency Act of 2014</title>
+    <title type="official" as="introduced">To promote energy savings in residential and commercial buildings and industry, and for other purposes.</title>
+  </titles>
+  <sponsor id="400032"/>
+  <cosponsors>
+    <cosponsor id="412315" joined="2014-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-07-11">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1616"/>
+    <bill relation="unknown" session="113" type="s" number="761"/>
+    <bill relation="unknown" session="113" type="s" number="1392"/>
+    <bill relation="unknown" session="113" type="s" number="2074"/>
+    <bill relation="unknown" session="113" type="s" number="2262"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Building construction"/>
+    <term name="Education programs funding"/>
+    <term name="Employment and training programs"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Environmental technology"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Government studies and investigations"/>
+    <term name="Higher education"/>
+    <term name="Housing industry and standards"/>
+    <term name="Industrial facilities"/>
+    <term name="Lighting and heating"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

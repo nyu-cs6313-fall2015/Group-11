@@ -1,0 +1,74 @@
+<bill session="113" type="s" number="1800" updated="2015-09-01T10:22:03-04:00">
+  <state datetime="2014-12-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-12-16"/>
+  </status>
+  <introduced datetime="2013-12-11"/>
+  <titles>
+    <title type="short" as="introduced">Bureau of Reclamation Transparency Act</title>
+    <title type="short" as="reported to senate">Bureau of Reclamation Transparency Act</title>
+    <title type="official" as="introduced">A bill to require the Secretary of the Interior to submit to Congress a report on the efforts of the Bureau of Reclamation to manage its infrastructure assets.</title>
+  </titles>
+  <sponsor id="412251"/>
+  <cosponsors>
+    <cosponsor id="412507" joined="2013-12-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2014-02-27">
+      <text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 113-284.</text>
+    </action>
+    <calendar datetime="2014-06-18" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-07-31">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 113-226.</text>
+    </action>
+    <calendar datetime="2014-07-31" calendar="Senate Legislative" under="General Orders" number="513">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 513.</text>
+    </calendar>
+    <action datetime="2014-12-16">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6924-6929" label="consideration"/>
+    </action>
+    <action datetime="2014-12-16">
+      <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+      <reference ref="CR S6926" label="text of measure as reported in Senate"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-12-16" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S6928-6929" label="text"/>
+    </vote>
+    <action datetime="2014-12-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-01-02T13:05:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-01-02T13:16:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Congressional oversight"/>
+    <term name="Dams and canals"/>
+    <term name="Department of the Interior"/>
+    <term name="Government information and archives"/>
+    <term name="Infrastructure development"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4123"/>
+  </amendments>
+  <summary>12/11/2013--Introduced.
+Bureau of Reclamation Transparency Act - Directs the Secretary of the Interior to: (1) report to Congress on the efforts of the Bureau of Reclamation to manage all Reclamation facilities (infrastructure assets owned by the Bureau at Bureau-owned projects) and to standardize and streamline data reporting and processes for purposes of managing such facilities, and (2) update such report biennially. Requires such report to include a detailed assessment of major repair and rehabilitation needs at all such projects and an itemized list of major repair and rehabilitation needs of individual facilities at each project.</summary>
+</bill>

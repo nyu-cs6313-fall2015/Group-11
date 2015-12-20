@@ -1,0 +1,55 @@
+<bill session="113" type="hr" number="555" updated="2015-09-01T10:18:42-04:00">
+  <state datetime="2014-04-29T14:26:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2014-04-29T14:26:00-04:00"/>
+  </status>
+  <introduced datetime="2014-04-28"/>
+  <titles>
+    <title type="official" as="introduced">Providing for consideration of the bill (H.R. 4414) to clarify the treatment under the Patient Protection and Affordable Care Act of health plans in which expatriates are the primary enrollees, and for other purposes.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-04-28T18:37:00-04:00">
+      <text>The House Committee on Rules reported an original measure, H. Rept. 113-422, by Mr. Burgess.</text>
+    </action>
+    <action datetime="2014-04-28T18:37:00-04:00">
+      <text>The resolution provides that the amendment printed in Report No. 113-422 shall be considered as adopted.</text>
+    </action>
+    <calendar datetime="2014-04-28T18:38:00-04:00" state="REPORTED" calendar="House" number="101">
+      <text>Placed on the House Calendar, Calendar No. 101.</text>
+    </calendar>
+    <action datetime="2014-04-29T13:22:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H3261-3266" label="consideration"/>
+    </action>
+    <action datetime="2014-04-29T13:22:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 555.</text>
+    </action>
+    <action datetime="2014-04-29T14:19:00-04:00">
+      <text>On ordering the previous question Agreed to by the Yeas and Nays: 226 - 189 (Roll no. 180).</text>
+      <reference ref="CR H3264-3265" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="181" datetime="2014-04-29T14:26:00-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On agreeing to the resolution Agreed to by recorded vote: 238 - 181 (Roll no. 181).</text>
+      <reference ref="CR H3261" label="text"/>
+    </vote>
+    <action datetime="2014-04-29T14:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="113" type="h" number="4414"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="House of Representatives"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2014--Introduced.
+Sets forth the rule for consideration of the bill (H.R. 4414) to clarify the treatment under the Patient Protection and Affordable Care Act of health plans in which expatriates are the primary enrollees.</summary>
+</bill>

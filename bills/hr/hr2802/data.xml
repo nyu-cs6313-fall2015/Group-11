@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="2802" updated="2015-09-01T10:19:52-04:00">
+  <state datetime="2014-07-14T16:48:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-14T16:48:00-04:00"/>
+  </status>
+  <introduced datetime="2013-07-23"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 418 Liberty Street in Covington, Indiana, as the "Fountain County Veterans Memorial Post Office".</title>
+  </titles>
+  <sponsor id="412426"/>
+  <cosponsors>
+    <cosponsor id="412539" joined="2013-07-23"/>
+    <cosponsor id="412427" joined="2013-07-23"/>
+    <cosponsor id="412258" joined="2013-07-23"/>
+    <cosponsor id="412540" joined="2013-07-23"/>
+    <cosponsor id="412392" joined="2013-07-23"/>
+    <cosponsor id="400417" joined="2013-07-30"/>
+    <cosponsor id="412538" joined="2013-07-23"/>
+    <cosponsor id="412428" joined="2013-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-05-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-05-21" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-07-14T16:40:00-04:00">
+      <text>Mr. Gosar moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-07-14T16:40:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6157-6158" label="consideration"/>
+    </action>
+    <action datetime="2014-07-14T16:40:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2802.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-14T16:48:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6157" label="text"/>
+    </vote>
+    <action datetime="2014-07-14T16:48:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Indiana"/>
+    <term name="Postal service"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2013--Introduced.
+Designates the facility of the United States Postal Service located at 418 Liberty Street in Covington, Indiana, as the "Fountain County Veterans Memorial Post Office."</summary>
+</bill>

@@ -1,0 +1,302 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18a592d3a">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To extend the trade adjustment assistance program, and for other purposes.;
+   		S. 2964 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-12-01</dateIngested>
+</extension>
+<titleInfo>
+ <title>To extend the trade adjustment assistance program, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2964 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-11-20</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>26 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18a592d3a</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s2964is</identifier>
+<identifier type="preferred citation">S. 2964</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2964_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s2964is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2964is/html/BILLS-113s2964is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2964is/pdf/BILLS-113s2964is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2964is/xml/BILLS-113s2964is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-12-01</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s2964is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Sherrod Brown</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael F. Bennet</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Maria Cantwell</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert P. Casey Jr.</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Benjamin L. Cardin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert Menendez</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John D. Rockefeller IV</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Charles E. Schumer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Debbie Stabenow</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Finance</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 19 Section 2271et seq.</partNumber>
+  <partNumber>Title 19 Section 2271note</partNumber>
+  <partNumber>Title 19 Section 2272</partNumber>
+  <partNumber>Title 19 Section 2293(a)</partNumber>
+  <partNumber>Title 19 Section 2293(f)</partNumber>
+  <partNumber>Title 19 Section 2296(a)(2)(A)</partNumber>
+  <partNumber>Title 19 Section 2297</partNumber>
+  <partNumber>Title 19 Section 2298</partNumber>
+  <partNumber>Title 19 Section 2317(a)</partNumber>
+  <partNumber>Title 19 Section 2318(a)</partNumber>
+  <partNumber>Title 19 Section 2318(b)(1)</partNumber>
+  <partNumber>Title 19 Section 2319</partNumber>
+  <partNumber>Title 19 Section 2345(a)</partNumber>
+  <partNumber>Title 19 Section 2372(a)</partNumber>
+  <partNumber>Title 19 Section 2401g(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">19 U.S.C. 2271et seq.</identifier>
+ <identifier type="USC citation">19 U.S.C. 2271note</identifier>
+ <identifier type="USC citation">19 U.S.C. 2272</identifier>
+ <identifier type="USC citation">19 U.S.C. 2293(a)</identifier>
+ <identifier type="USC citation">19 U.S.C. 2293(f)</identifier>
+ <identifier type="USC citation">19 U.S.C. 2296(a)(2)(A)</identifier>
+ <identifier type="USC citation">19 U.S.C. 2297</identifier>
+ <identifier type="USC citation">19 U.S.C. 2298</identifier>
+ <identifier type="USC citation">19 U.S.C. 2317(a)</identifier>
+ <identifier type="USC citation">19 U.S.C. 2318(a)</identifier>
+ <identifier type="USC citation">19 U.S.C. 2318(b)(1)</identifier>
+ <identifier type="USC citation">19 U.S.C. 2319</identifier>
+ <identifier type="USC citation">19 U.S.C. 2345(a)</identifier>
+ <identifier type="USC citation">19 U.S.C. 2372(a)</identifier>
+ <identifier type="USC citation">19 U.S.C. 2401g(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 125 Page 416</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">125 Stat.	416</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-40</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-40</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s2964is</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2964</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <action date="2014-11-20">Mr. Brown (for himself, Mr. Bennet, Ms. Cantwell, Mr. Casey, Mr. Cardin, Mr. Menendez, Mr. Rockefeller, Mr. Schumer, and Ms. Stabenow) introduced the following bill; which was read twice and referred to the Committee on Finance</action>
+ <congCommittee authorityId="ssfi00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Finance</name>
+                      <name type="authority-short">Finance</name>
+                </congCommittee>
+ <congMember authorityId="136" bioGuideId="B000944" chamber="S" congress="113" gpoId="8309" party="D" role="SPONSOR" state="OH">
+                      <name type="parsed">Mr. Brown</name>
+                      <name type="authority-fnf">Sherrod Brown</name>
+                      <name type="authority-lnf">Brown, Sherrod</name>
+                </congMember>
+ <congMember authorityId="1965" bioGuideId="B001267" chamber="S" congress="113" gpoId="8302" party="D" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Bennet</name>
+                      <name type="authority-fnf">Michael F. Bennet</name>
+                      <name type="authority-lnf">Bennet, Michael F.</name>
+                      <name type="authority-other">Michael Bennet</name>
+                </congMember>
+ <congMember authorityId="172" bioGuideId="C000127" chamber="S" congress="113" gpoId="8288" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Ms. Cantwell</name>
+                      <name type="authority-fnf">Maria Cantwell</name>
+                      <name type="authority-lnf">Cantwell, Maria</name>
+                </congMember>
+ <congMember authorityId="1828" bioGuideId="C001070" chamber="S" congress="113" gpoId="8282" party="D" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Casey</name>
+                      <name type="authority-fnf">Robert P. Casey Jr.</name>
+                      <name type="authority-lnf">Casey, Robert P., Jr.</name>
+                      <name type="authority-other">Mr. Robert Casey Jr.</name>
+                </congMember>
+ <congMember authorityId="174" bioGuideId="C000141" chamber="S" congress="113" gpoId="8287" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Mr. Cardin</name>
+                      <name type="authority-fnf">Benjamin L. Cardin</name>
+                      <name type="authority-lnf">Cardin, Benjamin L.</name>
+                      <name type="authority-other">Benjamin Cardin</name>
+                </congMember>
+ <congMember authorityId="791" bioGuideId="M000639" chamber="S" congress="113" gpoId="8239" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Menendez</name>
+                      <name type="authority-fnf">Robert Menendez</name>
+                      <name type="authority-lnf">Menendez, Robert</name>
+                </congMember>
+ <congMember authorityId="1424" bioGuideId="R000361" chamber="S" congress="113" gpoId="8273" party="D" role="COSPONSOR" state="WV">
+                      <name type="parsed">Mr. Rockefeller</name>
+                      <name type="authority-fnf">John D. Rockefeller IV</name>
+                      <name type="authority-lnf">Rockefeller, John D., IV</name>
+                      <name type="authority-other">John Rockefeller IV</name>
+                </congMember>
+ <congMember authorityId="1036" bioGuideId="S000148" chamber="S" congress="113" gpoId="8279" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Schumer</name>
+                      <name type="authority-fnf">Charles E. Schumer</name>
+                      <name type="authority-lnf">Schumer, Charles E.</name>
+                      <name type="authority-other">Charles Schumer</name>
+                </congMember>
+ <congMember authorityId="1531" bioGuideId="S000770" chamber="S" congress="113" gpoId="8261" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Ms. Stabenow</name>
+                      <name type="authority-fnf">Debbie Stabenow</name>
+                      <name type="authority-lnf">Stabenow, Debbie</name>
+                      <name type="authority-other">Deborah Ann Stabenow</name>
+                </congMember>
+ <law congress="112" isPrivate="false" number="40"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="19">
+                      <section detail="et seq." number="2271"></section>
+                      <section detail="note" number="2271"></section>
+                      <section number="2272"></section>
+                      <section detail="(a)" number="2293"></section>
+                      <section detail="(f)" number="2293"></section>
+                      <section detail="(a)(2)(A)" number="2296"></section>
+                      <section number="2297"></section>
+                      <section number="2298"></section>
+                      <section detail="(a)" number="2317"></section>
+                      <section detail="(a)" number="2318"></section>
+                      <section detail="(b)(1)" number="2318"></section>
+                      <section number="2319"></section>
+                      <section detail="(a)" number="2345"></section>
+                      <section detail="(a)" number="2372"></section>
+                      <section detail="(a)" number="2401g"></section>
+                </USCode>
+ <statuteAtLarge volume="125">
+                      <pages pages="416"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

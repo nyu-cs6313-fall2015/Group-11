@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-20", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-11-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3554-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "17", 
+      "name": "Bustos, Cheri", 
+      "sponsored_at": "2014-06-09", 
+      "state": "IL", 
+      "thomas_id": "02127", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "sponsored_at": "2014-06-09", 
+      "state": "IA", 
+      "thomas_id": "01846", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-11-20", 
+  "number": "3554", 
+  "official_title": "To amend the Public Health Service Act to designate certain medical facilities of the Department of Veterans Affairs as health professional shortage areas, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1061-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Veterans Access to Care Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Braley, Bruce L.", 
+    "state": "IA", 
+    "thomas_id": "01845", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-11-20", 
+  "subjects": [
+    "Department of Veterans Affairs", 
+    "Health", 
+    "Health care coverage and access", 
+    "Health facilities and institutions", 
+    "Medical education", 
+    "Student aid and college costs", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-11-20", 
+    "text": "Veterans Access to Care Act - Amends the Public Health Service Act to designate medical facilities of the Department of Veterans Affairs (VA) automatically as health professional shortage areas.\n\n Prohibits an individual from participating in both the VA's Health Professionals Education Assistance Program and the National Health Service Corps scholarship or loan repayment programs.\n\nDirects the Secretary of Health and Human Services (HHS), in carrying out the National Health Service Corps Program, to consult with the Secretary of Veterans Affairs regarding health professional shortage areas that are VA medical facilities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Access to Care Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act to designate certain medical facilities of the Department of Veterans Affairs as health professional shortage areas, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:11-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3554:@@@L&summ2=m&"
+}

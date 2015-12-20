@@ -1,0 +1,241 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-05", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Transportation Security Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-07-03T13:38:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-513.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-03T13:38:00-04:00", 
+      "calendar": "Union", 
+      "number": "385", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 385.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-07-22T16:08:00-04:00", 
+      "references": [], 
+      "text": "Mr. Sanford moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6604-6606", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:09:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4803.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6604-6605", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:19:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-23", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4803-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "sponsored_at": "2014-06-05", 
+      "state": "NC", 
+      "thomas_id": "02140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2014-06-10", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-06-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-07-22T16:19:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-05", 
+  "number": "4803", 
+  "official_title": "To require the Transportation Security Administration to conform to existing Federal law and regulations regarding criminal investigator positions, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "TSA Office of Inspection Accountability Act of 2014", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Sanford, Mark", 
+    "state": "SC", 
+    "thomas_id": "01012", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-07-22T16:19:00-04:00", 
+  "subjects": [
+    "Congressional oversight", 
+    "Crime and law enforcement", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Department of Homeland Security", 
+    "Firearms and explosives", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government studies and investigations", 
+    "Law enforcement officers", 
+    "Licensing and registrations"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-07-22", 
+    "text": "TSA Office of Inspection Accountability Act of 2014 - (Sec. 4) Directs the Inspector General of the Department of Homeland Security (DHS) to: (1) analyze the data and methods that the Assistant Secretary of Homeland Security (Transportation Security) uses to identify Transportation Security Administration (TSA) law enforcement officer and criminal investigators; and (2) provide relevant findings to the Assistant Secretary, including regarding whether the data and methods are adequate and valid.\n\nProhibits TSA from hiring any new employee to work in its Office of Inspection if the Inspector General finds that such data and methods are inadequate or invalid, until: (1) the Assistant Secretary makes a certification to the House Committee on Homeland Security and the Senate Committee on Commerce, Science, and Transportation that only TSA employees who meet such requirements are classified as criminal investigators and are receiving premium pay and other benefits associated with such classification; and (2) the Inspector General submits a finding that the Assistant Secretary utilized adequate and valid data and methods to make such certification.\n\n(Sec. 5) Directs the Assistant Secretary to: (1) reclassify criminal investigator positions in the Office of Inspection as noncriminal investigator positions or non-law enforcement positions if the individuals in those positions do not, or are not expected to, spend an average of at least 50% of their time performing criminal investigative duties; and (2) estimate the total long-term cost savings to the federal government resulting from such reclassification and provide such estimate to such committees. Requires such estimate to identify savings associated with the positions reclassified, including savings from: law enforcement training, early retirement benefits, law enforcement availability pay, weapons, vehicles, and communications devices.\n\n(Sec. 6) Directs the Assistant Secretary to submit to such committees: (1) any materials in the possession or control of DHS associated with the Office of Inspection's review of the use of a federal firearms license by Federal Air Marshal Service officials to obtain discounted or free firearms for personal use; and (2) information on specific actions that will be taken to prevent Service officials from using a federal firearms license, or exploiting the Service's relationships with private vendors, to obtain discounted or free firearms for personal use."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "TSA Office of Inspection Accountability Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "TSA Office of Inspection Accountability Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "TSA Office of Inspection Accountability Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Transportation Security Administration to conform to existing Federal law and regulations regarding criminal investigator positions, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4803:@@@L&summ2=m&"
+}

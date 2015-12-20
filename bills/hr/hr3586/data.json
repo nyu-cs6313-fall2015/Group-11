@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-21", 
+      "references": [
+        {
+          "reference": "CR H7336", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-21", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3586-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Joyce, David P.", 
+      "sponsored_at": "2014-09-08", 
+      "state": "OH", 
+      "thomas_id": "02154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-11-21", 
+  "number": "3586", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to provide a credit and a deduction for small political contributions.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Citizen Involvement in Campaigns Act of 2013", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Petri, Thomas E.", 
+    "state": "WI", 
+    "thomas_id": "00912", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-11-21", 
+  "subjects": [
+    "Elections, voting, political campaign regulation", 
+    "Income tax credits", 
+    "Income tax deductions", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-11-21", 
+    "text": "Citizen Involvement in Campaigns Act of 2013 - Amends the Internal Revenue Code to allow: (1) a $200 tax credit ($400 for joint returns) for contributions to a candidate for federal elective public office or to the national committee of a national political party; or (2) a tax deduction (available to taxpayers who do not itemize deductions) for such political contributions up to $600 ($1,200 for joint returns)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Citizen Involvement in Campaigns Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to provide a credit and a deduction for small political contributions.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3586:@@@L&summ2=m&"
+}

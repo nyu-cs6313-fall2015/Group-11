@@ -1,0 +1,129 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-01", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Introduction and Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-06", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 31 - 28.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4565-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Garrett, Scott", 
+      "sponsored_at": "2014-05-06", 
+      "state": "NJ", 
+      "thomas_id": "01737", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-06", 
+  "number": "4565", 
+  "official_title": "To amend the securities laws to improve the small company capital formation provisions, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Startup Capital Modernization Act of 2014", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "thomas_id": "01792", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-05-22", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Administrative law and regulatory procedures", 
+    "Business investment and capital", 
+    "Business records", 
+    "Federal preemption", 
+    "Finance and financial sector", 
+    "Government information and archives", 
+    "Licensing and registrations", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)", 
+    "Small business"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-05-06", 
+    "text": "Startup Capital Modernization Act of 2014 - Amends the Securities Act of 1933 (Act) to increase from $5 million to $10 million the maximum aggregate amount of securities exempt from its purview due to either the small amount involved, or the limited character of the public offering.\n\nPreempts state requirements governing securities registration, documentation, and offerings in connection with small issues related to small company capital formation.\n\nDeclares that this Act shall have no impact on state enforcement authority over the unlawful conduct of issuers, intermediaries, or custodians who are exempt from federal registration requirements under the Act.\n\nAmends the Securities Exchange Act of 1934 to exempt certain small issues from its securities registration requirements if the issuer: (1) has filed audited financial statements with the Securities and Exchange Commission (SEC), and (2) is in compliance with all periodic disclosures required by the SEC.\n\n Exempts from prohibitions relating to interstate commerce and the mails any transaction where: (1) each purchaser is an accredited investor; and (2) if the securities are offered by means of any general solicitation or general advertising, the seller verifies that the purchaser is an accredited investor.\n\nDenies such an exemption to transactions where the seller is: (1) either an issuer, its subsidiaries or parent; (2) a dealer; or (3) an underwriter acting on behalf of the issuer, its subsidiaries, or parent, which receives compensation from the issuer with respect to such sale."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Startup Capital Modernization Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the securities laws to improve the small company capital formation provisions, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4565:@@@L&summ2=m&"
+}

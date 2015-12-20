@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-21", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4710-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Cook, Paul", 
+      "sponsored_at": "2014-05-21", 
+      "state": "CA", 
+      "thomas_id": "02103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-21", 
+  "number": "4710", 
+  "official_title": "To amend the Payments in Lieu of Taxes Program to include all lands owned by the United States Government that are under the jurisdiction of the Department of Defense within the definition of entitlement lands for which payments are made, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "35", 
+    "name": "Negrete McLeod, Gloria", 
+    "state": "CA", 
+    "thomas_id": "02108", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-05-21", 
+  "subjects": [
+    "Intergovernmental relations", 
+    "Military facilities and property", 
+    "Public lands and natural resources", 
+    "State and local finance", 
+    "State and local taxation"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-05-21", 
+    "text": "Revises the definition of \"entitlement land\" for which the Secretary of the Interior is required to make payments to local governments in lieu of taxes to: (1) delete land on which are located semi-active or inactive installations that the Secretary of the Army keeps for mobilization and for reserve component training, and (2) include federal land under the jurisdiction of the Secretary of Defense (DOD) or the Secretary of a military department."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Payments in Lieu of Taxes Program to include all lands owned by the United States Government that are under the jurisdiction of the Department of Defense within the definition of entitlement lands for which payments are made, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:41-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4710:@@@L&summ2=m&"
+}

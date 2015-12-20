@@ -1,0 +1,130 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-09", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-27", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3831-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-09", 
+  "number": "3831", 
+  "official_title": "To require the Secretary of Veterans Affairs to review the dialysis pilot program implemented by the Department of Veterans Affairs and submit a report to Congress before expanding that program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5094-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1547-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1950-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1982-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Veterans Dialysis Pilot Program Review Act of 2014", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Roe, David P.", 
+    "state": "TN", 
+    "thomas_id": "01954", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-01-09", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Digestive and metabolic diseases", 
+    "Government studies and investigations", 
+    "Health facilities and institutions", 
+    "Home and outpatient care", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-09", 
+    "text": "Veterans Dialysis Pilot Program Review Act of 2014 - Prohibits the Secretary of Veterans Affairs from expanding the dialysis pilot program (established by the Secretary in 2009 to provide dialysis care to patients at certain Department of Veterans Affairs [VA] outpatient facilities) or creating any new dialysis capability provided by the VA in any facility other than an initial facility (one of four outpatient facilities the Secretary identified to participate in the program) until after: (1) the Secretary has implemented the pilot program at each initial facility for at least two years, (2) an independent analysis of the program has been conducted at each initial facility, and (3) the Secretary has submitted a report on such analysis to Congress.\n\nRequires the Secretary, in order to increase the access of veterans to dialysis care and decrease the travel time required to receive such care, to fully use existing VA dialysis resources, including any community dialysis provider with which the Secretary has entered into a contract or agreement to provide such care."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Dialysis Pilot Program Review Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Veterans Affairs to review the dialysis pilot program implemented by the Department of Veterans Affairs and submit a report to Congress before expanding that program, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3831:@@@L&summ2=m&"
+}

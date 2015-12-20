@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-16", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-15", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 32 - 22.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3913-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Financial Institutions and Consumer Credit", 
+      "subcommittee_id": "15"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Fincher, Stephen Lee", 
+      "sponsored_at": "2014-02-06", 
+      "state": "TN", 
+      "thomas_id": "02064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-16", 
+  "number": "3913", 
+  "official_title": "To amend the Bank Holding Company Act of 1956 to require agencies to make considerations relating to the promotion of efficiency, competition, and capital formation before issuing or modifying certain regulations.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Duffy, Sean P.", 
+    "state": "WI", 
+    "thomas_id": "02072", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-07-30", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Bank accounts, deposits, capital", 
+    "Banking and financial institutions regulation", 
+    "Commodity Futures Trading Commission", 
+    "Competition and antitrust", 
+    "Department of the Treasury", 
+    "Federal Deposit Insurance Corporation (FDIC)", 
+    "Federal Reserve System", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "National Credit Union Administration", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-16", 
+    "text": "Amends the Bank Holding Company Act of 1956 with respect to certain prohibitions against proprietary trading by banking entities and certain relationships of such entities with hedge funds and private equity funds (Volcker rule).\n\nDirects the Commodity Futures Trading Commission (CFTC), the Securities and Exchange Commission (SEC), and the appropriate federal banking agencies, when issuing or modifying any regulation related to such prohibitions, to consider: (1) whether it is necessary or appropriate in the public interest; (2) whether it will promote efficiency, competition, and capital formation; and (3) the impact it would have on competition.\n\nProhibits such agencies from adopting a regulation that would impose a burden on competition neither necessary nor appropriate in furtherance of the Act.\n\nDirects such agencies to include in the statement of basis and purpose incorporated in the regulation the reasons for determining that any burden on competition imposed by the regulation is necessary or appropriate in furtherance of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Bank Holding Company Act of 1956 to require agencies to make considerations relating to the promotion of efficiency, competition, and capital formation before issuing or modifying certain regulations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:21-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3913:@@@L&summ2=m&"
+}

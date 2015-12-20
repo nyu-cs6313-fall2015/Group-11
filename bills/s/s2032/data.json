@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-12", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2032-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2014-02-12", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2014-02-12", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "2014-02-12", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-12", 
+  "number": "2032", 
+  "official_title": "A bill to require mobile service providers and mobile device manufacturers to give consumers the ability to remotely delete data from mobile devices and render such devices inoperable.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4065-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Smartphone Theft Prevention Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Klobuchar, Amy", 
+    "state": "MN", 
+    "thomas_id": "01826", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-02-12", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Computer security and identity theft", 
+    "Consumer affairs", 
+    "Crimes against property", 
+    "Federal Communications Commission (FCC)", 
+    "Science, technology, communications", 
+    "Telephone and wireless communication", 
+    "Trade restrictions"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-02-12", 
+    "text": "Smartphone Theft Prevention Act - Amends the Communications Act of 1934 to require commercial mobile service providers to make available on mobile devices a function that an account holder may use remotely to: (1) delete or render inaccessible all information relating to the account holder that has been placed on the device; (2) render the device inoperable on the global networks of such service providers, even if the device is turned off or has the data storage medium removed; (3) prevent the device from being reactivated or reprogrammed without a passcode or similar authorization after the device has been rendered inoperable or has been subject to an unauthorized factory reset; and (4) reverse any such actions if the device is recovered by the account holder.\n\nProhibits a mobile device from being manufactured in the United States or imported into the United States for sale or resale to the public, unless the device is configured in such a manner that a service provider may make such remote deletion and inoperability functions available on the device.\n\nAllows the Federal Communications Commission (FCC) to waive such requirements with respect to any low-cost mobile device that: (1) is intended primarily for voice-only mobile service, and (2) may have limited data consumption functions focused on text messaging or short message service.\n\nProhibits service providers from charging a fee for making such remote deletion and inoperability functions available."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Smartphone Theft Prevention Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require mobile service providers and mobile device manufacturers to give consumers the ability to remotely delete data from mobile devices and render such devices inoperable.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2032:@@@L&summ2=m&"
+}

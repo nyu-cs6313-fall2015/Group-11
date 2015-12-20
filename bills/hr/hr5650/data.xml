@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="5650" updated="2015-09-01T10:21:04-04:00">
+  <state datetime="2014-09-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-18"/>
+  </status>
+  <introduced datetime="2014-09-18"/>
+  <titles>
+    <title type="official" as="introduced">To grant a Federal charter to the National Academy of Inventors.</title>
+  </titles>
+  <sponsor id="412411"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2014-11-12"/>
+    <cosponsor id="412195" joined="2014-11-13"/>
+    <cosponsor id="412524" joined="2014-12-01"/>
+    <cosponsor id="412529" joined="2014-12-11"/>
+    <cosponsor id="412566" joined="2014-12-01"/>
+    <cosponsor id="400630" joined="2014-11-19"/>
+    <cosponsor id="400352" joined="2014-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-18" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-11-24">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federally chartered organizations"/>
+    <term name="Intellectual property"/>
+  </subjects>
+  <amendments/>
+  <summary>9/18/2014--Introduced.
+Grants a federal charter to the National Academy of Inventors.</summary>
+</bill>

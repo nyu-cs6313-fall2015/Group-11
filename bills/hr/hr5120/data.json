@@ -1,0 +1,255 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-16", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-22T15:59:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hultgren moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-22T15:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6601-6604", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-22T15:59:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5120.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6601-6603", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-07-22T16:07:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-23", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5120-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "2014-07-16", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2014-07-16", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Kilmer, Derek", 
+      "sponsored_at": "2014-07-16", 
+      "state": "WA", 
+      "thomas_id": "02169", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2014-07-18", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lujan, Ben Ray", 
+      "sponsored_at": "2014-07-22", 
+      "state": "NM", 
+      "thomas_id": "01939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lummis, Cynthia M.", 
+      "sponsored_at": "2014-07-16", 
+      "state": "WY", 
+      "thomas_id": "01960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Nunnelee, Alan", 
+      "sponsored_at": "2014-07-16", 
+      "state": "MS", 
+      "thomas_id": "02034", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2014-07-16", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2014-07-16", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Veasey, Marc A.", 
+      "sponsored_at": "2014-07-18", 
+      "state": "TX", 
+      "thomas_id": "02166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-22T15:59:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-07-22T16:07:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-16", 
+  "number": "5120", 
+  "official_title": "To improve management of the National Laboratories, enhance technology commercialization, facilitate public-private partnerships, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Department of Energy Laboratory Modernization and Technology Transfer Act of 2014", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Hultgren, Randy", 
+    "state": "IL", 
+    "thomas_id": "02015", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-07-22T16:07:00-04:00", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Congressional oversight", 
+    "Department of Energy", 
+    "Education programs funding", 
+    "Energy", 
+    "Energy research", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Government studies and investigations", 
+    "Higher education", 
+    "Performance measurement", 
+    "Public contracts and procurement", 
+    "Public-private cooperation", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Small business", 
+    "Technology transfer and commercialization"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-16", 
+    "text": "Department of Energy Laboratory Modernization and Technology Transfer Act of 2014 - Amends the Department of Energy Organization Act to rename the Under Secretary for Science as the Under Secretary for Science and Energy.\n\nDirects the Secretary of Energy (DOE) to report on DOE's ability to improve the technology transfer and commercialization of energy technologies.\n\nDirects the Secretary to carry out the Agreements for Commercializing Technology pilot program in accordance with this Act, including by giving the contractors of the national laboratories increased authority to negotiate contract terms and making every National Laboratory eligible for the program. Extends the pilot program for two years.\n\nRequires the Secretary to delegate to the directors of the national laboratories signature authority with respect to specified agreements of less than $1 million.\n\n Permits the directors of national laboratories to use funds authorized to support technology transfer within DOE to carry out early-stage and pre-commercial technology demonstration activities to: (1) remove technology barriers that limit private sector interest, and (2) demonstrate potential commercial applications of any research and technologies arising from national laboratory activities.\n\nAmends the Energy Policy Act of 2005 to exempt institutions of higher education and nonprofit institutions from the cost-sharing requirements for research or development for six years.\n\nAuthorizes the Secretary to enter into an agreement with the Director of the National Science Foundation (NSF) to enable the participation of DOE researchers in the National Science Foundation Innovation Corps program.\n\nRequires a report by the Government Accountability Office (GAO)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Energy Laboratory Modernization and Technology Transfer Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Department of Energy Laboratory Modernization and Technology Transfer Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve management of the National Laboratories, enhance technology commercialization, facilitate public-private partnerships, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:51-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5120:@@@L&summ2=m&"
+}

@@ -1,0 +1,235 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1864de290">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To consolidate the congressional oversight provisions of the Foreign Intelligence Surveillance Act of 1978 and for other purposes.;
+   		FISA Improvements Act of 2013;S. 1631 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-11-01</dateIngested>
+</extension>
+<titleInfo>
+ <title>To consolidate the congressional oversight provisions of the Foreign Intelligence Surveillance Act of 1978 and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>FISA Improvements Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1631 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-10-31</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>46 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee1864de290</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1631pcs</identifier>
+<identifier type="preferred citation">S. 1631</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1631_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1631pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1631pcs/html/BILLS-113s1631pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1631pcs/pdf/BILLS-113s1631pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1631pcs/xml/BILLS-113s1631pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-11-01</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1631pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Dianne Feinstein</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Select Committee on Intelligence</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 601</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 601</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 1030</partNumber>
+  <partNumber>Title 18 Section 2510</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 1030</identifier>
+ <identifier type="USC citation">18 U.S.C. 2510</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 40 Section 15301</partNumber>
+</titleInfo>
+ <identifier type="USC citation">40 U.S.C. 15301</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 2000ee</partNumber>
+  <partNumber>Title 42 Section 2000ee(g)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 2000ee</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000ee(g)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 1801et seq.</partNumber>
+  <partNumber>Title 50 Section 1803</partNumber>
+  <partNumber>Title 50 Section 1805</partNumber>
+  <partNumber>Title 50 Section 1806(j)</partNumber>
+  <partNumber>Title 50 Section 1807</partNumber>
+  <partNumber>Title 50 Section 1808</partNumber>
+  <partNumber>Title 50 Section 1826</partNumber>
+  <partNumber>Title 50 Section 1846</partNumber>
+  <partNumber>Title 50 Section 1861</partNumber>
+  <partNumber>Title 50 Section 1862(c)(1)</partNumber>
+  <partNumber>Title 50 Section 1871</partNumber>
+  <partNumber>Title 50 Section 1881a</partNumber>
+  <partNumber>Title 50 Section 1881b</partNumber>
+  <partNumber>Title 50 Section 1881c</partNumber>
+  <partNumber>Title 50 Section 3001note</partNumber>
+  <partNumber>Title 50 Section 3091et seq.</partNumber>
+  <partNumber>Title 50 Section 3602</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 1801et seq.</identifier>
+ <identifier type="USC citation">50 U.S.C. 1803</identifier>
+ <identifier type="USC citation">50 U.S.C. 1805</identifier>
+ <identifier type="USC citation">50 U.S.C. 1806(j)</identifier>
+ <identifier type="USC citation">50 U.S.C. 1807</identifier>
+ <identifier type="USC citation">50 U.S.C. 1808</identifier>
+ <identifier type="USC citation">50 U.S.C. 1826</identifier>
+ <identifier type="USC citation">50 U.S.C. 1846</identifier>
+ <identifier type="USC citation">50 U.S.C. 1861</identifier>
+ <identifier type="USC citation">50 U.S.C. 1862(c)(1)</identifier>
+ <identifier type="USC citation">50 U.S.C. 1871</identifier>
+ <identifier type="USC citation">50 U.S.C. 1881a</identifier>
+ <identifier type="USC citation">50 U.S.C. 1881b</identifier>
+ <identifier type="USC citation">50 U.S.C. 1881c</identifier>
+ <identifier type="USC citation">50 U.S.C. 3001note</identifier>
+ <identifier type="USC citation">50 U.S.C. 3091et seq.</identifier>
+ <identifier type="USC citation">50 U.S.C. 3602</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 235</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1631pcs</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1631</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <shortTitle>FISA Improvements Act of 2013</shortTitle>
+ <action date="2013-10-31">Mrs. Feinstein, from the Select Committee on Intelligence, reported the following original bill; which was read twice and placed on the calendar</action>
+ <congCommittee authorityId="slin00" chamber="S" congress="113" type="L">
+                      <name type="authority-standard">Select Committee on Intelligence</name>
+                      <name type="authority-short">Intelligence</name>
+                </congCommittee>
+ <congMember authorityId="1332" bioGuideId="F000062" chamber="S" congress="113" gpoId="8338" party="D" role="SPONSOR" state="CA">
+                      <name type="parsed">Mrs. Feinstein</name>
+                      <name type="authority-fnf">Dianne Feinstein</name>
+                      <name type="authority-lnf">Feinstein, Dianne</name>
+                </congMember>
+ <congCalendar congress="113" number="235" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section number="601"></section>
+                </USCode>
+ <USCode title="18">
+                      <section number="1030"></section>
+                      <section number="2510"></section>
+                </USCode>
+ <USCode title="40">
+                      <section number="15301"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="2000ee"></section>
+                      <section detail="(g)" number="2000ee"></section>
+                </USCode>
+ <USCode title="50">
+                      <section detail="et seq." number="1801"></section>
+                      <section number="1803"></section>
+                      <section number="1805"></section>
+                      <section detail="(j)" number="1806"></section>
+                      <section number="1807"></section>
+                      <section number="1808"></section>
+                      <section number="1826"></section>
+                      <section number="1846"></section>
+                      <section number="1861"></section>
+                      <section detail="(c)(1)" number="1862"></section>
+                      <section number="1871"></section>
+                      <section number="1881a"></section>
+                      <section number="1881b"></section>
+                      <section number="1881c"></section>
+                      <section detail="note" number="3001"></section>
+                      <section detail="et seq." number="3091"></section>
+                      <section number="3602"></section>
+                </USCode>
+</extension>
+</mods>

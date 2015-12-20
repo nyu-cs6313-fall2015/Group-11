@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-14", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3876-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Disability Assistance and Memorial Affairs", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2014-01-14", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2014-01-28", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "O'Rourke, Beto", 
+      "sponsored_at": "2014-03-26", 
+      "state": "TX", 
+      "thomas_id": "02162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-14", 
+  "number": "3876", 
+  "official_title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to carry out a grant program to provide burials for homeless veterans.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Burial with Dignity for Heroes Act of 2014", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Green, Al", 
+    "state": "TX", 
+    "thomas_id": "01803", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-01-14", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Cemeteries and funerals", 
+    "Homelessness and emergency shelter", 
+    "Veterans' loans, housing, homeless programs"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-14", 
+    "text": "Burial with Dignity for Heroes Act of 2014 - Directs the Secretary of Veterans Affairs (VA) to carry out a program to make grants to eligible entities to provide for the cost of burials for homeless veterans who: (1) are eligible to be buried in national cemeteries, and (2) the Secretary determines have no next-of-kin."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Burial with Dignity for Heroes Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to carry out a grant program to provide burials for homeless veterans.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:21-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3876:@@@L&summ2=m&"
+}

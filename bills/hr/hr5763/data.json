@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-20", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5763-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-20", 
+  "number": "5763", 
+  "official_title": "To designate the Department of Veterans Affairs clinic in Billings, Montana, as the \"Bear Root Department of Veterans Affairs Clinic\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2805-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Daines, Steve", 
+    "state": "MT", 
+    "thomas_id": "02138", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-20", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional tributes", 
+    "Department of Veterans Affairs", 
+    "Government buildings, facilities, and property", 
+    "Health facilities and institutions", 
+    "Montana", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-11-20", 
+    "text": "Designates the Department of Veterans Affairs clinic located at 1766 Majestic Lane in Billings, Montana, as the \"Bear Root Department of Veterans Affairs Clinic.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the Department of Veterans Affairs clinic in Billings, Montana, as the \"Bear Root Department of Veterans Affairs Clinic\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:06-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5763:@@@L&summ2=m&"
+}

@@ -1,0 +1,264 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee186e095fa">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To delay the implementation of certain provisions of the Biggert-Waters Flood Insurance Reform Act of 2012 and to reform the National Association of Registered Agents and Brokers, and for other purposes.;
+   		S. 1926 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-01-17</dateIngested>
+</extension>
+<titleInfo>
+ <title>To delay the implementation of certain provisions of the Biggert-Waters Flood Insurance Reform Act of 2012 and to reform the National Association of Registered Agents and Brokers, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1926 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-01-15</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>56 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee186e095fa</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1926pcs</identifier>
+<identifier type="preferred citation">S. 1926</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1926_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1926pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1926pcs/html/BILLS-113s1926pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1926pcs/pdf/BILLS-113s1926pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1926pcs/xml/BILLS-113s1926pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-01-17</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1926pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Robert Menendez</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Johnny Isakson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Vitter</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mary L. Landrieu</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Chapter 5</partNumber>
+  <partNumber>Title 5 Chapter 57</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. Chapter 5</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 57</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 1813</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 1813</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 6751et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 6751et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 1033</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 1033</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 313(e)(2)(B)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 313(e)(2)(B)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 4001</partNumber>
+  <partNumber>Title 42 Section 4014(a)(2)</partNumber>
+  <partNumber>Title 42 Section 4014(e)</partNumber>
+  <partNumber>Title 42 Section 4014(f)</partNumber>
+  <partNumber>Title 42 Section 4014(g)(1)</partNumber>
+  <partNumber>Title 42 Section 4014(g)(2)</partNumber>
+  <partNumber>Title 42 Section 4014(g)(3)</partNumber>
+  <partNumber>Title 42 Section 4015(h)</partNumber>
+  <partNumber>Title 42 Section 4017(a)</partNumber>
+  <partNumber>Title 42 Section 4104(f)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 4001</identifier>
+ <identifier type="USC citation">42 U.S.C. 4014(a)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 4014(e)</identifier>
+ <identifier type="USC citation">42 U.S.C. 4014(f)</identifier>
+ <identifier type="USC citation">42 U.S.C. 4014(g)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 4014(g)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 4014(g)(3)</identifier>
+ <identifier type="USC citation">42 U.S.C. 4015(h)</identifier>
+ <identifier type="USC citation">42 U.S.C. 4017(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 4104(f)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 126 Page 916</partNumber>
+  <partNumber>Volume 126 Page 957</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">126 Stat.	916</identifier>
+ <identifier type="Statute citation">126 Stat.	957</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-141</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-141</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 294</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1926pcs</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1926</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <action date="2014-01-14">Mr. Menendez (for himself, Mr. Isakson, Mr. Vitter, and Ms. Landrieu) introduced the following bill; which was read the first time</action>
+ <action date="2014-01-15">Read the second time and placed on the calendar</action>
+ <congMember authorityId="791" bioGuideId="M000639" chamber="S" congress="113" gpoId="8239" party="D" role="SPONSOR" state="NJ">
+                      <name type="parsed">Mr. Menendez</name>
+                      <name type="authority-fnf">Robert Menendez</name>
+                      <name type="authority-lnf">Menendez, Robert</name>
+                </congMember>
+ <congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="113" gpoId="8323" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Isakson</name>
+                      <name type="authority-fnf">Johnny Isakson</name>
+                      <name type="authority-lnf">Isakson, Johnny</name>
+                </congMember>
+ <congMember authorityId="1609" bioGuideId="V000127" chamber="S" congress="113" gpoId="8267" party="R" role="COSPONSOR" state="LA">
+                      <name type="parsed">Mr. Vitter</name>
+                      <name type="authority-fnf">David Vitter</name>
+                      <name type="authority-lnf">Vitter, David</name>
+                </congMember>
+ <congMember authorityId="1546" bioGuideId="L000550" chamber="S" congress="113" gpoId="8251" party="D" role="COSPONSOR" state="LA">
+                      <name type="parsed">Ms. Landrieu</name>
+                      <name type="authority-fnf">Mary L. Landrieu</name>
+                      <name type="authority-lnf">Landrieu, Mary L.</name>
+                      <name type="authority-other">Mrs. Mary Landrieu</name>
+                </congMember>
+ <law congress="112" isPrivate="false" number="141"></law>
+ <congCalendar congress="113" number="294" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <chapter number="5"></chapter>
+                      <chapter number="57"></chapter>
+                </USCode>
+ <USCode title="12">
+                      <section number="1813"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="et seq." number="6751"></section>
+                </USCode>
+ <USCode title="18">
+                      <section number="1033"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="(e)(2)(B)" number="313"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="4001"></section>
+                      <section detail="(a)(2)" number="4014"></section>
+                      <section detail="(e)" number="4014"></section>
+                      <section detail="(f)" number="4014"></section>
+                      <section detail="(g)(1)" number="4014"></section>
+                      <section detail="(g)(2)" number="4014"></section>
+                      <section detail="(g)(3)" number="4014"></section>
+                      <section detail="(h)" number="4015"></section>
+                      <section detail="(a)" number="4017"></section>
+                      <section detail="(f)" number="4104"></section>
+                </USCode>
+ <statuteAtLarge volume="126">
+                      <pages pages="916"></pages>
+                      <pages pages="957"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

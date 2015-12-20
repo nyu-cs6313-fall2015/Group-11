@@ -1,0 +1,217 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-10-22", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-10-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-10-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-10-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-10-29", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-01-02T17:26:00-05:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on 113-732, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-02", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred sequentially to the House Committee on Homeland Security for a period ending not later than Jan. 2, 2015 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1 (j) of rule X.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-02T17:28:00-05:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Committee on Homeland Security discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-02T17:29:00-05:00", 
+      "calendar": "Union", 
+      "number": "563", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 563.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3300-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged", 
+        "other legislative involvement"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "sponsored_at": "2013-10-22", 
+      "state": "PA", 
+      "thomas_id": "02054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "sponsored_at": "2013-10-22", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "2013-10-22", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-10-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-10-22", 
+  "number": "3300", 
+  "official_title": "To reauthorize the programs and activities of the Federal Emergency Management Agency.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2664-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "FEMA Reauthorization Act of 2013", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Shuster, Bill", 
+    "state": "PA", 
+    "thomas_id": "01681", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2013-10-29", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Advisory bodies", 
+    "Broadcasting, cable, digital technologies", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Disaster relief and insurance", 
+    "Emergency communications systems", 
+    "Emergency management", 
+    "Emergency planning and evacuation", 
+    "Executive agency funding and structure", 
+    "Federal Emergency Management Agency (FEMA)", 
+    "First responders and emergency personnel", 
+    "Government employee pay, benefits, personnel management", 
+    "Intergovernmental relations", 
+    "Public-private cooperation", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-10-22", 
+    "text": "FEMA Reauthorization Act of 2013 - Title I: Reauthorization of FEMA and Modernization of Integrated Public Alert and Warning System - Amends the Department of Homeland Security Appropriations Act, 2007 to authorize appropriations for the Federal Emergency Management Agency (FEMA) for FY2014-FY2016 for management and administration.\n\nIntegrated Public Alert and Warning System Modernization Act of 2013 - Directs the Administrator of FEMA to modernize and implement the integrated public alert and warning system of the United States to ensure that the President is able, under all conditions, to alert governmental authorities and the civilian population in areas endangered by disasters, including by:\n\n establishing common alerting and warning protocols, standards, terminology, and operating procedures for such system; including in such system the capability to adapt the distribution and content of communications on the basis of geographic location, risks, or personal user preferences and to alert individuals with disabilities and individuals with access and functional needs; ensuring that training, tests, and exercises are conducted for such system; establishing and integrating into the National Incident Management System a comprehensive and periodic training program to instruct and educate federal, state, tribal, and local government officials in the use of the Common Alerting Protocol enabled Emergency Alert System; conducting nationwide tests of the system at least every three years; and ensuring that the system is resilient, secure, and can withstand acts of terrorism and other external attacks. Requires the system to:\n\n incorporate multiple communications technologies, be designed to incorporate future technologies for communicating directly with the public to provide alerts to the largest portion of the affected population feasible and to improve the ability of remote areas to receive alerts, promote local and regional partnerships to enhance community preparedness and response, provide redundant alert mechanisms, and protect individual privacy. Directs the Administrator to submit to specified congressional committees a detailed plan to implement the system, including a time line, a spending plan, and recommendations for any additional authority necessary.\n\nDirects the FEMA Administrator to establish the Integrated Public Alert and Warning System Advisory Committee to develop recommendations for the system.\n\nTitle II: Stafford Act and Other Programs - Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act (Stafford Act) to direct the Administrator to:\n\n continue to administer the National Urban Search and Rescue Response System, provide for a national network of standardized search and rescue resources to assist states and local governments in responding to hazards, designate task forces to participate in the System, enter into an agreement with the state or local government sponsoring a task force (sponsoring agency) with respect to participation, and maintain such management and other technical teams as necessary to administer the System. Authorizes the Administrator to appoint a System member for a period of federal service to participate in sponsored or sanctioned exercises, pre incident staging, major disaster and emergency response activities, and training events.\n\nDirects the Administrator to: (1) establish and maintain an advisory committee to provide expert recommendations to assist the Administrator in administering the System; (2) enter into an annual preparedness cooperative agreement with each sponsoring agency for training and exercises, equipment acquisition and maintenance, and medical monitoring required for responder safety and health; and (3) enter into response cooperative agreements under which the Administrator agrees to reimburse sponsoring agencies for costs incurred in responding to a major disaster or emergency.\n\nAuthorizes appropriations to carry out the System for FY2014-FY2016.\n\nAuthorizes the Administrator to make grants to provide for implementation of the Emergency Management Assistance Compact. Makes states and the Administrator of the Compact eligible to receive such grants. Requires grants to be used to: (1) carry out recommendations identified in the Compact after-action reports for the 2004 and 2005 hurricane seasons; (2) administer Compact operations on behalf of states that have enacted it; (3) continue coordination with FEMA, appropriate federal agencies, states and local governments, and their respective national organizations; and (4) assist with credentialing emergency response providers and the typing of emergency response resources. Requires the FEMA Administrator to consult with the Compact Administrator to ensure effective coordination of efforts in responding to requests for assistance. Authorizes appropriations for Compact grants for FY2014-FY2016."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FEMA Reauthorization Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Integrated Public Alert and Warning System Modernization Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize the programs and activities of the Federal Emergency Management Agency.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:05-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3300:@@@L&summ2=m&"
+}

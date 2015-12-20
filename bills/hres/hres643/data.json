@@ -1,0 +1,242 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-25", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Armed Services, Ways and Means, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-25", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-25", 
+      "references": [
+        {
+          "reference": "Permanent Select", 
+          "type": null
+        }
+      ], 
+      "text": "Referred to House Intelligence", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-25", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to House Armed Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-25", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-25", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Foreign Affairs", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Asia and the Pacific.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres643-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Courts, Intellectual Property, and the Internet", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Asia and the Pacific", 
+      "subcommittee_id": "05"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Terrorism, Nonproliferation, and Trade", 
+      "subcommittee_id": "18"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Bera, Ami", 
+      "sponsored_at": "2014-06-25", 
+      "state": "CA", 
+      "thomas_id": "02102", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2014-06-25", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Collins, Doug", 
+      "sponsored_at": "2014-06-25", 
+      "state": "GA", 
+      "thomas_id": "02121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2014-06-25", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-25", 
+  "number": "643", 
+  "official_title": "Calling for further defense against the People's Republic of China's state-sponsored cyber-enabled theft of trade secrets, including by the People's Liberation Army.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Chabot, Steve", 
+    "state": "OH", 
+    "thomas_id": "00186", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-25", 
+  "subjects": [
+    "Asia", 
+    "China", 
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Government information and archives", 
+    "Government liability", 
+    "Intellectual property", 
+    "Intelligence activities, surveillance, classified information", 
+    "International affairs", 
+    "International organizations and cooperation", 
+    "Trade secrets and economic espionage"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-25", 
+    "text": "Calls for:\n\n the People's Republic of China (PRC) to end the practice of cyber-enabled espionage against U.S. firms and cooperate in cybersecurity efforts; the President to implement and coordinate the Strategy on Mitigating the Theft of United States Trade Secrets; the Department of Justice (DOJ) to advance investigations into cyber espionage by actors originating in the PRC; the U.S. government to condemn cyber-enabled espionage for the purposes of stealing intellectual property and trade secrets, pursue counter intelligence capacities, and prosecute such individuals should they enter U.S. territory; the U.S. Trade Representative (USTR) to estimate the loss from cyber theft, compile a list of actors that cause the most damage to U.S. firms, and pursue a dispute settlement case at the World Trade Organization; the U.S. Office of the National Counterintelligence Executive to update the unclassified report to Congress on Foreign Economic Collection and Industrial Espionage in 2009-2011; the Department of Defense (DOD) to restrict military-to-military contacts with the People's Liberation Army; the Federal Bureau of Investigation (FBI) and the Department of Homeland Security (DHS) to expand warnings to U.S. companies about the broad scope of tools to illicit trade secrets used by actors originating in the PRC; DOD and the Department of State to provide briefings of the U.S.-China cybersecurity working group meetings in 2013; and federal agencies to expand cooperation with partners to coordinate defense against cyber threats."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Calling for further defense against the People's Republic of China's state-sponsored cyber-enabled theft of trade secrets, including by the People's Liberation Army.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:18:44-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE643:@@@L&summ2=m&"
+}

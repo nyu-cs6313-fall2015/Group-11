@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-20", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-21", 
+      "committees": [
+        "SSGA"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-07-14", 
+      "committee": "Homeland Security and Governmental Affairs", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment. With written report No. 113-207.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-07-14", 
+      "calendar": "Senate Legislative", 
+      "number": "463", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 463.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2354-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }, 
+    {
+      "activity": [
+        "other legislative involvement"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-20", 
+  "number": "2354", 
+  "official_title": "A bill to improve cybersecurity recruitment and retention.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2372-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "DHS Cybersecurity Workforce Recruitment and Retention Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carper, Thomas R.", 
+    "state": "DE", 
+    "thomas_id": "00179", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-05-21", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Reported to Senate amended", 
+    "date": "2014-07-14", 
+    "text": "DHS Cybersecurity Workforce Recruitment and Retention Act of 2014 - (Sec. 2) Amends the Homeland Security Act of 2002 to authorize the Secretary of Homeland Security to establish, as positions in the excepted service, such positions in the Department of Homeland Security (DHS) as necessary to carry out certain responsibilities relating to cybersecurity.\n\nProvides for positions formerly designated as senior level and senior executive service positions to be included in such service.\n\nRequires the Secretary, every year for a specified period, to submit to Congress a report regarding: (1) the application process for such positions, including the manner of adhering to veterans' preferences; (2) the Secretary's plans to fulfill the critical need of DHS to recruit and retain employees in cybersecurity positions; (3) the manner in which such plans are integrated into the DHS's strategic workforce planning; (4) the number of hirings, separations, and retirements during the reporting period; and (5) the training provided to supervisors of such cybersecurity employees on the use of the new authorities.\n\nSets forth authority for the Secretary to make appointments, fix pay rates, and provide incentives and allowances for such positions.\n\n(Sec. 3) Homeland Security Cybersecurity Workforce Assessment Act - Requires the Secretary to determine the primary cybersecurity work category and specialty area of all DHS cybersecurity workforce positions. Directs the Secretary to assign: (1) data element codes for such positions, as set forth in the Office of Personnel Management's (OPM) Guide to Data Standards, which is aligned with the National Initiative for Cybersecurity Education's National Cybersecurity Workforce Framework report; and (2) employment codes to employees and open positions within DHS with cybersecurity functions.\n\nDirects the Secretary, on an annual basis through 2021, to submit a report to the OPM Director substantiating categories and specialty areas designated as critical needs in DHS's cybersecurity workforce.\n\nRequires the Director to provide the Secretary with guidance identifying acute and emerging skill shortages.\n\nDirects the Comptroller General (GAO) to monitor, and report within three years regarding, the implementation of such determinations and assignments."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "DHS Cybersecurity Workforce Recruitment and Retention Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "DHS Cybersecurity Workforce Recruitment and Retention Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": true, 
+      "title": "Homeland Security Cybersecurity Workforce Assessment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to improve cybersecurity recruitment and retention.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2354:@@@L&summ2=m&"
+}

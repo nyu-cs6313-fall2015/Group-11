@@ -1,0 +1,271 @@
+<bill session="113" type="s" number="1845" updated="2015-09-01T10:22:05-04:00">
+  <state datetime="2014-02-06">PROV_KILL:CLOTUREFAILED</state>
+  <status>
+    <unknown datetime="2014-02-06"/>
+  </status>
+  <introduced datetime="2013-12-17"/>
+  <titles>
+    <title type="short" as="introduced">Emergency Unemployment Compensation Extension Act</title>
+    <title type="official" as="introduced">A bill to provide for the extension of certain unemployment benefits, and for other purposes.</title>
+  </titles>
+  <sponsor id="300081"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2013-12-18"/>
+    <cosponsor id="412598" joined="2014-02-06"/>
+    <cosponsor id="300011" joined="2013-12-19"/>
+    <cosponsor id="300019" joined="2013-12-20"/>
+    <cosponsor id="412246" joined="2014-01-08"/>
+    <cosponsor id="412390" joined="2013-12-19"/>
+    <cosponsor id="300038" joined="2013-12-18"/>
+    <cosponsor id="412378" joined="2013-12-18"/>
+    <cosponsor id="412223" joined="2014-01-06"/>
+    <cosponsor id="300051" joined="2013-12-18"/>
+    <cosponsor id="412218" joined="2013-12-17"/>
+    <cosponsor id="412200" joined="2014-01-06"/>
+    <cosponsor id="412242" joined="2013-12-18"/>
+    <cosponsor id="300065" joined="2013-12-18"/>
+    <cosponsor id="400253" joined="2013-12-18"/>
+    <cosponsor id="400272" joined="2014-01-06"/>
+    <cosponsor id="412325" joined="2013-12-20"/>
+    <cosponsor id="300073" joined="2014-01-06"/>
+    <cosponsor id="412194" joined="2013-12-18"/>
+    <cosponsor id="300076" joined="2013-12-18"/>
+    <cosponsor id="300084" joined="2013-12-19"/>
+    <cosponsor id="400357" joined="2013-12-18"/>
+    <cosponsor id="412507" joined="2013-12-20"/>
+    <cosponsor id="300087" joined="2014-01-06"/>
+    <cosponsor id="300093" joined="2013-12-18"/>
+    <cosponsor id="412542" joined="2013-12-20"/>
+    <cosponsor id="412247" joined="2013-12-19"/>
+    <cosponsor id="300100" joined="2013-12-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-17">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2013-12-18" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="265">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 265.</text>
+    </calendar>
+    <action datetime="2013-12-20">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S9083" label="consideration"/>
+    </action>
+    <action datetime="2013-12-20">
+      <text>Cloture motion on the motion to proceed to the bill presented in Senate.</text>
+      <reference ref="CR S9083" label="consideration"/>
+      <reference ref="CR S9083" label="text"/>
+    </action>
+    <action datetime="2014-01-06">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S5-7, S15-18" label="consideration"/>
+    </action>
+    <action datetime="2014-01-07">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S37-65" label="consideration"/>
+    </action>
+    <action datetime="2014-01-07">
+      <text>Cloture on the motion to proceed to measure invoked in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 2.</text>
+      <reference ref="CR S39" label="consideration"/>
+      <reference ref="CR S39" label="text"/>
+    </action>
+    <action datetime="2014-01-08">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S88-124" label="consideration"/>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.</text>
+      <reference ref="CR S203" label="consideration"/>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Measure laid before Senate by motion.</text>
+      <reference ref="CR S203-209" label="consideration"/>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with amendment SA 2633 made in Senate.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Cloture motion on the bill presented in Senate.</text>
+      <reference ref="CR S204" label="consideration"/>
+      <reference ref="CR S204" label="text"/>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Motion to table the motion by Senator Reid to commit the bill (S. 1845) to Senate Committee on Finance with instructions to report back forthwith with amendment SA 2633 rejected in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 3.</text>
+      <reference ref="CR S209" label="consideration"/>
+    </action>
+    <action datetime="2014-01-13">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S268-281" label="consideration"/>
+    </action>
+    <action datetime="2014-01-14">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S300-323" label="consideration"/>
+    </action>
+    <action datetime="2014-01-14">
+      <text>Motion to table the motion by Senator Reid to commit the bill (S. 1845) to Senate Committee on Finance with instructions to report back forthwith with amendment SA 2633 rejected in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 8.</text>
+      <reference ref="CR S300, S311" label="consideration"/>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="10" datetime="2014-01-14" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the bill not invoked in Senate by Yea-Nay Vote. 55 - 45. Record Vote Number: 10.</text>
+      <reference ref="CR S312" label="consideration"/>
+      <reference ref="CR S312" label="text"/>
+    </vote-aux>
+    <action datetime="2014-01-14">
+      <text>Motion by Senator Reid to reconsider the vote by which cloture on the bill was not invoked  (Record Vote No. 10) entered in Senate.</text>
+      <reference ref="CR S312" label="consideration"/>
+    </action>
+    <action datetime="2014-01-15">
+      <text>Senator Toomey moved to appeal the ruling of the chair that Amdt. No. 2606 is not in order to be proposed.</text>
+      <reference ref="CR S338" label="consideration"/>
+    </action>
+    <action datetime="2014-02-04">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S737-738" label="consideration"/>
+    </action>
+    <action datetime="2014-02-04">
+      <text>Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with amendment SA 2633 withdrawn in Senate.</text>
+      <reference ref="CR S737" label="consideration"/>
+    </action>
+    <action datetime="2014-02-04">
+      <text>Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with amendment SA 2716 made in Senate.</text>
+      <reference ref="CR S737-738" label="consideration"/>
+    </action>
+    <action datetime="2014-02-04">
+      <text>Second cloture motion on the bill presented in Senate.</text>
+      <reference ref="CR S738" label="consideration"/>
+      <reference ref="CR S738" label="text"/>
+    </action>
+    <action datetime="2014-02-06">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S777-780, S781-786, S788-789, S790-791, S793-794" label="consideration"/>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="24" datetime="2014-02-06" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Second cloture on the bill not invoked in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 24.</text>
+      <reference ref="CR S794" label="consideration"/>
+      <reference ref="CR S794" label="text"/>
+    </vote-aux>
+    <action datetime="2014-02-06">
+      <text>Motion by Senator Reid to reconsider the vote by which second cloture was not invoked on the bill (Record Vote No. 24) made in Senate.</text>
+      <reference ref="CR S794" label="consideration"/>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2821"/>
+    <bill relation="unknown" session="113" type="h" number="3546"/>
+    <bill relation="unknown" session="113" type="h" number="3773"/>
+    <bill relation="unknown" session="113" type="h" number="3813"/>
+    <bill relation="identical" session="113" type="h" number="3824"/>
+    <bill relation="unknown" session="113" type="h" number="3936"/>
+    <bill relation="unknown" session="113" type="h" number="3979"/>
+    <bill relation="unknown" session="113" type="h" number="4415"/>
+    <bill relation="unknown" session="113" type="h" number="4415"/>
+    <bill relation="unknown" session="113" type="h" number="4550"/>
+    <bill relation="unknown" session="113" type="h" number="4970"/>
+    <bill relation="unknown" session="113" type="s" number="1747"/>
+    <bill relation="unknown" session="113" type="s" number="1797"/>
+    <bill relation="unknown" session="113" type="s" number="1931"/>
+    <bill relation="unknown" session="113" type="s" number="2077"/>
+    <bill relation="unknown" session="113" type="s" number="2097"/>
+    <bill relation="unknown" session="113" type="s" number="2148"/>
+    <bill relation="unknown" session="113" type="s" number="2148"/>
+    <bill relation="unknown" session="113" type="s" number="2149"/>
+    <bill relation="unknown" session="113" type="s" number="2532"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Appropriations"/>
+    <term name="Department of Labor"/>
+    <term name="Employee hiring"/>
+    <term name="Employment and training programs"/>
+    <term name="Employment taxes"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Railroads"/>
+    <term name="State and local finance"/>
+    <term name="Transportation employees"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2603"/>
+    <amendment number="s2604"/>
+    <amendment number="s2605"/>
+    <amendment number="s2606"/>
+    <amendment number="s2607"/>
+    <amendment number="s2608"/>
+    <amendment number="s2609"/>
+    <amendment number="s2610"/>
+    <amendment number="s2611"/>
+    <amendment number="s2612"/>
+    <amendment number="s2613"/>
+    <amendment number="s2614"/>
+    <amendment number="s2615"/>
+    <amendment number="s2616"/>
+    <amendment number="s2617"/>
+    <amendment number="s2618"/>
+    <amendment number="s2619"/>
+    <amendment number="s2620"/>
+    <amendment number="s2621"/>
+    <amendment number="s2622"/>
+    <amendment number="s2623"/>
+    <amendment number="s2624"/>
+    <amendment number="s2625"/>
+    <amendment number="s2626"/>
+    <amendment number="s2627"/>
+    <amendment number="s2628"/>
+    <amendment number="s2629"/>
+    <amendment number="s2630"/>
+    <amendment number="s2631"/>
+    <amendment number="s2632"/>
+    <amendment number="s2633"/>
+    <amendment number="s2634"/>
+    <amendment number="s2635"/>
+    <amendment number="s2636"/>
+    <amendment number="s2637"/>
+    <amendment number="s2640"/>
+    <amendment number="s2641"/>
+    <amendment number="s2642"/>
+    <amendment number="s2643"/>
+    <amendment number="s2644"/>
+    <amendment number="s2645"/>
+    <amendment number="s2646"/>
+    <amendment number="s2647"/>
+    <amendment number="s2648"/>
+    <amendment number="s2649"/>
+    <amendment number="s2650"/>
+    <amendment number="s2651"/>
+    <amendment number="s2712"/>
+    <amendment number="s2714"/>
+    <amendment number="s2715"/>
+    <amendment number="s2716"/>
+    <amendment number="s2717"/>
+    <amendment number="s2718"/>
+    <amendment number="s2719"/>
+    <amendment number="s2720"/>
+    <amendment number="s2721"/>
+    <amendment number="s2722"/>
+    <amendment number="s2723"/>
+    <amendment number="s2724"/>
+    <amendment number="s2725"/>
+    <amendment number="s2726"/>
+    <amendment number="s2727"/>
+    <amendment number="s2728"/>
+  </amendments>
+  <summary>12/17/2013--Introduced.
+Emergency Unemployment Compensation Extension Act - Amends the Supplemental Appropriations Act, 2008 to extend emergency unemployment compensation (EUC) payments for eligible individuals to weeks of employment ending on or before April 1, 2014.
+
+ Amends the Assistance for Unemployed Workers and Struggling Families Act to extend until March 31, 2014, requirements that federal payments to states cover 100% of EUC.
+
+ Amends the Unemployment Compensation Extension Act of 2008 to exempt weeks of unemployment between enactment of this Act and September 30, 2014, from the prohibition in the Federal-State Extended Unemployment Compensation Act of 1970 (FSEUCA of 1970) against federal matching payments to a state for the first week in an individual's eligibility period for which extended compensation or sharable regular compensation is paid if the state law provides for payment of regular compensation to an individual for his or her first week of otherwise compensable unemployment. (Thus allows temporary federal matching for the first week of extended benefits for states with no waiting period.)
+
+ Amends the FSEUCA of 1970 to postpone similarly from December 31, 2013, to March 31, 2014, termination of the period during which a state may determine its "on" and "off" indicators according to specified temporary substitutions in its formula.
+
+ Amends the Supplemental Appropriations Act, 2008 to appropriate funds out of the employment security administration account through the first quarter of FY2015 to assist states in providing reemployment and eligibility assessment activities.
+
+ Amends the Railroad Unemployment Insurance Act to extend through March 31, 2014, the temporary increase in extended unemployment benefits.
+
+Makes a change in application of a certain requirement (nonreduction rule) to a state that has entered a federal-state EUC agreement, under which the federal government would reimburse the state's unemployment compensation agency making EUC payments to individuals who have exhausted all rights to regular unemployment compensation under state or federal law and meet specified other criteria.
+
+ (Under the nonreduction rule such an agreement does not apply with respect to a state whose method for computing regular unemployment compensation under state law has been modified to make the average weekly unemployment compensation benefit paid on or after June 2, 2010, less than what would have been paid before June 2, 2010.)
+
+ Declares that the nonreduction rule shall not apply to a state which has enacted a law before December 1, 2013, that, upon taking effect, would violate the nonreduction rule. Allows a state whose agreement was terminated, however, to enter into a subsequent federal-state EUC agreement on or after enactment of this Act if, taking into account this inapplicability of the nonreduction rule, it would otherwise meet the requirements for an EUC agreement. (Thus allows such a subsequent EUC agreement to permit payment of less than the average weekly unemployment compensation benefit paid on or after June 2, 2010.)</summary>
+</bill>

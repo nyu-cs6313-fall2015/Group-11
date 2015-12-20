@@ -1,0 +1,392 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18506fb36">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide that production of all locatable minerals from mining claims located under the general mining laws, or mineral concentrates or products derived from locatable minerals from such mining claims, shall be subject to a royalty of 12.5 percent of the gross income from mining, and for other purposes.;
+   		H.R. 2467 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-06-26</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide that production of all locatable minerals from mining claims located under the general mining laws, or mineral concentrates or products derived from locatable minerals from such mining claims, shall be subject to a royalty of 12.5 percent of the gross income from mining, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2467 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-06-20</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>111 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18506fb36</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2467ih</identifier>
+<identifier type="preferred citation">H.R. 2467</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2467_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2467ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2467ih/html/BILLS-113hr2467ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2467ih/pdf/BILLS-113hr2467ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2467ih/xml/BILLS-113hr2467ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-06-26</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-05</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr2467ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Edward J. Markey</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Rush D. Holt</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Raul M. Grijalva</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 552</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 552</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1271et seq.</partNumber>
+  <partNumber>Title 16 Section 1276(a)</partNumber>
+  <partNumber>Title 16 Section 1276(d)</partNumber>
+  <partNumber>Title 16 Section 1600et seq.</partNumber>
+  <partNumber>Title 16 Section 470et seq.</partNumber>
+  <partNumber>Title 16 Section 478</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1271et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1276(a)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1276(d)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1600et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 470et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 478</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 2101</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 2101</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 28 Section 1391</partNumber>
+</titleInfo>
+ <identifier type="USC citation">28 U.S.C. 1391</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 30 Section 1001et seq.</partNumber>
+  <partNumber>Title 30 Section 1201et seq.</partNumber>
+  <partNumber>Title 30 Section 1231</partNumber>
+  <partNumber>Title 30 Section 1604(e)(3)</partNumber>
+  <partNumber>Title 30 Section 161</partNumber>
+  <partNumber>Title 30 Section 162</partNumber>
+  <partNumber>Title 30 Section 1719</partNumber>
+  <partNumber>Title 30 Section 181et seq.</partNumber>
+  <partNumber>Title 30 Section 21a</partNumber>
+  <partNumber>Title 30 Section 22-54</partNumber>
+  <partNumber>Title 30 Section 28</partNumber>
+  <partNumber>Title 30 Section 28et seq.</partNumber>
+  <partNumber>Title 30 Section 29</partNumber>
+  <partNumber>Title 30 Section 30</partNumber>
+  <partNumber>Title 30 Section 351et seq.</partNumber>
+  <partNumber>Title 30 Section 35</partNumber>
+  <partNumber>Title 30 Section 36</partNumber>
+  <partNumber>Title 30 Section 37</partNumber>
+  <partNumber>Title 30 Section 524</partNumber>
+  <partNumber>Title 30 Section 526</partNumber>
+  <partNumber>Title 30 Section 601</partNumber>
+  <partNumber>Title 30 Section 601et seq.</partNumber>
+  <partNumber>Title 30 Section 611</partNumber>
+  <partNumber>Title 30 Section 612</partNumber>
+</titleInfo>
+ <identifier type="USC citation">30 U.S.C. 1001et seq.</identifier>
+ <identifier type="USC citation">30 U.S.C. 1201et seq.</identifier>
+ <identifier type="USC citation">30 U.S.C. 1231</identifier>
+ <identifier type="USC citation">30 U.S.C. 1604(e)(3)</identifier>
+ <identifier type="USC citation">30 U.S.C. 161</identifier>
+ <identifier type="USC citation">30 U.S.C. 162</identifier>
+ <identifier type="USC citation">30 U.S.C. 1719</identifier>
+ <identifier type="USC citation">30 U.S.C. 181et seq.</identifier>
+ <identifier type="USC citation">30 U.S.C. 21a</identifier>
+ <identifier type="USC citation">30 U.S.C. 22-54</identifier>
+ <identifier type="USC citation">30 U.S.C. 28</identifier>
+ <identifier type="USC citation">30 U.S.C. 28et seq.</identifier>
+ <identifier type="USC citation">30 U.S.C. 29</identifier>
+ <identifier type="USC citation">30 U.S.C. 30</identifier>
+ <identifier type="USC citation">30 U.S.C. 351et seq.</identifier>
+ <identifier type="USC citation">30 U.S.C. 35</identifier>
+ <identifier type="USC citation">30 U.S.C. 36</identifier>
+ <identifier type="USC citation">30 U.S.C. 37</identifier>
+ <identifier type="USC citation">30 U.S.C. 524</identifier>
+ <identifier type="USC citation">30 U.S.C. 526</identifier>
+ <identifier type="USC citation">30 U.S.C. 601</identifier>
+ <identifier type="USC citation">30 U.S.C. 601et seq.</identifier>
+ <identifier type="USC citation">30 U.S.C. 611</identifier>
+ <identifier type="USC citation">30 U.S.C. 612</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1996</partNumber>
+  <partNumber>Title 42 Section 2000bbet seq.</partNumber>
+  <partNumber>Title 42 Section 3251et seq.</partNumber>
+  <partNumber>Title 42 Section 4332</partNumber>
+  <partNumber>Title 42 Section 6901</partNumber>
+  <partNumber>Title 42 Section 7901et seq.</partNumber>
+  <partNumber>Title 42 Section 9601</partNumber>
+  <partNumber>Title 42 Section 9601et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1996</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000bbet seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 3251et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 4332</identifier>
+ <identifier type="USC citation">42 U.S.C. 6901</identifier>
+ <identifier type="USC citation">42 U.S.C. 7901et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 9601</identifier>
+ <identifier type="USC citation">42 U.S.C. 9601et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1601et seq.</partNumber>
+  <partNumber>Title 43 Section 1714</partNumber>
+  <partNumber>Title 43 Section 1732(b)</partNumber>
+  <partNumber>Title 43 Section 1744(a)</partNumber>
+  <partNumber>Title 43 Section 1744(b)</partNumber>
+  <partNumber>Title 43 Section 1744(c)</partNumber>
+  <partNumber>Title 43 Section 1761et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1601et seq.</identifier>
+ <identifier type="USC citation">43 U.S.C. 1714</identifier>
+ <identifier type="USC citation">43 U.S.C. 1732(b)</identifier>
+ <identifier type="USC citation">43 U.S.C. 1744(a)</identifier>
+ <identifier type="USC citation">43 U.S.C. 1744(b)</identifier>
+ <identifier type="USC citation">43 U.S.C. 1744(c)</identifier>
+ <identifier type="USC citation">43 U.S.C. 1761et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 27 Page 348</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">27 Stat.	348</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 30 Page 36</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">30 Stat.	36</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 61 Page 681</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">61 Stat.	681</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 104 Page 890</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">104 Stat.	890</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 101-601</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 101-601</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr2467ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2467</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <action date="2013-06-20">Mr. Markey (for himself, Mr. Holt, and Mr. Grijalva) introduced the following bill; which was referred to the Committee on Natural Resources</action>
+ <congCommittee authorityId="hsii00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="735" bioGuideId="M000133" chamber="H" congress="113" gpoId="7972" party="D" role="SPONSOR" state="MA">
+                      <name type="parsed">Mr. Markey</name>
+                      <name type="authority-fnf">Edward J. Markey</name>
+                      <name type="authority-lnf">Markey, Edward J.</name>
+                      <name type="authority-other">Edward Markey</name>
+                </congMember>
+ <congMember authorityId="1580" bioGuideId="H001032" chamber="H" congress="113" gpoId="8054" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Holt</name>
+                      <name type="authority-fnf">Rush D. Holt</name>
+                      <name type="authority-lnf">Holt, Rush D.</name>
+                      <name type="authority-other">Rush Holt</name>
+                </congMember>
+ <congMember authorityId="1708" bioGuideId="G000551" chamber="H" congress="113" gpoId="7804" party="D" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Grijalva</name>
+                      <name type="authority-fnf">Raul M. Grijalva</name>
+                      <name type="authority-lnf">Grijalva, Raul M.</name>
+                      <name type="authority-other">Mr. Raul Grijalva</name>
+                </congMember>
+ <law congress="101" isPrivate="false" number="601"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="552"></section>
+                </USCode>
+ <USCode title="16">
+                      <section detail="et seq." number="1271"></section>
+                      <section detail="(a)" number="1276"></section>
+                      <section detail="(d)" number="1276"></section>
+                      <section detail="et seq." number="1600"></section>
+                      <section detail="et seq." number="470"></section>
+                      <section number="478"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="2101"></section>
+                </USCode>
+ <USCode title="28">
+                      <section number="1391"></section>
+                </USCode>
+ <USCode title="30">
+                      <section detail="et seq." number="1001"></section>
+                      <section detail="et seq." number="1201"></section>
+                      <section number="1231"></section>
+                      <section detail="(e)(3)" number="1604"></section>
+                      <section number="161"></section>
+                      <section number="162"></section>
+                      <section number="1719"></section>
+                      <section detail="et seq." number="181"></section>
+                      <section number="21a"></section>
+                      <section number="22-54"></section>
+                      <section number="28"></section>
+                      <section detail="et seq." number="28"></section>
+                      <section number="29"></section>
+                      <section number="30"></section>
+                      <section detail="et seq." number="351"></section>
+                      <section number="35"></section>
+                      <section number="36"></section>
+                      <section number="37"></section>
+                      <section number="524"></section>
+                      <section number="526"></section>
+                      <section number="601"></section>
+                      <section detail="et seq." number="601"></section>
+                      <section number="611"></section>
+                      <section number="612"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="1996"></section>
+                      <section detail="et seq." number="2000bb"></section>
+                      <section detail="et seq." number="3251"></section>
+                      <section number="4332"></section>
+                      <section number="6901"></section>
+                      <section detail="et seq." number="7901"></section>
+                      <section number="9601"></section>
+                      <section detail="et seq." number="9601"></section>
+                </USCode>
+ <USCode title="43">
+                      <section detail="et seq." number="1601"></section>
+                      <section number="1714"></section>
+                      <section detail="(b)" number="1732"></section>
+                      <section detail="(a)" number="1744"></section>
+                      <section detail="(b)" number="1744"></section>
+                      <section detail="(c)" number="1744"></section>
+                      <section detail="et seq." number="1761"></section>
+                </USCode>
+ <statuteAtLarge volume="27">
+                      <pages pages="348"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="30">
+                      <pages pages="36"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="61">
+                      <pages pages="681"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="104">
+                      <pages pages="890"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

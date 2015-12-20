@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-15", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5117-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "18", 
+      "name": "Murphy, Patrick", 
+      "sponsored_at": "2014-07-15", 
+      "state": "FL", 
+      "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-15", 
+  "number": "5117", 
+  "official_title": "To make competitive awards to national estuary programs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5266-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Estuary Urgent Needs Priority Program Act", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Posey, Bill", 
+    "state": "FL", 
+    "thomas_id": "01915", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-15", 
+  "subjects": [
+    "Aquatic ecology", 
+    "Environmental protection", 
+    "Lakes and rivers", 
+    "Mammals", 
+    "Marine and coastal resources, fisheries", 
+    "Marine pollution", 
+    "Pest management", 
+    "Water quality", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-15", 
+    "text": "Estuary Urgent Needs Priority Program Act - Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to revise the National Estuary Program by requiring the Environmental Protection Agency (EPA) to make competitive awards to address urgent and challenging issues that threaten the economic and ecological well-being of coastal areas, including extensive seagrass habitat losses, recurring harmful algae blooms, unusual marine mammal mortalities, invasive exotic species, and jellyfish proliferation limiting community access to water during peak tourism seasons.\n\nRequires the EPA to give priority to national estuary programs that are not part of the Geographic Programs as described in the Consolidated Appropriations Act, 2014."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Estuary Urgent Needs Priority Program Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To make competitive awards to national estuary programs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:51-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5117:@@@L&summ2=m&"
+}

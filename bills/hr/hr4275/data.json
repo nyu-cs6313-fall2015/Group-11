@@ -1,0 +1,255 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-18", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Education and the Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-18", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to House Education and the Workforce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-18", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-24T17:15:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Brooks (IN) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-24T17:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2577-2589", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-24T17:16:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4275.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-24T17:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2577-2588", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-03-25", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1710", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed, pursuant to the order of January 28, 2014, without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-03-25", 
+      "bill_ids": [
+        "s1302-113"
+      ], 
+      "references": [], 
+      "text": "See also S. 1302.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-25", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-27", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2014-04-07", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2014-04-07", 
+      "congress": "113", 
+      "law": "public", 
+      "number": "97", 
+      "references": [], 
+      "text": "Became Public Law No: 113-97.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4275-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2014-03-18", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "113", 
+    "law_type": "public", 
+    "number": "97"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-24T17:15:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2014-04-07", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-03-24T17:25:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-03-25", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-18", 
+  "number": "4275", 
+  "official_title": "To amend the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986 to provide for cooperative and small employer charity pension plans.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1302-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1302-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1302-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Cooperative and Small Employer Charity Pension Flexibility Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Brooks, Susan W.", 
+    "state": "IN", 
+    "thomas_id": "02129", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2014-04-07", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Administrative law and regulatory procedures", 
+    "Department of the Treasury", 
+    "Employee benefits and pensions", 
+    "Employment discrimination and employee rights", 
+    "Labor and employment", 
+    "Social work, volunteer service, charitable organizations"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2014-04-07", 
+    "text": "Cooperative and Small Employer Charity Pension Flexibility Act - (Sec. 2) Declares that: (1) defined benefit pension plans are a cost-effective way for cooperative associations and charities to provide their employees with economic security in retirement, (2) many cooperative associations and charitable organizations are only able to provide their employees with defined benefit pension plans because those organizations are able to pool their resources using the multiple employer plan structure, and (3) the pension funding rules should encourage cooperative associations and charities to continue to provide their employees with pension benefits.\n\n(Sec. 3) Makes this Act generally applicable to years beginning after December 31, 2013.\n\nTitle I: Amendments to Employee Retirement Income Security Act of 1974 and Other Provisions - (Sec. 101) Amends the Employee Retirement Income Security Act of 1974 (ERISA) to define a \"cooperative and small employer charity pension plan\" (CSEC pension plan), for purposes of this Act, as an employee pension benefit plan that is a defined benefit pension plan: (1) to which certain provisions of the Pension Protection Act of 2006 apply; or (2) that, as of June 25, 2010, was maintained by more than one employer all of whom were tax-exempt charitable organizations.\n\n(Sec. 102) Establishes minimum funding standards for CSEC pension plans. Allows a CSEC plan that uses a funding method that requires contributions in all years to maintain an alternative minimum funding standard account for any plan year.\n\nPermits the Secretary of the Treasury to extend an amortization of any unfunded liability of a CSEC pension plan for up to 10 years if the Secretary determines that: (1) such extension would carry out the purposes of this Act and would provide adequate protection for plan participants and their beneficiaries, and (2) failure to permit such extension would result in a substantial risk to the voluntary continuation of the plan or a substantial curtailment of pension benefit levels or employee compensation.\n\nSets forth rules for valuation of CSEC pension plan assets, allowable contributions, and plan liquidity. Imposes a lien in favor of a CSEC plan for failure to make required contributions.\n\nAuthorizes the Secretary to prescribe mortality tables to determine current liability of CSEC plans.\n\nRequires a CSEC plan sponsor to establish a written funding restoration plan within 180 days after receipt of a certification from the plan actuary that the plan is in funding restoration status for a plan year.\n\n(Sec. 103) Allows a CSEC plan sponsor to elect not to treat such plan as a CSEC plan in plan years beginning after 2013.\n\nAmends the Pension Protection Act of 2006 to allow a pension plan sponsor an election to cease treating a plan as an eligible charity plan for plan years beginning after 2013.\n\n(Sec. 104) Requires notices to participants in a CSEC plan to include: (1) a statement that different rules apply to CSEC plans than apply to single-employer plans; (2) for the first two years beginning after December 31, 2013, a statement that, as a result of changes made by this Act, the contributions to the plan may have changed; and (3) a statement that a CSEC plan is in funding restoration status. Authorizes the Secretary\u00a0of\u00a0Labor\u00a0to modify the model notice required by the Pension Protection Act of 2006 to include such statements.\n\nRequires the annual report for employee benefit plans required by ERISA to include a list of participating employers and a good faith estimate of the percentage of total contributions made by such employers during the plan year.\n\n(Sec. 105) Requires the Participant and Plan Sponsor Advocate established by ERISA to make itself available to assist CSEC plan sponsors and participants.\n\nTitle II: Amendments to Internal Revenue Code of 1986 - Amends the Internal Revenue Code, with respect to CSEC plans, to set forth rules for such plans similar to those rules added to ERISA in title I of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cooperative and Small Employer Charity Pension Flexibility Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Cooperative and Small Employer Charity Pension Flexibility Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Cooperative and Small Employer Charity Pension Flexibility Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Cooperative and Small Employer Charity Pension Flexibility Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986 to provide for cooperative and small employer charity pension plans.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:30-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4275:@@@L&summ2=m&"
+}

@@ -1,0 +1,338 @@
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S2956 IS: Phone Scam Prevention Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-11-20</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>113th CONGRESS</congress>
+    <session>2d Session</session>
+		<legis-num>S. 2956</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20141120">November 20, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="S282">Mr. Nelson</sponsor> (for himself, <cosponsor name-id="S356">Mr. Donnelly</cosponsor>, <cosponsor name-id="S252">Ms. Collins</cosponsor>, and <cosponsor name-id="S370">Mr. Booker</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prevent caller ID spoofing, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+			<text display-inline="no-display-inline">This Act may be cited as the
+		  <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Phone Scam Prevention Act of 2014" proposed="true">Phone Scam Prevention Act of 2014</cato:entity-ref>
+          </short-title>
+        </quote>.</text>
+		</section>
+    <section id="id9AAE3F8FF0214A44808567AEEECDCA0C">
+      <enum>2.</enum>
+      <header>Availability of whitelist services</header>
+      <subsection id="id36EDCAE438374B1CA9598B9BD120AACB">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Communications Act of 1934/t:II/pt:I">Part I of title II of the Communications Act of 1934</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/47/201">
+            <cato:entity-ref entity-type="uscode" value="usc/47/201/etseq">47 U.S.C. 201 et seq.</cato:entity-ref>
+          </external-xref>)</cato:entity> is amended by adding
+			 at
+			 the end the following:</text>
+        <quoted-block display-inline="no-display-inline" id="idE8ACA88E4D914157AEAEFD85ADE582F3" style="OLC">
+          <section id="id3B734597E50840DAB8A7B491163E7767">
+            <enum>232.</enum>
+            <header>Availability of whitelist services</header>
+            <subsection id="id55A8FF6A813F4E4986BFDC681E1C5030">
+              <enum>(a)</enum>
+              <header>Definitions</header>
+              <text>In this section—</text>
+              <paragraph id="idbefc1cc4faa34bb781f2a05c64ebb229">
+                <enum>(1)</enum>
+                <text>the term <term>voice service</term> means any service that furnishes voice communications to an end user using resources from
+			 the North American Numbering Plan or any successor plan adopted by
+			 the Commission under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Communications Act of 1934/s:251/ss:e/p:1">section 251(e)(1)</cato:entity-ref>;</text>
+              </paragraph>
+              <paragraph id="id931E3C9C104C4290B1A6BF7385A34546">
+                <enum>(2)</enum>
+                <text>the term <term>exempt entity</term> means—</text>
+                <subparagraph id="id2b49791e27734e3d9ccf3dd29ac874e4">
+                  <enum>(A)</enum>
+                  <text>the Federal Government, a State, a political subdivision of a State, or an agency thereof; and</text>
+                </subparagraph>
+                <subparagraph id="idfc5a5683d21c43fc81e9b3cef70e2557">
+                  <enum>(B)</enum>
+                  <text>any entity with respect to which the Commission determines that allowing calls that originate from
+			 that entity to connect directly with the voice service customer
+			 premises equipment (commonly referred to as <quote>CPE</quote>) of a subscriber would serve the public interest; and</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="idaa878ccb3f3f4c51b4ca8f0b3be54d78">
+                <enum>(3)</enum>
+                <text>the term <term>whitelist</term> means a list of telephone numbers, designated by a subscriber, for which calls originating from
+			 those numbers to the subscriber are permitted to connect directly with
+			 the voice service CPE of the subscriber.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="ida2de188d36594af99cc94cf4734c0179">
+              <enum>(b)</enum>
+              <header>Requirement To offer whitelist service</header>
+              <text>A provider of a voice service	shall offer each  subscriber the option to designate a
+			 whitelist, if technically feasible (as determined by the
+			 Commission on a periodic basis).</text>
+            </subsection>
+            <subsection id="idd457a4c8c69945be85dd0911eea8ab30">
+              <enum>(c)</enum>
+              <header>Treatment of nonapproved telephone numbers</header>
+              <paragraph id="id7BB5B6764CEF49E99D82383B29401BA9">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text>If a subscriber elects to designate a whitelist under subsection (b), the provider of the
+			 voice service of the subscriber   shall ensure
+			 that any call the provider receives
+			 for termination that is not associated with a telephone number on the
+			 whitelist of the subscriber or the telephone number of an exempt entity is
+			 processed
+			 according to preferences set by the subscriber with respect to the
+			 whitelist, including by limiting or disabling the ability of an incoming
+			 call to
+			 connect with the CPE of the subscriber.</text>
+              </paragraph>
+              <paragraph id="id1A5CB95404414A35B55266772B1CACE6">
+                <enum>(2)</enum>
+                <header>Safe harbor</header>
+                <text>Whitelist processing that, in accordance with the preferences of a subscriber, limits or disables
+			 connection with the CPE of a subscriber shall not be considered to be—</text>
+                <subparagraph id="idB58AE0987A334DD6ACC881A25F97AB13">
+                  <enum>(A)</enum>
+                  <text>blocking traffic; or</text>
+                </subparagraph>
+                <subparagraph id="idFBB0996796354836BDD11020CEAFAB6D">
+                  <enum>(B)</enum>
+                  <text>an unjust or unreasonable practice under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Communications Act of 1934/s:201">section 201 of the Communications Act of 1934</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/47/201">47 U.S.C.
+			 201</cato:entity-ref>)</cato:entity>.</text>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="id6473fed76f814a818a86ce0a73d2fca2">
+              <enum>(d)</enum>
+              <header>Number of telephone numbers on whitelist free of charge</header>
+              <paragraph id="id90f8c001162444c5a5faec603410e83e">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text>A provider of a voice service	shall allow a subscriber (or a designated representative
+			 thereof)
+			 to designate  not less
+			 than 10 telephone numbers to be on
+			 the whitelist under subsection (b), free of charge.</text>
+              </paragraph>
+              <paragraph id="ide4caf5c92f094030916ddd6c1ec5ae40">
+                <enum>(2)</enum>
+                <header>Telephone numbers of exempt entities</header>
+                <text>The telephone number of an exempt entity shall not be considered to
+			 be on the whitelist of a subscriber for purposes of calculating
+			 the 10 telephone numbers that may be designated under paragraph (1).</text>
+              </paragraph>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="idF011982D7B244D3D99E9FA680C207863">
+        <enum>(b)</enum>
+        <header>Effective date</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Communications Act of 1934/s:232" proposed="true">Section 232 of the Communications Act of 1934</cato:entity-ref>, as added by subsection (a), shall take effect on the
+			 date that is 2 years after the date of enactment of this Act.</text>
+      </subsection>
+    </section>
+    <section id="id059DE92444FA4BD89CC26E1C988C0488">
+      <enum>3.</enum>
+      <header>Authentication of call origination</header>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Communications Act of 1934/t:II/pt:I">Part I of title II of the Communications Act of 1934</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/47/201">
+          <cato:entity-ref entity-type="uscode" value="usc/47/201/etseq">47 U.S.C. 201 et seq.</cato:entity-ref>
+        </external-xref>)</cato:entity>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Phone Scam Prevention Act of 2014/s:2" proposed="true">section
+			 2</cato:entity-ref>, is amended by adding at
+			 the end the following:</text>
+      <quoted-block display-inline="no-display-inline" id="id2A112C1CBF3F4B1CA1E1253D894B1D48" style="OLC">
+        <section id="idDCFBCF8E61284118BA34B7ADA3B1A09B">
+          <enum>233.</enum>
+          <header>Authentication of call origination</header>
+          <subsection id="id7526CD87079F4E37B4F3C1B144FF9CE0">
+            <enum>(a)</enum>
+            <header>Definition</header>
+            <text>In this section, the term  <term>voice service</term> means any service that furnishes voice communications to an end user using resources from
+			 the North American Numbering Plan or any successor plan adopted by
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Communications Act of 1934/s:251/ss:e/p:1">section 251(e)(1)</cato:entity-ref>.</text>
+          </subsection>
+          <subsection id="idDD60CBF5823144E787C041CE50C848D8">
+            <enum>(b)</enum>
+            <header>Development of authentication standards by Commission</header>
+            <text>Not later than 5 years after the date of enactment of the <short-title>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Phone Scam Prevention Act of 2014" proposed="true">Phone Scam Prevention Act of 2014</cato:entity-ref>
+              </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> shall develop authentication standards for providers of a voice service
+			 to
+			 validate the calling party number and
+			 caller identification
+			 information of a call originated through a voice service so that
+			 the subscriber receiving
+			 the call may obtain—</text>
+            <paragraph id="id85264D7E89EB45068FEC28B2F88C70DB">
+              <enum>(1)</enum>
+              <text>a secure assurance of the origin of the call, including—</text>
+              <subparagraph id="idD802516578924F10BCC24AF3AE0C5EC1">
+                <enum>(A)</enum>
+                <text>the calling party number; and</text>
+              </subparagraph>
+              <subparagraph id="idACFDC8667099428AAC61C7B4A6136C6A">
+                <enum>(B)</enum>
+                <text>caller identification information for the call; or</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="id385A39FADA8349E1B3BE2A126B6FDE0A">
+              <enum>(2)</enum>
+              <text>notice that an assurance described in paragraph (1) is unavailable.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="id891de80b89b14a36a679a4e3d30c65d3">
+            <enum>(c)</enum>
+            <header>Adoption of authentication standards by entities</header>
+            <text>Each provider of a voice service  that is allocated telephone numbers from the portion of
+			 the North American Numbering Plan that pertains to the United States shall
+			 adopt the authentication standards developed under subsection (b).</text>
+          </subsection>
+        </section>
+        <after-quoted-block>.</after-quoted-block>
+      </quoted-block>
+    </section>
+    <section id="id987dff000ee74b4699fa24db36364177">
+      <enum>4.</enum>
+      <header>Expanding and clarifying prohibition on inaccurate caller id information</header>
+      <subsection id="id7f80cb1e0f9f420a84bcd3da82816048">
+        <enum>(a)</enum>
+        <header>Communications from outside the United States</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Communications Act of 1934/s:227/ss:e/p:1">Section 227(e)(1) of the Communications Act of 1934</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/47/227">
+            <cato:entity-ref entity-type="uscode" value="usc/47/227/e/1">47 U.S.C. 227(e)(1)</cato:entity-ref>
+          </external-xref>)</cato:entity> is amended by striking <quote>in connection with any telecommunications service or IP-enabled voice service</quote> and inserting <quote>or any person outside the United States if the recipient of the call is within the United States,
+			 in connection with any voice service</quote>.</text>
+      </subsection>
+      <subsection id="id84920f2db86d446abd76baa15d577b0d">
+        <enum>(b)</enum>
+        <header>Coverage of text messages and other voice services</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Communications Act of 1934/s:227/ss:e/p:8">Section 227(e)(8) of the Communications Act of 1934</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/47/227">
+            <cato:entity-ref entity-type="uscode" value="usc/47/227/e/8">47 U.S.C. 227(e)(8)</cato:entity-ref>
+          </external-xref>)</cato:entity> is amended—</text>
+        <paragraph id="id0e648bb7653942e1938e2365374f73af">
+          <enum>(1)</enum>
+          <text>in subparagraph (A), by striking <quote>telecommunications service or IP-enabled voice service</quote> and inserting <quote>voice service (including a text message sent using a text messaging service)</quote>;</text>
+        </paragraph>
+        <paragraph id="id43c3709dee3540b19d3dad1396c86bcd">
+          <enum>(2)</enum>
+          <text>in the first sentence of subparagraph (B), by striking <quote>telecommunications service or IP-enabled voice service</quote> and inserting <quote>voice service (including a text message sent using a text messaging service)</quote>; and</text>
+        </paragraph>
+        <paragraph id="id0920C961A2104DB4B6CFC1B86AC6107F">
+          <enum>(3)</enum>
+          <text>by striking subparagraph (C) and inserting the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id9E738D19C21F4A38B9BD6C384CA2E018" style="OLC">
+            <subparagraph id="idDE03EA06B6B242D5847BB6293365D2F1">
+              <enum>(C)</enum>
+              <header>Text message</header>
+              <text>The term <term>text message</term>—</text>
+              <clause id="idbffbf47f032f4473843a7b6a32a6b1a8">
+                <enum>(i)</enum>
+                <text>means a real-time or near real-time message consisting of text, images, sounds, or other
+			 information that is transmitted from or received by a device that is
+			 identified as the transmitting or receiving device by means of a telephone
+			 number;</text>
+              </clause>
+              <clause id="id887B2EB8E8D645D69C6FE82803AE10B2">
+                <enum>(ii)</enum>
+                <text>includes a short message service (commonly referred to as <quote>SMS</quote>) message, an enhanced message service (commonly referred to as <quote>EMS</quote>) message, and a multimedia message service (commonly referred to as <quote>MMS</quote>) message; and</text>
+              </clause>
+              <clause id="idFE65A894ED674015BF7F9B9787EBE6C4">
+                <enum>(iii)</enum>
+                <text>does not include a real-time, 2-way voice or video communication.</text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="id942930D7E62849DB8A9C3EF0228A2E6C">
+              <enum>(D)</enum>
+              <header>Text messaging service</header>
+              <text>The term <term>text messaging service</term> means a service that permits the transmission or receipt of a text message, including a service
+			 provided as part of or in connection with a voice service.</text>
+            </subparagraph>
+            <subparagraph id="idAF3749F8C6CD4E9BBE95134448C46BD2">
+              <enum>(E)</enum>
+              <header>Voice service</header>
+              <text>The term <term>voice service</term> means any service that furnishes voice communications to an end user using resources from
+			 the North American Numbering Plan or any successor plan adopted by
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Communications Act of 1934/s:251/ss:e/p:1">section 251(e)(1)</cato:entity-ref>.</text>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection>
+      <subsection id="id5ac285f43245450da4f3e2d218f10e29">
+        <enum>(c)</enum>
+        <header>Rules of construction</header>
+        <text>Nothing in this Act shall be construed to modify, limit, or otherwise affect—</text>
+        <paragraph id="id1A4DF77FDBAD48D89CE54F48D1DB840D">
+          <enum>(1)</enum>
+          <text>the authority, as of the day before the date of enactment of this Act, of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Federal
+			 Communications Commission</cato:entity-ref> to interpret the term <term>call</term> to include a text message (as defined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Communications Act of 1934/s:227/ss:e/p:8">section 227(e)(8) of the Communications Act of 1934</cato:entity-ref>,
+			 as added by subsection (b)); or</text>
+        </paragraph>
+        <paragraph id="id57F401F020BE4F79884AA06CADD2BDA3">
+          <enum>(2)</enum>
+          <text>any rule or order adopted by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Federal Communications
+			 Commission</cato:entity-ref>  in connection
+			 with—</text>
+          <subparagraph id="idE5F94E7C687743BEA02307EBDB3407AA">
+            <enum>(A)</enum>
+            <text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Telephone Consumer Protection Act of 1991">Telephone Consumer Protection Act of 1991</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/102/243">
+                <cato:entity-ref entity-type="public-law" value="public-law/102/243">Public Law 102–243</cato:entity-ref>
+              </external-xref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/105/2394">105 Stat. 2394</cato:entity-ref>)</cato:entity> or the
+			 amendments made by that Act; or</text>
+          </subparagraph>
+          <subparagraph id="idECB5B8B6EF034ED695E40C416ED7B09E">
+            <enum>(B)</enum>
+            <text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="CAN-SPAM Act of 2003">CAN–SPAM Act of 2003</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/7701">
+                <cato:entity-ref entity-type="uscode" value="usc/15/7701/etseq">15 U.S.C. 7701 et seq.</cato:entity-ref>
+              </external-xref>)</cato:entity>.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="id84cb1f5e4d5d4efbbcbfde1cd7f0aaa9">
+        <enum>(d)</enum>
+        <header>Regulations</header>
+        <text>Not later than 18 months after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Federal Communications
+			 Commission</cato:entity-ref> shall prescribe regulations to implement the amendments made by
+			 this section.</text>
+      </subsection>
+      <subsection id="id358496019f8648dd98ecadbd68208971">
+        <enum>(e)</enum>
+        <header>Effective date</header>
+        <text>The amendments made by this section shall take effect on the date that is 6 months after the date
+			 on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Federal Communications Commission</cato:entity-ref> prescribes regulations
+			 under subsection (d).</text>
+      </subsection>
+    </section>
+  </legis-body>
+</bill>

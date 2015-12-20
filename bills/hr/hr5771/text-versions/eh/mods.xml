@@ -1,0 +1,217 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18a62308a">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend the Internal Revenue Code of 1986 to extend certain expiring provisions and make technical corrections, to amend the Internal Revenue Code of 1986 to provide for the tax treatment of ABLE accounts established under State programs for the care of family members with disabilities, and for other purposes.;
+   		H.R. 5771 (EH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-12-04</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend the Internal Revenue Code of 1986 to extend certain expiring provisions and make technical corrections, to amend the Internal Revenue Code of 1986 to provide for the tax treatment of ABLE accounts established under State programs for the care of family members with disabilities, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5771 (EH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-12-03</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>176 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18a62308a</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5771eh</identifier>
+<identifier type="preferred citation">H.R. 5771</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5771_eh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5771eh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5771eh/html/BILLS-113hr5771eh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5771eh/pdf/BILLS-113hr5771eh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5771eh/xml/BILLS-113hr5771eh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-12-04</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-12-05</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr5771eh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 431et seq.</partNumber>
+  <partNumber>Title 2 Section 432(e)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 431et seq.</identifier>
+ <identifier type="USC citation">2 U.S.C. 432(e)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 552a(a)(8)(B)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 552a(a)(8)(B)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 11 Section 521(c)</partNumber>
+  <partNumber>Title 11 Section 707(b)(2)(A)(ii)(II)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">11 U.S.C. 521(c)</identifier>
+ <identifier type="USC citation">11 U.S.C. 707(b)(2)(A)(ii)(II)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 5517(g)(4)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 5517(g)(4)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 1055(g)(3)(B)</partNumber>
+  <partNumber>Title 29 Section 1056(g)</partNumber>
+  <partNumber>Title 29 Section 1056(g)(9)</partNumber>
+  <partNumber>Title 29 Section 1083(c)</partNumber>
+  <partNumber>Title 29 Section 1083(h)</partNumber>
+  <partNumber>Title 29 Section 1084(d)(1)(C)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 1055(g)(3)(B)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1056(g)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1056(g)(9)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1083(c)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1083(h)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1084(d)(1)(C)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1324(b)</partNumber>
+  <partNumber>Title 31 Section 1324(b)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1324(b)</identifier>
+ <identifier type="USC citation">31 U.S.C. 1324(b)(2)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1395m(a)(1)</partNumber>
+  <partNumber>Title 42 Section 1395rrnote</partNumber>
+  <partNumber>Title 42 Section 1395w-4(c)</partNumber>
+  <partNumber>Title 42 Section 424a(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1395m(a)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395rrnote</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-4(c)</identifier>
+ <identifier type="USC citation">42 U.S.C. 424a(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 52 Section 30101</partNumber>
+  <partNumber>Title 52 Section 30102(e)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">52 U.S.C. 30101</identifier>
+ <identifier type="USC citation">52 U.S.C. 30102(e)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-93</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-93</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr5771eh</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5771</billNumber>
+ <billVersion reprint="false">eh</billVersion>
+ <fileSuffix>eh</fileSuffix>
+ <law congress="113" isPrivate="false" number="93"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section detail="et seq." number="431"></section>
+                      <section detail="(e)" number="432"></section>
+                </USCode>
+ <USCode title="5">
+                      <section detail="(a)(8)(B)" number="552a"></section>
+                </USCode>
+ <USCode title="11">
+                      <section detail="(c)" number="521"></section>
+                      <section detail="(b)(2)(A)(ii)(II)" number="707"></section>
+                </USCode>
+ <USCode title="12">
+                      <section detail="(g)(4)" number="5517"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="(g)(3)(B)" number="1055"></section>
+                      <section detail="(g)" number="1056"></section>
+                      <section detail="(g)(9)" number="1056"></section>
+                      <section detail="(c)" number="1083"></section>
+                      <section detail="(h)" number="1083"></section>
+                      <section detail="(d)(1)(C)" number="1084"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="(b)" number="1324"></section>
+                      <section detail="(b)(2)" number="1324"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(a)(1)" number="1395m"></section>
+                      <section detail="note" number="1395rr"></section>
+                      <section detail="(c)" number="1395w-4"></section>
+                      <section detail="(a)" number="424a"></section>
+                </USCode>
+ <USCode title="52">
+                      <section number="30101"></section>
+                      <section detail="(e)" number="30102"></section>
+                </USCode>
+</extension>
+</mods>

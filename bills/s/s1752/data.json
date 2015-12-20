@@ -1,0 +1,146 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-20", 
+      "references": [], 
+      "text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-21", 
+      "calendar": "Senate Legislative", 
+      "number": "251", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 251.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-03-06", 
+      "references": [
+        {
+          "reference": "CR S1335-1349", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-06", 
+      "references": [
+        {
+          "reference": "CR S1336", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1336", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on the measure presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-06", 
+      "references": [
+        {
+          "reference": "CR S1349", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Cloture on the measure not invoked in Senate by Yea-Nay Vote. 55 - 45. Record Vote Number: 59.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-06", 
+      "references": [
+        {
+          "reference": "CR S1349", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Returned to the Calendar. Calendar No. 251.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1752-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-06", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-11-20", 
+  "number": "1752", 
+  "official_title": "A bill to reform procedures for determinations to proceed to trial by court-martial for certain offenses under the Uniform Code of Military Justice, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s967-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2970-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2992-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Military Justice Improvement Act of 2013", 
+  "sponsor": {
+    "district": null, 
+    "name": "Gillibrand, Kirsten E.", 
+    "state": "NY", 
+    "thomas_id": "01866", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2013-11-21", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Crime victims", 
+    "Criminal procedure and sentencing", 
+    "Government studies and investigations", 
+    "Military command and structure", 
+    "Military law", 
+    "Military personnel and dependents"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-11-20", 
+    "text": "Military Justice Improvement Act of 2013 - Amends the Uniform Code of Military Justice (UCMJ) to direct the Secretaries of Defense (DOD) and Homeland Security (DHS) to require the Secretaries of the military departments to modify the process for determining whether to try by court-martial a member accused of: (1) certain UCMJ offenses for which the maximum punishment includes confinement for more than one year; or (2) a conspiracy, solicitation, or attempt to commit such offenses.\n\nRequires courts-martial determinations for such offenses to be made by a commissioned officer available for detail as trial counsel who is outside the chain of command of the member subject to the charges. (Currently, courts-martial decisions are made by commanding officers of accused members.)\n\nExcludes from the revised procedures that require counsel outside the chain of command to make such courts-martial determinations certain UCMJ offenses relating specifically to military service, including absence without leave, insubordination, and aiding the enemy.\n\nProhibits an outside counsel's determination not to proceed to trial by general or special court-martial from altering the authority of commanding officers to: (1) refer noncapital offenses to summary courts-martial with limits on the punishments that may be imposed; or (2) impose non-judicial admonitions, reprimands, or disciplinary punishment for minor offenses.\n\nRequires military chiefs of staff to establish offices to convene general and special courts-martial. Prohibits officers in the chain of command of an accused or a victim from detailing members to serve on a resulting trial by court-martial."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Military Justice Improvement Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to reform procedures for determinations to proceed to trial by court-martial for certain offenses under the Uniform Code of Military Justice, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:02-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1752:@@@L&summ2=m&"
+}

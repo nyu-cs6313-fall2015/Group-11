@@ -1,0 +1,683 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18a232bcd">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide for the elimination or modification of Federal reporting requirements.;
+   		Reports Reduction Act of 2014;S. 2925 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-11-18</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide for the elimination or modification of Federal reporting requirements.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Reports Reduction Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2925 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-11-13</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>26 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18a232bcd</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s2925is</identifier>
+<identifier type="preferred citation">S. 2925</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2925_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s2925is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2925is/html/BILLS-113s2925is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2925is/pdf/BILLS-113s2925is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2925is/xml/BILLS-113s2925is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-11-18</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s2925is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mark R. Warner</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kelly Ayotte</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 5707(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 5707(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 1402(a)(3)</partNumber>
+  <partNumber>Title 6 Section 1403</partNumber>
+  <partNumber>Title 6 Section 298</partNumber>
+  <partNumber>Title 6 Section 596a</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 1402(a)(3)</identifier>
+ <identifier type="USC citation">6 U.S.C. 1403</identifier>
+ <identifier type="USC citation">6 U.S.C. 298</identifier>
+ <identifier type="USC citation">6 U.S.C. 596a</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 8 Section 1152(e)</partNumber>
+  <partNumber>Title 8 Section 1255b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">8 U.S.C. 1152(e)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1255b</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 2306anote</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 2306anote</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 14 Section 2note</partNumber>
+  <partNumber>Title 14 Section 57</partNumber>
+  <partNumber>Title 14 Section 59</partNumber>
+  <partNumber>Title 14 Section 656(d)</partNumber>
+  <partNumber>Title 14 Section 88note</partNumber>
+  <partNumber>Title 14 Section 89note</partNumber>
+  <partNumber>Title 14 Chapter 15</partNumber>
+  <partNumber>Title 14 Chapter 17</partNumber>
+  <partNumber>Title 14 Chapter 18</partNumber>
+  <partNumber>Title 14 Chapter 19</partNumber>
+</titleInfo>
+ <identifier type="USC citation">14 U.S.C. 2note</identifier>
+ <identifier type="USC citation">14 U.S.C. 57</identifier>
+ <identifier type="USC citation">14 U.S.C. 59</identifier>
+ <identifier type="USC citation">14 U.S.C. 656(d)</identifier>
+ <identifier type="USC citation">14 U.S.C. 88note</identifier>
+ <identifier type="USC citation">14 U.S.C. 89note</identifier>
+ <identifier type="USC citation">14 U.S.C. Chapter 15</identifier>
+ <identifier type="USC citation">14 U.S.C. Chapter 17</identifier>
+ <identifier type="USC citation">14 U.S.C. Chapter 18</identifier>
+ <identifier type="USC citation">14 U.S.C. Chapter 19</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1828note</partNumber>
+  <partNumber>Title 16 Section 1861b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1828note</identifier>
+ <identifier type="USC citation">16 U.S.C. 1861b</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 3056note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 3056note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 19 Section 3007</partNumber>
+  <partNumber>Title 19 Section 4001et seq.</partNumber>
+  <partNumber>Title 19 Section 4111</partNumber>
+</titleInfo>
+ <identifier type="USC citation">19 U.S.C. 3007</identifier>
+ <identifier type="USC citation">19 U.S.C. 4001et seq.</identifier>
+ <identifier type="USC citation">19 U.S.C. 4111</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1011c</partNumber>
+  <partNumber>Title 20 Section 1034(f)</partNumber>
+  <partNumber>Title 20 Section 1035</partNumber>
+  <partNumber>Title 20 Section 1070a-18</partNumber>
+  <partNumber>Title 20 Section 1092d</partNumber>
+  <partNumber>Title 20 Section 1140b</partNumber>
+  <partNumber>Title 20 Section 1481(a)</partNumber>
+  <partNumber>Title 20 Section 6383</partNumber>
+  <partNumber>Title 20 Section 6684</partNumber>
+  <partNumber>Title 20 Section 7132</partNumber>
+  <partNumber>Title 20 Section 7267e</partNumber>
+  <partNumber>Title 20 Section 7277c</partNumber>
+  <partNumber>Title 20 Section 7321(c)</partNumber>
+  <partNumber>Title 20 Section 7321e</partNumber>
+  <partNumber>Title 20 Section 7325c</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1011c</identifier>
+ <identifier type="USC citation">20 U.S.C. 1034(f)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1035</identifier>
+ <identifier type="USC citation">20 U.S.C. 1070a-18</identifier>
+ <identifier type="USC citation">20 U.S.C. 1092d</identifier>
+ <identifier type="USC citation">20 U.S.C. 1140b</identifier>
+ <identifier type="USC citation">20 U.S.C. 1481(a)</identifier>
+ <identifier type="USC citation">20 U.S.C. 6383</identifier>
+ <identifier type="USC citation">20 U.S.C. 6684</identifier>
+ <identifier type="USC citation">20 U.S.C. 7132</identifier>
+ <identifier type="USC citation">20 U.S.C. 7267e</identifier>
+ <identifier type="USC citation">20 U.S.C. 7277c</identifier>
+ <identifier type="USC citation">20 U.S.C. 7321(c)</identifier>
+ <identifier type="USC citation">20 U.S.C. 7321e</identifier>
+ <identifier type="USC citation">20 U.S.C. 7325c</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 2151nnote</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 2151nnote</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 718(b)</partNumber>
+  <partNumber>Title 29 Section 763</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 718(b)</identifier>
+ <identifier type="USC citation">29 U.S.C. 763</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 3524</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 3524</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 33 Section 2238a</partNumber>
+  <partNumber>Title 33 Section 2704note</partNumber>
+  <partNumber>Title 33 Section 2712</partNumber>
+  <partNumber>Title 33 Section 2761</partNumber>
+</titleInfo>
+ <identifier type="USC citation">33 U.S.C. 2238a</identifier>
+ <identifier type="USC citation">33 U.S.C. 2704note</identifier>
+ <identifier type="USC citation">33 U.S.C. 2712</identifier>
+ <identifier type="USC citation">33 U.S.C. 2761</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1437note</partNumber>
+  <partNumber>Title 42 Section 1862n-4(a)</partNumber>
+  <partNumber>Title 42 Section 1862n-8(a)(3)</partNumber>
+  <partNumber>Title 42 Section 247b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1437note</identifier>
+ <identifier type="USC citation">42 U.S.C. 1862n-4(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1862n-8(a)(3)</identifier>
+ <identifier type="USC citation">42 U.S.C. 247b</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 46 Section 70103(e)(2)</partNumber>
+  <partNumber>Title 46 Chapter 21</partNumber>
+</titleInfo>
+ <identifier type="USC citation">46 U.S.C. 70103(e)(2)</identifier>
+ <identifier type="USC citation">46 U.S.C. Chapter 21</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 1701note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 1701note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 51 Section 30502</partNumber>
+  <partNumber>Title 51 Section 31302</partNumber>
+  <partNumber>Title 51 Section 60505(b)</partNumber>
+  <partNumber>Title 51 Section 70501note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">51 U.S.C. 30502</identifier>
+ <identifier type="USC citation">51 U.S.C. 31302</identifier>
+ <identifier type="USC citation">51 U.S.C. 60505(b)</identifier>
+ <identifier type="USC citation">51 U.S.C. 70501note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 110 Page 3009-166</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">110 Stat.	3009-166</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 113 Page 1501A-462</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">113 Stat.	1501A-462</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 117 Page 216</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">117 Stat.	216</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 118 Page 1088</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">118 Stat.	1088</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 120 Page 548</partNumber>
+  <partNumber>Volume 120 Page 563</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">120 Stat.	548</identifier>
+ <identifier type="Statute citation">120 Stat.	563</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 121 Page 1917</partNumber>
+  <partNumber>Volume 121 Page 2097</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">121 Stat.	1917</identifier>
+ <identifier type="Statute citation">121 Stat.	2097</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 123 Page 285</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">123 Stat.	285</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 124 Page 2986</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">124 Stat.	2986</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 126 Page 1585</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">126 Stat.	1585</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 127 Page 199</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">127 Stat.	199</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 128 Page 228</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">128 Stat.	228</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 104-208</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 104-208</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 106-113</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 106-113</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-228</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-228</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-295</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-295</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-7</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-7</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-199</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-199</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-293</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-293</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-447</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-447</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-13</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-13</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-115</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-115</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-241</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-241</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-161</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-161</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-5</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-5</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-207</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-207</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-281</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-281</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-383</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-383</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-213</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-213</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-6</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-6</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-76</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-76</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s2925is</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2925</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Reports Reduction Act of 2014</shortTitle>
+ <action date="2014-11-13">Mr. Warner (for himself and Ms. Ayotte) introduced the following bill; which was read twice and referred to the Committee on Homeland Security and Governmental Affairs</action>
+ <congCommittee authorityId="ssga00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+                      <name type="authority-short">Homeland and Governmental Affairs</name>
+                </congCommittee>
+ <congMember authorityId="1897" bioGuideId="W000805" chamber="S" congress="113" gpoId="8269" party="D" role="SPONSOR" state="VA">
+                      <name type="parsed">Mr. Warner</name>
+                      <name type="authority-fnf">Mark R. Warner</name>
+                      <name type="authority-lnf">Warner, Mark R.</name>
+                      <name type="authority-other">Mark Warner</name>
+                </congMember>
+ <congMember authorityId="2075" bioGuideId="A000368" chamber="S" congress="113" gpoId="8315" party="R" role="COSPONSOR" state="NH">
+                      <name type="parsed">Ms. Ayotte</name>
+                      <name type="authority-fnf">Kelly Ayotte</name>
+                      <name type="authority-lnf">Ayotte, Kelly</name>
+                </congMember>
+ <law congress="104" isPrivate="false" number="208"></law>
+ <law congress="106" isPrivate="false" number="113"></law>
+ <law congress="107" isPrivate="false" number="228"></law>
+ <law congress="107" isPrivate="false" number="295"></law>
+ <law congress="108" isPrivate="false" number="7"></law>
+ <law congress="108" isPrivate="false" number="199"></law>
+ <law congress="108" isPrivate="false" number="293"></law>
+ <law congress="108" isPrivate="false" number="447"></law>
+ <law congress="109" isPrivate="false" number="13"></law>
+ <law congress="109" isPrivate="false" number="115"></law>
+ <law congress="109" isPrivate="false" number="241"></law>
+ <law congress="110" isPrivate="false" number="161"></law>
+ <law congress="111" isPrivate="false" number="5"></law>
+ <law congress="111" isPrivate="false" number="207"></law>
+ <law congress="111" isPrivate="false" number="281"></law>
+ <law congress="111" isPrivate="false" number="383"></law>
+ <law congress="112" isPrivate="false" number="213"></law>
+ <law congress="113" isPrivate="false" number="6"></law>
+ <law congress="113" isPrivate="false" number="76"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(b)" number="5707"></section>
+                </USCode>
+ <USCode title="6">
+                      <section detail="(a)(3)" number="1402"></section>
+                      <section number="1403"></section>
+                      <section number="298"></section>
+                      <section number="596a"></section>
+                </USCode>
+ <USCode title="8">
+                      <section detail="(e)" number="1152"></section>
+                      <section number="1255b"></section>
+                </USCode>
+ <USCode title="10">
+                      <section detail="note" number="2306a"></section>
+                </USCode>
+ <USCode title="14">
+                      <section detail="note" number="2"></section>
+                      <section number="57"></section>
+                      <section number="59"></section>
+                      <section detail="(d)" number="656"></section>
+                      <section detail="note" number="88"></section>
+                      <section detail="note" number="89"></section>
+                      <chapter number="15"></chapter>
+                      <chapter number="17"></chapter>
+                      <chapter number="18"></chapter>
+                      <chapter number="19"></chapter>
+                </USCode>
+ <USCode title="16">
+                      <section detail="note" number="1828"></section>
+                      <section number="1861b"></section>
+                </USCode>
+ <USCode title="18">
+                      <section detail="note" number="3056"></section>
+                </USCode>
+ <USCode title="19">
+                      <section number="3007"></section>
+                      <section detail="et seq." number="4001"></section>
+                      <section number="4111"></section>
+                </USCode>
+ <USCode title="20">
+                      <section number="1011c"></section>
+                      <section detail="(f)" number="1034"></section>
+                      <section number="1035"></section>
+                      <section number="1070a-18"></section>
+                      <section number="1092d"></section>
+                      <section number="1140b"></section>
+                      <section detail="(a)" number="1481"></section>
+                      <section number="6383"></section>
+                      <section number="6684"></section>
+                      <section number="7132"></section>
+                      <section number="7267e"></section>
+                      <section number="7277c"></section>
+                      <section detail="(c)" number="7321"></section>
+                      <section number="7321e"></section>
+                      <section number="7325c"></section>
+                </USCode>
+ <USCode title="22">
+                      <section detail="note" number="2151n"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="(b)" number="718"></section>
+                      <section number="763"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="3524"></section>
+                </USCode>
+ <USCode title="33">
+                      <section number="2238a"></section>
+                      <section detail="note" number="2704"></section>
+                      <section number="2712"></section>
+                      <section number="2761"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="note" number="1437"></section>
+                      <section detail="(a)" number="1862n-4"></section>
+                      <section detail="(a)(3)" number="1862n-8"></section>
+                      <section number="247b"></section>
+                </USCode>
+ <USCode title="46">
+                      <section detail="(e)(2)" number="70103"></section>
+                      <chapter number="21"></chapter>
+                </USCode>
+ <USCode title="50">
+                      <section detail="note" number="1701"></section>
+                </USCode>
+ <USCode title="51">
+                      <section number="30502"></section>
+                      <section number="31302"></section>
+                      <section detail="(b)" number="60505"></section>
+                      <section detail="note" number="70501"></section>
+                </USCode>
+ <statuteAtLarge volume="110">
+                      <pages pages="3009-166"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="113">
+                      <pages pages="1501A-462"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="117">
+                      <pages pages="216"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="118">
+                      <pages pages="1088"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="120">
+                      <pages pages="548"></pages>
+                      <pages pages="563"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="121">
+                      <pages pages="1917"></pages>
+                      <pages pages="2097"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="123">
+                      <pages pages="285"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="124">
+                      <pages pages="2986"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="126">
+                      <pages pages="1585"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="127">
+                      <pages pages="199"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="128">
+                      <pages pages="228"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

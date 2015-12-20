@@ -1,0 +1,199 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb1320">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Food and Nutrition Act of 2008 to provide greater access to the supplemental nutrition assistance program by reducing duplicative and burdensome administrative requirements, authorize the Secretary of Agriculture to award grants to certain community-based nonprofit feeding and anti-hunger groups for the purpose of establishing and implementing a Beyond the Soup Kitchen Pilot Program for certain socially and economically disadvantaged populations, and for other purposes.;
+   		Anti-hunger Empowerment Act of 2013;H.R. 208 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Food and Nutrition Act of 2008 to provide greater access to the supplemental nutrition assistance program by reducing duplicative and burdensome administrative requirements, authorize the Secretary of Agriculture to award grants to certain community-based nonprofit feeding and anti-hunger groups for the purpose of establishing and implementing a Beyond the Soup Kitchen Pilot Program for certain socially and economically disadvantaged populations, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Anti-hunger Empowerment Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 208 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-04</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>33 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee183eb1320</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr208ih</identifier>
+<identifier type="preferred citation">H.R. 208</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h208_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr208ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr208ih/html/BILLS-113hr208ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr208ih/pdf/BILLS-113hr208ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr208ih/xml/BILLS-113hr208ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr208ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Jose E. Serrano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Agriculture</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 2013</partNumber>
+  <partNumber>Title 7 Section 2020(e)(2)</partNumber>
+  <partNumber>Title 7 Section 2025(k)</partNumber>
+  <partNumber>Title 7 Section 2027</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 2013</identifier>
+ <identifier type="USC citation">7 U.S.C. 2020(e)(2)</identifier>
+ <identifier type="USC citation">7 U.S.C. 2025(k)</identifier>
+ <identifier type="USC citation">7 U.S.C. 2027</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 26 Section 32</partNumber>
+</titleInfo>
+ <identifier type="USC citation">26 U.S.C. 32</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 6305</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 6305</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1751</partNumber>
+  <partNumber>Title 42 Section 1761</partNumber>
+  <partNumber>Title 42 Section 1766</partNumber>
+  <partNumber>Title 42 Section 1771</partNumber>
+  <partNumber>Title 42 Section 604note</partNumber>
+  <partNumber>Title 42 Section 9922(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1751</identifier>
+ <identifier type="USC citation">42 U.S.C. 1761</identifier>
+ <identifier type="USC citation">42 U.S.C. 1766</identifier>
+ <identifier type="USC citation">42 U.S.C. 1771</identifier>
+ <identifier type="USC citation">42 U.S.C. 604note</identifier>
+ <identifier type="USC citation">42 U.S.C. 9922(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 105-285</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 105-285</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr208ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>208</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Anti-hunger Empowerment Act of 2013</shortTitle>
+ <action date="2013-01-04">Mr. Serrano introduced the following bill; which was referred to the Committee on Agriculture</action>
+ <congCommittee authorityId="hsag00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Agriculture</name>
+                      <name type="authority-short">Agriculture</name>
+                </congCommittee>
+ <congMember authorityId="1042" bioGuideId="S000248" chamber="H" congress="113" gpoId="8077" party="D" role="SPONSOR" state="NY">
+                      <name type="parsed">Mr. Serrano</name>
+                      <name type="authority-fnf">Jose E. Serrano</name>
+                      <name type="authority-lnf">Serrano, Jose E.</name>
+                      <name type="authority-other">Jose Serrano</name>
+                </congMember>
+ <law congress="105" isPrivate="false" number="285"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="7">
+                      <section number="2013"></section>
+                      <section detail="(e)(2)" number="2020"></section>
+                      <section detail="(k)" number="2025"></section>
+                      <section number="2027"></section>
+                </USCode>
+ <USCode title="26">
+                      <section number="32"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="6305"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="1751"></section>
+                      <section number="1761"></section>
+                      <section number="1766"></section>
+                      <section number="1771"></section>
+                      <section detail="note" number="604"></section>
+                      <section detail="(a)" number="9922"></section>
+                </USCode>
+</extension>
+</mods>

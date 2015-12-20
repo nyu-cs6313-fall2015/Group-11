@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-18", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-18", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Rules", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-18", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Budget", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5733-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2014-11-19", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CA", 
+      "thomas_id": "02111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Matsui, Doris O.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-18", 
+  "number": "5733", 
+  "official_title": "To require the Director of the Congressional Budget Office to calculate a carbon score for each bill or resolution.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2905-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Carbon Pollution Transparency Act of 2014", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Huffman, Jared", 
+    "state": "CA", 
+    "thomas_id": "02101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-18", 
+  "subjects": [
+    "Budget process", 
+    "Climate change and greenhouse gases", 
+    "Environmental protection", 
+    "Legislative rules and procedure"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-11-18", 
+    "text": "Carbon Pollution Transparency Act of 2014 - Requires the Director of the Congressional Budget Office (CBO) to calculate a carbon score for legislation. Requires the score to include projected net greenhouse gas emissions that would result from enactment and implementation of a bill or resolution and the appropriation of any amounts authorized in the legislation. Directs CBO to include the carbon score when carrying out provisions of the Congressional Budget Act of 1974 requiring a cost estimate for each bill or resolution reported by any congressional committee except the appropriations committees."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Carbon Pollution Transparency Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Director of the Congressional Budget Office to calculate a carbon score for each bill or resolution.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:05-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5733:@@@L&summ2=m&"
+}

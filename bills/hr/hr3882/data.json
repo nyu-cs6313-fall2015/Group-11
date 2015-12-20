@@ -1,0 +1,143 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-15", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-15", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-15", 
+      "references": [
+        {
+          "reference": "Permanent Select", 
+          "type": null
+        }
+      ], 
+      "text": "Referred to House Intelligence", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-20", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3882-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2014-01-16", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-15", 
+  "number": "3882", 
+  "official_title": "To require the Comptroller General to produce annual reports on programs under the Foreign Intelligence Surveillance Act of 1978.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Security Agency Accountability Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carney, John C., Jr.", 
+    "state": "DE", 
+    "thomas_id": "01999", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-01-15", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Business records", 
+    "Congressional oversight", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Intelligence activities, surveillance, classified information", 
+    "Internet and video services", 
+    "Specialized courts", 
+    "Telephone and wireless communication", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-15", 
+    "text": "National Security Agency Accountability Act - Amends the Foreign Intelligence Surveillance Act of 1978 to require the Comptroller General to report annually to the House and Senate Intelligence and Judiciary Committees on the effectiveness of the programs and activities carried out under such Act.\n\nRequires each report to include: (1) an analysis of the restrictions placed on access to information obtained under such Act; (2) the number of incidents of non-compliance with such Act and a description of actions taken in response to such incidents; (3) a description of the minimization procedures used to carry out such Act and of how such procedures are verified to be in use and effective; (4) the number of applications made under each appropriate provision of such Act, the number of such applications approved by a court, and the number of times such applications resulted in an oral argument before the court; and (5) the number of times employees of or contractors to the National Security Agency (NSA) search information acquired under such Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Security Agency Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Comptroller General to produce annual reports on programs under the Foreign Intelligence Surveillance Act of 1978.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:21-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3882:@@@L&summ2=m&"
+}

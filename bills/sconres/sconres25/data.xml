@@ -1,0 +1,56 @@
+<bill session="113" type="sc" number="25" updated="2015-09-01T10:21:27-04:00">
+  <state datetime="2013-11-18T17:42:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2013-11-18T17:42:00-05:00"/>
+  </status>
+  <introduced datetime="2013-11-13"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for activities associated with the ceremony to award the Congressional Gold Medal to Native American code talkers.</title>
+  </titles>
+  <sponsor id="300058"/>
+  <cosponsors>
+    <cosponsor id="300055" joined="2013-11-13"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-11-13" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8011" label="consideration"/>
+      <reference ref="CR S8008" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2013-11-13T18:34:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-11-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-11-13T20:10:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2013-11-18T17:32:00-05:00">
+      <text>Mrs. Miller (MI) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2013-11-18T17:32:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7164-7165" label="consideration"/>
+    </action>
+    <action datetime="2013-11-18T17:33:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 25.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2013-11-18T17:42:00-05:00" where="h" result="pass" state="PASSED:CONCURRENTRES">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H7164" label="text"/>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="General Native American affairs matters"/>
+    <term name="Military history"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/2013--Passed House without amendment.
+Authorizes the use of Emancipation Hall in the Capitol Visitor Center on November 20, 2013, for a ceremony to award the Congressional Gold Medal to Native American code talkers.</summary>
+</bill>

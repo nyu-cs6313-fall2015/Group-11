@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5565-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-18", 
+  "number": "5565", 
+  "official_title": "To provide for institutional risk-sharing in the Federal student loan programs.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1873-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Protect Student Borrowers Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carney, John C., Jr.", 
+    "state": "DE", 
+    "thomas_id": "01999", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-18", 
+  "subjects": [
+    "Congressional oversight", 
+    "Education", 
+    "Education programs funding", 
+    "Higher education", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Protect Student Borrowers Act - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to require institutions of higher education (IHEs) participating in the William D. Ford Federal Direct Loan program to accept specified risk-sharing requirements.\n\nRequires an IHE, for any fiscal year in which at least 25% of the IHE's student body is participating in the Direct Loan program, to remit, at such times as the Secretary of Education specifies, a risk-sharing payment set at:\n\n 20% of the total amount of its defaulted Direct loans if its cohort default rate is 30% or higher, 15% of the total amount of its defaulted Direct loans if its cohort default rate is lower than 30% but not lower than 25%, 10% of the total amount of its defaulted Direct loans if its cohort default rate is lower than 25% but not lower than 20%, and 5% of the total amount of its defaulted Direct loans if its cohort default rate is lower than 20% but not lower than 15%. Directs the Secretary to make specified modifications to such risk-sharing requirements if an IHE develops and implements a student loan management plan that is approved by the Secretary. Requires that plan to include individualized financial aid counseling for students and strategies to minimize student loan default and delinquency.\n\nAllows the Secretary to waive or reduce an IHE's risk-sharing payments in certain other instances.\n\nProhibits IHEs from denying admission or financial aid to a student based on a perception that the student may be at risk for defaulting on a Direct loan.\n\nAuthorizes the Secretary to enter into contracts or cooperative agreements for: (1) statewide or institutionally-based programs for the prevention of federal student loan delinquency and default at IHEs that have a high cohort default rate or serve large numbers or percentages of students who have a higher risk of defaulting on student loans under title IV, and (2) increasing the number of borrowers who successfully rehabilitate defaulted loans\n\nEstablishes a separate account in the Treasury for the deposit of the risk-sharing payments, of which: (1) up to 50% are to be used by the Secretary to enter into the contracts or cooperative agreements for delinquency and default prevention or rehabilitation, and (2) the remainder are to be used to offset any future shortfalls in funding under the Federal Pell Grant program.\n\nMakes an IHE's ability to meet its obligation to make risk-sharing payments part of the determination of its eligibility to participate in title IV programs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protect Student Borrowers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for institutional risk-sharing in the Federal student loan programs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:01-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5565:@@@L&summ2=m&"
+}

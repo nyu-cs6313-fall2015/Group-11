@@ -1,0 +1,272 @@
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF5990BE765EE4D7A81AADE1EA20709FD" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 5697 IH: Equal Treatment of Public Servants Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-11-13</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 5697</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20141113">November 13, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="B000755">Mr. Brady of Texas</sponsor> (for himself and <cosponsor name-id="N000015">Mr. Neal</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title II of the Social Security Act to repeal the windfall elimination provision and
+			 protect the retirement of public servants.</official-title>
+	</form>
+	<legis-body id="HE57F00F40E6B4A3F9C2244C36D3565AE" style="OLC">
+		<section display-inline="no-display-inline" id="H049C83E8EA3A4A6AA5546D764128BDD8" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+      <text display-inline="no-display-inline">This Act may be cited as the <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Equal Treatment of Public Servants Act of 2014" proposed="true">Equal Treatment of Public Servants Act of 2014</cato:entity-ref>
+          </short-title>
+        </quote>.</text>
+		</section>
+    <section id="HDD0411CD480147E3B161A8AA149B1512">
+      <enum>2.</enum>
+      <header>Replacement of the windfall elimination provision with a formula equalizing benefits for certain
+			 individuals with non-covered employment</header>
+			<subsection id="H1F05D3FA762245F284858A763EB6BF7B">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:215/ss:a">Section 215(a) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/415">
+            <cato:entity-ref entity-type="uscode" value="usc/42/415/a">42 U.S.C. 415(a)</cato:entity-ref>
+          </external-xref>)</cato:entity> is amended by inserting after
+			 paragraph (7) the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HF98EAEFD2A6046E4B14838A1A972C64C" style="traditional">
+					<paragraph id="H0F2EF01BFCC5443F85FE9A7742193829" indent="up1">
+            <enum>(8)</enum>
+						<subparagraph commented="no" display-inline="yes-display-inline" id="H24B8E645D3EF48D38842D62A035D05C0">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">In the case of an individual whose primary insurance amount would be computed under paragraph (1)
+			 of this subsection—</text>
+							<clause id="HDD8F7562F780481AA9B6EE9209384E18" indent="up1">
+                <enum>(i)</enum>
+                <text>who becomes eligible for old-age insurance benefits after 2016 or would attain age 62 after 2016
+			 and becomes eligible for disability insurance benefits after 2016,</text>
+							</clause>
+              <clause id="H62DE33A2A3D54E9E941D33E9BA4456D3" indent="up1">
+                <enum>(ii)</enum>
+                <text>who subsequently becomes entitled to such benefits, and</text>
+							</clause>
+              <clause id="H88D3E298816148A2B25F8CEA30DB71E5" indent="up1">
+                <enum>(iii)</enum>
+                <text>who has earnings derived from noncovered service performed in a year after 1977,</text>
+              </clause>
+            </subparagraph>
+            <continuation-text continuation-text-level="paragraph" indent="subsection">the primary insurance amount of such individual shall be computed or recomputed under this
+			 paragraph.</continuation-text>
+            <subparagraph display-inline="no-display-inline" id="H9DEC51C1E7454DE7B956116C1612F469" indent="up1">
+              <enum>(B)</enum>
+              <text display-inline="yes-display-inline">The primary insurance amount of an individual described in subparagraph (A), as computed or
+			 recomputed under this paragraph, shall be the product derived by
+			 multiplying—</text>
+							<clause id="HAF7B72FAAA9C4C10B92D93665BE9B2B6">
+                <enum>(i)</enum>
+                <text>the individual’s primary insurance amount, as determined under paragraph (1) of this subsection and
+			 subparagraph (C) of this paragraph, by</text>
+							</clause>
+              <clause id="H54FDC6FCFD8E4A76A3029E14A83BDA37">
+                <enum>(ii)</enum>
+                <text>a fraction—</text>
+								<subclause id="HAF818516E7924EFC82C6693752556CC5">
+                  <enum>(I)</enum>
+                  <text>the numerator of which is the individual’s average indexed monthly earnings (determined without
+			 regard to subparagraph (C)), and</text>
+								</subclause>
+                <subclause id="H213FAABE89234F588AFEB848E61F4DA6">
+                  <enum>(II)</enum>
+                  <text>the denominator of which is an amount equal to the individual’s average indexed monthly earnings
+			 (as determined under subparagraph (C)),</text>
+                </subclause>
+              </clause>
+              <continuation-text continuation-text-level="subparagraph" indent="subsection">rounded, if not a multiple of $0.10, to the next lower multiple of $0.10.</continuation-text>
+            </subparagraph>
+            <subparagraph display-inline="no-display-inline" id="HC89726F24A784652A9D09215601A4E01" indent="up1">
+              <enum>(C)</enum>
+							<clause commented="no" display-inline="yes-display-inline" id="HBF5928856C804530B0E3BEF762E6F1FE">
+                <enum>(i)</enum>
+                <text>For purposes of determining an individual’s primary insurance amount pursuant to clauses (i) and
+			 (ii)(II) of subparagraph (B), the individual’s average indexed monthly
+			 earnings shall be determined by treating all recorded noncovered earnings
+			 (as defined in clause (ii)(I)) derived by the individual from noncovered
+			 service performed in each year after 1977 as <term>wages</term> (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:209">section 209</cato:entity-ref> for purposes of this title), which shall be treated as included in the
+			 individual’s adjusted total covered earnings (as defined in clause
+			 (ii)(II)) for such calendar year together with amounts consisting of <term>wages</term> (as so defined without regard to this subparagraph) paid during such calendar year and
+			 self-employment income (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:211/ss:b">section 211(b)</cato:entity-ref>) for taxable years
+			 ending with or during such calendar year.</text>
+							</clause>
+              <clause display-inline="no-display-inline" id="H9ED52170C7F144379BF82311CD71D200" indent="up1">
+                <enum>(ii)</enum>
+                <text>For purposes of this subparagraph—</text>
+								<subclause id="H2F1D72B4DF4340DE956E048BA020921D">
+                  <enum>(I)</enum>
+                  <text>The term <term>recorded noncovered earnings</term> means earnings derived from noncovered service (other than noncovered service as a member of a
+			 uniformed service (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:210/ss:m">section 210(m)</cato:entity-ref>)) for which satisfactory
+			 evidence is determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref> to be available in the records
+			 of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref>.</text>
+								</subclause>
+                <subclause id="H9402DEE1A7C0425F80E8947194E5887C">
+                  <enum>(II)</enum>
+                  <text>The term <term>adjusted total covered earnings</term> means, in connection with an individual for any calendar year, the sum of the wages paid to the
+			 individual during such calendar year (as adjusted under subsection (b)(3))
+			 plus the self-employment income derived by the individual during any
+			 taxable year ending with or during such calendar year (as adjusted under
+			 subsection (b)(3)).</text>
+								</subclause>
+              </clause>
+              <clause id="H3F01FEEC0D444597BCF81D234DEF4A31" indent="up1">
+                <enum>(iii)</enum>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2800" entity-type="federal-body">Commissioner of Social Security</cato:entity-ref> shall provide by regulation for methods for determining whether
+			 satisfactory evidence is available in the records of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref> for
+			 earnings for noncovered service (other than noncovered service as a member
+			 of a uniformed service (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:210/ss:m">section 210(m)</cato:entity-ref>)) to be treated as
+			 recorded noncovered earnings. Such methods shall provide for reliance on
+			 earnings information which is provided to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref> by employers
+			 and which, as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref>, constitute a reasonable
+			 basis for treatment of earnings for noncovered service as recorded
+			 noncovered earnings. In making determinations under this clause, the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref> shall also take into account any documentary evidence of
+			 earnings derived from noncovered service by an individual which is
+			 provided by the individual to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref> and which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref>
+			 considers appropriate as a reasonable basis for treatment of such earnings
+			 as recorded noncovered earnings, except that such evidence provided by the
+			 individual shall be taken into account only to the extent that such
+			 evidence does not relate to earnings for service with respect to which
+			 information regarding earnings has already been obtained by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref> from the employer and only to the extent that such evidence
+			 does not result in a reduction in the individual's primary insurance
+			 amount as calculated under subparagraph (B).</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="H5809B247A9994B35BCA3E7FA69787F91" indent="up1">
+              <enum>(D)</enum>
+              <text display-inline="yes-display-inline">Upon the death of an individual whose primary insurance amount is computed or recomputed under this
+			 paragraph, such primary insurance amount shall be computed or recomputed
+			 under paragraph (1) of this subsection.</text>
+						</subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection id="H1AAF7898E4344B5A8CF12A3CA98173FE">
+        <enum>(b)</enum>
+        <header>Modification of windfall elimination provision for current beneficiaries; recovery of certain
+			 overpayments</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:215/ss:a/p:7">Section 215(a)(7) of such Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/415">
+            <cato:entity-ref entity-type="uscode" value="usc/42/415/a/7">42 U.S.C. 415(a)(7)</cato:entity-ref>
+          </external-xref>)</cato:entity> is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H229A2B1BE91F4FB983B0E4EFAF0076AF" style="OLC">
+					<subparagraph display-inline="no-display-inline" id="HF01BDDA1D52D465BB7ED4B1C97A7F5C9" indent="up2">
+            <enum>(F)</enum>
+						<clause commented="no" display-inline="yes-display-inline" id="H1D3D71B866314B088DA12336E082AF05">
+              <enum>(i)</enum>
+              <text display-inline="yes-display-inline">Notwithstanding subparagraph (A), for purposes of determining the amount of monthly insurance
+			 benefits for months after December 2016, the primary insurance amount of
+			 an individual described in subparagraph (A), or an individual described in
+			 subparagraph (G) whose primary insurance amount was calculated or
+			 recalculated under subparagraph (B), shall be deemed to be equal to the
+			 sum of—</text>
+							<subclause id="H0B40F04AD9984268AFC4EBF617DBA608" indent="up1">
+                <enum>(I)</enum>
+                <text>the primary insurance amount of such individual computed or recomputed under subparagraph (B); plus</text>
+							</subclause>
+              <subclause id="H0807E3F30BA44AEF9D0D5E803D9A0E48" indent="up1">
+                <enum>(II)</enum>
+                <text>the applicable percentage (determined under clause (ii)) of the amount by which the primary
+			 insurance amount of such individual computed or recomputed under
+			 subparagraph (B) is exceeded by the primary insurance amount of such
+			 individual that would be determined without regard to this paragraph.</text>
+							</subclause>
+            </clause>
+            <clause commented="no" id="H63E569C0940047E592DE80772E494792" indent="up1">
+              <enum>(ii)</enum>
+              <text display-inline="yes-display-inline">The applicable percentage determined under this clause shall be a percentage (but not more than 50
+			 percent) which shall be determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref> on the basis of the
+			 amount of the savings generated as a result of the enactment of the <short-title>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Equal Treatment of Public Servants Act of 2014" proposed="true">Equal Treatment of Public Servants Act of 2014</cato:entity-ref>
+                </short-title>. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref> shall determine and promulgate the applicable percentage determined under this
+			 clause on or before November 1, 2016, based upon the most recent actuarial
+			 estimates then available.</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="H7CEE5535B98B4309AE69D370CA3111D4" indent="up2">
+            <enum>(G)</enum>
+            <text>In the case of an individual whose primary insurance amount would be computed under paragraph (1)
+			 of this subsection who—</text>
+						<clause id="HB8B4814FF3C148EF9539801356C6C757">
+              <enum>(i)</enum>
+              <text display-inline="yes-display-inline">attains age 62 after 1985 and before 2017 (except where he or she became entitled to a disability
+			 insurance benefit before 1986 and remained so entitled in any of the 12
+			 months immediately preceding his or her attainment of age 62), or</text>
+						</clause>
+            <clause id="H6736E0B7421A471E8CC824F25788EE44">
+              <enum>(ii)</enum>
+              <text display-inline="yes-display-inline">would attain age 62 after 1985 and before 2017 and becomes eligible for a disability insurance
+			 benefit after 1985 and before 2017, and</text>
+						</clause>
+            <clause id="H7387853B5BCF430EA5F362B168183800">
+              <enum>(iii)</enum>
+              <text>is eligible for old-age insurance benefits or disability insurance benefits for December 2016,</text>
+						</clause>
+            <clause id="H998BFF56E1924006860065D9C2398879">
+              <enum>(iv)</enum>
+              <text display-inline="yes-display-inline">has recorded noncovered earnings (as defined in paragraph (8)(C)(ii)), and</text>
+						</clause>
+            <clause id="HA58DC5AA03F545438A594F19467CB1E1">
+              <enum>(v)</enum>
+              <text>has less than 30 years of coverage (as defined in subparagraph (D)),</text>
+            </clause>
+            <continuation-text continuation-text-level="subparagraph">the primary insurance amount of such individual shall be computed or recomputed under this
+			 paragraph unless such individual provides to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref> evidence
+			 determined to be satisfactory by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref> that such individual has
+			 not received any periodic payment attributable to noncovered service. The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref> shall, in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:204">section 204</cato:entity-ref>, recover from such
+			 individual described in subparagraph (A), and any other individual
+			 receiving benefits under this title on the basis of the wages and
+			 self-employment income of such individual described in subparagraph (A),
+			 any excess of the total amount of benefits under this title paid to each
+			 such individual prior to 2017 over the amount computed on the basis of the
+			 primary insurance amount computed or recomputed under this paragraph
+			 without regard to subparagraph (F).</continuation-text>
+          </subparagraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection id="H4226CB80BC0A43D3BA26681E229D2A02">
+        <enum>(c)</enum>
+        <header>Conforming amendments</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:215/ss:a/p:7/sp:A">Section 215(a)(7)(A) of such Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/415">
+            <cato:entity-ref entity-type="uscode" value="usc/42/415/a/7/A">42 U.S.C. 415(a)(7)(A)</cato:entity-ref>
+          </external-xref>)</cato:entity> is amended—</text>
+				<paragraph id="H9DE8A1C2E0D948B08157C8A21FD8FDF8">
+          <enum>(1)</enum>
+          <text>by striking <quote>after 1985</quote> each place it appears and inserting <quote>after 1985 and before 2017</quote>; and</text>
+				</paragraph>
+        <paragraph id="H0868D1EE810A4A61B299BE489C09237B">
+          <enum>(2)</enum>
+          <text>by striking <quote>hereafter in this paragraph and in subsection (d)(3)</quote> and inserting <quote>in this paragraph, paragraph (8), and subsection (d)(3)</quote>.</text>
+				</paragraph>
+      </subsection>
+    </section>
+  </legis-body>
+</bill>

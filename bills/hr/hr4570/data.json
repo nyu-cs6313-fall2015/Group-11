@@ -1,0 +1,126 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-01", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Introduction and Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-06", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 31 - 28.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4570-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "McHenry, Patrick T.", 
+      "sponsored_at": "2014-05-06", 
+      "state": "NC", 
+      "thomas_id": "01792", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-06", 
+  "number": "4570", 
+  "official_title": "To direct the Securities and Exchange Commission to revise Regulation D relating to exemptions from registration requirements for certain sales of securities.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Private Placement Improvement Act of 2014", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-05-22", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business records", 
+    "Corporate finance and management", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Government information and archives", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-05-06", 
+    "text": "Private Placement Improvement Act of 2014 - Directs the Securities and Exchange Commission (SEC) to revise the filing requirements of Regulation D to require an issuer that offers or sells securities in reliance upon a certain exemption from registration (for limited offers and sales without regard to the dollar amount of the offering [Rule 506]) to file, no earlier than the date of first sale of such securities, a single notice of sales containing the information required by Form D for each new offering of securities.\n\nProhibits the SEC from: (1) requiring the issuer to file any notice of sales containing the information required by Form D except for this single notice; (2) conditioning the availability of the Rule 506 exemption upon the filing of a Form D or similar report; or (3) requiring issuers to submit written general solicitation materials in connection with a limited offering subject to Rule 506, except when it requests such materials pursuant to specified authority.\n\nDirects the SEC to revise a specified rule, regarding a Rule 506 offering of a private fund, to characterize as an accredited investor a \"knowledgeable employee\" of that private fund or the fund's investment adviser.\n\nProhibits the SEC from extending to private funds the requirements governing investment company sales literature."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Private Placement Improvement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Securities and Exchange Commission to revise Regulation D relating to exemptions from registration requirements for certain sales of securities.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4570:@@@L&summ2=m&"
+}

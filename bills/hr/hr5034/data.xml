@@ -1,0 +1,85 @@
+<bill session="113" type="h" number="5034" updated="2015-09-01T10:20:50-04:00">
+  <state datetime="2014-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-09"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Stop the EPA Act of 2014</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to provide for certain special congressional review procedures for EPA rulemakings.</title>
+  </titles>
+  <sponsor id="400158"/>
+  <cosponsors>
+    <cosponsor id="412429" joined="2014-07-22"/>
+    <cosponsor id="412596" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, Transportation and Infrastructure, Agriculture, Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-09">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-09">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-07-09">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-07-09">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-07-09">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2014-07-09">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-07-11">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+    <action datetime="2014-09-02">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="4"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Air quality"/>
+    <term name="Business investment and capital"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Coal"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Congressional oversight"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government studies and investigations"/>
+    <term name="Industrial policy and productivity"/>
+    <term name="Inflation and prices"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Oil and gas"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+</bill>

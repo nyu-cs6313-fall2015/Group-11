@@ -1,0 +1,79 @@
+<bill session="113" type="h" number="5029" updated="2015-09-01T10:20:50-04:00">
+  <state datetime="2014-07-14T19:10:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-14T19:10:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-08"/>
+  <titles>
+    <title type="short" as="introduced">International Science and Technology Cooperation Act of 2014</title>
+    <title type="short" as="passed house">International Science and Technology Cooperation Act of 2014</title>
+    <title type="official" as="introduced">To provide for the establishment of a body to identify and coordinate international science and technology cooperation that can strengthen the domestic science and technology enterprise and support United States foreign policy goals.</title>
+  </titles>
+  <sponsor id="400630"/>
+  <cosponsors>
+    <cosponsor id="412563" joined="2014-07-08"/>
+    <cosponsor id="412524" joined="2014-07-08"/>
+    <cosponsor id="412422" joined="2014-07-08"/>
+    <cosponsor id="400204" joined="2014-07-08"/>
+    <cosponsor id="412595" joined="2014-07-08"/>
+    <cosponsor id="412543" joined="2014-07-08"/>
+    <cosponsor id="412514" joined="2014-07-14"/>
+    <cosponsor id="412412" joined="2014-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2014-07-14T15:48:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-07-14T15:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6149-6150" label="consideration"/>
+    </action>
+    <action datetime="2014-07-14T15:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5029.</text>
+    </action>
+    <action datetime="2014-07-14T15:54:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-07-14T19:03:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref=" CR H6168-6169" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="406" datetime="2014-07-14T19:10:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 346 - 41 (Roll no. 406).</text>
+      <reference ref="CR H6149" label="text"/>
+    </vote>
+    <action datetime="2014-07-14T19:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="4159"/>
+    <bill relation="unknown" session="113" type="h" number="4186"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="International scientific cooperation"/>
+    <term name="Office of Science and Technology Policy"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2014--Passed House without amendment.
+International Science and Technology Cooperation Act of 2014 - Requires the Director of the Office of Science and Technology Policy (OSTP) to establish a body under the National Science and Technology Council that has the responsibility of identifying and coordinating international science and technology cooperation that can strengthen U.S. science and technology enterprise, improve economic and national security, and support U.S. foreign policy goals.
+
+Requires the body to be co-chaired by senior level officials from OSTP and the Department of State.
+
+Requires the body to: (1) coordinate interagency international science and technology cooperative research and training activities and partnerships supported or managed by federal agencies, (2) establish federal priorities and policies for aligning such international science and technology cooperative research and training activities and partnerships with the foreign policy goals of the United States, (3) identify opportunities for new international science and technology cooperative research and training partnerships that advance science and technology and U.S. foreign policy priorities, (4) solicit recommendations from non-federal science and technology stakeholders, and (5) identify broad issues that influence the ability of U.S. scientists and engineers to collaborate with foreign counterparts.
+
+Requires the Director to report annually on the body's activities.</summary>
+</bill>

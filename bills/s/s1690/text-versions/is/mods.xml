@@ -1,0 +1,357 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee186578e27">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To reauthorize the Second Chance Act of 2007.;
+   		Second Chance Reauthorization Act of 2013;S. 1690 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-11-15</dateIngested>
+</extension>
+<titleInfo>
+ <title>To reauthorize the Second Chance Act of 2007.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Second Chance Reauthorization Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1690 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-11-13</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>36 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee186578e27</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1690is</identifier>
+<identifier type="preferred citation">S. 1690</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1690_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1690is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1690is/html/BILLS-113s1690is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1690is/pdf/BILLS-113s1690is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1690is/xml/BILLS-113s1690is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-11-15</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1690is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Patrick J. Leahy</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Rob Portman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Durbin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Amy Klobuchar</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Al Franken</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Christopher S. Murphy</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sherrod Brown</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mary L. Landrieu</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert Menendez</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 3621</partNumber>
+  <partNumber>Title 18 Section 3624(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 3621</identifier>
+ <identifier type="USC citation">18 U.S.C. 3624(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 206(a)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 206(a)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 17501note</partNumber>
+  <partNumber>Title 42 Section 17502</partNumber>
+  <partNumber>Title 42 Section 17504(1)</partNumber>
+  <partNumber>Title 42 Section 17511</partNumber>
+  <partNumber>Title 42 Section 17521</partNumber>
+  <partNumber>Title 42 Section 17521(f)(1)</partNumber>
+  <partNumber>Title 42 Section 17531</partNumber>
+  <partNumber>Title 42 Section 17532</partNumber>
+  <partNumber>Title 42 Section 17541</partNumber>
+  <partNumber>Title 42 Section 17554</partNumber>
+  <partNumber>Title 42 Section 17555</partNumber>
+  <partNumber>Title 42 Section 3711et seq.</partNumber>
+  <partNumber>Title 42 Section 3791</partNumber>
+  <partNumber>Title 42 Section 3797dd-1</partNumber>
+  <partNumber>Title 42 Section 3797dd</partNumber>
+  <partNumber>Title 42 Section 3797ddet seq.</partNumber>
+  <partNumber>Title 42 Section 3797eeet seq.</partNumber>
+  <partNumber>Title 42 Section 3797qet seq.</partNumber>
+  <partNumber>Title 42 Section 3797s-2</partNumber>
+  <partNumber>Title 42 Section 3797s-5(a)</partNumber>
+  <partNumber>Title 42 Section 3797s</partNumber>
+  <partNumber>Title 42 Section 3797set seq.</partNumber>
+  <partNumber>Title 42 Section 3797w-2</partNumber>
+  <partNumber>Title 42 Section 3797w</partNumber>
+  <partNumber>Title 42 Section 3797w(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 17501note</identifier>
+ <identifier type="USC citation">42 U.S.C. 17502</identifier>
+ <identifier type="USC citation">42 U.S.C. 17504(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 17511</identifier>
+ <identifier type="USC citation">42 U.S.C. 17521</identifier>
+ <identifier type="USC citation">42 U.S.C. 17521(f)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 17531</identifier>
+ <identifier type="USC citation">42 U.S.C. 17532</identifier>
+ <identifier type="USC citation">42 U.S.C. 17541</identifier>
+ <identifier type="USC citation">42 U.S.C. 17554</identifier>
+ <identifier type="USC citation">42 U.S.C. 17555</identifier>
+ <identifier type="USC citation">42 U.S.C. 3711et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 3791</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797dd-1</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797dd</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797ddet seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797eeet seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797qet seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797s-2</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797s-5(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797s</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797set seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797w-2</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797w</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797w(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 122 Page 677</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">122 Stat.	677</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-199</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-199</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1690is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1690</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Second Chance Reauthorization Act of 2013</shortTitle>
+ <action date="2013-11-13">Mr. Leahy (for himself, Mr. Portman, Mr. Durbin, Ms. Klobuchar, Mr. Franken, Mr. Murphy, Mr. Brown, Ms. Landrieu, and Mr. Menendez) introduced the following bill; which was read twice and referred to the Committee on the Judiciary</action>
+ <congCommittee authorityId="ssju00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember authorityId="1383" bioGuideId="L000174" chamber="S" congress="113" gpoId="8244" party="D" role="SPONSOR" state="VT">
+                      <name type="parsed">Mr. Leahy</name>
+                      <name type="authority-fnf">Patrick J. Leahy</name>
+                      <name type="authority-lnf">Leahy, Patrick J.</name>
+                      <name type="authority-other">Patrick Joseph Leahy</name>
+                </congMember>
+ <congMember authorityId="924" bioGuideId="P000449" chamber="S" congress="113" gpoId="8266" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Portman</name>
+                      <name type="authority-fnf">Rob Portman</name>
+                      <name type="authority-lnf">Portman, Rob</name>
+                </congMember>
+ <congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="113" gpoId="8326" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Durbin</name>
+                      <name type="authority-fnf">Richard Durbin</name>
+                      <name type="authority-lnf">Durbin, Richard</name>
+                      <name type="authority-other">Richard J. Durbin</name>
+                </congMember>
+ <congMember authorityId="1826" bioGuideId="K000367" chamber="S" congress="113" gpoId="8249" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Ms. Klobuchar</name>
+                      <name type="authority-fnf">Amy Klobuchar</name>
+                      <name type="authority-lnf">Klobuchar, Amy</name>
+                </congMember>
+ <congMember authorityId="1969" bioGuideId="F000457" chamber="S" congress="113" gpoId="8339" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Franken</name>
+                      <name type="authority-fnf">Al Franken</name>
+                      <name type="authority-lnf">Franken, Al</name>
+                </congMember>
+ <congMember authorityId="1837" bioGuideId="M001169" chamber="S" congress="113" gpoId="7870" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Mr. Murphy</name>
+                      <name type="authority-fnf">Christopher S. Murphy</name>
+                      <name type="authority-lnf">Murphy, Christopher S.</name>
+                      <name type="authority-other">Mr. Christopher Murphy</name>
+                </congMember>
+ <congMember authorityId="136" bioGuideId="B000944" chamber="S" congress="113" gpoId="8309" party="D" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Brown</name>
+                      <name type="authority-fnf">Sherrod Brown</name>
+                      <name type="authority-lnf">Brown, Sherrod</name>
+                </congMember>
+ <congMember authorityId="1546" bioGuideId="L000550" chamber="S" congress="113" gpoId="8251" party="D" role="COSPONSOR" state="LA">
+                      <name type="parsed">Ms. Landrieu</name>
+                      <name type="authority-fnf">Mary L. Landrieu</name>
+                      <name type="authority-lnf">Landrieu, Mary L.</name>
+                      <name type="authority-other">Mrs. Mary Landrieu</name>
+                </congMember>
+ <congMember authorityId="791" bioGuideId="M000639" chamber="S" congress="113" gpoId="8239" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Menendez</name>
+                      <name type="authority-fnf">Robert Menendez</name>
+                      <name type="authority-lnf">Menendez, Robert</name>
+                </congMember>
+ <law congress="110" isPrivate="false" number="199"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="18">
+                      <section number="3621"></section>
+                      <section detail="(c)" number="3624"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="(a)(1)" number="206"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="note" number="17501"></section>
+                      <section number="17502"></section>
+                      <section detail="(1)" number="17504"></section>
+                      <section number="17511"></section>
+                      <section number="17521"></section>
+                      <section detail="(f)(1)" number="17521"></section>
+                      <section number="17531"></section>
+                      <section number="17532"></section>
+                      <section number="17541"></section>
+                      <section number="17554"></section>
+                      <section number="17555"></section>
+                      <section detail="et seq." number="3711"></section>
+                      <section number="3791"></section>
+                      <section number="3797dd-1"></section>
+                      <section number="3797dd"></section>
+                      <section detail="et seq." number="3797dd"></section>
+                      <section detail="et seq." number="3797ee"></section>
+                      <section detail="et seq." number="3797q"></section>
+                      <section number="3797s-2"></section>
+                      <section detail="(a)" number="3797s-5"></section>
+                      <section number="3797s"></section>
+                      <section detail="et seq." number="3797s"></section>
+                      <section number="3797w-2"></section>
+                      <section number="3797w"></section>
+                      <section detail="(b)" number="3797w"></section>
+                </USCode>
+ <statuteAtLarge volume="122">
+                      <pages pages="677"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

@@ -1,0 +1,76 @@
+<bill session="113" type="s" number="2117" updated="2015-09-01T17:50:45-04:00">
+  <state datetime="2014-09-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-09-16"/>
+  </status>
+  <introduced datetime="2014-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Smart Savings Act</title>
+    <title type="short" as="reported to senate">Smart Savings Act</title>
+    <title type="short" as="passed senate">Smart Savings Act</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to change the default investment fund under the Thrift Savings Plan, and for other purposes.</title>
+  </titles>
+  <sponsor id="412542"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2014-05-07"/>
+    <cosponsor id="300041" joined="2014-05-07"/>
+    <cosponsor id="400325" joined="2014-03-12"/>
+    <cosponsor id="412244" joined="2014-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2014-06-25" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-07-31">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2014-07-31" calendar="Senate Legislative" under="General Orders" number="522">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 522.</text>
+    </calendar>
+    <action datetime="2014-08-26">
+      <text>By Senator Carper from Committee on Homeland Security and Governmental Affairs filed written report under authority of the order of the Senate of 08/05/2014. Report No. 113-244.</text>
+    </action>
+    <action datetime="2014-09-16">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S5647" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-09-16" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-09-17T10:33:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-09-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-09-17T13:26:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="4193"/>
+    <bill relation="unknown" session="113" type="h" number="4193"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Financial services and investments"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government trust funds"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3821"/>
+  </amendments>
+  <summary>9/16/2014--Passed Senate amended.
+Smart Savings Act - Makes the default investment in the Thrift Savings Plan (TSP) an age-appropriate target date asset allocation portfolio (L Fund), instead of the Government Securities Investment Fund (G Fund), if no election has been made for the investment of available funds. Retains the Government Securities Investment Fund as the default fund for members of the Uniformed Services. Requires TSP participants whose default fund is an age-appropriate L Fund to receive a risk acknowledgement before being enrolled to make TSP contributions.
+
+Makes this Act: (1) effective on the date the Executive Director of the Federal Retirement Thrift Investment Board issues guidance for implementing this Act, and (2) applicable to individuals who enroll in the Thrift Savings Plan on or after such date.
+
+Extends requirements relating to fiduciary protections to TSP beneficiaries.</summary>
+</bill>

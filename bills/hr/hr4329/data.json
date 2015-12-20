@@ -1,0 +1,230 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-27", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 11.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-20T12:28:00-05:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 113-628.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20T12:29:00-05:00", 
+      "calendar": "Union", 
+      "number": "468", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 468.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-12-02T14:17:00-05:00", 
+      "references": [], 
+      "text": "Mr. Pearce moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:17:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8246-8254", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:17:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4329.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:56:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8246-8250", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-02T14:56:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-03", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4329-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Amodei, Mark E.", 
+      "sponsored_at": "2014-05-01", 
+      "state": "NV", 
+      "thomas_id": "02090", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "sponsored_at": "2014-03-27", 
+      "state": "OK", 
+      "thomas_id": "01742", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-30", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-02T14:56:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-27", 
+  "number": "4329", 
+  "official_title": "To reauthorize the Native American Housing Assistance and Self-Determination Act of 1996, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Native American Housing Assistance and Self-Determination Reauthorization Act of 2014", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Pearce, Stevan", 
+    "state": "NM", 
+    "thomas_id": "01738", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-12-02T14:56:00-05:00", 
+  "subjects": [
+    "Advisory bodies", 
+    "Congressional oversight", 
+    "Department of Housing and Urban Development", 
+    "Environmental assessment, monitoring, research", 
+    "Executive agency funding and structure", 
+    "Government lending and loan guarantees", 
+    "Homelessness and emergency shelter", 
+    "Housing and community development funding", 
+    "Housing finance and home ownership", 
+    "Housing supply and affordability", 
+    "Indian lands and resources rights", 
+    "Indian social and development programs", 
+    "Low- and moderate-income housing", 
+    "Native Americans", 
+    "Public housing", 
+    "Residential rehabilitation and home repair", 
+    "Veterans' loans, housing, homeless programs"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-03-27", 
+    "text": "Native American Housing Assistance and Self-Determination Reauthorization Act of 2014 - Amends the Native American Housing Assistance and Self-Determination Act of 1996 (the Act) to give the Secretary of Housing and Urban Development (HUD) 60 days to act before the request of an Indian tribe for a waiver of certain local cooperation, housing plan, environmental review, or development cost requirements is deemed approved under the program providing tribes with block grants for affordable and self-determined housing activities.\n\nDeems an Indian tribe that is receiving a block grant for an affordable housing project under the Act and one or more other sources of federal funding for such project to have satisfied any environmental review requirements that accompany that funding if the tribe has assumed environmental review responsibilities under the Act and is in compliance with those review requirements.\n\nRequires the Secretary to waive environmental review requirements if inadvertent error prevents satisfaction of such requirements and certain other conditions are met.\n\nMakes low-income training and employment requirements under the Housing and Urban Development Act of 1968 inapplicable to tribal housing activities under the Act.\n\nAllows the use of Indian reserve accounts for affordable housing activities, not just the administration and planning of those activities.\n\nMakes maximum rent and homebuyer payment provisions for housing assisted under the Act inapplicable if the grant recipient has a written policy that includes maximum rent and homebuyer payment provisions.\n\nTreats rental housing as affordable housing if it is made available only to a current rental family for purchase as a homebuyer or lease-purchase unit and that family was a low-income family at the time of their initial occupancy of the unit.\n\nMakes the requirement that housing assisted under the Act remain affordable throughout the remaining life of the property inapplicable to improvements of a privately owned home if the cost of those improvements do not exceed 10% of the maximum total development cost for such home.\n\nRequires the owner or manager of rental housing assisted under the Act and one or more other federal funding sources to only use leases that require a lease termination notice period.\n\nAllows recipients of funding under the Act to use funding from the Indian Health Service (IHS) of HUD for the construction of sanitation facilities for housing construction and renovation projects funded under the Act.\n\nReauthorizes appropriations for the block grant program through FY2018.\n\nAmends the United States Housing Act of 1937 to authorize the Secretary to implement a supportive housing and rental assistance program, in conjunction with the Secretary of Veterans Affairs (VA), for the benefit of Native American veterans who are homeless or at risk of homelessness.\n\nAmends the Act to extend, from 50 years to 99 years, the limit on the lease of trust or Indian restricted lands for housing purposes. Prohibits such limit from being construed to affect any authority to lease those lands that is conferred pursuant to any law whether enacted before, on, or after the enactment of such Act.\n\nAuthorizes the Secretary to use such sums as may be necessary from the block grant program's appropriations to assist a national organization to provide training and technical assistance to Indian housing authorities and tribally designated housing entities.\n\nAmends the Housing and Community Development Act of 1992 to authorize the Secretary to guarantee Indian housing loans through FY2018. Authorizes appropriations for such guarantees. Sets the maximum aggregate outstanding principal amount for such loans.\n\nAmends the American Homeownership and Economic Opportunity Act of 2000 to require the Lands Title Report Commission to be appointed no later than 90 days after this Act's enactment, without the current condition that sums be appropriated for that purpose in advance.\n\nAmends the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 to prohibit the use of funds under that Act for the benefit of the Cherokee Nation unless the Order issued on September 21, 2011, by the Federal District Court for the District of Columbia remains in effect or there is a settlement agreement which ends litigation among the adverse parties.\n\nAmends the Act to establish a demonstration program that requires a participating Indian tribe to select an investor partner and, with that partner, to develop and implement a Secretary-approved plan to address the tribe's housing needs. Requires each participating tribe to obtain assistance from a qualified entity in assessing its housing needs.\n\nMakes the block grant amounts that would otherwise have been allocated to a participating tribe under the Act available under the demonstration program to: (1) provide investor partners or other investors with a full return on their investment in the tribe's housing needs, (2) cover a tribe's administrative costs, and (3) cover housing infrastructure costs associated with providing affordable housing for the tribe."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Native American Housing Assistance and Self-Determination Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Native American Housing Assistance and Self-Determination Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Native American Housing Assistance and Self-Determination Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Native American Housing Assistance and Self-Determination Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize the Native American Housing Assistance and Self-Determination Act of 1996, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:31-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4329:@@@L&summ2=m&"
+}

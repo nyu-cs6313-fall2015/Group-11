@@ -1,0 +1,100 @@
+<bill session="113" type="s" number="247" updated="2015-09-01T17:50:22-04:00">
+  <state datetime="2014-07-09">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-07-09"/>
+  </status>
+  <introduced datetime="2013-02-07"/>
+  <titles>
+    <title type="short" as="introduced">Harriet Tubman National Historical Parks Act</title>
+    <title type="short" as="reported to senate">Harriet Tubman National Historical Parks Act</title>
+    <title type="short" as="passed senate">Harriet Tubman National Historical Parks Act</title>
+    <title type="official" as="introduced">A bill to establish the Harriet Tubman National Historical Park in Auburn, New York, and the Harriet Tubman Underground Railroad National Historical Park in Caroline, Dorchester, and Talbot Counties, Maryland, and for other purposes.</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="412223" joined="2013-02-07"/>
+    <cosponsor id="300073" joined="2013-02-07"/>
+    <cosponsor id="300087" joined="2013-02-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S522-523"/>
+    </action>
+    <action datetime="2013-02-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S523-524" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2013-03-14" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="2013-04-22">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment. With written report No. 113-23.</text>
+    </action>
+    <calendar datetime="2013-04-22" calendar="Senate Legislative" under="General Orders" number="54">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 54.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-07-09" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S4355-4364" label="consideration"/>
+      <reference ref="CR S4357-4358" label="text of measure as reported in Senate"/>
+      <reference ref="CR S4362-4363" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2014-07-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-07-10T12:33:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-07-11">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="513"/>
+    <bill relation="identical" session="113" type="h" number="664"/>
+    <bill relation="unknown" session="113" type="h" number="3979"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Maryland"/>
+    <term name="New York State"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2014--Passed Senate amended.
+Harriet Tubman National Historical Parks Act - Establishes in Caroline, Dorchester, and Talbot Counties, Maryland, the Harriet Tubman Underground Railroad National Historical Park as a unit of the National Park System.
+
+Establishes in Auburn, New York, the Harriet Tubman National Historical Park also as a unit of the National Park System.
+
+Authorizes the Secretary of the Interior to enter into cooperative agreements with certain entities for the historical preservation and interpretation of the parks.
+
+Requires the Secretary to complete a general management plan for the parks.
+
+Amends the Water Resources Development Act of 1996 to decrease the federal share of project costs for navigation and safety improvements to the Chesapeake and Delaware Canal and Baltimore Harbor Connecting Channels in Delaware and Maryland.</summary>
+</bill>

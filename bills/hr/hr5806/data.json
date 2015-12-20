@@ -1,0 +1,214 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-08", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-08", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-08", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Budget", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-10T17:25:00-05:00", 
+      "references": [], 
+      "text": "Mr. Camp moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T17:25:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8998-9002", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8998-8999", 
+          "type": "text as introduced in House"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T17:25:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5806.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T17:58:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-11T12:17:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9075", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-11T12:27:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": "562", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 275 - 149 (Roll no. 562).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5806-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Gerlach, Jim", 
+      "sponsored_at": "2014-12-09", 
+      "state": "PA", 
+      "thomas_id": "01743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2014-12-09", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2014-12-09", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Schock, Aaron", 
+      "sponsored_at": "2014-12-09", 
+      "state": "IL", 
+      "thomas_id": "01920", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-12-10T17:25:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2014-12-11T12:27:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-08", 
+  "number": "5806", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to modify and make permanent certain expiring provisions related to charitable contributions.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4719-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Supporting America's Charities Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Camp, Dave", 
+    "state": "MI", 
+    "thomas_id": "00166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2014-12-11T12:27:00-05:00", 
+  "subjects": [
+    "Alaska", 
+    "Alaska Natives and Hawaiians", 
+    "Charitable contributions", 
+    "Employee benefits and pensions", 
+    "Food assistance and relief", 
+    "Income tax deductions", 
+    "Income tax exclusion", 
+    "Indian lands and resources rights", 
+    "Land use and conservation", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-08", 
+    "text": "Supporting America's Charities Act - Amends the Internal Revenue Code to make permanent: (1) the tax deduction for charitable contributions by individuals and corporations of real property interests for conservation purposes, and (2) tax-free distributions from individual retirement accounts (IRAs) for charitable purposes. Allows a tax deduction for charitable contributions for conservation purposes\u00a0of property conveyed under the Alaska Native Claims Settlement Act by an Alaska Native Corporation.\n\nModifies the tax deduction for charitiable contributions of food inventory to: (1) increase the amount of deductible food inventory contributions that taxpayers other than C corporations may make in any taxable year from 10% to 15% of their aggregate net income and to limit such amount for a C corporation to 15% of its taxable income; (2) permit a taxpayer who is not required to account for inventories or capitalize indirect costs to elect, solely for purposes of computing the amount of such deduction, to treat the basis of any apparently wholesome food (as defined in the Bill Emerson Good Samaritan Food Donation Act) as equal to 25% of the fair market value of such food and to set forth a formula for determining the fair market value of such food; and (3) make such deduction, as modified, permanent."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Supporting America's Charities Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to modify and make permanent certain expiring provisions related to charitable contributions.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:06-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5806:@@@L&summ2=m&"
+}

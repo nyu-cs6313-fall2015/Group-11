@@ -1,0 +1,213 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb9a70">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Federal Reserve Act to improve the functioning and transparency of the Board of Governors of the Federal Reserve System and the Federal Open Market Committee, and for other purposes.;
+   		S. 238 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Federal Reserve Act to improve the functioning and transparency of the Board of Governors of the Federal Reserve System and the Federal Open Market Committee, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 238 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-02-07</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>27 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee183eb9a70</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s238is</identifier>
+<identifier type="preferred citation">S. 238</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s238_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s238is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s238is/html/BILLS-113s238is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s238is/pdf/BILLS-113s238is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s238is/xml/BILLS-113s238is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s238is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mike Lee</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Cornyn</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marco Rubio</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 905(g)(1)(A)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 905(g)(1)(A)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 221et seq.</partNumber>
+  <partNumber>Title 12 Section 225a</partNumber>
+  <partNumber>Title 12 Section 225b(b)</partNumber>
+  <partNumber>Title 12 Section 263(a)</partNumber>
+  <partNumber>Title 12 Section 5211</partNumber>
+  <partNumber>Title 12 Section 5497</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 221et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 225a</identifier>
+ <identifier type="USC citation">12 U.S.C. 225b(b)</identifier>
+ <identifier type="USC citation">12 U.S.C. 263(a)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5211</identifier>
+ <identifier type="USC citation">12 U.S.C. 5497</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 262r-3</partNumber>
+  <partNumber>Title 22 Section 286e-3</partNumber>
+  <partNumber>Title 22 Section 286net seq.</partNumber>
+  <partNumber>Title 22 Section 5401et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 262r-3</identifier>
+ <identifier type="USC citation">22 U.S.C. 286e-3</identifier>
+ <identifier type="USC citation">22 U.S.C. 286net seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 5401et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 5302</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 5302</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s238is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>238</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>IS</fileSuffix>
+ <action date="2013-02-07">Mr. Lee (for himself, Mr. Cornyn, and Mr. Rubio) introduced the following bill; which was read twice and referred to the Committee on Banking, Housing, and Urban Affairs</action>
+ <congCommittee authorityId="ssbk00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+                      <name type="authority-short">Banking</name>
+                </congCommittee>
+ <congMember authorityId="2080" bioGuideId="L000577" chamber="S" congress="113" gpoId="8303" party="R" role="SPONSOR" state="UT">
+                      <name type="parsed">Mr. Lee</name>
+                      <name type="authority-fnf">Mike Lee</name>
+                      <name type="authority-lnf">Lee, Mike</name>
+                </congMember>
+ <congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="113" gpoId="8295" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Cornyn</name>
+                      <name type="authority-fnf">John Cornyn</name>
+                      <name type="authority-lnf">Cornyn, John</name>
+                </congMember>
+ <congMember authorityId="2084" bioGuideId="R000595" chamber="S" congress="113" gpoId="8242" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Rubio</name>
+                      <name type="authority-fnf">Marco Rubio</name>
+                      <name type="authority-lnf">Rubio, Marco</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section detail="(g)(1)(A)" number="905"></section>
+                </USCode>
+ <USCode title="12">
+                      <section detail="et seq." number="221"></section>
+                      <section number="225a"></section>
+                      <section detail="(b)" number="225b"></section>
+                      <section detail="(a)" number="263"></section>
+                      <section number="5211"></section>
+                      <section number="5497"></section>
+                </USCode>
+ <USCode title="22">
+                      <section number="262r-3"></section>
+                      <section number="286e-3"></section>
+                      <section detail="et seq." number="286n"></section>
+                      <section detail="et seq." number="5401"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="5302"></section>
+                </USCode>
+</extension>
+</mods>

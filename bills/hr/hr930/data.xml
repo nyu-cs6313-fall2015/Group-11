@@ -1,0 +1,90 @@
+<bill session="113" type="h" number="930" updated="2015-09-01T10:19:11-04:00">
+  <state datetime="2014-04-28T17:20:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-04-28T17:20:00-04:00"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="short" as="introduced">New Philadelphia, Illinois, Study Act</title>
+    <title type="short" as="reported to house">New Philadelphia, Illinois, Study Act</title>
+    <title type="short" as="passed house">New Philadelphia, Illinois, Study Act</title>
+    <title type="official" as="introduced">To authorize the Secretary of the Interior to conduct a special resource study of the archeological site and surrounding land of the New Philadelphia town site in the State of Illinois, and for other purposes.</title>
+  </titles>
+  <sponsor id="412314"/>
+  <cosponsors>
+    <cosponsor id="412258" joined="2013-02-28"/>
+    <cosponsor id="400074" joined="2013-02-28"/>
+    <cosponsor id="412536" joined="2013-02-28"/>
+    <cosponsor id="412278" joined="2013-03-04"/>
+    <cosponsor id="412421" joined="2013-02-28"/>
+    <cosponsor id="400271" joined="2013-02-28"/>
+    <cosponsor id="412331" joined="2013-02-28"/>
+    <cosponsor id="400402" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2013-07-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-07-31" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2013-09-20T12:28:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-219.</text>
+    </action>
+    <calendar datetime="2013-09-20T12:29:00-04:00" calendar="Union" number="159">
+      <text>Placed on the Union Calendar, Calendar No. 159.</text>
+    </calendar>
+    <action datetime="2014-04-28T17:15:00-04:00">
+      <text>Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-04-28T17:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3214-3215" label="consideration"/>
+    </action>
+    <action datetime="2014-04-28T17:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 930.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-04-28T17:20:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3214-3215" label="text"/>
+    </vote>
+    <action datetime="2014-04-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1328"/>
+    <bill relation="unknown" session="113" type="s" number="1328"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Government studies and investigations"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Illinois"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2014--Passed House amended.
+New Philadelphia, Illinois, Study Act - Directs the Secretary of the Interior to conduct a special resource study of the New Philadelphia archaeological site and the land surrounding it in Illinois (the study area).
+
+Requires the Secretary to: (1) evaluate the national significance of the study area; (2) determine the suitability and feasibility of designating the study area as a unit of the National Park System (NPS); (3) consider other alternatives for preservation, protection, and interpretation of the study area by federal, state, or local governmental entities, or private and nonprofit organizations; and (4) determine the effect of the designation as an NPS unit on existing commercial and recreational activities as well as the authorization, construction, and operation of energy production and transmission infrastructure, and the effect on the authority of state and local officials to manage those activities.
+
+Directs the Secretary also to identify any authorities, including condemnation, that will compel or permit the Secretary to influence or participate in local land use decisions (such as zoning) or place restrictions on non-federal land if the study area is designated as an NPS unit.</summary>
+</bill>

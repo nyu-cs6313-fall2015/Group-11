@@ -1,0 +1,79 @@
+<bill session="113" type="h" number="5111" updated="2015-09-01T10:20:51-04:00">
+  <state datetime="2014-07-24T15:54:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-24T15:54:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-15"/>
+  <titles>
+    <title type="official" as="introduced">To improve the response to victims of child sex trafficking.</title>
+  </titles>
+  <sponsor id="412565"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2014-07-22"/>
+    <cosponsor id="412516" joined="2014-07-17"/>
+    <cosponsor id="412427" joined="2014-07-22"/>
+    <cosponsor id="400646" joined="2014-07-23"/>
+    <cosponsor id="412486" joined="2014-07-22"/>
+    <cosponsor id="400199" joined="2014-07-17"/>
+    <cosponsor id="412566" joined="2014-07-17"/>
+    <cosponsor id="412465" joined="2014-07-22"/>
+    <cosponsor id="412557" joined="2014-07-23"/>
+    <cosponsor id="400263" joined="2014-07-23"/>
+    <cosponsor id="400295" joined="2014-07-17"/>
+    <cosponsor id="400652" joined="2014-07-22"/>
+    <cosponsor id="412426" joined="2014-07-22"/>
+    <cosponsor id="412317" joined="2014-07-22"/>
+    <cosponsor id="400406" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-15" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-07-23T18:09:00-04:00">
+      <text>Mr. Walberg moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-07-23T18:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6709-6711" label="consideration"/>
+    </action>
+    <action datetime="2014-07-23T18:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5111.</text>
+    </action>
+    <action datetime="2014-07-23T18:24:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-07-24T15:47:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6778-6779" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="447" datetime="2014-07-24T15:54:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 447).</text>
+      <reference ref="CR 7/24/2014 H6709" label="text"/>
+    </vote>
+    <action datetime="2014-07-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="3905"/>
+    <bill relation="unknown" session="113" type="s" number="1936"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Child safety and welfare"/>
+    <term name="Crime prevention"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Human trafficking"/>
+    <term name="Internet and video services"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2014--Passed House amended.
+Amends the Missing Children's Assistance Act to include among the required uses of the Office of Juvenile Justice and Delinquency Prevention's annual grant to the National Center for Missing and Exploited Children operation of a cyber tipline to provide online users and electronic service providers an effective means of reporting Internet-related child sexual exploitation in the area of child sex trafficking, including child prostitution (currently, in the area of child prostitution).</summary>
+</bill>

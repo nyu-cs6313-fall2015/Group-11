@@ -1,0 +1,231 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb8cda">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 38, United States Code, to improve the reproductive assistance provided by the Department of Veterans Affairs to severely wounded, ill, or injured veterans and their spouses, and for other purposes.;
+   		Women Veterans and Other Health Care Improvements Act of 2013;S. 131 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 38, United States Code, to improve the reproductive assistance provided by the Department of Veterans Affairs to severely wounded, ill, or injured veterans and their spouses, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Women Veterans and Other Health Care Improvements Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 131 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-24</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>20 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee183eb8cda</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s131is</identifier>
+<identifier type="preferred citation">S. 131</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s131_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s131is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s131is/html/BILLS-113s131is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s131is/pdf/BILLS-113s131is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s131is/xml/BILLS-113s131is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s131is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Patty Murray</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Begich</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jon Tester</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Veterans&apos; Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 901</partNumber>
+  <partNumber>Title 2 Section 902</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 901</identifier>
+ <identifier type="USC citation">2 U.S.C. 902</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 632</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 632</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 1701(6)</partNumber>
+  <partNumber>Title 38 Section 1710note</partNumber>
+  <partNumber>Title 38 Section 1712Anote</partNumber>
+  <partNumber>Title 38 Section 1788</partNumber>
+  <partNumber>Title 38 Section 7330B</partNumber>
+  <partNumber>Title 38 Chapter 17</partNumber>
+  <partNumber>Title 38 Chapter 3</partNumber>
+  <partNumber>Title 38 Chapter 73</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 1701(6)</identifier>
+ <identifier type="USC citation">38 U.S.C. 1710note</identifier>
+ <identifier type="USC citation">38 U.S.C. 1712Anote</identifier>
+ <identifier type="USC citation">38 U.S.C. 1788</identifier>
+ <identifier type="USC citation">38 U.S.C. 7330B</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 17</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 3</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 73</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 115 Page 552</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">115 Stat.	552</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-67</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-67</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-163</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-163</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s131is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>131</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>IS</fileSuffix>
+ <shortTitle>Women Veterans and Other Health Care Improvements Act of 2013</shortTitle>
+ <action date="2013-01-24" legislativeDay="2013-01-03">Mrs. Murray (for herself, Mr. Begich, and Mr. Tester) introduced the following bill; which was read twice and referred to the Committee on Veterans&apos; Affairs</action>
+ <congCommittee authorityId="ssva00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                      <name type="authority-short">Veterans&apos; Affairs</name>
+                </congCommittee>
+ <congMember authorityId="1409" bioGuideId="M001111" chamber="S" congress="113" gpoId="8237" party="D" role="SPONSOR" state="WA">
+                      <name type="parsed">Mrs. Murray</name>
+                      <name type="authority-fnf">Patty Murray</name>
+                      <name type="authority-lnf">Murray, Patty</name>
+                </congMember>
+ <congMember authorityId="1898" bioGuideId="B001265" chamber="S" congress="113" gpoId="8301" party="D" role="COSPONSOR" state="AK">
+                      <name type="parsed">Mr. Begich</name>
+                      <name type="authority-fnf">Mark Begich</name>
+                      <name type="authority-lnf">Begich, Mark</name>
+                </congMember>
+ <congMember authorityId="1829" bioGuideId="T000464" chamber="S" congress="113" gpoId="8258" party="D" role="COSPONSOR" state="MT">
+                      <name type="parsed">Mr. Tester</name>
+                      <name type="authority-fnf">Jon Tester</name>
+                      <name type="authority-lnf">Tester, Jon</name>
+                </congMember>
+ <law congress="107" isPrivate="false" number="67"></law>
+ <law congress="111" isPrivate="false" number="163"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section number="901"></section>
+                      <section number="902"></section>
+                </USCode>
+ <USCode title="15">
+                      <section number="632"></section>
+                </USCode>
+ <USCode title="38">
+                      <section detail="(6)" number="1701"></section>
+                      <section detail="note" number="1710"></section>
+                      <section detail="note" number="1712A"></section>
+                      <section number="1788"></section>
+                      <section number="7330B"></section>
+                      <chapter number="17"></chapter>
+                      <chapter number="3"></chapter>
+                      <chapter number="73"></chapter>
+                </USCode>
+ <statuteAtLarge volume="115">
+                      <pages pages="552"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

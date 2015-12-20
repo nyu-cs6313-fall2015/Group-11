@@ -1,0 +1,99 @@
+<bill session="113" type="s" number="2154" updated="2015-09-01T10:22:14-04:00">
+  <state datetime="2014-09-26">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-09-26"/>
+  </status>
+  <introduced datetime="2014-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Emergency Medical Services for Children Reauthorization Act of 2014</title>
+    <title type="short" as="reported to senate">Emergency Medical Services for Children Reauthorization Act of 2014</title>
+    <title type="short" as="passed senate">Emergency Medical Services for Children Reauthorization Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to reauthorize the Emergency Medical Services for Children Program.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2014-07-23"/>
+    <cosponsor id="412598" joined="2014-06-16"/>
+    <cosponsor id="400050" joined="2014-05-06"/>
+    <cosponsor id="412223" joined="2014-05-21"/>
+    <cosponsor id="300051" joined="2014-07-22"/>
+    <cosponsor id="300052" joined="2014-03-25"/>
+    <cosponsor id="400222" joined="2014-07-14"/>
+    <cosponsor id="300087" joined="2014-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <calendar datetime="2014-07-23" state="REPORTED">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-07-23">
+      <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2014-07-23" calendar="Senate Legislative" under="General Orders" number="480">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 480.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-09-10" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S5514" label="consideration"/>
+      <reference ref="CR S5514" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2014-09-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-09-11T15:33:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2014-09-15T16:07:00-04:00">
+      <text>Mr. Pitts moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-09-15T16:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7461-7462" label="consideration"/>
+    </action>
+    <action datetime="2014-09-15T16:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2154.</text>
+    </action>
+    <action datetime="2014-09-15T16:12:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-09-16T14:13:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7549-7550" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote2" roll="500" datetime="2014-09-16T14:20:00-04:00" where="h" result="pass" suspension="1" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 4 (Roll no. 500).</text>
+      <reference ref="CR 9/15/2014 H7461" label="text"/>
+    </vote>
+    <action datetime="2014-09-16T14:20:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2014-09-18">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-09-26" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-180" type="public" datetime="2014-09-26">
+      <text>Became Public Law No: 113-180.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="4290"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health programs administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2014--Public Law.
+(This measure has not been amended since it was reported to the Senate on July 23, 2014. The summary of that version is repeated here.)
+
+Emergency Medical Services for Children Reauthorization Act of 2014 - Amends the Public Health Service Act to reauthorize the Emergency Medical Services for Children Program through FY2019.</summary>
+</bill>

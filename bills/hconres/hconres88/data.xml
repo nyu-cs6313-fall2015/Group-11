@@ -1,0 +1,83 @@
+<bill session="113" type="hc" number="88" updated="2015-09-01T10:21:13-04:00">
+  <state datetime="2014-04-03">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2014-04-03"/>
+  </status>
+  <introduced datetime="2014-02-25"/>
+  <titles>
+    <title type="official" as="introduced">Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2014-02-25"/>
+    <cosponsor id="412544" joined="2014-02-25"/>
+    <cosponsor id="412263" joined="2014-02-25"/>
+    <cosponsor id="400283" joined="2014-02-25"/>
+    <cosponsor id="400295" joined="2014-02-25"/>
+    <cosponsor id="400415" joined="2014-02-25"/>
+    <cosponsor id="400435" joined="2014-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-25" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-02-26">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-03-13" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-03-13">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+    </action>
+    <action datetime="2014-03-26T16:09:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-387.</text>
+    </action>
+    <calendar datetime="2014-03-26T16:09:00-04:00" calendar="House" number="93">
+      <text>Placed on the House Calendar, Calendar No. 93.</text>
+    </calendar>
+    <action datetime="2014-04-01T17:49:00-04:00">
+      <text>Mr. Barletta moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2014-04-01T17:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2781-2782" label="consideration"/>
+    </action>
+    <action datetime="2014-04-01T17:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 88.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-04-01T17:57:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H2781-2782" label="text"/>
+    </vote>
+    <action datetime="2014-04-02">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-04-03" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2167" label="consideration"/>
+    </vote>
+    <action datetime="2014-04-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="hc" number="19"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Games and hobbies"/>
+    <term name="Outdoor recreation"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>4/3/2014--Passed Senate without amendment.
+Permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races as a free public event on the Capitol grounds on June 14, 2014.</summary>
+</bill>

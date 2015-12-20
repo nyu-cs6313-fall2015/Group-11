@@ -1,0 +1,77 @@
+<bill session="113" type="h" number="5031" updated="2015-09-01T10:20:50-04:00">
+  <state datetime="2014-07-14T15:25:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-14T15:25:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-08"/>
+  <titles>
+    <title type="short" as="introduced">STEM Education Act of 2014</title>
+    <title type="short" as="passed house">STEM Education Act of 2014</title>
+    <title type="official" as="introduced">To define STEM education to include computer science, and to support existing STEM education programs at the National Science Foundation.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="412427" joined="2014-07-08"/>
+    <cosponsor id="412563" joined="2014-07-08"/>
+    <cosponsor id="412524" joined="2014-07-08"/>
+    <cosponsor id="412422" joined="2014-07-08"/>
+    <cosponsor id="400204" joined="2014-07-08"/>
+    <cosponsor id="412595" joined="2014-07-08"/>
+    <cosponsor id="412543" joined="2014-07-08"/>
+    <cosponsor id="400630" joined="2014-07-08"/>
+    <cosponsor id="412412" joined="2014-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2014-07-14T15:04:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-07-14T15:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6141-6144" label="consideration"/>
+    </action>
+    <action datetime="2014-07-14T15:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5031.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-14T15:25:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6141" label="text"/>
+    </vote>
+    <action datetime="2014-07-14T15:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Computers and information technology"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Science and engineering education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2014--Passed House without amendment.
+STEM Education Act of 2014 - Requires the Director of the National Science Foundation (NSF) to continue to award competitive, merit-reviewed grants to support: (1) research and development of innovative out-of-school STEM (science, technology, engineering, and mathematics) learning and emerging STEM learning environments; and (2) research that advances the field of informal STEM education.
+
+Requires supported activities to include research and development that improves understanding of learning and engagement in informal environments and design and testing of innovative STEM resources for such environments to improve STEM learning outcomes and increase engagement for elementary and secondary school students and teachers and the public.
+
+Amends the National Science Foundation Authorization Act of 2002 to allow award of NSF Master Teaching Fellowships to mathematics and science teachers who possess a bachelor's degree in their field (currently limited to those with a master's degree).
+
+Requires fellowship grants to be used, in the case of Master Teaching Fellowships for teachers with bachelor's degrees in their field who are working toward a master's degree, to: (1) offer academic courses leading to a master's degree and leadership training to prepare individuals to become master teachers, and (2) offer programs both during and after matriculation to enable fellows to become highly effective mathematics and science teachers and to exchange ideas with others in their fields. Limits fellowship support during such a master's degree program to one year, with a prorated amount in the case of enrollment in a part-time program.
+
+Includes elementary or secondary school computer science teachers as mathematics and science teachers for purposes of the program of teacher recruiting and training grants known as the Robert Noyce Teacher Scholarship Program.</summary>
+</bill>

@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-10", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-09-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5436-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-09-10", 
+  "number": "5436", 
+  "official_title": "To amend the Public Health Services Act to provide research, training, and navigator services to youth and young adults on the verge of aging out of the secondary educational system, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1259-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "AGE-IN Act", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Gibson, Christopher P.", 
+    "state": "NY", 
+    "thomas_id": "02043", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-09-10", 
+  "subjects": [
+    "Child health", 
+    "Disability assistance", 
+    "Employment and training programs", 
+    "Health", 
+    "Health care coverage and access", 
+    "Health programs administration and funding", 
+    "Hereditary and development disorders", 
+    "Medical research", 
+    "Research administration and funding", 
+    "Vocational and technical education", 
+    "Youth employment and child labor"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-10", 
+    "text": "Assistance in Gaining Experience, Independence, and Navigation Act of 2014 or the AGE-IN Act - Amends the Public Health Service Act to require the Secretary of Health and Human Services (HHS) to award a grant to: (1) analyze existing research on youth and young adults with an autism spectrum disorder or other developmental disabilities as they transition out of the school-based support system; (2) research existing infrastructure for transitioning youth, including access to health care, continuing education programs, and community integration programs; and (3) develop a strategic plan for a Transition Navigator Grant Program to provide transitioning youth with support services.\n\nRequires the Secretary to establish a Transition Navigator Grant Program to award grants to provide services based on the strategic plan. Directs the Secretary to contract a third party to evaluate the effectiveness of grantees in meeting the goals of the strategic plan."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "AGE-IN Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Assistance in Gaining Experience, Independence, and Navigation Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Services Act to provide research, training, and navigator services to youth and young adults on the verge of aging out of the secondary educational system, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:00-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5436:@@@L&summ2=m&"
+}

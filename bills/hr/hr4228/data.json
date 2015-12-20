@@ -1,0 +1,359 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-13", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Oversight and Management Efficiency.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-26", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-26", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-05-06T16:44:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-436.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-06T16:45:00-04:00", 
+      "calendar": "Union", 
+      "number": "324", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 324.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-06-09T18:15:00-04:00", 
+      "references": [], 
+      "text": "Mr. Duncan (SC) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T18:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5139-5148", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T18:15:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4228.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T18:31:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5139-5145", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-06-10", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4228-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Oversight and Management Efficiency", 
+      "subcommittee_id": "09"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Barber, Ron", 
+      "sponsored_at": "2014-03-13", 
+      "state": "AZ", 
+      "thomas_id": "02093", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "sponsored_at": "2014-04-30", 
+      "state": "PA", 
+      "thomas_id": "02054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Carter, John R.", 
+      "sponsored_at": "2014-04-30", 
+      "state": "TX", 
+      "thomas_id": "01752", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Daines, Steve", 
+      "sponsored_at": "2014-03-13", 
+      "state": "MT", 
+      "thomas_id": "02138", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2014-04-02", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "sponsored_at": "2014-03-14", 
+      "state": "NC", 
+      "thomas_id": "02140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2014-03-14", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lummis, Cynthia M.", 
+      "sponsored_at": "2014-04-02", 
+      "state": "WY", 
+      "thomas_id": "01960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Matheson, Jim", 
+      "sponsored_at": "2014-04-10", 
+      "state": "UT", 
+      "thomas_id": "01671", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2014-03-13", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "O'Rourke, Beto", 
+      "sponsored_at": "2014-03-25", 
+      "state": "TX", 
+      "thomas_id": "02162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2014-04-02", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Pompeo, Mike", 
+      "sponsored_at": "2014-04-30", 
+      "state": "KS", 
+      "thomas_id": "02022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Young, Todd C.", 
+      "sponsored_at": "2014-04-30", 
+      "state": "IN", 
+      "thomas_id": "02019", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-26", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-06-09T18:31:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-13", 
+  "number": "4228", 
+  "official_title": "To require the Department of Homeland Security to improve discipline, accountability, and transparency in acquisition program management.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "DHS Acquisition Accountability and Efficiency Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Duncan, Jeff", 
+    "state": "SC", 
+    "thomas_id": "02057", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-06-09T18:31:00-04:00", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Administrative law and regulatory procedures", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Emergency management", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Homeland security", 
+    "Minority and disadvantaged businesses", 
+    "Performance measurement", 
+    "Public contracts and procurement", 
+    "Small business"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-06-09", 
+    "text": "DHS Acquisition Accountability and Efficiency Act - Amends the Homeland Security Act of 2002 to reform acquisition and procurement programs and activities of the Department of Homeland Security (DHS).\n\n(Sec. 5) Prohibits the authorization of appropriations of additional funds to carry out this Act.\n\nTitle I: Acquisition Authorities - (Sec. 101) Designates the Under Secretary for Management of DHS as\u00a0the DHS\u00a0Chief Acquisition Officer. Sets forth the duties and responsibilities of the Under Secretary related to acquisition, including: (1) advising the DHS Secretary on acquisition management activities; (2) exercising the authority to approve, halt, modify, or cancel a major acquisition program (defined as a program estimated to require an eventual total expenditure of at least $300 million over its life cycle cost); (3) establishing policies for acquisition; (4) ensuring that each major acquisition program has a DHS-approved acquisition program baseline (i.e., the summary of the cost, schedule, and performance parameters, expressed in standard, measurable, quantitative terms, which must be met in order to accomplish program goals); (5) ensuring compliance with applicable laws and regulations; and (6) distributing guidance to ensure that contractors adhere to internal cybersecurity policies established by DHS.\n\nPermits the Under Secretary to delegate acquisition authority in writing to the relevant Component Acquisition Executive (i.e. senior acquisition official within a DHS Component with authority and responsibility for leading a process and staff to provide acquisition and program management oversight, policy, and guidance) for an acquisition program with a specified life cycle cost.\n\n(Sec. 102) Requires the DHS Office of Program Analysis and Evaluation to provide leadership over financial management policy and programs for DHS as they relate to DHS's acquisition programs, in consultation with the Under Secretary for Management.\n\n(Sec. 103) Sets forth the acquisition responsibilities of the Chief Information Officer of DHS, including to: (1) serve as the lead technical authority for information technology programs and establish departmental information technology priorities, policies, processes, standards, guidelines, and procedures; (2) oversee the management of the Homeland Security Enterprise Architecture; (3) make recommendations to the Acquisition Review Board (established by this Act) on the information technology programs; and (4) be responsible for developing information technology acquisition strategic guidance.\n\n(Sec. 104) Establishes the position of Chief Procurement Officer of DHS, who shall report directly to the Under Secretary for Management. Prescribes the duties of the the Chief Procurement Officer, including to: (1) exercise leadership and authority over the DHS procurement function; (2) issue acquisition regulations and policies; (3) account for the integrity, performance, and oversight of DHS procurement and contracting functions; (4) serve as DHS's business advisor and main liaison to industry on procurement-related issues; (5) oversee a centralized certification and training program for the DHS acquisition workforce; and (6) ensure that a fair proportion of federal contract dollars are awarded to small businesses.\n\n(Sec. 105) Requires the Under Secretary to: (1) establish in the Management Directorate a mechanism to prioritize improving the accountability, standardization, and transparency of major DHS acquisition programs to increase opportunities for effectiveness and efficiencies and to serve as the central oversight function of all DHS acquisition programs; and (2) designate an Executive Director to oversee the operation of such mechanism. Sets forth the duties of the Executive Director.\n\nRequires each head of a Component to comply with federal law, the Federal Acquisition Regulation (FAR), and DHS acquisition management directives established by the Under Secretary for Management. Requires each Component head, for each major acquisition program, to: (1) establish a complete life cycle cost estimate, including an acquisition program baseline; (2) verify each life cycle cost estimate against independent cost estimates and reconcile any differences; (3) complete a cost-benefit analysis; (4) develop and maintain a schedule that is consistent with scheduling best practices; and (5) ensure that all acquisition program information provided by the Component is complete, accurate, timely, and valid.\n\nTitle II: Acquisition Program Management Discipline - (Sec. 201) Requires the DHS Secretary to establish an Acquisition Review Board to strengthen accountability and uniformity with the DHS acquisition review process, review major acquisition programs, and review the use of best practices. Sets forth the responsibilities of the Board, including to: (1) determine whether a proposed acquisition has met the requirements of key phases of the acquisition life cycle framework and is able to proceed to the next phase and eventual full production and deployment; (2) oversee executable business strategy, resources, management, accountability, and alignment to strategic initiatives; and (3) conduct systematic reviews of acquisitions.\n\nRequires the Secretary to: (1) notify the congressional homeland security committees (i.e., the House Committees on Appropriations and Homeland Security and the Senate Committees on Appropriations and Homeland Security and Governmental Affairs) of any decision to approve a major acquisition program without a DHS-approved acquisition program baseline within 7 days after an acquisition decision memorandum is signed, and (2) report within the next 60 days on the rationale for such decision and a plan of action to require an acquisition program baseline for the program.\n\n(Sec. 202) Requires the Deputy Secretary of DHS to: (1) establish DHS-wide policies to assist DHS in identifying, validating, and prioritizing standards for common Component requirements to increase opportunities for effectiveness and efficiencies; and (2) coordinate actions to establish such policies using mechanisms necessary to reduce duplication and inefficiency for all DHS investments, including major acquisition programs.\n\n(Sec. 203) Requires the Comptroller General (GAO) to conduct a review of the Acquisition Review Board and the requirements to reduce duplication in acquisition programs.\n\n(Sec. 204) Requires the Secretary to notify the congressional homeland security committees within five days after the issuance of a waiver by the Secretary of requirements that an agency not engage in business with a contractor in the Excluded Party List System maintained by the General Services Administration (GSA) and an explanation of the compelling reason for taking such action.\n\n(Sec. 205) Authorizes the DHS Inspector General to audit decisions about grant and procurement awards to identify: (1) instances where a contract or grant was improperly awarded to a suspended or debarred entity, and (2) whether corrective actions were taken to prevent recurrence. Directs the DHS Inspector General to review the DHS suspension and debarment program to assess whether suspension and debarment criteria are consistently applied and whether disparities exist in the application of such criteria, particularly with respect to business size and categories.\n\nTitle III: Acquisition Program Management Accountability and Transparency - (Sec. 301) Establishes a process for notifying DHS officials of a potential or actual breach (e.g., failure to meet any cost, schedule, or performance requirements) in a major acquisition program (a program estimated to cost at least $300 million over its life cycle cost). Requires notice of an actual breach in an acquisition program with a cost overrun greater than 20% or a schedule delay greater than 12 months over the program baseline to the Secretary and Inspector General of DHS\u00a0not\u00a0later than\u00a0five business days after the actual breach is identified.\n\nRequires the Under Secretary for Management to establish a date for submission of: (1) a breach remediation plan and root cause analysis for an actual breach in a DHS acquisition program with a cost overrun greater than 15% or a schedule delay greater than 180 days compared to the costs or schedule set forth in the acquisition program baseline; and (2) a program of corrective action to ensure that either the breach has been corrected and the program is again in compliance with the original acquisition program baseline parameters, a revised acquisition program baseline has been approved, or the program has been halted or cancelled.\n\nRequires the Under Secretary to notify the congressional homeland security committees of a breach in a major acquisition program and include a written certification that the acquisition is essential to the DHS mission, there\u00a0are no alternatives to such capability or asset, and other criteria have been met. Prohibits funding for a major acquisition program\u00a0until the Under Secretary provides such notice and certification.\n\n(Sec. 302) Requires the DHS Secretary to submit to the congressional homeland security committees a multiyear acquisition strategy to guide the overall direction of the DHS acquisitions, with specified requirements.\n\n(Sec. 303) Requires the Under Secretary to submit to the congressional homeland security committees a comprehensive acquisition status report, with information and updates on each major acquisition program.\n\n(Sec. 304) Requires the Comptroller General to conduct a review to analyze the effectiveness of the Multiyear Acquisition Strategy.\n\n(Sec. 305) Requires the DHS Inspector General, not later than two years after the Comptroller General's report on the multiyear acquisition strategy, to conduct a review of whether DHS has complied with the strategy and the requirements to provide the Acquisition Review Board with a capability development plan for each major acquisition program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "DHS Acquisition Accountability and Efficiency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "DHS Acquisition Accountability and Efficiency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "DHS Acquisition Accountability and Efficiency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Department of Homeland Security to improve discipline, accountability, and transparency in acquisition program management.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4228:@@@L&summ2=m&"
+}

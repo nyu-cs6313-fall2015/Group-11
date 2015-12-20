@@ -1,0 +1,57 @@
+<bill session="113" type="s" number="2956" updated="2015-09-01T10:22:28-04:00">
+  <state datetime="2014-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-20"/>
+  </status>
+  <introduced datetime="2014-11-20"/>
+  <titles>
+    <title type="short" as="introduced">Phone Scam Prevention Act of 2014</title>
+    <title type="official" as="introduced">A bill to prevent caller ID spoofing, and for other purposes.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="412598" joined="2014-11-20"/>
+    <cosponsor id="300025" joined="2014-11-20"/>
+    <cosponsor id="412205" joined="2014-11-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-20">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6207-6208"/>
+    </action>
+    <action datetime="2014-11-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <reference ref="CR S6208-6209" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="3670"/>
+    <bill relation="unknown" session="113" type="s" number="2787"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Consumer affairs"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>11/20/2014--Introduced.
+Phone Scam Prevention Act of 2014 - Amends the Communications Act of 1934 to require voice communications service providers to offer subscribers the option to designate a list of approved telephone numbers for which calls originating from those numbers are permitted to connect directly with the subscriber's telephone and other customer premises equipment.
+
+ Requires providers to ensure that any call for termination that is not from a number on the subscriber's list is processed according to the subscriber's preferences, including by limiting or disabling the ability of an incoming call to connect with the subscriber's equipment.
+
+Exempts government and public interest calls from being subject to a subscriber's preferences.
+
+Requires the Federal Communications Commission (FCC) to develop authentication standards for providers to validate caller information so that subscribers may obtain secure assurances of a call's origin, including the calling party's number and identification.
+
+Extends the prohibition on the provision of inaccurate caller identification information to persons outside the United States if the recipient is within the United States.
+
+Expands the definition "caller identification information" to include text messages.
+
+Revises caller identification requirements to make standards applicable to voice communications using resources from the North American Numbering Plan (currently, the requirements apply to telecommunications or IP-enabled voice services).</summary>
+</bill>

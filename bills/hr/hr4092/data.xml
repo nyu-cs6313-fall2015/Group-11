@@ -1,0 +1,125 @@
+<bill session="113" type="h" number="4092" updated="2015-09-01T10:20:26-04:00">
+  <state datetime="2014-06-23T16:21:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-06-23T16:21:00-04:00"/>
+  </status>
+  <introduced datetime="2014-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Streamlining Energy Efficiency for Schools Act of 2014</title>
+    <title type="short" as="reported to house">Streamlining Energy Efficiency for Schools Act of 2014</title>
+    <title type="official" as="introduced">To amend the Energy Policy and Conservation Act to establish the Office of Energy Efficiency and Renewable Energy as the lead Federal agency for coordinating Federal, State, and local assistance provided to promote the energy retrofitting of schools.</title>
+  </titles>
+  <sponsor id="412571"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2014-03-12"/>
+    <cosponsor id="400073" joined="2014-03-06"/>
+    <cosponsor id="412600" joined="2014-02-26"/>
+    <cosponsor id="412236" joined="2014-06-11"/>
+    <cosponsor id="412272" joined="2014-02-26"/>
+    <cosponsor id="400090" joined="2014-03-12"/>
+    <cosponsor id="412544" joined="2014-02-26"/>
+    <cosponsor id="400124" joined="2014-05-07"/>
+    <cosponsor id="412257" joined="2014-03-04"/>
+    <cosponsor id="412382" joined="2014-02-28"/>
+    <cosponsor id="412530" joined="2014-02-28"/>
+    <cosponsor id="412276" joined="2014-02-26"/>
+    <cosponsor id="400170" joined="2014-06-19"/>
+    <cosponsor id="412282" joined="2014-03-06"/>
+    <cosponsor id="400184" joined="2014-02-26"/>
+    <cosponsor id="400185" joined="2014-02-26"/>
+    <cosponsor id="412511" joined="2014-03-06"/>
+    <cosponsor id="412435" joined="2014-03-14"/>
+    <cosponsor id="412557" joined="2014-03-13"/>
+    <cosponsor id="400233" joined="2014-02-26"/>
+    <cosponsor id="412209" joined="2014-02-26"/>
+    <cosponsor id="400245" joined="2014-05-07"/>
+    <cosponsor id="412521" joined="2014-02-26"/>
+    <cosponsor id="400262" joined="2014-02-28"/>
+    <cosponsor id="412189" joined="2014-03-06"/>
+    <cosponsor id="412568" joined="2014-02-26"/>
+    <cosponsor id="412518" joined="2014-03-06"/>
+    <cosponsor id="400295" joined="2014-03-06"/>
+    <cosponsor id="400308" joined="2014-03-06"/>
+    <cosponsor id="412523" joined="2014-02-26"/>
+    <cosponsor id="412307" joined="2014-03-24"/>
+    <cosponsor id="412585" joined="2014-02-26"/>
+    <cosponsor id="400326" joined="2014-02-26"/>
+    <cosponsor id="412331" joined="2014-05-07"/>
+    <cosponsor id="412312" joined="2014-02-26"/>
+    <cosponsor id="400360" joined="2014-03-06"/>
+    <cosponsor id="400361" joined="2014-02-26"/>
+    <cosponsor id="412219" joined="2014-02-26"/>
+    <cosponsor id="412186" joined="2014-02-26"/>
+    <cosponsor id="412259" joined="2014-04-28"/>
+    <cosponsor id="400403" joined="2014-05-01"/>
+    <cosponsor id="412319" joined="2014-03-04"/>
+    <cosponsor id="412254" joined="2014-04-28"/>
+    <cosponsor id="400415" joined="2014-05-19"/>
+    <cosponsor id="412522" joined="2014-02-28"/>
+    <cosponsor id="412239" joined="2014-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-02-28">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="2014-04-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-04-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-06-19T13:19:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-479.</text>
+    </action>
+    <calendar datetime="2014-06-19T13:20:00-04:00" calendar="Union" number="355">
+      <text>Placed on the Union Calendar, Calendar No. 355.</text>
+    </calendar>
+    <action datetime="2014-06-23T16:13:00-04:00">
+      <text>Mr. Kinzinger (IL) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-06-23T16:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5604-5605" label="consideration"/>
+    </action>
+    <action datetime="2014-06-23T16:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4092.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-06-23T16:21:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5604" label="text"/>
+    </vote>
+    <action datetime="2014-06-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1084"/>
+    <bill relation="unknown" session="113" type="s" number="2074"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Building construction"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Government information and archives"/>
+    <term name="Higher education"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2014--Passed House amended.
+Streamlining Energy Efficiency for Schools Act of 2014 - Amends the Energy Policy and Conservation Act to direct the Secretary of Energy (DOE), acting through the Office of Energy and Renewable Energy, to establish a clearinghouse to disseminate information regarding available programs and financing mechanisms that may be used to help initiate, develop, and finance energy efficiency, distributed generation, and energy retrofitting projects for schools.
+
+Requires the Secretary to: (1) consult with appropriate agencies to develop a list of programs and financing mechanisms that are, or may be, used for the projects, and (2) coordinate with appropriate agencies to develop a collaborative education and outreach effort to streamline communications and promote the programs and financing mechanisms.</summary>
+</bill>

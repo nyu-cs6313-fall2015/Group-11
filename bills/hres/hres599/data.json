@@ -1,0 +1,256 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-27", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-28T16:39:00-04:00", 
+      "references": [], 
+      "text": "Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-28T16:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4851-4856", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-28T16:39:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 599.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-28T17:14:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-28T18:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4866-4867", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-28T18:58:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4851-4852", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "241", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 379 - 1 (Roll no. 241).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres599-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2014-05-28", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2014-05-27", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2014-05-27", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2014-05-27", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Pelosi, Nancy", 
+      "sponsored_at": "2014-05-27", 
+      "state": "CA", 
+      "thomas_id": "00905", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pittenger, Robert", 
+      "sponsored_at": "2014-05-27", 
+      "state": "NC", 
+      "thomas_id": "02141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2014-05-28", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Stockman, Steve", 
+      "sponsored_at": "2014-05-28", 
+      "state": "TX", 
+      "thomas_id": "01114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Turner, Michael R.", 
+      "sponsored_at": "2014-05-27", 
+      "state": "OH", 
+      "thomas_id": "01741", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2014-05-28", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "2014-05-27", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-28T16:39:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-05-28T18:58:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-27", 
+  "number": "599", 
+  "official_title": "Urging the Government of the People's Republic of China to respect the freedom of assembly, expression, and religion and all fundamental human rights and the rule of law for all its citizens and to stop censoring discussion of the 1989 Tiananmen Square demonstrations and their violent suppression.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres597-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-05-28T18:58:00-04:00", 
+  "subjects": [
+    "Asia", 
+    "China", 
+    "Congressional tributes", 
+    "Detention of persons", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Human rights", 
+    "International affairs", 
+    "International exchange and broadcasting", 
+    "International law and treaties", 
+    "Internet and video services", 
+    "Lawyers and legal services", 
+    "News media and reporting", 
+    "Protest and dissent", 
+    "Refugees, asylum, displaced persons", 
+    "Religion", 
+    "Rule of law and government transparency", 
+    "Sovereignty, recognition, national governance and status", 
+    "Travel and tourism", 
+    "United Nations"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2014-05-28", 
+    "text": "Urges the government of China to stop censoring information about the June 1989 Tiananmen Square massacre.\n\n Expresses sympathy to the families of those killed, tortured, and imprisoned as a result of their participation in the Tiananmen Square democracy protests.\n\n Supports all peaceful advocates for human rights and the rule of law in China for their efforts to advance democratic reforms and human rights during the past.\n\nCondemns the government of China's ongoing human rights abuses.\n\nCalls on the Broadcasting Board of Governors to take appropriate steps to circumvent Chinese Internet censorship and to provide information to the people of China about the Tiananmen Square Massacre.\n\nCalls on the United States to: (1) make human rights, including religious freedom, a priority in bilateral discussions with China; and (2) instruct the U.S. representative at the United Nations Human Rights Council (UNHRC) to introduce a resolution calling for an examination of China's human rights practices.\n\nCalls on China to: (1) end the harassment, detention, and torture of Chinese citizens expressing their freedom of religion, expression, and association, including on the Internet; (2) release all remaining prisoners who continue to be detained because of their participation in the 1989 pro-democracy demonstrations; (3) allow protest participants who are living in exile to return to China without risk of retribution; and (4) end Internet, media, and academic censorship of discussions of the Tiananmen protests and related events.\n\nCalls on the Administration and Congress to continue to mark the events of Tiananmen Square.\n\nFinds that U.S. relations with China are more likely to further improve once China respects the individual human rights of all its people."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Urging the Government of the People's Republic of China to respect the freedom of assembly, expression, and religion and all fundamental human rights and the rule of law for all its citizens and to stop censoring discussion of the 1989 Tiananmen Square demonstrations and their violent suppression.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:18:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE599:@@@L&summ2=m&"
+}

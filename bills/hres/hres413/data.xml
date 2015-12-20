@@ -1,0 +1,55 @@
+<bill session="113" type="hr" number="413" updated="2015-09-01T10:18:38-04:00">
+  <state datetime="2013-11-15T11:07:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2013-11-15T11:07:00-05:00"/>
+  </status>
+  <introduced datetime="2013-11-14"/>
+  <titles>
+    <title type="official" as="introduced">Providing for consideration of the bill (H.R. 3350) to authorize health insurance issuers to continue to offer for sale current individual health insurance coverage in satisfaction of the minimum essential health insurance coverage requirement, and for other purposes.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-11-14T19:10:00-05:00">
+      <text>The House Committee on Rules reported an original measure, H. Rept. 113-265, by Mr. Burgess.</text>
+    </action>
+    <action datetime="2013-11-14T19:10:00-05:00">
+      <text>Rule provides for consideration of H.R. 3350 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <calendar datetime="2013-11-14T19:11:00-05:00" state="REPORTED" calendar="House" number="73">
+      <text>Placed on the House Calendar, Calendar No. 73.</text>
+    </calendar>
+    <action datetime="2013-11-15T09:15:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H7115-7128" label="consideration"/>
+    </action>
+    <action datetime="2013-11-15T09:15:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 413.</text>
+    </action>
+    <action datetime="2013-11-15T10:59:00-05:00">
+      <text>On ordering the previous question Agreed to by the Yeas and Nays: 225 - 193 (Roll no. 583).</text>
+      <reference ref="CR H7127" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="584" datetime="2013-11-15T11:07:00-05:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On agreeing to the resolution Agreed to by recorded vote: 228 - 189 (Roll no. 584).</text>
+      <reference ref="CR H7115" label="text"/>
+    </vote>
+    <action datetime="2013-11-15T11:07:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="113" type="h" number="3350"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="House of Representatives"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>11/14/2013--Introduced.
+Sets forth the rule for consideration of the bill (H.R. 3350) to authorize health insurance issuers to continue to offer for sale current individual health insurance coverage in satisfaction of the minimum essential health insurance coverage requirement.</summary>
+</bill>

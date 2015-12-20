@@ -1,0 +1,153 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee189cad168">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To establish a demonstration program to facilitate physician reentry into clinical practice to provide primary health services.;
+   		Primary Care Physician Reentry Act;H.R. 5498 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-09-24</dateIngested>
+</extension>
+<titleInfo>
+ <title>To establish a demonstration program to facilitate physician reentry into clinical practice to provide primary health services.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Primary Care Physician Reentry Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5498 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-09-16</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>10 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee189cad168</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5498ih</identifier>
+<identifier type="preferred citation">H.R. 5498</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5498_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5498ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5498ih/html/BILLS-113hr5498ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5498ih/pdf/BILLS-113hr5498ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5498ih/xml/BILLS-113hr5498ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-09-24</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-09-24</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr5498ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>John P. Sarbanes</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1320a-7e</partNumber>
+  <partNumber>Title 42 Section 1397jj(c)(9)</partNumber>
+  <partNumber>Title 42 Section 233</partNumber>
+  <partNumber>Title 42 Section 254b(a)</partNumber>
+  <partNumber>Title 42 Section 254d(a)(3)</partNumber>
+  <partNumber>Title 42 Section 254let seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1320a-7e</identifier>
+ <identifier type="USC citation">42 U.S.C. 1397jj(c)(9)</identifier>
+ <identifier type="USC citation">42 U.S.C. 233</identifier>
+ <identifier type="USC citation">42 U.S.C. 254b(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 254d(a)(3)</identifier>
+ <identifier type="USC citation">42 U.S.C. 254let seq.</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr5498ih</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5498</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Primary Care Physician Reentry Act</shortTitle>
+ <action date="2014-09-16">Mr. Sarbanes introduced the following bill; which was referred to the Committee on Energy and Commerce</action>
+ <congCommittee authorityId="hsif00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congMember authorityId="1854" bioGuideId="S001168" chamber="H" congress="113" gpoId="7978" party="D" role="SPONSOR" state="MD">
+                      <name type="parsed">Mr. Sarbanes</name>
+                      <name type="authority-fnf">John P. Sarbanes</name>
+                      <name type="authority-lnf">Sarbanes, John P.</name>
+                      <name type="authority-other">Mr. John Sarbanes</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section number="1320a-7e"></section>
+                      <section detail="(c)(9)" number="1397jj"></section>
+                      <section number="233"></section>
+                      <section detail="(a)" number="254b"></section>
+                      <section detail="(a)(3)" number="254d"></section>
+                      <section detail="et seq." number="254l"></section>
+                </USCode>
+</extension>
+</mods>

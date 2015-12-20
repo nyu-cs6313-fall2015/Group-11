@@ -1,0 +1,584 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee186b4f12f">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To establish uniform administrative and enforcement authorities for the enforcement of the High Seas Driftnet Fishing Moratorium Protection Act and similar statutes, and for other purposes.;
+   		S. 269 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-12-18</dateIngested>
+</extension>
+<titleInfo>
+ <title>To establish uniform administrative and enforcement authorities for the enforcement of the High Seas Driftnet Fishing Moratorium Protection Act and similar statutes, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 269 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-12-17</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>120 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee186b4f12f</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s269rs</identifier>
+<identifier type="preferred citation">S. 269</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s269_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s269rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s269rs/html/BILLS-113s269rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s269rs/pdf/BILLS-113s269rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s269rs/xml/BILLS-113s269rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-12-18</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s269rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>John D. Rockefeller IV</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Begich</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lisa Murkowski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Schatz, Ms. Cantwell</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sheldon Whitehouse</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Wyden, Ms. Hirono</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Merkley</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Nelson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Boxer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Blumenthal</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Commerce, Science, and Transportation</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 5315</partNumber>
+  <partNumber>Title 5 Section 553</partNumber>
+  <partNumber>Title 5 Section 554</partNumber>
+  <partNumber>Title 5 Section 5701</partNumber>
+  <partNumber>Title 5 Section 5702</partNumber>
+  <partNumber>Title 5 Section 5703</partNumber>
+  <partNumber>Title 5 Section 5704</partNumber>
+  <partNumber>Title 5 Section 5708</partNumber>
+  <partNumber>Title 5 Section 5731</partNumber>
+  <partNumber>Title 5 Chapter 81</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 5315</identifier>
+ <identifier type="USC citation">5 U.S.C. 553</identifier>
+ <identifier type="USC citation">5 U.S.C. 554</identifier>
+ <identifier type="USC citation">5 U.S.C. 5701</identifier>
+ <identifier type="USC citation">5 U.S.C. 5702</identifier>
+ <identifier type="USC citation">5 U.S.C. 5703</identifier>
+ <identifier type="USC citation">5 U.S.C. 5704</identifier>
+ <identifier type="USC citation">5 U.S.C. 5708</identifier>
+ <identifier type="USC citation">5 U.S.C. 5731</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 81</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 1541</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 1541</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1361et seq.</partNumber>
+  <partNumber>Title 16 Section 1371(a)(2)(B)(i)(II)</partNumber>
+  <partNumber>Title 16 Section 1378(a)(2)</partNumber>
+  <partNumber>Title 16 Section 1385</partNumber>
+  <partNumber>Title 16 Section 1417(a)(1)</partNumber>
+  <partNumber>Title 16 Section 1801et seq.</partNumber>
+  <partNumber>Title 16 Section 1802(24)</partNumber>
+  <partNumber>Title 16 Section 1826a</partNumber>
+  <partNumber>Title 16 Section 1826b</partNumber>
+  <partNumber>Title 16 Section 1826d</partNumber>
+  <partNumber>Title 16 Section 1826det seq.</partNumber>
+  <partNumber>Title 16 Section 1826g</partNumber>
+  <partNumber>Title 16 Section 1826h</partNumber>
+  <partNumber>Title 16 Section 1826h(2)</partNumber>
+  <partNumber>Title 16 Section 1826i</partNumber>
+  <partNumber>Title 16 Section 1826i(b)</partNumber>
+  <partNumber>Title 16 Section 1826j</partNumber>
+  <partNumber>Title 16 Section 1826j(a)</partNumber>
+  <partNumber>Title 16 Section 1826j(d)</partNumber>
+  <partNumber>Title 16 Section 1826j(d)(1)</partNumber>
+  <partNumber>Title 16 Section 1826j(d)(2)</partNumber>
+  <partNumber>Title 16 Section 1826k</partNumber>
+  <partNumber>Title 16 Section 1826k(a)</partNumber>
+  <partNumber>Title 16 Section 1826k(a)(1)</partNumber>
+  <partNumber>Title 16 Section 1826k(c)(1)</partNumber>
+  <partNumber>Title 16 Section 1826k(c)(5)</partNumber>
+  <partNumber>Title 16 Section 1858</partNumber>
+  <partNumber>Title 16 Section 1861</partNumber>
+  <partNumber>Title 16 Section 1881a(b)(1)</partNumber>
+  <partNumber>Title 16 Section 2431</partNumber>
+  <partNumber>Title 16 Section 2431et seq.</partNumber>
+  <partNumber>Title 16 Section 2435</partNumber>
+  <partNumber>Title 16 Section 2436</partNumber>
+  <partNumber>Title 16 Section 2437</partNumber>
+  <partNumber>Title 16 Section 2438</partNumber>
+  <partNumber>Title 16 Section 2439</partNumber>
+  <partNumber>Title 16 Section 3631et seq.</partNumber>
+  <partNumber>Title 16 Section 3637</partNumber>
+  <partNumber>Title 16 Section 3640</partNumber>
+  <partNumber>Title 16 Section 3645(d)(2)(A)</partNumber>
+  <partNumber>Title 16 Section 5001et seq.</partNumber>
+  <partNumber>Title 16 Section 5009</partNumber>
+  <partNumber>Title 16 Section 5010</partNumber>
+  <partNumber>Title 16 Section 5503(f)</partNumber>
+  <partNumber>Title 16 Section 5601</partNumber>
+  <partNumber>Title 16 Section 5601et seq.</partNumber>
+  <partNumber>Title 16 Section 5606</partNumber>
+  <partNumber>Title 16 Section 6901et seq.</partNumber>
+  <partNumber>Title 16 Section 6905(c)</partNumber>
+  <partNumber>Title 16 Section 6906(a)(2)</partNumber>
+  <partNumber>Title 16 Section 773et seq.</partNumber>
+  <partNumber>Title 16 Section 773e</partNumber>
+  <partNumber>Title 16 Section 773f</partNumber>
+  <partNumber>Title 16 Section 773g</partNumber>
+  <partNumber>Title 16 Section 773g(a)</partNumber>
+  <partNumber>Title 16 Section 773h</partNumber>
+  <partNumber>Title 16 Section 773i</partNumber>
+  <partNumber>Title 16 Section 773i(d)</partNumber>
+  <partNumber>Title 16 Section 951</partNumber>
+  <partNumber>Title 16 Section 951et seq.</partNumber>
+  <partNumber>Title 16 Section 952</partNumber>
+  <partNumber>Title 16 Section 953</partNumber>
+  <partNumber>Title 16 Section 955</partNumber>
+  <partNumber>Title 16 Section 957</partNumber>
+  <partNumber>Title 16 Section 959</partNumber>
+  <partNumber>Title 16 Section 962</partNumber>
+  <partNumber>Title 16 Section 971d(c)(2)</partNumber>
+  <partNumber>Title 16 Section 971et seq.</partNumber>
+  <partNumber>Title 16 Section 971e</partNumber>
+  <partNumber>Title 16 Section 971f</partNumber>
+  <partNumber>Title 16 Section 972</partNumber>
+  <partNumber>Title 16 Section 972et seq.</partNumber>
+  <partNumber>Title 16 Section 973c(a)</partNumber>
+  <partNumber>Title 16 Section 973et seq.</partNumber>
+  <partNumber>Title 16 Section 973e</partNumber>
+  <partNumber>Title 16 Section 973f</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1361et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1371(a)(2)(B)(i)(II)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1378(a)(2)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1385</identifier>
+ <identifier type="USC citation">16 U.S.C. 1417(a)(1)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1801et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1802(24)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826a</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826b</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826d</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826det seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826g</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826h</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826h(2)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826i</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826i(b)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826j</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826j(a)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826j(d)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826j(d)(1)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826j(d)(2)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826k</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826k(a)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826k(a)(1)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826k(c)(1)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1826k(c)(5)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1858</identifier>
+ <identifier type="USC citation">16 U.S.C. 1861</identifier>
+ <identifier type="USC citation">16 U.S.C. 1881a(b)(1)</identifier>
+ <identifier type="USC citation">16 U.S.C. 2431</identifier>
+ <identifier type="USC citation">16 U.S.C. 2431et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 2435</identifier>
+ <identifier type="USC citation">16 U.S.C. 2436</identifier>
+ <identifier type="USC citation">16 U.S.C. 2437</identifier>
+ <identifier type="USC citation">16 U.S.C. 2438</identifier>
+ <identifier type="USC citation">16 U.S.C. 2439</identifier>
+ <identifier type="USC citation">16 U.S.C. 3631et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 3637</identifier>
+ <identifier type="USC citation">16 U.S.C. 3640</identifier>
+ <identifier type="USC citation">16 U.S.C. 3645(d)(2)(A)</identifier>
+ <identifier type="USC citation">16 U.S.C. 5001et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 5009</identifier>
+ <identifier type="USC citation">16 U.S.C. 5010</identifier>
+ <identifier type="USC citation">16 U.S.C. 5503(f)</identifier>
+ <identifier type="USC citation">16 U.S.C. 5601</identifier>
+ <identifier type="USC citation">16 U.S.C. 5601et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 5606</identifier>
+ <identifier type="USC citation">16 U.S.C. 6901et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 6905(c)</identifier>
+ <identifier type="USC citation">16 U.S.C. 6906(a)(2)</identifier>
+ <identifier type="USC citation">16 U.S.C. 773et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 773e</identifier>
+ <identifier type="USC citation">16 U.S.C. 773f</identifier>
+ <identifier type="USC citation">16 U.S.C. 773g</identifier>
+ <identifier type="USC citation">16 U.S.C. 773g(a)</identifier>
+ <identifier type="USC citation">16 U.S.C. 773h</identifier>
+ <identifier type="USC citation">16 U.S.C. 773i</identifier>
+ <identifier type="USC citation">16 U.S.C. 773i(d)</identifier>
+ <identifier type="USC citation">16 U.S.C. 951</identifier>
+ <identifier type="USC citation">16 U.S.C. 951et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 952</identifier>
+ <identifier type="USC citation">16 U.S.C. 953</identifier>
+ <identifier type="USC citation">16 U.S.C. 955</identifier>
+ <identifier type="USC citation">16 U.S.C. 957</identifier>
+ <identifier type="USC citation">16 U.S.C. 959</identifier>
+ <identifier type="USC citation">16 U.S.C. 962</identifier>
+ <identifier type="USC citation">16 U.S.C. 971d(c)(2)</identifier>
+ <identifier type="USC citation">16 U.S.C. 971et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 971e</identifier>
+ <identifier type="USC citation">16 U.S.C. 971f</identifier>
+ <identifier type="USC citation">16 U.S.C. 972</identifier>
+ <identifier type="USC citation">16 U.S.C. 972et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 973c(a)</identifier>
+ <identifier type="USC citation">16 U.S.C. 973et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 973e</identifier>
+ <identifier type="USC citation">16 U.S.C. 973f</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 3238</partNumber>
+  <partNumber>Title 18 Chapter 171</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 3238</identifier>
+ <identifier type="USC citation">18 U.S.C. Chapter 171</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 26 Section 4162</partNumber>
+</titleInfo>
+ <identifier type="USC citation">26 U.S.C. 4162</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 28 Chapter 171</partNumber>
+</titleInfo>
+ <identifier type="USC citation">28 U.S.C. Chapter 171</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 46 Section 60105</partNumber>
+</titleInfo>
+ <identifier type="USC citation">46 U.S.C. 60105</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 401a(4)</partNumber>
+  <partNumber>Title 50 Section 401</partNumber>
+  <partNumber>Title 50 Section 403-5a(c)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 401a(4)</identifier>
+ <identifier type="USC citation">50 U.S.C. 401</identifier>
+ <identifier type="USC citation">50 U.S.C. 403-5a(c)(2)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 263</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s269rs</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>269</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <action date="2013-12-17">Reported by Mr. Rockefeller, with an amendment</action>
+ <action date="2013-02-11">Mr. Rockefeller (for himself, Mr. Begich, Ms. Murkowski, Mr. Schatz, Ms. Cantwell, Mr. Whitehouse, Mr. Wyden, Ms. Hirono, Mr. Merkley, Mr. Nelson, Mrs. Boxer, and Mr. Blumenthal) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation</action>
+ <congCommittee authorityId="sscm00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+                      <name type="authority-short">Commerce</name>
+                </congCommittee>
+ <congMember authorityId="1424" bioGuideId="R000361" chamber="S" congress="113" gpoId="8273" party="D" role="SPONSOR" state="WV">
+                      <name type="parsed">Mr. Rockefeller</name>
+                      <name type="authority-fnf">John D. Rockefeller IV</name>
+                      <name type="authority-lnf">Rockefeller, John D., IV</name>
+                      <name type="authority-other">John Rockefeller IV</name>
+                </congMember>
+ <congMember authorityId="1898" bioGuideId="B001265" chamber="S" congress="113" gpoId="8301" party="D" role="COSPONSOR" state="AK">
+                      <name type="parsed">Mr. Begich</name>
+                      <name type="authority-fnf">Mark Begich</name>
+                      <name type="authority-lnf">Begich, Mark</name>
+                </congMember>
+ <congMember authorityId="1694" bioGuideId="M001153" chamber="S" congress="113" gpoId="8234" party="R" role="COSPONSOR" state="AK">
+                      <name type="parsed">Ms. Murkowski</name>
+                      <name type="authority-fnf">Lisa Murkowski</name>
+                      <name type="authority-lnf">Murkowski, Lisa</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Schatz, Ms. Cantwell</name>
+                </congMember>
+ <congMember authorityId="1823" bioGuideId="W000802" chamber="S" congress="113" gpoId="8264" party="D" role="COSPONSOR" state="RI">
+                      <name type="parsed">Mr. Whitehouse</name>
+                      <name type="authority-fnf">Sheldon Whitehouse</name>
+                      <name type="authority-lnf">Whitehouse, Sheldon</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Wyden, Ms. Hirono</name>
+                </congMember>
+ <congMember authorityId="1900" bioGuideId="M001176" chamber="S" congress="113" gpoId="8238" party="D" role="COSPONSOR" state="OR">
+                      <name type="parsed">Mr. Merkley</name>
+                      <name type="authority-fnf">Jeff Merkley</name>
+                      <name type="authority-lnf">Merkley, Jeff</name>
+                </congMember>
+ <congMember authorityId="859" bioGuideId="N000032" chamber="S" congress="113" gpoId="8236" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Nelson</name>
+                      <name type="authority-fnf">Bill Nelson</name>
+                      <name type="authority-lnf">Nelson, Bill</name>
+                      <name type="authority-other">Clarence William Nelson</name>
+                </congMember>
+ <congMember authorityId="116" bioGuideId="B000711" chamber="S" congress="113" gpoId="8306" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Boxer</name>
+                      <name type="authority-fnf">Barbara Boxer</name>
+                      <name type="authority-lnf">Boxer, Barbara</name>
+                </congMember>
+ <congMember authorityId="2076" bioGuideId="B001277" chamber="S" congress="113" gpoId="8332" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Mr. Blumenthal</name>
+                      <name type="authority-fnf">Richard Blumenthal</name>
+                      <name type="authority-lnf">Blumenthal, Richard</name>
+                </congMember>
+ <congCalendar congress="113" number="263" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="5315"></section>
+                      <section number="553"></section>
+                      <section number="554"></section>
+                      <section number="5701"></section>
+                      <section number="5702"></section>
+                      <section number="5703"></section>
+                      <section number="5704"></section>
+                      <section number="5708"></section>
+                      <section number="5731"></section>
+                      <chapter number="81"></chapter>
+                </USCode>
+ <USCode title="15">
+                      <section number="1541"></section>
+                </USCode>
+ <USCode title="16">
+                      <section detail="et seq." number="1361"></section>
+                      <section detail="(a)(2)(B)(i)(II)" number="1371"></section>
+                      <section detail="(a)(2)" number="1378"></section>
+                      <section number="1385"></section>
+                      <section detail="(a)(1)" number="1417"></section>
+                      <section detail="et seq." number="1801"></section>
+                      <section detail="(24)" number="1802"></section>
+                      <section number="1826a"></section>
+                      <section number="1826b"></section>
+                      <section number="1826d"></section>
+                      <section detail="et seq." number="1826d"></section>
+                      <section number="1826g"></section>
+                      <section number="1826h"></section>
+                      <section detail="(2)" number="1826h"></section>
+                      <section number="1826i"></section>
+                      <section detail="(b)" number="1826i"></section>
+                      <section number="1826j"></section>
+                      <section detail="(a)" number="1826j"></section>
+                      <section detail="(d)" number="1826j"></section>
+                      <section detail="(d)(1)" number="1826j"></section>
+                      <section detail="(d)(2)" number="1826j"></section>
+                      <section number="1826k"></section>
+                      <section detail="(a)" number="1826k"></section>
+                      <section detail="(a)(1)" number="1826k"></section>
+                      <section detail="(c)(1)" number="1826k"></section>
+                      <section detail="(c)(5)" number="1826k"></section>
+                      <section number="1858"></section>
+                      <section number="1861"></section>
+                      <section detail="(b)(1)" number="1881a"></section>
+                      <section number="2431"></section>
+                      <section detail="et seq." number="2431"></section>
+                      <section number="2435"></section>
+                      <section number="2436"></section>
+                      <section number="2437"></section>
+                      <section number="2438"></section>
+                      <section number="2439"></section>
+                      <section detail="et seq." number="3631"></section>
+                      <section number="3637"></section>
+                      <section number="3640"></section>
+                      <section detail="(d)(2)(A)" number="3645"></section>
+                      <section detail="et seq." number="5001"></section>
+                      <section number="5009"></section>
+                      <section number="5010"></section>
+                      <section detail="(f)" number="5503"></section>
+                      <section number="5601"></section>
+                      <section detail="et seq." number="5601"></section>
+                      <section number="5606"></section>
+                      <section detail="et seq." number="6901"></section>
+                      <section detail="(c)" number="6905"></section>
+                      <section detail="(a)(2)" number="6906"></section>
+                      <section detail="et seq." number="773"></section>
+                      <section number="773e"></section>
+                      <section number="773f"></section>
+                      <section number="773g"></section>
+                      <section detail="(a)" number="773g"></section>
+                      <section number="773h"></section>
+                      <section number="773i"></section>
+                      <section detail="(d)" number="773i"></section>
+                      <section number="951"></section>
+                      <section detail="et seq." number="951"></section>
+                      <section number="952"></section>
+                      <section number="953"></section>
+                      <section number="955"></section>
+                      <section number="957"></section>
+                      <section number="959"></section>
+                      <section number="962"></section>
+                      <section detail="(c)(2)" number="971d"></section>
+                      <section detail="et seq." number="971"></section>
+                      <section number="971e"></section>
+                      <section number="971f"></section>
+                      <section number="972"></section>
+                      <section detail="et seq." number="972"></section>
+                      <section detail="(a)" number="973c"></section>
+                      <section detail="et seq." number="973"></section>
+                      <section number="973e"></section>
+                      <section number="973f"></section>
+                </USCode>
+ <USCode title="18">
+                      <section number="3238"></section>
+                      <chapter number="171"></chapter>
+                </USCode>
+ <USCode title="26">
+                      <section number="4162"></section>
+                </USCode>
+ <USCode title="28">
+                      <chapter number="171"></chapter>
+                </USCode>
+ <USCode title="46">
+                      <section number="60105"></section>
+                </USCode>
+ <USCode title="50">
+                      <section detail="(4)" number="401a"></section>
+                      <section number="401"></section>
+                      <section detail="(c)(2)" number="403-5a"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,100 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-10", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4476-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-10", 
+  "number": "4476", 
+  "official_title": "To require ingredient labeling of certain consumer cleaning products, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Cleaning Product Right to Know Act of 2014", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Israel, Steve", 
+    "state": "NY", 
+    "thomas_id": "01663", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-10", 
+  "subjects": [
+    "Administrative remedies", 
+    "Commerce", 
+    "Consumer Product Safety Commission", 
+    "Consumer affairs", 
+    "Government information and archives", 
+    "Hazardous wastes and toxic substances", 
+    "Product safety and quality", 
+    "Trade secrets and economic espionage"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-10", 
+    "text": "Cleaning Product Right to Know Act of 2014 - Requires a cleaning product manufactured or offered for sale, distributed in commerce, or imported into the United States to bear a label listing each of its ingredients: (1) by the name assigned by the International Nomenclature of Cosmetic Ingredients or, if there is no such name, by the name assigned by the International Union of Pure and Applied Chemistry or, if there is none, by its common chemical name; and (2) in descending order of predominance by weight, except that ingredients that constitute less than 1% of the product can be listed at the end in any order.\n\nAllows the Consumer Product Safety Commission (CPSC) to exempt from such labeling requirement: (1) an ingredient that is present in a product at such low levels that detection is not technologically feasible; or (2) for five-year periods, an ingredient that a manufacturer demonstrates to be a trade secret. Sets forth required disclosures for, and limitations to, a manufacturer's claim that an ingredient is a trade secret.\n\nRequires a product that is not in conformity with the labeling requirements and not exempt to be treated as a misbranded hazardous substance under the Federal Hazardous Substances Act (FHSA). Increases penalties for violations of FHSA.\n\nAuthorizes any person to petition the CPSC to investigate claims that a product does not satisfy the labeling requirements.\n\nRequires: (1) each cleaning product manufacturer to make available on its website a complete list of ingredients for each product, including any potential adverse health effect of each ingredient; and (2) CPSC to provide on its website aggregated information that allows users to compare products made by different manufacturers."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cleaning Product Right to Know Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require ingredient labeling of certain consumer cleaning products, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:35-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4476:@@@L&summ2=m&"
+}

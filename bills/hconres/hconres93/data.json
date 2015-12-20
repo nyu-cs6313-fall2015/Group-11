@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-13T16:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2401", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13T16:15:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H2401", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-03-13T16:15:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1669", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-03-14", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres93-113", 
+  "bill_type": "hconres", 
+  "by_request": false, 
+  "committees": [], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-13T16:15:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-03-13T16:15:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-03-13", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-13", 
+  "number": "93", 
+  "official_title": "Directing the Clerk of the House of Representatives to make technical corrections in the enrollment of H.R. 3370.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3370-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "11", 
+    "name": "Grimm, Michael G.", 
+    "state": "NY", 
+    "thomas_id": "02041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2014-03-13", 
+  "subjects": [
+    "Congress", 
+    "Disaster relief and insurance", 
+    "Floods and storm protection"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2014-03-13", 
+    "text": "Directs the Clerk of the House of Representatives to make specified technical corrections in the enrollment of H.R. 3370."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Directing the Clerk of the House of Representatives to make technical corrections in the enrollment of H.R. 3370.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:13-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HC93:@@@L&summ2=m&"
+}

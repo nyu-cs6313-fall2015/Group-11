@@ -1,0 +1,42 @@
+<bill session="113" type="hc" number="62" updated="2015-09-01T10:21:12-04:00">
+  <state datetime="2013-10-30">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2013-10-30"/>
+  </status>
+  <introduced datetime="2013-10-30"/>
+  <titles>
+    <title type="official" as="introduced">Providing for a conditional adjournment of the House of Representatives.</title>
+  </titles>
+  <sponsor id="412416"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-10-30T14:37:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H6928" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote" datetime="2013-10-30T14:38:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H6928" label="text"/>
+    </vote>
+    <action datetime="2013-10-30T14:39:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2013-10-30" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7686" label="consideration"/>
+    </vote>
+    <action datetime="2013-10-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+    <term name="House of Representatives"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2013--Passed House without amendment.
+Declares that when the House adjourns on the legislative day of Wednesday, October 30, 2013, Thursday, October 31, 2013, or Friday, November 1, 2013, it stand adjourned until 2 p.m. on Tuesday, November 12, 2013.</summary>
+</bill>

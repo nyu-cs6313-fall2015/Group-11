@@ -1,0 +1,285 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-09-27", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-10-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Border and Maritime Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-10-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-20", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-20", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-07-17T12:51:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-528.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-17T12:52:00-04:00", 
+      "calendar": "Union", 
+      "number": "394", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 394.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-07-28T15:58:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-28T15:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6895-6899", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-28T15:58:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3202.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-28T16:13:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-28T18:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6938-6939", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-28T19:04:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6895", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "456", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 456).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-07-28T19:04:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-29", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3202-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Border and Maritime Security", 
+      "subcommittee_id": "11"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2013-09-27", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2013-09-27", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-07-28T19:04:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-09-27", 
+  "number": "3202", 
+  "official_title": "To require the Secretary of Homeland Security to prepare a comprehensive security assessment of the transportation security card program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Essential Transportation Worker Identification Credential Assessment Act", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-07-28T19:04:00-04:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advanced technology and technological innovations", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Government studies and investigations", 
+    "Homeland security", 
+    "Marine and inland water transportation", 
+    "Transportation and public works", 
+    "Transportation employees", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-07-28", 
+    "text": "Essential Transportation Worker Identification Credential Assessment Act - Directs the Secretary of Homeland Security (DHS) to submit to Congress and the Comptroller General (GAO) a comprehensive assessment of the effectiveness of the transportation security card program at enhancing security and reducing security risks for maritime facilities and vessels. Requires the assessment to be conducted, to the extent practicable, by a national laboratory within the DHS laboratory network or a maritime security university-based center within the DHS centers of excellence network.\n\nDirects the Secretary to submit to Congress a corrective action plan responding to the assessment which: (1) includes an implementation plan with benchmarks, and (2) shall be considered in any DHS rulemaking with respect to the transportation security card program.\n\nDirects the Comptroller General, within 120 days after the corrective action plan is issued, to: (1) review the extent to which it implements the recommendations of the national laboratory or the maritime security university-based center and of the Comptroller General, and (2) inform Congress as to the plan's responsiveness to such recommendations.\n\nProhibits the Secretary from issuing a final rule requiring the use of transportation security card readers until: (1) the Comptroller General informs Congress that the submission is responsive to the GAO recommendations, and (2) the Secretary issues an updated list of transportation security card readers that are compatible with active transportation security cards.\n\nRequires the Comptroller General to report to Congress on implementation of the plan at least 18 months after it is issued, and every 6 months thereafter for the ensuing 3-year period.\n\nDeclares that no additional funds are authorized to carry out this Act. Requires this Act to be carried out using amounts otherwise available for the purpose."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Essential Transportation Worker Identification Credential Assessment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Essential Transportation Worker Identification Credential Assessment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Essential Transportation Worker Identification Credential Assessment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Homeland Security to prepare a comprehensive security assessment of the transportation security card program, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:01-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3202:@@@L&summ2=m&"
+}

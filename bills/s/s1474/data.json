@@ -1,0 +1,297 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-08-01", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "committee": "Committee on Indian Affairs", 
+      "committees": [
+        "SLIA"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 113-324.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-05-21", 
+      "committees": [
+        "SLIA"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-08-26", 
+      "committee": "Indian Affairs", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "text": "Committee on Indian Affairs. Reported by Senator Tester under authority of the order of the Senate of 08/05/2014 with an amendment in the nature of a substitute. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-08-26", 
+      "calendar": "Senate Legislative", 
+      "number": "534", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 534.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "text": "By Senator Tester from Committee on Indian Affairs filed written report. Report No. 113-260.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-09", 
+      "references": [
+        {
+          "reference": "CR S6414-6416", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6414-6416", 
+          "type": "text of measure as reported in Senate"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-09", 
+      "references": [
+        {
+          "reference": "CR S6416", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The committee reported substitute was withdrawn by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-09", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-12-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T11:19:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10T18:24:00-05:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-11T21:58:00-05:00", 
+      "references": [], 
+      "text": "Mr. Goodlatte asked unanimous consent to take from the Speaker's table and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-11T21:58:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9294", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-11T21:59:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H9294", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-12-11T21:59:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-15", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2014-12-18", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2014-12-18", 
+      "congress": "113", 
+      "law": "public", 
+      "number": "275", 
+      "references": [], 
+      "text": "Became Public Law No: 113-275.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3981-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3981"
+    }, 
+    {
+      "amendment_id": "samdt3982-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3982"
+    }
+  ], 
+  "bill_id": "s1474-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Murkowski, Lisa", 
+      "sponsored_at": "2013-08-01", 
+      "state": "AK", 
+      "thomas_id": "01694", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "113", 
+    "law_type": "public", 
+    "number": "275"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-04-02", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2014-12-18", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-12-11T21:59:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-12-09", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-08-01", 
+  "number": "1474", 
+  "official_title": "A bill to amend the Violence Against Women Reauthorization Act of 2013 to repeal a special rule for the State of Alaska, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Alaska Safe Families and Villages Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Begich, Mark", 
+    "state": "AK", 
+    "thomas_id": "01898", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2014-12-18", 
+  "subjects": [
+    "Alaska", 
+    "Federal-Indian relations", 
+    "Intergovernmental relations", 
+    "Judicial procedure and administration", 
+    "Law enforcement administration and funding", 
+    "Native Americans"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Reported to Senate amended", 
+    "date": "2014-08-26", 
+    "text": "Alaska Safe Families and Villages Act of 2014 - (Sec. 4) Directs the Attorney General to establish the Alaska Safe Families and Villages Self Governance Intergovernmental Grant Program to make grants to Indian tribes to implement intergovernmental agreements with Alaska related to tribal enforcement of certain state laws.\n\nRequires each tribe selected to participate in the Program to request participation by resolution or other official tribal action and meet specified criteria.\n\nRequires tribes to use the grants to carry out a planning phase and activities in accordance with an intergovernmental agreement with Alaska.\n\nProvides that the intergovernmental agreements may describe the duties of Alaska and the Indian tribe regarding:\n\n employment of law enforcement, probation, and parole officers; appointment of tribal law enforcement officers as special officers to assist in the enforcement of the state's criminal laws; enforcement of punishments imposed under tribal law; transfer of enforcement duties for state drug- and alcohol-related misdemeanor offenses to the Indian tribe and the tribe's adjudication of those offenses; transfer of information and evidence between tribal law enforcement entities and the state's court system; offender detention; searches and seizures of alcohol and drugs at municipal and state airports; and jurisdictional or financial matters. Permits the intergovernmental agreements to include remedies imposed by the tribe, including: restorative justice, community service, fines, forfeitures, commitments for treatment, restraining orders, emergency detentions, and any other remedies agreed to by the state and the tribe.\n\nRequires the Attorney General to submit an annual report to Congress including grants awarded, an assessment of the program, and any recommendations related to the program.\n\n(Sec. 5) Directs the Attorney General to establish the Alaska Safe Families and Villages Self Governance Tribal Law Project to make grants to assist Indian tribes in exercising concurrent civil jurisdiction on matters related to child abuse and neglect, domestic violence, and drug and alcohol related offenses.\n\nRequires each Indian tribe selected to participate in the Project to request participation by resolution or other official tribal action, meet specified criteria, and complete a planning phase certified by the Attorney General.\n\nPermits the participating tribe to exercise civil jurisdiction, concurrent with Alaska, over: (1) any member of or person eligible for membership in the tribe, and (2) any nonmember of the tribe that resides or is located in the remote Alaska Native village in which the tribe operates. Permits the tribe to exercise concurrent jurisdiction unless an intergovernmental agreement applies.\n\nPermits a participating tribe to impose civil sanctions, including: restorative justice, community service, fines, forfeitures, commitments for treatment, restraining orders, emergency detentions, and any other remedies the tribal court determines are appropriate.\n\nProhibits a participating tribe exercising jurisdiction under this Act from incarcerating an individual absent an intergovernmental agreement.\n\nRequires the Attorney General to report to Congress annually on activities related to the program.\n\n (Sec. 6) Absolves Alaska, including its political subdivisions, of liability for any act or omission of a participating Indian tribe in carrying out this Act.\n\nMakes participating Indian tribes eligible for the same tribal court and law enforcement programs and level of funding from the Bureau of Indian Affairs (BIA) as are available to other Indian tribes.\n\n(Sec. 7) Permits the Attorney General to enter into contracts with Indian tribes in Alaska to provide technical assistance related to tribal court development and the proper transfer of evidence and information.\n\n(Sec. 8) Permits the Attorney General to use amounts made available for the Office of Justice Programs to carry out this Act.\n\n(Sec. 9) Amends the Violence Against Women Reauthorization Act of 2013 to repeal a provision prohibiting Alaska tribes other than the Metlakatla Indian Community from issuing and enforcing domestic violence protective orders against non-member Alaska Natives and non-Natives."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Alaska Safe Families and Villages Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Alaska Safe Families and Villages Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to encourage the State of Alaska to enter into intergovernmental agreements with Indian tribes in the State relating to the enforcement of certain State laws by Indian tribes, to improve the quality of life in rural Alaska, to reduce alcohol and drug abuse, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by senate", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Violence Against Women Reauthorization Act of 2013 to repeal a special rule for the State of Alaska, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:57-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1474:@@@L&summ2=m&"
+}

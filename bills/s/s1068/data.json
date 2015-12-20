@@ -1,0 +1,287 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-05-23", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-07-30", 
+      "committees": [
+        "SSCM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-01-08", 
+      "committee": "Commerce, Science, and Transportation", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-133.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-01-08", 
+      "calendar": "Senate Legislative", 
+      "number": "292", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 292.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-02-11", 
+      "references": [
+        {
+          "reference": "CR S903-913", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S903-907", 
+          "type": "text of measure as reported in Senate"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-11", 
+      "references": [
+        {
+          "reference": "CR S907", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The committee substitute as amended agreed to by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-11", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S908-913", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-02-12", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-14T14:05:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-14T16:18:00-05:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt2740-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2740"
+    }
+  ], 
+  "bill_id": "s1068-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2013-06-17", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cantwell, Maria", 
+      "sponsored_at": "2013-08-01", 
+      "state": "WA", 
+      "thomas_id": "00172", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cochran, Thad", 
+      "sponsored_at": "2013-07-16", 
+      "state": "MS", 
+      "thomas_id": "00213", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2013-07-09", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "2013-07-10", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Nelson, Bill", 
+      "sponsored_at": "2013-07-23", 
+      "state": "FL", 
+      "thomas_id": "00859", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "sponsored_at": "2013-05-23", 
+      "state": "HI", 
+      "thomas_id": "02173", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wicker, Roger F.", 
+      "sponsored_at": "2013-05-23", 
+      "state": "MS", 
+      "thomas_id": "01226", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-01-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-02-11", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-05-23", 
+  "number": "1068", 
+  "official_title": "A bill to reauthorize and amend the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5426-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2013", 
+  "sponsor": {
+    "district": null, 
+    "name": "Begich, Mark", 
+    "state": "AK", 
+    "thomas_id": "01898", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2014-02-11", 
+  "subjects": [
+    "Appropriations", 
+    "Atmospheric science and weather", 
+    "Congressional oversight", 
+    "Department of Commerce", 
+    "Department of Health and Human Services", 
+    "Employment discrimination and employee rights", 
+    "Government employee pay, benefits, personnel management", 
+    "Government studies and investigations", 
+    "Health personnel", 
+    "Higher education", 
+    "Interest, dividends, interest rates", 
+    "Marine and coastal resources, fisheries", 
+    "Military personnel and dependents", 
+    "National symbols", 
+    "Physical fitness and lifestyle", 
+    "Science, technology, communications", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2014-02-11", 
+    "text": "National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2013 - Reauthorizes and amends authorities relating to the National Oceanic and Atmospheric Administration's Commissioned Officer Corps (NOAA Corps).\n\nTitle I: General Provisions - (Sec. 101) Sets forth the commissioned grades of the NOAA Corps in relative rank with Navy officers, beginning with vice admiral, rear admiral, and rear admiral (lower half). Maintains the existing distribution percentages of officers on the lineal list in grades of captain, commander, and lieutenant commander.\n\nAmends the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 to direct the Secretary of Commerce to prescribe distribution percentages applicable to grades of lieutenant, lieutenant (junior grade), and ensign.\n\nDirects the Secretary to compute at least annually the number of officers on the lineal list authorized to serve in each grade.\n\n(Sec. 102) Prohibits officers serving in positions of importance and responsibility, and officers recalled from retired status, from being counted in or against the Secretary's computation of authorized strengths or the total number of authorized commissioned officers on the lineal list.\n\n(Sec. 103) Directs the Secretary to prescribe obligated service requirements for appointments, training, promotions, separations, continuations, and retirement of officers not otherwise covered by law.\n\n(Sec. 104) Authorizes officer training programs and correspondence courses.\n\nRequires the Secretary to establish physical fitness standards for officers that are substantially equivalent to those prescribed for Coast Guard officers.\n\nTitle II: Appointments and Promotion of Officers - (Sec. 201) Revises original appointment and reappointment requirements. Authorizes the reappointment of individuals who previously served in the NOAA Corps to the grade the individual held prior to separation.\n\nPermits reappointments to certain designated positions of importance and responsibility to be made only by the President.\n\nDirects the Secretary to coordinate with the Secretary of Defense (DOD) and the Secretary of the Department in which the Coast Guard is operating to promote and streamline inter-service transfers, give preference to such inter-service transfers for recruitment purposes, and reappoint such inter-service transfers to the equivalent grade in the NOAA Corps.\n\n(Sec. 202) Establishes membership criteria for personnel boards.\n\n(Sec. 203) Requires the President, during a period in which the position of the Secretary is vacant, to transfer to the Deputy Secretary of Commerce or the Under Secretary for Oceans and Atmosphere any authority that had been delegated to the Secretary to make appointments or promotions to certain permanent or temporary grades.\n\n(Sec. 204) Modifies temporary appointment requirements. Permits temporary appointments in the grade of ensign, lieutenant junior grade, or lieutenant to be made by the President.\n\n(Sec. 205) Directs the Secretary to determine the number of appointments of officer candidates and to prescribe regulations for such appointments. Establishes guidelines for the appointment, dismissal, and pay of officer candidate appointments.\n\nEstablishes a basic officer training program.\n\n(Sec. 206) Permits the Secretary to make such expenditures as necessary to obtain recruits for the NOAA Corps, including advertising.\n\nTitle III: Separation and Retirement of Officers - (Sec. 301) Permits deferment of a consenting officer's retirement or separation when evaluation of a medical condition requires hospitalization or observation that cannot be completed before the officer would otherwise be required to retire or be separated.\n\nProhibits such a deferment from extending for more than 30 days after completion of the evaluation requiring hospitalization or medical observation.\n\n(Sec. 302) Excludes an officer discharged for twice failing selection for promotion to the next higher grade (if the officer expresses a desire not to be selected for promotion or requests removal from the list of selectees) from certain separation pay entitlements.\n\nTitle IV: Rights and Benefits - (Sec. 401) Establishes an education loan repayment program in exchange for active duty service obligations of certain students enrolled at accredited educational institutions and other eligible persons.\n\n(Sec. 402) Establishes a student loan interest payment program for specified loans under the Higher Education Act of 1965 to eligible active duty officers who have not completed more than three years of active duty service.\n\n(Sec. 403) Establishes a pre-commissioning education assistance program for certain students enrolled at accredited educational institutions who agree to accept appointment as active duty officers.\n\n(Sec. 404) Directs the Secretary to limit the amount expended for such educational assistance each fiscal year to a specified amount based on a formula relating to the total pay of officer candidates.\n\n (Sec. 405) Applies specified rights and benefits of the Armed Forces to the NOAA Corps, including benefits and services for members being separated or recently separated, military family programs, advanced education assistance, active duty agreements, and reimbursement requirements.\n\n(Sec. 406) Expands various pay and allowances requirements of the Armed Forces to the NOAA Corps.\n\n (Sec. 407) Extends the application of certain competitive service position consideration requirements to applicants honorably separated from the NOAA Corps.\n\n(Sec. 408) Extends eligibility for the Legion of Merit award to all members of the uniformed services.\n\n(Sec. 409) Applies uniformed service civilian employment and reemployment rights to the NOAA Corps.\n\n(Sec. 410) Expands to the NOAA Corps certain laws protecting communications of members of the Armed Forces with Members of Congress and the Inspector General and prohibiting retaliatory personnel actions for specified communications.\n\n(Sec. 411) Expands the criminal penalty for wearing a uniform without authority to include NOAA Corps uniforms.\n\n(Sec. 412) Requires the Secretary, when accepting employment applications for positions for which consideration will be limited to certain individuals already serving within NOAA, to deem an officer who has served as a commissioned corps officer for at least three years to be serving in a career or career-conditional position in the competitive service within NOAA.\n\nTitle V: Other Matters - (Sec. 502) Directs the Secretary to report to Congress on the current status and projected needs of the NOAA Corps (including attrition rates, recruitment, and areas of duplication) to operate sufficiently through FY2017.\n\n(Sec. 503) Requires specified provisions of this Act to take effect 90 days after the Secretary submits such report to Congress."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to reauthorize and amend the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1068:@@@L&summ2=m&"
+}

@@ -1,0 +1,50 @@
+<bill session="113" type="sc" number="28" updated="2015-09-01T10:21:27-04:00">
+  <state datetime="2013-11-22T10:04:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2013-11-22T10:04:00-05:00"/>
+  </status>
+  <introduced datetime="2013-11-21"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution providing for a conditional adjournment or recess of the Senate and an adjournment of the House of Representatives.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors/>
+  <actions>
+    <vote how="roll" type="vote" roll="246" datetime="2013-11-21" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Yea-Nay Vote. 51 - 42. Record Vote Number: 246.</text>
+      <reference ref="CR S8441" label="consideration"/>
+      <reference ref="CR S8441" label="text as passed Senate"/>
+      <reference ref="CR S8466" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2013-11-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-11-22T10:02:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-11-22T10:03:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H7359-7360" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote2" datetime="2013-11-22T10:04:00-05:00" where="h" result="pass" state="PASSED:CONCURRENTRES">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H7359-7360" label="text"/>
+    </vote>
+    <action datetime="2013-11-22T10:04:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+    <term name="House of Representatives"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>11/22/2013--Passed House without amendment.
+Declares that when the Senate recesses or adjourns on any day from Thursday, November 21, 2013, through Friday, December 6, 2013, it stand recessed or adjourned until 12:00 noon on Monday, December 9, 2013.
+
+Declares that when the House adjourns on any legislative day from Thursday, November 21, 2013, through Tuesday, November 26, 2013, it stand adjourned until 2:00 p.m. on Monday, December 2, 2013.</summary>
+</bill>

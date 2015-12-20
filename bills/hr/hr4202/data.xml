@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="4202" updated="2015-09-01T10:20:28-04:00">
+  <state datetime="2014-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-11"/>
+  </status>
+  <introduced datetime="2014-03-11"/>
+  <titles>
+    <title type="short" as="introduced">CPI-E Act of 2014</title>
+    <title type="official" as="introduced">To provide for cost-of-living increases for certain Federal benefits programs based on increases in the Consumer Price Index for the elderly.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="412215" joined="2014-11-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-11" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Oversight and Government Reform, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-03-11">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2014-03-11">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-03-11">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2014-03-24">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2014-06-20">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Disability assistance"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Inflation and prices"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2014--Introduced.
+CPI-E Act of 2014 - Bases cost-of -living increases in benefits under the Civil Service Retirement System, the Federal Employees Retirement System, military retirement and survivor benefit programs, and specified veterans benefits programs on increases in the Consumer Price Index for the elderly.</summary>
+</bill>

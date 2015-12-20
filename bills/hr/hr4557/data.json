@@ -1,0 +1,135 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-01", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-20", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Housing and Insurance Prior to Referral.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4557-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Housing and Insurance", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Luetkemeyer, Blaine", 
+      "sponsored_at": "2014-05-20", 
+      "state": "MO", 
+      "thomas_id": "01931", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2014-05-20", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2014-05-08", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "sponsored_at": "2014-05-19", 
+      "state": "MO", 
+      "thomas_id": "02137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-01", 
+  "number": "4557", 
+  "official_title": "To amend the Federal Deposit Insurance Act to provide for notice to, and input by, State insurance commissioners when requiring an insurance company to serve as a source of financial strength pursuant to such Act.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Policyholder Protection Act of 2014", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Posey, Bill", 
+    "state": "FL", 
+    "thomas_id": "01915", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-05-01", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Bank accounts, deposits, capital", 
+    "Banking and financial institutions regulation", 
+    "Federal Reserve System", 
+    "Finance and financial sector", 
+    "Insurance industry and regulation"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-05-01", 
+    "text": "Policyholder Protection Act of 2014 - Amends the Federal Deposit Insurance Act to declare that any regulation, order, or other action of the Board of Governors of the Federal Reserve System that requires a bank holding company to provide funds or other assets to a subsidiary depository institution shall not be effective nor enforceable with respect to an entity that is a savings and loan holding company that is also an insurance company, an affiliate of an insured depository institution that is an insurance company, or any other company that is an insurance company and that directly or indirectly controls an insured depository institution if: (1) such funds or assets are to be provided by the entity, and (2) the state insurance authority for the insurance company determines that such an action would have a materially adverse effect on the entity's financial condition.Declares further that requiring a bank holding company that is an insurance company or such an entity to serve as a source of financial strength shall be deemed the kind of action of the Board to which this Act applies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Policyholder Protection Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Deposit Insurance Act to provide for notice to, and input by, State insurance commissioners when requiring an insurance company to serve as a source of financial strength pursuant to such Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4557:@@@L&summ2=m&"
+}

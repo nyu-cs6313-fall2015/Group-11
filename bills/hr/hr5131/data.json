@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-17", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-08-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5131-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "sponsored_at": "2014-07-17", 
+      "state": "IL", 
+      "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Smith, Jason", 
+      "sponsored_at": "2014-07-29", 
+      "state": "MO", 
+      "thomas_id": "02191", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-17", 
+  "number": "5131", 
+  "official_title": "To direct the Secretary of Veterans Affairs to reimburse non-Department of Veterans Affairs medical providers for the provision of certain hospital care and medical services to veterans, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Access to Care and Treatment Now for Veterans Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Gabbard, Tulsi", 
+    "state": "HI", 
+    "thomas_id": "02122", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-17", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Health care coverage and access", 
+    "Public contracts and procurement", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-17", 
+    "text": "Access to Care and Treatment Now for Veterans Act or the ACT Now for Veterans Act - Directs the Secretary of Veterans Affairs (VA) to reimburse any non-VA medical provider, including such a provider who has not been pre-approved by the Secretary, who furnishes covered hospital care or medical services to an eligible veteran.\n\nDefines \"covered hospital care or medical services\" as hospital care or medical services for which the veteran is eligible under the VA health care program. Defines an \"eligible veteran\" as a veteran who: (1) is enrolled in the VA patient enrollment system and provides a VA identification card or proof of such enrollment, (2) is eligible to receive hospital care or medical services furnished by the Secretary, and (3) has been unable to schedule an appointment at a VA facility to receive such care or services within 30 days of the date preferred by the veteran.\n\nTerminates the authority under this Act: (1) one year after this Act's enactment if the Secretary certifies that the Veterans Health Administration is meeting wait-time goals, or (2) two years after this Act's enactment if the Secretary has not submitted such certification."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Access to Care and Treatment Now for Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "ACT Now for Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Veterans Affairs to reimburse non-Department of Veterans Affairs medical providers for the provision of certain hospital care and medical services to veterans, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:51-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5131:@@@L&summ2=m&"
+}

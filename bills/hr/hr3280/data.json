@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-10-09", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-10-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-27", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3280-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs", 
+      "subcommittee_id": "22"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Thompson, Glenn", 
+      "sponsored_at": "2013-10-09", 
+      "state": "PA", 
+      "thomas_id": "01952", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-02-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-10-09", 
+  "number": "3280", 
+  "official_title": "To amend the Lacey Act Amendments of 1981 to limit the application of such Act to certain imported plants and finished plant products, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Lacey Act Clarifying Amendments Act of 2013", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Fleming, John", 
+    "state": "LA", 
+    "thomas_id": "01924", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-10-09", 
+  "subjects": [
+    "Endangered and threatened species", 
+    "Environmental protection", 
+    "Horticulture and plants", 
+    "Trade restrictions", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-10-09", 
+    "text": "Lacey Act Clarifying Amendments Act of 2013 - Amends the Lacey Act Amendments of 1981 to prohibit such Act from applying to: (1) any plant that was imported into the United States before May 22, 2008, or (2) any finished plant product the assembly and processing of which was completed before May 22, 2008."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Lacey Act Clarifying Amendments Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Lacey Act Amendments of 1981 to limit the application of such Act to certain imported plants and finished plant products, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:04-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3280:@@@L&summ2=m&"
+}

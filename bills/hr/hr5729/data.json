@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-18", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5729-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Butterfield, G. K.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "NC", 
+      "thomas_id": "01761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Fleischmann, Charles J. \"Chuck\"", 
+      "sponsored_at": "2014-11-18", 
+      "state": "TN", 
+      "thomas_id": "02061", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2014-11-18", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2014-11-18", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-18", 
+  "number": "5729", 
+  "official_title": "To expand the program of priority review to encourage treatments for tropical diseases.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2917-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Adding Ebola to the FDA Priority Review Voucher Program Act", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-11-18", 
+  "subjects": [
+    "Drug safety, medical device, and laboratory regulation", 
+    "Drug therapy", 
+    "Health", 
+    "Infectious and parasitic diseases"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-11-18", 
+    "text": "Adding Ebola to the FDA Priority Review Voucher Program Act - Amends the Federal Food, Drug, and Cosmetic Act to add filoviruses, a family of viruses that includes the Ebola virus, to the list of tropical diseases under the priority review voucher program, which awards vouchers to sponsors of human drug applications that are approved to prevent or treat tropical diseases. (A voucher entitles the holder to have a future human drug application acted upon by the Food and Drug Administration (FDA) within six months.)\n\nChanges the process by which infectious diseases that do not significantly impact developed nations and disproportionately affect poor and marginalized populations can be designated as tropical diseases from rulemaking to order of the Secretary of Health and Human Services (HHS).\n\nAllows priority review vouchers to be transferred between sponsors of human drug applications any number of times.\n\nReduces from 365 days to 90 days the advance notice required before submitting a human drug application subject to a priority review voucher."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Adding Ebola to the FDA Priority Review Voucher Program Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To expand the program of priority review to encourage treatments for tropical diseases.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T17:50:04-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5729:@@@L&summ2=m&"
+}

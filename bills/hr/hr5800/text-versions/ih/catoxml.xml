@@ -1,0 +1,76 @@
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H306608EFC7A44EF281ACFEE2BE00C953" key="H" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 5800 IH: Secure Data Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-12-04</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 5800</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20141204">December 4, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="L000397">Ms. Lofgren</sponsor> (for herself, <cosponsor name-id="M001184">Mr. Massie</cosponsor>, <cosponsor name-id="C000714">Mr. Conyers</cosponsor>, <cosponsor name-id="A000367">Mr. Amash</cosponsor>, <cosponsor name-id="O000170">Mr. O'Rourke</cosponsor>, <cosponsor name-id="S000244">Mr. Sensenbrenner</cosponsor>, <cosponsor name-id="D000617">Ms. DelBene</cosponsor>, <cosponsor name-id="P000592">Mr. Poe of Texas</cosponsor>, <cosponsor name-id="N000002">Mr. Nadler</cosponsor>, and <cosponsor name-id="H001032">Mr. Holt</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIG00">Select Committee on Intelligence (Permanent Select)</committee-name>, and in addition to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title> To prohibit Federal agencies from mandating the deployment of vulnerabilities in data security
+			 technologies.</official-title>
+	</form>
+	<legis-body id="H542EA0EDEC994A1199D8E12C1438559D" style="OLC">
+		<section id="HBC99606DC6854FA988A41F1938489828" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+			<text display-inline="no-display-inline">This Act may be cited as the <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Secure Data Act of 2014" proposed="true">Secure Data Act of 2014</cato:entity-ref>
+          </short-title>
+        </quote>.</text>
+		</section>
+    <section id="HFE48649107484F09BB9E44F7C5337C59">
+      <enum>2.</enum>
+      <header>Prohibition on data security vulnerability mandates</header>
+			<subsection id="H4CAE610E8FDA4BFF897A0F8C85FF6BE0">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>Except as provided in subsection (b), no agency may mandate that a manufacturer, developer, or
+			 seller of covered products design or alter the security functions in its
+			 product or service to allow the surveillance of any user of such product
+			 or service, or to allow the physical search of such product, by any
+			 agency.</text>
+			</subsection>
+      <subsection id="H6FF483922CFB48718C1604B3AE686D45">
+        <enum>(b)</enum>
+        <header>Exception</header>
+        <text>Subsection (a) shall not apply to mandates authorized under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Communications Assistance for Law Enforcement Act">Communications Assistance for Law
+			 Enforcement Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/47/1001">
+            <cato:entity-ref entity-type="uscode" value="usc/47/1001/etseq">47 U.S.C. 1001 et seq.</cato:entity-ref>
+          </external-xref>)</cato:entity>.</text>
+			</subsection>
+      <subsection id="H9CD6952EC012431FAB3D54976A76F6E0">
+        <enum>(c)</enum>
+        <header>Definitions</header>
+        <text>In this section—</text>
+				<paragraph id="H111C6D82FDC84466A2DCFDA810B35610">
+          <enum>(1)</enum>
+          <text>the term <term>agency</term> has the meaning given the term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3502">
+              <external-xref legal-doc="usc" parsable-cite="usc/44/3502">section 3502</external-xref> of title 44, United States Code</cato:entity-ref>; and</text>
+				</paragraph>
+        <paragraph id="HB7930CAFFC8E4B2C8B0CA977A176042C">
+          <enum>(2)</enum>
+          <text>the term <term>covered product</term> means any computer hardware, computer software, or electronic device that is made available to the
+			 general public.</text>
+				</paragraph>
+      </subsection>
+    </section>
+  </legis-body>
+</bill>

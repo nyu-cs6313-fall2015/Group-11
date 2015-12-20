@@ -1,0 +1,167 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18a6256c1">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To enhance the strategic partnership between the United States and Israel.;
+   		United States-Israel Strategic Partnership Act of 2014;S. 2673 (ENR)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-12-05</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To enhance the strategic partnership between the United States and Israel.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>United States-Israel Strategic Partnership Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2673 (ENR)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-01-01</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>7 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18a6256c1</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s2673enr</identifier>
+<identifier type="preferred citation">S. 2673</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2673_enr.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s2673enr/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2673enr/html/BILLS-113s2673enr.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2673enr/pdf/BILLS-113s2673enr.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2673enr/xml/BILLS-113s2673enr.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-12-05</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s2673enr</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 8 Section 1187</partNumber>
+</titleInfo>
+ <identifier type="USC citation">8 U.S.C. 1187</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 2321h(b)(2)(A)</partNumber>
+  <partNumber>Title 22 Section 2776(h)</partNumber>
+  <partNumber>Title 22 Section 2776note</partNumber>
+  <partNumber>Title 22 Section 8603</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 2321h(b)(2)(A)</identifier>
+ <identifier type="USC citation">22 U.S.C. 2776(h)</identifier>
+ <identifier type="USC citation">22 U.S.C. 2776note</identifier>
+ <identifier type="USC citation">22 U.S.C. 8603</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 17337</partNumber>
+  <partNumber>Title 42 Section 17337(a)</partNumber>
+  <partNumber>Title 42 Section 17337(b)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 17337</identifier>
+ <identifier type="USC citation">42 U.S.C. 17337(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 17337(b)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 118 Page 1011</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">118 Stat.	1011</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-287</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-287</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-150</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-150</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s2673enr</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2673</billNumber>
+ <billVersion reprint="false">enr</billVersion>
+ <fileSuffix>enr</fileSuffix>
+ <shortTitle>United States-Israel Strategic Partnership Act of 2014</shortTitle>
+ <law congress="108" isPrivate="false" number="287"></law>
+ <law congress="112" isPrivate="false" number="150"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="8">
+                      <section number="1187"></section>
+                </USCode>
+ <USCode title="22">
+                      <section detail="(b)(2)(A)" number="2321h"></section>
+                      <section detail="(h)" number="2776"></section>
+                      <section detail="note" number="2776"></section>
+                      <section number="8603"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="17337"></section>
+                      <section detail="(a)" number="17337"></section>
+                      <section detail="(b)(1)" number="17337"></section>
+                </USCode>
+ <statuteAtLarge volume="118">
+                      <pages pages="1011"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

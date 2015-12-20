@@ -1,0 +1,328 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-06", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-11", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-02-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Coast Guard and Maritime Transportation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-25T13:31:00-04:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-384.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-25T13:31:00-04:00", 
+      "calendar": "Union", 
+      "number": "286", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 286.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-04-01T16:58:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hunter moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-01T16:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2763-2779", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-01T16:58:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4005.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-01T17:42:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2763-2772", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4005-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Coast Guard and Maritime Transportation", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "other legislative involvement"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "2014-02-06", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bill", 
+      "sponsored_at": "2014-02-06", 
+      "state": "PA", 
+      "thomas_id": "01681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-02-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-04-01T17:42:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-06", 
+  "number": "4005", 
+  "official_title": "To authorize appropriations for the Coast Guard for fiscal years 2015 and 2016, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1147-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1491-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2570-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4025-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s542-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1162-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2131-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Coast Guard and Maritime Transportation Act of 2014", 
+  "sponsor": {
+    "district": "50", 
+    "name": "Hunter, Duncan D.", 
+    "state": "CA", 
+    "thomas_id": "01909", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-04-01T17:42:00-04:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Alaska", 
+    "Arctic and polar regions", 
+    "Aviation and airports", 
+    "Caribbean area", 
+    "Civil actions and liability", 
+    "Coast guard", 
+    "Competitiveness, trade promotion, trade deficits", 
+    "Congressional oversight", 
+    "Crimes against property", 
+    "Defense spending", 
+    "Department of Defense", 
+    "Department of Homeland Security", 
+    "Drug, alcohol, tobacco use", 
+    "Executive agency funding and structure", 
+    "Federal Maritime Commission", 
+    "Firearms and explosives", 
+    "Government buildings, facilities, and property", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government trust funds", 
+    "Historical and cultural resources", 
+    "International law and treaties", 
+    "Kentucky", 
+    "Licensing and registrations", 
+    "Marine and coastal resources, fisheries", 
+    "Marine and inland water transportation", 
+    "Marine pollution", 
+    "Military education and training", 
+    "Military facilities and property", 
+    "Military personnel and dependents", 
+    "Military procurement, research, weapons development", 
+    "Mississippi River", 
+    "Navigation, waterways, harbors", 
+    "Public contracts and procurement", 
+    "Transportation and public works", 
+    "Transportation employees", 
+    "Transportation safety and security", 
+    "User charges and fees", 
+    "Virgin Islands", 
+    "Washington State", 
+    "Water quality"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-04-01", 
+    "text": "Coast Guard and Maritime Transportation Act of 2014 - Title I: Authorization - (Sec. 101) Authorizes FY2015-FY2016 appropriations for the Coast Guard for: (1) operation and maintenance; (2) acquisition, construction, rebuilding, and improvement of aids to navigation, shore and offshore facilities, vessels, and aircraft; (3) the Coast Guard Reserve program; (4) environmental compliance and restoration of vessels, aircraft, and facilities; and (5) the Commandant of the Coast Guard for research, development, test, and evaluation of technologies, materials, and human factors relating to search and rescue, aids to navigation, marine safety, marine environmental protection, enforcement of laws and treaties, ice operations, oceanographic research, and defense readiness.\n\n(Sec. 102) Authorizes, for each such fiscal year, an end-of-year strength for active duty personnel of 43,000 and specified average military training student loads.\n\nTitle II: Coast Guard - (Sec. 201) Reduces from 7,200 to 6,700 the number of commissioned officers on the active duty promotion list, subject to current exceptions.\n\n(Sec. 202) Sets forth the skills and qualifications necessary for an individual to be assigned as a waterways operations manager or a facility safety and security specialist.\n\n(Sec. 203) Revises authorities under which Coast Guard centers of expertise conduct education, training, and other mission activities. Authorizes such centers to conduct investigations and evaluate intelligence systems and capabilities.\n\n(Sec. 204) Authorizes the Commandant to enter into cooperative agreements with federal, public, and private entities, including academic entities.\n\n(Sec. 205) Permits monies received from the rental or lease of certain Coast Guard property to be deposited in the Coast Guard Housing Fund for the construction and renovation of servicemember housing. (Currently, such monies are deposited in the Treasury.)\n\n(Sec. 206) Prohibits the Secretary of the department in which the Coast Guard is operating (Secretary) from making a determination that a waterway is navigable for purposes of the Coast Guard\u2019s jurisdiction without conducting a rulemaking under appropriate administrative procedures.\n\n(Sec. 207) Modifies the membership and duties of the Board of Visitors to the Coast Guard Academy. Requires the Board to be composed of: (1) the chairmen of specified House and Senate committees, (2) six individuals designated by the President, (3) four Members of the House designated by the Speaker, and (4) three Members of the Senate designated by the Vice President. Directs the Board, after each annual Academy visit, to report to the Secretary and Congress.\n\n(Sec. 208) Repeals a limitation that prohibits the issuance of more than one medal of honor to any one person.\n\n(Sec. 209) Requires the Commandant, at specified intervals through the President\u2019s submittal of a budget for FY2019, and every four years thereafter, to submit to Congress an integrated major acquisition mission need statement that identifies current and projected gaps in Coast Guard capabilities using mission hour targets.\n\n(Sec. 210) Directs the Secretary to submit an authorization request to Congress for each fiscal year.\n\n(Sec. 211) Requires the Commandant to: (1) establish, and update on an ongoing basis, an inventory of real property, including submerged lands, under Coast Guard control; and (2) make divestiture and consolidation recommendations to Congress every five years.\n\n(Sec. 212) Modifies the limitation on the number of days within a specified period that an organized training unit or member of the Coast Guard Ready Reserve may be ordered, without consent, to serve in active duty for an emergency augmentation of regular forces.\n\n(Sec. 213) Extends through September 30, 2017, the Commandant\u2019s acquisition workforce expedited hiring authority under which acquisition positions may be designated as positions for which there is a shortage of candidates or a critical hiring need.\n\n(Sec. 214) Authorizes the Commandant to decommission the icebreaker Polar Sea if the Secretary does not make a determination regarding whether it is cost-effective to reactivate such icebreaker. Requires the Commandant to submit to Congress: (1) a strategy to meet the Coast Guard's Arctic ice operations needs through September 30, 2050; and (2) unless the Secretary determines that it is cost-effective to reactivate the Polar Sea, a bridging strategy for maintaining the Coast Guard's polar icebreaking services until at least September 30, 2024 (currently, a bridging strategy for maintaining operations until at least September 30, 2022, is required only if the Secretary determines that it is not cost-effective to reactivate the Polar Sea).\n\n(Sec. 215) Allows the Secretary, each fiscal year beginning in FY2015, to enter into multiyear contracts for the procurement of Offshore Patrol Cutters and associated equipment.\n\n(Sec. 216) Directs the Secretary to report to Congress with schedules and plans for decommissioning, maintaining or extending, and commissioning specified categories of cutters.\n\n(Sec. 217) Revises, repeals, and consolidates various reporting requirements.\n\n(Sec. 219) Makes inapplicable to Coast Guard flag officers, during any period in which the Coast Guard is not operating as a service in the Navy, an Armed Forces personnel provision that prohibits the Secretary concerned (the Secretary of the military department concerned or the Secretary of Homeland Security [DHS]) from determining, without approval of the Secretary of Defense (DOD), that a flag officer being processed for retirement by reason of age or length of service should, by reason of unfitness to perform duties, be retired because of physical disability, placed on the temporary disability retired list, or separated with severance pay (thus permits the DHS Secretary to make such retirement determinations with respect to Coast Guard flag officers without DOD approval).\n\n(Sec. 220) Authorizes the Secretary to: (1) request and accept through a direct military-to-military transfer such H-60 helicopters as necessary to establish a year-round operational capability in the Coast Guard's ninth district (headquartered in Cleveland, Ohio, and responsible for a region including the Great Lakes); and (2) use appropriations to convert the configuration of such helicopters.\n\n(Sec. 221) Prohibits the Secretary from dismantling or disposing of infrastructure that supported the former LORAN system (long range radio aid to navigation system) until the later of: (1) one year after enactment of this Act; or (2) the date on which the Secretary notifies Congress that such infrastructure is not required to provide a positioning, navigation, and timing system as a redundant capability in the event Global Positioning System signals are disrupted. Provides an exception for activities necessary for the safety of human life.\n\nPermits the Secretary to enter agreements with federal entities and other public and private entities to develop another system to provide such redundant capability, including an enhanced LORAN system.\n\nTitle III: Shipping and Navigation - (Sec. 301) Bars specified federal shipping laws related to maritime liability from: (1) establishing maritime liens on state or federal fishing permits, and (2) authorizing civil actions to enforce maritime liens on such permits.\n\nSpecifies that a \"fishing permit\" is governed solely by the state or federal law under which it was issued and shall not be treated as part of a vessel, or as an appurtenance or intangible of a vessel, for any purpose under federal law.\n\n(Sec. 302) Prohibits the Coast Guard from carrying out international ice patrol agreements with other maritime countries unless a specified minimum reimbursement amount is received from such countries for their proportionate share of the expense of maintaining the service. Exempts from such prohibition the use of Coast Guard aircraft to carry out such agreements if the President determines it to be necessary for national security.\n\n(Sec. 303) Repeals a requirement that the Secretary of Commerce promote the development and use of mobile trade fairs to show and sell products of U.S. business and agriculture at foreign ports and commercial centers.\n\n(Sec. 304) Authorizes the Department of Transportation (DOT) to convey U.S. government property administered by the Maritime Administration (MARAD), except real estate or vessels, to nonprofit organizations, states, or political subdivisions (thus allows DOT to donate property for historical purposes).\n\n(Sec. 305) Reauthorizes through FY2016 appropriations to MARAD for small shipyard grant programs.\n\n(Sec. 306) Directs federal agencies that operate vessels to report drug test violations by employment applicants to the Commandant.\n\n(Sec. 307) Prohibits a claim for damages or expenses relating to personal injury, illness, or death of a seaman who is a citizen of a foreign nation, arising during or from the engagement of the seaman by or for a passenger vessel duly registered under the laws of a foreign nation, from being brought under U.S. laws if: (1) such seaman was not a permanent resident alien of the United States when the claim arose; (2) the injury, illness, or death arose outside U.S. territorial waters; and (3) the seaman, at the time the claim arose, had a right to seek compensation under the laws of either the nation in which the vessel was registered or in which the seaman maintained citizenship or residency.\n\n(Sec. 308) Applies the existing cap of 10 times unpaid wages as the maximum penalty payable to each seaman claiming delayed payment of wages on certain foreign, intercoastal, and coastwise passenger vessels. (Current law applies the cap to all claims in a class action suit by seamen.)\n\n(Sec. 309) Permits merchant mariner licenses for masters, mates, engineers, pilots, operators, and radio officers to be issued to applicants with at least three months of qualifying service on vessels of the uniformed services of appropriate tonnage or horsepower within the preceding seven-year period. Sets forth deadlines for the Coast Guard to provide sea service letters to members or former members. Requires the Secretary to maximize the extent to which armed forces service, training, and qualifications are creditable toward meeting merchant mariner licensing requirements and the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978 (STCW Convention).\n\n(Sec. 310) Amends the Act to Prevent Pollution from Ships to establish an Abandoned Seafarers Fund from which amounts may be appropriated to the Secretary to pay the necessary support of: (1) seafarers who enter, remain, or are paroled into the United States and are involved in an investigation, reporting, documentation, or adjudication of any matter relating to the administration or enforcement of such Act by the Coast Guard; and (2) seafarers who were abandoned in the United States and have not applied for asylum under specified provisions of the Immigration and Nationality Act. Provides for the reimbursement of vessel owners or operators who provide necessary support to seafarers paroled into the United States to facilitate such investigations, reporting, documentation, or adjudications.\n\nDefines \u201cseafarer\u201d as an alien crewman who is employed or engaged in any capacity on board a vessel subject to such Act.\n\n(Sec. 311) Redefines \u201chigh-risk waters,\u201d for purposes of determining when owners or operators of U.S. vessels carrying government-impelled cargo are to be reimbursed for the cost of providing armed on-board safety personnel, as waters: (1) so designated by the Commandant in the appropriate maritime security directive, and (2) in which DOT determines an act of piracy is likely to occur based on documented acts of piracy that occurred in such waters during the 12-month period preceding the applicable voyage.\n\n(Sec. 312) Provides for uninspected passenger vessels in the U.S. Virgin Islands that meet certain safety requirements to carry up to 12 passengers. (Currently, vessels under a certain weight may only carry up to 6 passengers.)\n\n(Sec. 313) Sets forth a process for the Secretary to delegate to classification societies the authority to inspect offshore supply vessels.\n\nRequires the Secretary to report to Congress within specified periods regarding: (1) the number of vessels for which such a delegation was made, (2) any savings in personnel and operational costs incurred by the Coast Guard, and (3) any impacts of the delegations on the operational safety of vessels and vessel crews.\n\n(Sec. 314) Directs the Secretary to require a passenger vessel to be equipped with survival craft to ensure that no part of an individual is immersed in water if the vessel: (1) is built or undergoes a major conversion after January 1, 2016, and (2) operates in cold waters. Authorizes the Secretary to: (1) provide a higher safety standard under agency regulations, and (2) allow innovative or novel designs.\n\nRequires the Secretary to submit to Congress a review of: (1) the number of casualties for individuals with disabilities, children, and the elderly as a result of immersion in water over the preceding 30-year period; (2) the risks to such categories of individuals; (3) the effect that carriage of survival craft has on passenger safety, survivability, and costs; (4) the efficacy of alternative safety measures; and (5) the number of small businesses and nonprofit vessel operators that would be affected by requiring the carriage of such survival craft on passenger vessels.\n\n(Sec. 316) Revises the enforcement authority of the DOT Secretary with respect to whether programs administered by federal agencies comply with the requirement that at least a specified percentage of the gross tonnage of certain cargos procured or financed by the U.S. government are transported on privately-owned commercial vessels of the United States.\n\nDirects the DOT Secretary, on an annual basis, to: (1) determine whether agency programs are subject to such requirements; and (2) submit a report to Congress that identifies such programs and actions taken by DOT in response to violations.\n\n(Sec. 317) Amends the Marine Debris Act to permit the National Oceanic and Atmospheric Administration (NOAA), when evaluating grant proposals for marine debris projects, to give preference to proposals that address a severe marine debris event (atypically large amounts of marine debris caused by a tsunamis, floods, landslides, hurricanes, or other natural disasters or sources). Establishes a process for the governor of a state to request that NOAA declare a severe marine debris event in such state or a region including such state.\n\nAuthorizes NOAA to provide funds to state, local, or tribal governments impacted by events resulting from the March 2011 earthquake and subsequent tsunami in the Tohoku region of Japan, including marine debris impacts. Permits the use of funds provided by the government of Japan for such purposes.\n\n(Sec. 318) Increases from 50% to 75% the portion of commodities that must be transported on privately-owned commercial vessels of the United States when such cargo is related to the export activities of the Secretary of Agriculture (USDA) or the Commodity Credit Corporation (such cargo includes activities carried out under the Food for Peace Act and the Bill Emerson Humanitarian Trust Act).\n\n(Sec. 319) Directs the Secretary to establish a Merchant Marine Personnel Advisory Committee to: (1) advise the Secretary on personnel matters relating to the U.S. merchant marine, including training, qualifications, certification, documentation, and fitness standards; and (2) comment on personnel regulations proposed by the Coast Guard. Permits the Committee to conduct studies and make its recommendations available to Congress.\n\nRequires the Committee to report to the Commandant regarding: (1) merchant mariner licensing, certification, and documentation programs; and (2) state maritime academy problems with implementation of amendments to the STCW Convention that entered into force on January 1, 2012. Directs the Commandant to forward such report to Congress with recommendations for actions to implement the report's recommendations.\n\nTerminates such Committee on September 30, 2020.\n\n(Sec. 320) Directs the Comptroller General (GAO) to report to Congress regarding the number of jobs (including vessel construction and vessel operating jobs) that would be created in the U.S. maritime industry in each of years 2015-2025 if liquefied natural gas exported from the United States were required to be carried: (1) before December 31, 2018, on vessels documented under the laws of the United States; and (2) after such date, on vessels documented under U.S. laws and constructed in the United States.\n\nTitle IV: Federal Maritime Commission - (Sec. 401) Authorizes FY2015-FY2016 appropriations for the Federal Maritime Commission (FMC).\n\n(Sec. 402) Revises terms of office requirements for FMC Commissioners to: (1) limit to one year the period during which a Commissioner whose term has ended may continue to serve until a successor is appointed and qualified; and (2) prohibit an individual from serving more than two terms, subject to an exception for individuals who had been appointed to fill a vacancy for an unexpired term of a predecessor.\n\nSets forth conflict of interest requirements applicable to FMC Commissioners.\n\nTitle V: Commercial Vessel Discharge Reform - Commercial Vessel Discharge Reform Act of 2014 - (Sec. 502) Makes permanent a provision prohibiting the Environmental Protection Agency (EPA), or a state with an approved National Pollutant Discharge Elimination System (NPDES) permit program under the Federal Water Pollution Control Act (commonly known as the Clean Water Act), from requiring an NPDES permit for a covered vessel (a vessel that is less than 79 feet in length or a fishing vessel) for any discharge: (1) of effluent from properly functioning marine engines; (2) of laundry, shower, and galley sink wastes; or (3) that is incidental to the normal operation of a covered vessel. (Currently, such prohibition ends on December 18, 2014.)\n\nTitle VI: Miscellaneous - (Sec. 601) Revises licensing restrictions and credential requirements relating to foreign citizens who may be engaged to meet the manning requirement for U.S. purse seine fishing vessels (commonly referred to as the distant water tuna fleet): (1) fishing exclusively for highly migratory species in the treaty area under a fishing license issued pursuant to the 1987 Treaty on Fisheries Between the Governments of Certain Pacific Islands States and the Government of the United States of America, or (2) transiting to or from the treaty area exclusively for such purpose. Modifies safety inspection requirements for such vessels and removes a provision that limits the vessels permitted to engage such foreign citizens to vessels operating in and out of American Samoa or Guam.\n\n(Sec. 602) Deems the vessel assigned U.S. official number 1205366 (rebuilt after a fire) to be a new vessel on the date of delivery after January 1, 2012, from a privately owned U.S. shipyard if no encumbrances are on record with the Coast Guard at the time of the issuance of the new certificate of documentation.\n\n(Sec. 603) Authorizes the Commandant to lease submerged lands and tidelands under the control of the Coast Guard for periods longer than five years.\n\n(Sec. 604) Directs DOT to submit to Congress a national maritime strategy that: (1) identifies federal regulations that reduce the competitiveness of U.S. flag vessels in the international trade, (2) identifies the impact of reduced cargo flow due to reductions in the number of Armed Forces members stationed or deployed outside the United States, and (3) includes recommendations to make U.S. flag vessels more competitive in shipping routes and to enhance U.S. shipbuilding capability.\n\n Requires DOT to recommend strategies to increase the use of: (1) U.S. flag vessels to carry imports and exports, (2) third-party inspection and certification authorities, and (3) short sea transportation routes.\n\n(Sec. 605) Directs the Secretary, after enactment of this Act and annually for each of fiscal years FY2016-FY2018, to report to Congress concerning negotiations at the International Maritime Organization regarding the establishment of a draft international code of safety for ships operating in polar waters (commonly referred to as the Polar Code). Requires such report to address the impacts, for coastal communities located in the Arctic, on: (1) the costs of delivering fuel and freight, and (2) maritime transportation safety.\n\n(Sec. 606) Exempts the vessel John Craig (a vessel utilized by the Valley View Ferry on a specified portion of the Kentucky River) from a requirement that passenger vessel operators be licensed by the Coast Guard, provided that Kentucky has implemented a similar licensing requirement.\n\n(Sec. 607) Directs the Commandant to arrange for an assessment by the National Academy of Sciences of authorities concerning vessels and seamen that: (1) have been delegated to the Coast Guard, and (2) impact the ability of vessels documented under the U.S. laws to compete in the carriage of merchandise and passengers in international trade. Requires the Commandant to submit such assessment to Congress.\n\n(Sec. 608) Requires the Commandant to submit to Congress a survey of a specified parcel of real property under the administrative control of the Coast Guard located at the entrance to Gig Harbor, Washington (commonly referred to as the Gig Harbor Sand Spit Area).\n\n(Sec. 609) Reauthorizes through FY2016: (1) the Fishing Safety Training Grant Program, and (2) the Fishing Safety Research Grant Program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coast Guard and Maritime Transportation Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Commercial Vessel Discharge Reform Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Howard Coble Coast Guard and Maritime Transportation Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": true, 
+      "title": "Commercial Vessel Discharge Reform Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Coast Guard and Maritime Transportation Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": true, 
+      "title": "Commercial Vessel Discharge Reform Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize appropriations for the Coast Guard for fiscal years 2015 and 2016, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:24-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4005:@@@L&summ2=m&"
+}

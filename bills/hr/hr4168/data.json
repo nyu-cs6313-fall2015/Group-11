@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-06", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4168-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2014-04-03", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-06", 
+  "number": "4168", 
+  "official_title": "To provide payment for patient navigator services under title XIX of the Social Security Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Patient Navigation Assistance Act of 2014", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Israel, Steve", 
+    "state": "NY", 
+    "thomas_id": "01663", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-03-06", 
+  "subjects": [
+    "Advisory bodies", 
+    "Allied health services", 
+    "Health", 
+    "Health care coverage and access", 
+    "Medicaid"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-03-06", 
+    "text": "Patient Navigation Assistance Act of 2014 - Amends title XIX (Medicaid) of the Social Security Act to require a state Medicaid plan to provide for state reimbursement of an eligible entity for any patient navigator service provided to a Medicaid-eligible individual.\n\nIncludes within the definition of \"medical assistance\" certain patient navigator services defined under the Public Health Service Act (PHSA) as assisting in specified ways individuals who are at risk for or who have cancer or other chronic diseases.\n\nTreats as eligible entities those identified under PHSA as public or nonprofit private health centers (including federally qualified health centers), health facilities operated by or pursuant to a contract with the Indian Health Service, hospitals, cancer centers, rural health clinics, academic health centers, or nonprofit entities that enter into a partnership or coordinate referrals with such a center, clinic, facility, or hospital to provide patient navigator services."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Patient Navigation Assistance Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide payment for patient navigator services under title XIX of the Social Security Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4168:@@@L&summ2=m&"
+}

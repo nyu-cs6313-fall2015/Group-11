@@ -1,0 +1,251 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1858dbee2">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To restore the financial solvency of the United States Postal Service and to ensure the efficient and affordable nationwide delivery of mail.;
+   		H.R. 2748 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-07-20</dateIngested>
+</extension>
+<titleInfo>
+ <title>To restore the financial solvency of the United States Postal Service and to ensure the efficient and affordable nationwide delivery of mail.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2748 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-07-19</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>140 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1858dbee2</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2748ih</identifier>
+<identifier type="preferred citation">H.R. 2748</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2748_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2748ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2748ih/html/BILLS-113hr2748ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2748ih/pdf/BILLS-113hr2748ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr2748ih/xml/BILLS-113hr2748ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-07-20</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-05-02</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr2748ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Darrell E. Issa</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Blake Farenthold</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dennis Ross</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Oversight and Government Reform</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 5312</partNumber>
+  <partNumber>Title 5 Section 5314</partNumber>
+  <partNumber>Title 5 Section 5315</partNumber>
+  <partNumber>Title 5 Section 8336</partNumber>
+  <partNumber>Title 5 Section 8348(h)</partNumber>
+  <partNumber>Title 5 Section 8412</partNumber>
+  <partNumber>Title 5 Section 8423(a)</partNumber>
+  <partNumber>Title 5 Section 8423(b)(4)</partNumber>
+  <partNumber>Title 5 Section 8906(g)(2)(A)</partNumber>
+  <partNumber>Title 5 Section 8909a</partNumber>
+  <partNumber>Title 5 Section 8909a(d)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 5312</identifier>
+ <identifier type="USC citation">5 U.S.C. 5314</identifier>
+ <identifier type="USC citation">5 U.S.C. 5315</identifier>
+ <identifier type="USC citation">5 U.S.C. 8336</identifier>
+ <identifier type="USC citation">5 U.S.C. 8348(h)</identifier>
+ <identifier type="USC citation">5 U.S.C. 8412</identifier>
+ <identifier type="USC citation">5 U.S.C. 8423(a)</identifier>
+ <identifier type="USC citation">5 U.S.C. 8423(b)(4)</identifier>
+ <identifier type="USC citation">5 U.S.C. 8906(g)(2)(A)</identifier>
+ <identifier type="USC citation">5 U.S.C. 8909a</identifier>
+ <identifier type="USC citation">5 U.S.C. 8909a(d)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 39 Section 1005(c)</partNumber>
+  <partNumber>Title 39 Section 101</partNumber>
+  <partNumber>Title 39 Section 102(3)</partNumber>
+  <partNumber>Title 39 Section 2009</partNumber>
+  <partNumber>Title 39 Section 202</partNumber>
+  <partNumber>Title 39 Section 202(a)(1)</partNumber>
+  <partNumber>Title 39 Section 3686</partNumber>
+  <partNumber>Title 39 Section 404</partNumber>
+  <partNumber>Title 39 Section 404(d)</partNumber>
+  <partNumber>Title 39 Section 404(d)(6)</partNumber>
+  <partNumber>Title 39 Section 404(e)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">39 U.S.C. 1005(c)</identifier>
+ <identifier type="USC citation">39 U.S.C. 101</identifier>
+ <identifier type="USC citation">39 U.S.C. 102(3)</identifier>
+ <identifier type="USC citation">39 U.S.C. 2009</identifier>
+ <identifier type="USC citation">39 U.S.C. 202</identifier>
+ <identifier type="USC citation">39 U.S.C. 202(a)(1)</identifier>
+ <identifier type="USC citation">39 U.S.C. 3686</identifier>
+ <identifier type="USC citation">39 U.S.C. 404</identifier>
+ <identifier type="USC citation">39 U.S.C. 404(d)</identifier>
+ <identifier type="USC citation">39 U.S.C. 404(d)(6)</identifier>
+ <identifier type="USC citation">39 U.S.C. 404(e)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 40 Section 15301</partNumber>
+</titleInfo>
+ <identifier type="USC citation">40 U.S.C. 15301</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 41 Section 7101(8)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">41 U.S.C. 7101(8)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr2748ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2748</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <action date="2013-07-19">Mr. Issa (for himself, Mr. Farenthold, and Mr. Ross) introduced the following bill; which was referred to the Committee on Oversight and Government Reform</action>
+ <congCommittee authorityId="hsgo00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Oversight and Government Reform</name>
+                      <name type="authority-short">Oversight and Government Reform</name>
+                </congCommittee>
+ <congMember authorityId="1640" bioGuideId="I000056" chamber="H" congress="113" gpoId="7854" party="R" role="SPONSOR" state="CA">
+                      <name type="parsed">Mr. Issa</name>
+                      <name type="authority-fnf">Darrell E. Issa</name>
+                      <name type="authority-lnf">Issa, Darrell E.</name>
+                      <name type="authority-other">Darrell Issa</name>
+                </congMember>
+ <congMember authorityId="2067" bioGuideId="F000460" chamber="H" congress="113" gpoId="8183" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Farenthold</name>
+                      <name type="authority-fnf">Blake Farenthold</name>
+                      <name type="authority-lnf">Farenthold, Blake</name>
+                </congMember>
+ <congMember authorityId="2003" bioGuideId="R000593" chamber="H" congress="113" gpoId="7884" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Ross</name>
+                      <name type="authority-fnf">Dennis Ross</name>
+                      <name type="authority-lnf">Ross, Dennis</name>
+                      <name type="authority-other">Dennis A. Ross</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="5312"></section>
+                      <section number="5314"></section>
+                      <section number="5315"></section>
+                      <section number="8336"></section>
+                      <section detail="(h)" number="8348"></section>
+                      <section number="8412"></section>
+                      <section detail="(a)" number="8423"></section>
+                      <section detail="(b)(4)" number="8423"></section>
+                      <section detail="(g)(2)(A)" number="8906"></section>
+                      <section number="8909a"></section>
+                      <section detail="(d)" number="8909a"></section>
+                </USCode>
+ <USCode title="39">
+                      <section detail="(c)" number="1005"></section>
+                      <section number="101"></section>
+                      <section detail="(3)" number="102"></section>
+                      <section number="2009"></section>
+                      <section number="202"></section>
+                      <section detail="(a)(1)" number="202"></section>
+                      <section number="3686"></section>
+                      <section number="404"></section>
+                      <section detail="(d)" number="404"></section>
+                      <section detail="(d)(6)" number="404"></section>
+                      <section detail="(e)" number="404"></section>
+                </USCode>
+ <USCode title="40">
+                      <section number="15301"></section>
+                </USCode>
+ <USCode title="41">
+                      <section detail="(8)" number="7101"></section>
+                </USCode>
+</extension>
+</mods>

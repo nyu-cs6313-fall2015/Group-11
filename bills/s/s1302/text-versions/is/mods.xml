@@ -1,0 +1,250 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1858efc04">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986 to provide for cooperative and small employer charity pension plans.;
+   		S. 1302 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-07-22</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986 to provide for cooperative and small employer charity pension plans.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1302 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-07-16</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>100 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee1858efc04</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1302is</identifier>
+<identifier type="preferred citation">S. 1302</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1302_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1302is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1302is/html/BILLS-113s1302is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1302is/pdf/BILLS-113s1302is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1302is/xml/BILLS-113s1302is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-07-22</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1302is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Tom Harkin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Pat Roberts</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Patty Murray</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lisa Murkowski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Al Franken</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 21 Section 1021(d)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">21 U.S.C. 1021(d)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 1021(d)</partNumber>
+  <partNumber>Title 29 Section 1021(f)</partNumber>
+  <partNumber>Title 29 Section 1023</partNumber>
+  <partNumber>Title 29 Section 1023(d)(8)</partNumber>
+  <partNumber>Title 29 Section 1054(i)</partNumber>
+  <partNumber>Title 29 Section 1056</partNumber>
+  <partNumber>Title 29 Section 1060</partNumber>
+  <partNumber>Title 29 Section 1060(a)</partNumber>
+  <partNumber>Title 29 Section 1081et seq.</partNumber>
+  <partNumber>Title 29 Section 1082</partNumber>
+  <partNumber>Title 29 Section 1082(a)</partNumber>
+  <partNumber>Title 29 Section 1083(d)(1)</partNumber>
+  <partNumber>Title 29 Section 1303(e)(1)</partNumber>
+  <partNumber>Title 29 Section 1304</partNumber>
+  <partNumber>Title 29 Section 1306(a)</partNumber>
+  <partNumber>Title 29 Section 1306(a)(3)</partNumber>
+  <partNumber>Title 29 Section 1306(a)(3)(A)</partNumber>
+  <partNumber>Title 29 Section 1310(b)</partNumber>
+  <partNumber>Title 29 Section 1371</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 1021(d)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1021(f)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1023</identifier>
+ <identifier type="USC citation">29 U.S.C. 1023(d)(8)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1054(i)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1056</identifier>
+ <identifier type="USC citation">29 U.S.C. 1060</identifier>
+ <identifier type="USC citation">29 U.S.C. 1060(a)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1081et seq.</identifier>
+ <identifier type="USC citation">29 U.S.C. 1082</identifier>
+ <identifier type="USC citation">29 U.S.C. 1082(a)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1083(d)(1)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1303(e)(1)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1304</identifier>
+ <identifier type="USC citation">29 U.S.C. 1306(a)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1306(a)(3)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1306(a)(3)(A)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1310(b)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1371</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1302is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1302</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <action date="2013-07-16" legislativeDay="2013-07-15">Mr. Harkin (for himself, Mr. Roberts, Mrs. Murray, Ms. Murkowski, and Mr. Franken) introduced the following bill; which was read twice and referred to the Committee on Health, Education, Labor, and Pensions</action>
+ <congCommittee authorityId="sshr00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+                      <name type="authority-short">HELP</name>
+                </congCommittee>
+ <congMember authorityId="501" bioGuideId="H000206" chamber="S" congress="113" gpoId="8317" party="D" role="SPONSOR" state="IA">
+                      <name type="parsed">Mr. Harkin</name>
+                      <name type="authority-fnf">Tom Harkin</name>
+                      <name type="authority-lnf">Harkin, Tom</name>
+                      <name type="authority-other">Thomas Richard Harkin</name>
+                </congMember>
+ <congMember authorityId="968" bioGuideId="R000307" chamber="S" congress="113" gpoId="8275" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Mr. Roberts</name>
+                      <name type="authority-fnf">Pat Roberts</name>
+                      <name type="authority-lnf">Roberts, Pat</name>
+                </congMember>
+ <congMember authorityId="1409" bioGuideId="M001111" chamber="S" congress="113" gpoId="8237" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mrs. Murray</name>
+                      <name type="authority-fnf">Patty Murray</name>
+                      <name type="authority-lnf">Murray, Patty</name>
+                </congMember>
+ <congMember authorityId="1694" bioGuideId="M001153" chamber="S" congress="113" gpoId="8234" party="R" role="COSPONSOR" state="AK">
+                      <name type="parsed">Ms. Murkowski</name>
+                      <name type="authority-fnf">Lisa Murkowski</name>
+                      <name type="authority-lnf">Murkowski, Lisa</name>
+                </congMember>
+ <congMember authorityId="1969" bioGuideId="F000457" chamber="S" congress="113" gpoId="8339" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Franken</name>
+                      <name type="authority-fnf">Al Franken</name>
+                      <name type="authority-lnf">Franken, Al</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="21">
+                      <section detail="(d)" number="1021"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="(d)" number="1021"></section>
+                      <section detail="(f)" number="1021"></section>
+                      <section number="1023"></section>
+                      <section detail="(d)(8)" number="1023"></section>
+                      <section detail="(i)" number="1054"></section>
+                      <section number="1056"></section>
+                      <section number="1060"></section>
+                      <section detail="(a)" number="1060"></section>
+                      <section detail="et seq." number="1081"></section>
+                      <section number="1082"></section>
+                      <section detail="(a)" number="1082"></section>
+                      <section detail="(d)(1)" number="1083"></section>
+                      <section detail="(e)(1)" number="1303"></section>
+                      <section number="1304"></section>
+                      <section detail="(a)" number="1306"></section>
+                      <section detail="(a)(3)" number="1306"></section>
+                      <section detail="(a)(3)(A)" number="1306"></section>
+                      <section detail="(b)" number="1310"></section>
+                      <section number="1371"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-04", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-12-12", 
+      "references": [
+        {
+          "reference": "CR H7692", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-27", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3652-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-12-04", 
+  "number": "3652", 
+  "official_title": "To amend title 18, United States Code, to provide for penalties for aggravated identity theft facilitated by employment at an agency implementing the Patient Protection and Affordable Care Act.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "No Identity Theft in Health Care Act of 2013", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Holding, George", 
+    "state": "NC", 
+    "thomas_id": "02143", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-12-04", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Crime and law enforcement", 
+    "Fraud offenses and financial crimes", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government information and archives", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Health information and medical records"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-12-04", 
+    "text": "No Identity Theft in Health Care Act of 2013 - Amends the federal criminal code to impose an additional five-year prison sentence for committing a felony offense of aggravated identity theft, if such offense was facilitated by being a U.S. officer or employee charged with implementing the Patient Protection and Affordable Care Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "No Identity Theft in Health Care Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 18, United States Code, to provide for penalties for aggravated identity theft facilitated by employment at an agency implementing the Patient Protection and Affordable Care Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3652:@@@L&summ2=m&"
+}

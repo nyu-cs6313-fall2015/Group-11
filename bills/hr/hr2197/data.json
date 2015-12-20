@@ -1,0 +1,254 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-05-23", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-06-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-07-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Public Lands and Environmental Regulation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-07-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-07-24", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-09-20T12:59:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 113-223.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-09-20T13:00:00-04:00", 
+      "calendar": "Union", 
+      "number": "163", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 163.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-03-04T18:14:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hastings (WA) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-04T18:14:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2139-2141", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-04T18:14:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2197.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-04T18:29:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2139", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-03-05", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-23", 
+      "committee": "Committee on Energy and Natural Resources Subcommittee on National Parks", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.", 
+      "type": "hearings"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2197-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG", 
+      "subcommittee": "Subcommittee on National Parks", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Michaud, Michael H.", 
+      "sponsored_at": "2013-05-23", 
+      "state": "ME", 
+      "thomas_id": "01730", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-07-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-03-04T18:29:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-05-23", 
+  "number": "2197", 
+  "official_title": "To amend the Wild and Scenic Rivers Act to designate segments of the York River and associated tributaries for study for potential inclusion in the National Wild and Scenic Rivers System.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1520-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "York River Wild and Scenic River Study Act of 2014", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Pingree, Chellie", 
+    "state": "ME", 
+    "thomas_id": "01927", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-03-04T18:29:00-05:00", 
+  "subjects": [
+    "Electric power generation and transmission", 
+    "Government studies and investigations", 
+    "Hunting and fishing", 
+    "Land use and conservation", 
+    "Maine", 
+    "Outdoor recreation", 
+    "Property rights", 
+    "Public lands and natural resources", 
+    "Roads and highways", 
+    "State and local government operations", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2014-03-04", 
+    "text": "York River Wild and Scenic River Study Act of 2014 - Amends the Wild and Scenic Rivers Act to designate a specified segment of the York River in Maine and all of its associated tributaries for potential addition to the National Wild and Scenic Rivers System.\n\nRequires the Secretary of the Interior to study the York River to: (1) determine the designation's effect on existing commercial and recreational activities, the construction and operation of energy production and transmission infrastructure, and the authority of state and local governments to manage those activities; and (2) identify all authorities that will authorize or require the Secretary to influence local land use decisions (such as zoning) or place restrictions on non-federal land if designated under this Act, all authorities that the Secretary may use to condemn property, and all private property located in the area studied pursuant to this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "York River Wild and Scenic River Study Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "York River Wild and Scenic River Study Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "York River Wild and Scenic River Study Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Wild and Scenic Rivers Act to designate segments of the York River and associated tributaries for study for potential inclusion in the National Wild and Scenic Rivers System.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:19:38-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR2197:@@@L&summ2=m&"
+}

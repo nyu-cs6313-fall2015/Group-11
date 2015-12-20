@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-10-23", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-10-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-27", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3324-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs", 
+      "subcommittee_id": "22"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Fleming, John", 
+      "sponsored_at": "2013-10-23", 
+      "state": "LA", 
+      "thomas_id": "01924", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-02-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-10-23", 
+  "number": "3324", 
+  "official_title": "To amend the Lacey Act Amendments of 1981 to reduce burdensome paperwork, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Lacey Act Paperwork Reduction Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Harris, Andy", 
+    "state": "MD", 
+    "thomas_id": "02026", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-10-23", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business records", 
+    "Department of the Interior", 
+    "Environmental protection", 
+    "Government information and archives", 
+    "Horticulture and plants", 
+    "Trade restrictions", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-10-23", 
+    "text": "Lacey Act Paperwork Reduction Act - Amends the Lacey Act Amendments of 1981 to require any person, upon importation of any plant, to possess and have available for inspection by the U.S. Fish and Wildlife Service (USFWS) a declaration that contains: (1) the scientific name of any plant (including the genus and species of the plant) contained in the importation; and (2) a description of the declared value of the plant or the merchandise containing the plant, the quantity of the plant, and the name of the country from which the plant was taken. (Currently, a person is required to file such a declaration that describes the value of the importation.)\n\nRevises the rulemaking procedure applicable to such importation to authorize the Secretary of the Interior, acting through the USFWS and in consultation with the Animal and Plant Health Inspection Service, to issue such regulations as may be necessary to carry out this Act. Authorizes the Secretary to: (1) distinguish among different species; and (2) limit the applicability of the Act to a particular class or type of species if the Secretary determines that application of this Act would not be feasible, practicable, or effective."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Lacey Act Paperwork Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Lacey Act Amendments of 1981 to reduce burdensome paperwork, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:05-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3324:@@@L&summ2=m&"
+}

@@ -1,0 +1,212 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee186e4d43b">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend certain provisions of the Inspector General Act of 1978 and the Inspector General Improvement Act of 2008, and for other purposes.;
+   		Oversight Workforce Improvement Act of 2014;S. 1953 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-01-24</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend certain provisions of the Inspector General Act of 1978 and the Inspector General Improvement Act of 2008, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Oversight Workforce Improvement Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1953 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-01-16</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>11 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee186e4d43b</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1953is</identifier>
+<identifier type="preferred citation">S. 1953</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1953_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1953is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1953is/html/BILLS-113s1953is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1953is/pdf/BILLS-113s1953is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1953is/xml/BILLS-113s1953is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-01-24</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1953is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Jon Tester</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Claire McCaskill</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 1211(b)</partNumber>
+  <partNumber>Title 5 Section 1211note</partNumber>
+  <partNumber>Title 5 Section 3392</partNumber>
+  <partNumber>Title 5 Section 551</partNumber>
+  <partNumber>Title 5 Section 552(b)</partNumber>
+  <partNumber>Title 5 Section 552(b)(3)</partNumber>
+  <partNumber>Title 5 Section 7701</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 1211(b)</identifier>
+ <identifier type="USC citation">5 U.S.C. 1211note</identifier>
+ <identifier type="USC citation">5 U.S.C. 3392</identifier>
+ <identifier type="USC citation">5 U.S.C. 551</identifier>
+ <identifier type="USC citation">5 U.S.C. 552(b)</identifier>
+ <identifier type="USC citation">5 U.S.C. 552(b)(3)</identifier>
+ <identifier type="USC citation">5 U.S.C. 7701</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 501note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 501note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Section 3518(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. 3518(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 123 Page 693</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">123 Stat.	693</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-409</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-409</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-8</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-8</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1953is</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1953</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Oversight Workforce Improvement Act of 2014</shortTitle>
+ <action date="2014-01-16">Mr. Tester (for himself and Mrs. McCaskill) introduced the following bill; which was read twice and referred to the Committee on Homeland Security and Governmental Affairs</action>
+ <congCommittee authorityId="ssga00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+                      <name type="authority-short">Homeland and Governmental Affairs</name>
+                </congCommittee>
+ <congMember authorityId="1829" bioGuideId="T000464" chamber="S" congress="113" gpoId="8258" party="D" role="SPONSOR" state="MT">
+                      <name type="parsed">Mr. Tester</name>
+                      <name type="authority-fnf">Jon Tester</name>
+                      <name type="authority-lnf">Tester, Jon</name>
+                </congMember>
+ <congMember authorityId="1820" bioGuideId="M001170" chamber="S" congress="113" gpoId="8252" party="D" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mrs. McCaskill</name>
+                      <name type="authority-fnf">Claire McCaskill</name>
+                      <name type="authority-lnf">McCaskill, Claire</name>
+                </congMember>
+ <law congress="110" isPrivate="false" number="409"></law>
+ <law congress="111" isPrivate="false" number="8"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(b)" number="1211"></section>
+                      <section detail="note" number="1211"></section>
+                      <section number="3392"></section>
+                      <section number="551"></section>
+                      <section detail="(b)" number="552"></section>
+                      <section detail="(b)(3)" number="552"></section>
+                      <section number="7701"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="note" number="501"></section>
+                </USCode>
+ <USCode title="44">
+                      <section detail="(c)" number="3518"></section>
+                </USCode>
+ <statuteAtLarge volume="123">
+                      <pages pages="693"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

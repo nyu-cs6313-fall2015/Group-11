@@ -1,0 +1,72 @@
+<bill session="113" type="sr" number="421" updated="2015-09-01T10:21:23-04:00">
+  <state datetime="2014-05-21">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2014-05-21"/>
+  </status>
+  <introduced datetime="2014-04-10"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the gratitude and appreciation of the Senate for the acts of heroism and military achievement by the members of the United States Armed Forces who participated in the June 6, 1944, amphibious landing at Normandy, France, and commending them for leadership and valor in an operation that helped bring an end to World War II.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2014-04-29"/>
+    <cosponsor id="400054" joined="2014-05-05"/>
+    <cosponsor id="300021" joined="2014-05-06"/>
+    <cosponsor id="300027" joined="2014-05-21"/>
+    <cosponsor id="400194" joined="2014-05-20"/>
+    <cosponsor id="412320" joined="2014-05-08"/>
+    <cosponsor id="300063" joined="2014-04-10"/>
+    <cosponsor id="412391" joined="2014-05-01"/>
+    <cosponsor id="400284" joined="2014-05-06"/>
+    <cosponsor id="300075" joined="2014-05-08"/>
+    <cosponsor id="412491" joined="2014-05-20"/>
+    <cosponsor id="412323" joined="2014-05-20"/>
+    <cosponsor id="300089" joined="2014-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2387"/>
+    </action>
+    <action datetime="2014-04-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S2387" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2014-05-20" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-05-20">
+      <text>Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2014-05-20" calendar="Senate Legislative" under="General Orders" number="381">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 381.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-05-21" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S3243" label="consideration"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Europe"/>
+    <term name="France"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Military history"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2014--Passed Senate without amendment.
+Recognizes: (1) the 70th anniversary of the Allied amphibious landing on D-Day, June 6, 1944, at Normandy, France, during World War II; and (2) the efforts of the government of France and the people of Normandy to preserve, for future generations, the unique world heritage represented by the Normandy beaches and the sunken material remains of the Normandy landing by inscribing them on the United Nations Educational, Scientific, and Cultural Organization (UNESCO) World Heritage List.
+
+Expresses appreciation to the members of the U.S. Armed Forces who participated in the D-day operations.
+
+Thanks the young people of Normandy and the United States for their involvement in recognizing and celebrating the 70th Anniversary of the Normandy landings with the aim of making future generations aware of the acts of heroism and sacrifice performed by the Allied forces.</summary>
+</bill>

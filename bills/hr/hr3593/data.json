@@ -1,0 +1,315 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-21", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-12-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Health Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Oversight and Investigations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-25", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-10", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-09-15T14:31:00-04:00", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Veterans' Affairs. H. Rept. 113-586.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-15T14:31:00-04:00", 
+      "calendar": "Union", 
+      "number": "433", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 433.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-09-16T19:13:00-04:00", 
+      "references": [], 
+      "text": "Mr. Lamborn moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-16T19:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7581-7585", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-16T19:13:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3593.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-16T19:33:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7581-7582", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-09-16T19:33:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-17", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3593-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Oversight and Investigations", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2014-06-17", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gardner, Cory", 
+      "sponsored_at": "2014-01-07", 
+      "state": "CO", 
+      "thomas_id": "01998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kirkpatrick, Ann", 
+      "sponsored_at": "2013-11-21", 
+      "state": "AZ", 
+      "thomas_id": "01907", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lamborn, Doug", 
+      "sponsored_at": "2014-02-27", 
+      "state": "CO", 
+      "thomas_id": "01834", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "sponsored_at": "2014-04-03", 
+      "state": "TN", 
+      "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2014-04-28", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tipton, Scott  R.", 
+      "sponsored_at": "2014-02-25", 
+      "state": "CO", 
+      "thomas_id": "01997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-07", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-09-16T19:33:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-11-21", 
+  "number": "3593", 
+  "official_title": "To amend title 38, United States Code, to improve the construction of major medical facilities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "VA Construction Assistance Act of 2014", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Coffman, Mike", 
+    "state": "CO", 
+    "thomas_id": "01912", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-09-16T19:33:00-04:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Armed forces and national security", 
+    "Army Corps of Engineers", 
+    "Building construction", 
+    "Colorado", 
+    "Congressional oversight", 
+    "Department of Defense", 
+    "Department of Veterans Affairs", 
+    "Florida", 
+    "Government buildings, facilities, and property", 
+    "Health facilities and institutions", 
+    "Louisiana", 
+    "Public contracts and procurement", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-09-16", 
+    "text": "VA Construction Assistance Act of 2014 - (Sec. 2) Expresses the sense of Congress that: (1) the management of the major medical center construction projects of the Department of Veterans Affairs (VA) has been an abysmal failure; and (2) the Secretary of Veterans Affairs should fully implement all recommendations made by the Comptroller General in an April 2013 report to improve VA construction procedures.\n\n(Sec. 3) Requires the Secretary, for any construction or alteration project that is a major medical facility project, to: (1) use the services of a medical equipment planner as part of the architectural and engineering firm for the project, (2) develop and use a project management plan to ensure clear and consistent communication among all parties, (3) subject the project to construction peer excellence review, (4) develop a metrics program to enable the monitoring of change-order processing time and goals for the change-order process consistent with the best practices of other federal agencies, and (5) use design-build processes to minimize multiple change orders.\n\n(Sec. 4) Directs the Secretary to procure the services of the Army Corps of Engineers with respect to appointing not less than one special project manager who has experience in managing construction projects that exceed $60 million to oversee such covered projects until completion. Requires a special project manager to submit to specified congressional committees detailed plans of a covered project and progress reports, which shall include an analysis of all changes ordered by the VA and recommendations for improving the operation of any construction-related activity to reduce costs or complete the project in a more timely manner.\n\nDefines \"covered projects\" to mean each construction project that is a major medical facility project that: (1) was the subject of a report by the Comptroller General (GAO) titled \"Additional Actions Needed to Decrease Delays and Lower Costs of Major Medical-Facility Projects,\" published in April 2013; and (2) has not been activated to accept patients as of this Act's enactment.\n\n(Sec. 5) Prohibits additional funds from being authorized to be appropriated to carry out this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "VA Construction Assistance Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "VA Construction Assistance Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "VA Construction Assistance Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to improve the construction of major medical facilities, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3593:@@@L&summ2=m&"
+}

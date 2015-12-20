@@ -1,0 +1,414 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee185b2da74">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Helium Act to improve helium stewardship, and for other purposes.;
+   		Helium Stewardship Act of 2013;Helium Stewardship Act of 2013;S. 783 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-07-30</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Helium Act to improve helium stewardship, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Helium Stewardship Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Helium Stewardship Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 783 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-07-29</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>56 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee185b2da74</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s783rs</identifier>
+<identifier type="preferred citation">S. 783</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s783_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s783rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s783rs/html/BILLS-113s783rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s783rs/pdf/BILLS-113s783rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s783rs/xml/BILLS-113s783rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-07-30</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s783rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Ron Wyden</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lisa Murkowski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Angus S. King Jr.</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Charles E. Schumer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Blumenthal</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Flake</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James E. Risch</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Martin Heinrich</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Crapo</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Merkley</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert P. Casey Jr.</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sheldon Whitehouse</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kirsten E. Gillibrand</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jon Tester</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Energy and Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1f</partNumber>
+  <partNumber>Title 16 Section 7111</partNumber>
+  <partNumber>Title 16 Section 7112(b)</partNumber>
+  <partNumber>Title 16 Section 7113(d)(2)</partNumber>
+  <partNumber>Title 16 Section 7123(a)(1)</partNumber>
+  <partNumber>Title 16 Section 7124(e)(3)(B)(iii)</partNumber>
+  <partNumber>Title 16 Section 7125(a)(4)</partNumber>
+  <partNumber>Title 16 Section 7127(a)</partNumber>
+  <partNumber>Title 16 Section 7128</partNumber>
+  <partNumber>Title 16 Section 7144</partNumber>
+  <partNumber>Title 16 Section 7152</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1f</identifier>
+ <identifier type="USC citation">16 U.S.C. 7111</identifier>
+ <identifier type="USC citation">16 U.S.C. 7112(b)</identifier>
+ <identifier type="USC citation">16 U.S.C. 7113(d)(2)</identifier>
+ <identifier type="USC citation">16 U.S.C. 7123(a)(1)</identifier>
+ <identifier type="USC citation">16 U.S.C. 7124(e)(3)(B)(iii)</identifier>
+ <identifier type="USC citation">16 U.S.C. 7125(a)(4)</identifier>
+ <identifier type="USC citation">16 U.S.C. 7127(a)</identifier>
+ <identifier type="USC citation">16 U.S.C. 7128</identifier>
+ <identifier type="USC citation">16 U.S.C. 7144</identifier>
+ <identifier type="USC citation">16 U.S.C. 7152</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 30 Section 1240a(h)</partNumber>
+  <partNumber>Title 30 Section 262</partNumber>
+</titleInfo>
+ <identifier type="USC citation">30 U.S.C. 1240a(h)</identifier>
+ <identifier type="USC citation">30 U.S.C. 262</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 15907</partNumber>
+  <partNumber>Title 42 Section 17022(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 15907</identifier>
+ <identifier type="USC citation">42 U.S.C. 17022(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 167a</partNumber>
+  <partNumber>Title 50 Section 167b</partNumber>
+  <partNumber>Title 50 Section 167c</partNumber>
+  <partNumber>Title 50 Section 167d</partNumber>
+  <partNumber>Title 50 Section 167</partNumber>
+  <partNumber>Title 50 Section 167et seq.</partNumber>
+  <partNumber>Title 50 Section 167note</partNumber>
+  <partNumber>Title 50 Section 167f</partNumber>
+  <partNumber>Title 50 Section 167l</partNumber>
+  <partNumber>Title 50 Section 167m</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 167a</identifier>
+ <identifier type="USC citation">50 U.S.C. 167b</identifier>
+ <identifier type="USC citation">50 U.S.C. 167c</identifier>
+ <identifier type="USC citation">50 U.S.C. 167d</identifier>
+ <identifier type="USC citation">50 U.S.C. 167</identifier>
+ <identifier type="USC citation">50 U.S.C. 167et seq.</identifier>
+ <identifier type="USC citation">50 U.S.C. 167note</identifier>
+ <identifier type="USC citation">50 U.S.C. 167f</identifier>
+ <identifier type="USC citation">50 U.S.C. 167l</identifier>
+ <identifier type="USC citation">50 U.S.C. 167m</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 152</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s783rs</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>783</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle>Helium Stewardship Act of 2013</shortTitle>
+ <shortTitle>Helium Stewardship Act of 2013</shortTitle>
+ <action date="2013-04-23">Mr. Wyden (for himself, Ms. Murkowski, Mr. King, Mr. Schumer, Mr. Blumenthal, Mr. Flake, Mr. Risch, Mr. Heinrich, Mr. Crapo, Mr. Merkley, Mr. Casey, Mr. Whitehouse, Mrs. Gillibrand, and Mr. Tester) introduced the following bill; which was read twice and referred to the Committee on Energy and Natural Resources</action>
+ <action date="2013-07-29">Reported by Mr. Wyden, with an amendment</action>
+ <congCommittee authorityId="sseg00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Energy and Natural Resources</name>
+                      <name type="authority-short">Energy and Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="1247" bioGuideId="W000779" chamber="S" congress="113" gpoId="8265" party="D" role="SPONSOR" state="OR">
+                      <name type="parsed">Mr. Wyden</name>
+                      <name type="authority-fnf">Ron Wyden</name>
+                      <name type="authority-lnf">Wyden, Ron</name>
+                </congMember>
+ <congMember authorityId="1694" bioGuideId="M001153" chamber="S" congress="113" gpoId="8234" party="R" role="COSPONSOR" state="AK">
+                      <name type="parsed">Ms. Murkowski</name>
+                      <name type="authority-fnf">Lisa Murkowski</name>
+                      <name type="authority-lnf">Murkowski, Lisa</name>
+                </congMember>
+ <congMember authorityId="2185" bioGuideId="K000383" chamber="S" congress="113" party="I" role="COSPONSOR" state="ME">
+                      <name type="parsed">Mr. King</name>
+                      <name type="authority-fnf">Angus S. King Jr.</name>
+                      <name type="authority-lnf">King, Angus S. Jr.</name>
+                      <name type="authority-other">Angus King Jr.</name>
+                </congMember>
+ <congMember authorityId="1036" bioGuideId="S000148" chamber="S" congress="113" gpoId="8279" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Schumer</name>
+                      <name type="authority-fnf">Charles E. Schumer</name>
+                      <name type="authority-lnf">Schumer, Charles E.</name>
+                      <name type="authority-other">Charles Schumer</name>
+                </congMember>
+ <congMember authorityId="2076" bioGuideId="B001277" chamber="S" congress="113" gpoId="8332" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Mr. Blumenthal</name>
+                      <name type="authority-fnf">Richard Blumenthal</name>
+                      <name type="authority-lnf">Blumenthal, Richard</name>
+                </congMember>
+ <congMember authorityId="1633" bioGuideId="F000444" chamber="S" congress="113" gpoId="7803" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Flake</name>
+                      <name type="authority-fnf">Jeff Flake</name>
+                      <name type="authority-lnf">Flake, Jeff</name>
+                </congMember>
+ <congMember authorityId="1896" bioGuideId="R000584" chamber="S" congress="113" gpoId="8274" party="R" role="COSPONSOR" state="ID">
+                      <name type="parsed">Mr. Risch</name>
+                      <name type="authority-fnf">James E. Risch</name>
+                      <name type="authority-lnf">Risch, James E.</name>
+                      <name type="authority-other">James Risch</name>
+                </congMember>
+ <congMember authorityId="1937" bioGuideId="H001046" chamber="S" congress="113" gpoId="8056" party="D" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Heinrich</name>
+                      <name type="authority-fnf">Martin Heinrich</name>
+                      <name type="authority-lnf">Heinrich, Martin</name>
+                </congMember>
+ <congMember authorityId="250" bioGuideId="C000880" chamber="S" congress="113" gpoId="8289" party="R" role="COSPONSOR" state="ID">
+                      <name type="parsed">Mr. Crapo</name>
+                      <name type="authority-fnf">Mike Crapo</name>
+                      <name type="authority-lnf">Crapo, Mike</name>
+                      <name type="authority-other">Michael Crapo</name>
+                </congMember>
+ <congMember authorityId="1900" bioGuideId="M001176" chamber="S" congress="113" gpoId="8238" party="D" role="COSPONSOR" state="OR">
+                      <name type="parsed">Mr. Merkley</name>
+                      <name type="authority-fnf">Jeff Merkley</name>
+                      <name type="authority-lnf">Merkley, Jeff</name>
+                </congMember>
+ <congMember authorityId="1828" bioGuideId="C001070" chamber="S" congress="113" gpoId="8282" party="D" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Casey</name>
+                      <name type="authority-fnf">Robert P. Casey Jr.</name>
+                      <name type="authority-lnf">Casey, Robert P., Jr.</name>
+                      <name type="authority-other">Mr. Robert Casey Jr.</name>
+                </congMember>
+ <congMember authorityId="1823" bioGuideId="W000802" chamber="S" congress="113" gpoId="8264" party="D" role="COSPONSOR" state="RI">
+                      <name type="parsed">Mr. Whitehouse</name>
+                      <name type="authority-fnf">Sheldon Whitehouse</name>
+                      <name type="authority-lnf">Whitehouse, Sheldon</name>
+                </congMember>
+ <congMember authorityId="1866" bioGuideId="G000555" chamber="S" congress="113" gpoId="8336" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mrs. Gillibrand</name>
+                      <name type="authority-fnf">Kirsten E. Gillibrand</name>
+                      <name type="authority-lnf">Gillibrand, Kirsten E.</name>
+                      <name type="authority-other">Mrs. Kirsten Gillibrand</name>
+                </congMember>
+ <congMember authorityId="1829" bioGuideId="T000464" chamber="S" congress="113" gpoId="8258" party="D" role="COSPONSOR" state="MT">
+                      <name type="parsed">Mr. Tester</name>
+                      <name type="authority-fnf">Jon Tester</name>
+                      <name type="authority-lnf">Tester, Jon</name>
+                </congMember>
+ <congCalendar congress="113" number="152" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section number="1f"></section>
+                      <section number="7111"></section>
+                      <section detail="(b)" number="7112"></section>
+                      <section detail="(d)(2)" number="7113"></section>
+                      <section detail="(a)(1)" number="7123"></section>
+                      <section detail="(e)(3)(B)(iii)" number="7124"></section>
+                      <section detail="(a)(4)" number="7125"></section>
+                      <section detail="(a)" number="7127"></section>
+                      <section number="7128"></section>
+                      <section number="7144"></section>
+                      <section number="7152"></section>
+                </USCode>
+ <USCode title="30">
+                      <section detail="(h)" number="1240a"></section>
+                      <section number="262"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="15907"></section>
+                      <section detail="(c)" number="17022"></section>
+                </USCode>
+ <USCode title="50">
+                      <section number="167a"></section>
+                      <section number="167b"></section>
+                      <section number="167c"></section>
+                      <section number="167d"></section>
+                      <section number="167"></section>
+                      <section detail="et seq." number="167"></section>
+                      <section detail="note" number="167"></section>
+                      <section number="167f"></section>
+                      <section number="167l"></section>
+                      <section number="167m"></section>
+                </USCode>
+</extension>
+</mods>

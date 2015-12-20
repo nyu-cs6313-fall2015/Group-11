@@ -1,0 +1,247 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee186831a03">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide for enhanced embassy security, and for other purposes.;
+   		S. 1386 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-12-10</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide for enhanced embassy security, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1386 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-12-09</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>36 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee186831a03</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1386rs</identifier>
+<identifier type="preferred citation">S. 1386</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1386_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1386rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1386rs/html/BILLS-113s1386rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1386rs/pdf/BILLS-113s1386rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1386rs/xml/BILLS-113s1386rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-12-10</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1386rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Robert Menendez</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bob Corker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dianne Feinstein</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Foreign Relations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 5983note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 5983note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 2701</partNumber>
+  <partNumber>Title 22 Section 295</partNumber>
+  <partNumber>Title 22 Section 4064(g)</partNumber>
+  <partNumber>Title 22 Section 4802</partNumber>
+  <partNumber>Title 22 Section 4824</partNumber>
+  <partNumber>Title 22 Section 4831</partNumber>
+  <partNumber>Title 22 Section 4831et seq.</partNumber>
+  <partNumber>Title 22 Section 4832</partNumber>
+  <partNumber>Title 22 Section 4832(a)</partNumber>
+  <partNumber>Title 22 Section 4832(b)(2)</partNumber>
+  <partNumber>Title 22 Section 4834</partNumber>
+  <partNumber>Title 22 Section 4834(a)</partNumber>
+  <partNumber>Title 22 Section 4851et seq.</partNumber>
+  <partNumber>Title 22 Section 4864(c)(3)</partNumber>
+  <partNumber>Title 22 Section 4865note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 2701</identifier>
+ <identifier type="USC citation">22 U.S.C. 295</identifier>
+ <identifier type="USC citation">22 U.S.C. 4064(g)</identifier>
+ <identifier type="USC citation">22 U.S.C. 4802</identifier>
+ <identifier type="USC citation">22 U.S.C. 4824</identifier>
+ <identifier type="USC citation">22 U.S.C. 4831</identifier>
+ <identifier type="USC citation">22 U.S.C. 4831et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 4832</identifier>
+ <identifier type="USC citation">22 U.S.C. 4832(a)</identifier>
+ <identifier type="USC citation">22 U.S.C. 4832(b)(2)</identifier>
+ <identifier type="USC citation">22 U.S.C. 4834</identifier>
+ <identifier type="USC citation">22 U.S.C. 4834(a)</identifier>
+ <identifier type="USC citation">22 U.S.C. 4851et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 4864(c)(3)</identifier>
+ <identifier type="USC citation">22 U.S.C. 4865note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 113 Page 1501A-453</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">113 Stat.	1501A-453</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 106-113</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 106-113</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-5</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-5</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-239</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-239</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 257</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1386rs</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1386</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <action date="2013-12-09">Reported by Mr. Menendez, with amendments</action>
+ <action date="2013-07-30">Mr. Menendez (for himself, Mr. Corker, and Mrs. Feinstein) introduced the following bill; which was read twice and referred to the Committee on Foreign Relations</action>
+ <congCommittee authorityId="ssfr00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Foreign Relations</name>
+                      <name type="authority-short">Foreign Relations</name>
+                </congCommittee>
+ <congMember authorityId="791" bioGuideId="M000639" chamber="S" congress="113" gpoId="8239" party="D" role="SPONSOR" state="NJ">
+                      <name type="parsed">Mr. Menendez</name>
+                      <name type="authority-fnf">Robert Menendez</name>
+                      <name type="authority-lnf">Menendez, Robert</name>
+                </congMember>
+ <congMember authorityId="1825" bioGuideId="C001071" chamber="S" congress="113" gpoId="8294" party="R" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. Corker</name>
+                      <name type="authority-fnf">Bob Corker</name>
+                      <name type="authority-lnf">Corker, Bob</name>
+                </congMember>
+ <congMember authorityId="1332" bioGuideId="F000062" chamber="S" congress="113" gpoId="8338" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Feinstein</name>
+                      <name type="authority-fnf">Dianne Feinstein</name>
+                      <name type="authority-lnf">Feinstein, Dianne</name>
+                </congMember>
+ <law congress="106" isPrivate="false" number="113"></law>
+ <law congress="111" isPrivate="false" number="5"></law>
+ <law congress="112" isPrivate="false" number="239"></law>
+ <congCalendar congress="113" number="257" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section detail="note" number="5983"></section>
+                </USCode>
+ <USCode title="22">
+                      <section number="2701"></section>
+                      <section number="295"></section>
+                      <section detail="(g)" number="4064"></section>
+                      <section number="4802"></section>
+                      <section number="4824"></section>
+                      <section number="4831"></section>
+                      <section detail="et seq." number="4831"></section>
+                      <section number="4832"></section>
+                      <section detail="(a)" number="4832"></section>
+                      <section detail="(b)(2)" number="4832"></section>
+                      <section number="4834"></section>
+                      <section detail="(a)" number="4834"></section>
+                      <section detail="et seq." number="4851"></section>
+                      <section detail="(c)(3)" number="4864"></section>
+                      <section detail="note" number="4865"></section>
+                </USCode>
+ <statuteAtLarge volume="113">
+                      <pages pages="1501A-453"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

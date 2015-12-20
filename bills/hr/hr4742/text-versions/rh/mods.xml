@@ -1,0 +1,343 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18a82fa2e">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Magnuson-Stevens Fishery Conservation and Management Act to provide flexibility for fishery managers and stability for fishermen, and for other purposes.;
+   		Strengthening Fishing Communities and Increasing Flexibility in Fisheries Management Act;H.R. 4742 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-12-24</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Magnuson-Stevens Fishery Conservation and Management Act to provide flexibility for fishery managers and stability for fishermen, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Strengthening Fishing Communities and Increasing Flexibility in Fisheries Management Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4742 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-12-22</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>54 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18a82fa2e</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4742rh</identifier>
+<identifier type="preferred citation">H.R. 4742</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4742_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4742rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4742rh/html/BILLS-113hr4742rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4742rh/pdf/BILLS-113hr4742rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr4742rh/xml/BILLS-113hr4742rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-12-24</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-12-24</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr4742rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Doc Hastings</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 661</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 661</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 601et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 601et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 713c-3</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 713c-3</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1431et seq.</partNumber>
+  <partNumber>Title 16 Section 1531et seq.</partNumber>
+  <partNumber>Title 16 Section 1801</partNumber>
+  <partNumber>Title 16 Section 1801(b)(3)</partNumber>
+  <partNumber>Title 16 Section 1801et seq.</partNumber>
+  <partNumber>Title 16 Section 1802</partNumber>
+  <partNumber>Title 16 Section 1803</partNumber>
+  <partNumber>Title 16 Section 1851</partNumber>
+  <partNumber>Title 16 Section 1851note</partNumber>
+  <partNumber>Title 16 Section 1852</partNumber>
+  <partNumber>Title 16 Section 1852(a)</partNumber>
+  <partNumber>Title 16 Section 1852(a)(3)</partNumber>
+  <partNumber>Title 16 Section 1852(b)(2)</partNumber>
+  <partNumber>Title 16 Section 1852(g)(1)(B)</partNumber>
+  <partNumber>Title 16 Section 1852(i)(2)</partNumber>
+  <partNumber>Title 16 Section 1853a(c)(6)(D)</partNumber>
+  <partNumber>Title 16 Section 1853</partNumber>
+  <partNumber>Title 16 Section 1854(a)(2)</partNumber>
+  <partNumber>Title 16 Section 1854(b)</partNumber>
+  <partNumber>Title 16 Section 1854(d)(2)</partNumber>
+  <partNumber>Title 16 Section 1854(e)</partNumber>
+  <partNumber>Title 16 Section 1854(e)(1)</partNumber>
+  <partNumber>Title 16 Section 1855(c)(3)(B)</partNumber>
+  <partNumber>Title 16 Section 1855(e)</partNumber>
+  <partNumber>Title 16 Section 1856(a)(3)(C)</partNumber>
+  <partNumber>Title 16 Section 1856(b)</partNumber>
+  <partNumber>Title 16 Section 1861a</partNumber>
+  <partNumber>Title 16 Section 1861a(1)</partNumber>
+  <partNumber>Title 16 Section 1861a(a)</partNumber>
+  <partNumber>Title 16 Section 1861a(d)(2)(B)</partNumber>
+  <partNumber>Title 16 Section 1867</partNumber>
+  <partNumber>Title 16 Section 1881a(b)</partNumber>
+  <partNumber>Title 16 Section 1881c</partNumber>
+  <partNumber>Title 16 Section 1881(g)</partNumber>
+  <partNumber>Title 16 Section 1881et seq.</partNumber>
+  <partNumber>Title 16 Section 1883</partNumber>
+  <partNumber>Title 16 Section 431et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1431et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1531et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1801</identifier>
+ <identifier type="USC citation">16 U.S.C. 1801(b)(3)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1801et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1802</identifier>
+ <identifier type="USC citation">16 U.S.C. 1803</identifier>
+ <identifier type="USC citation">16 U.S.C. 1851</identifier>
+ <identifier type="USC citation">16 U.S.C. 1851note</identifier>
+ <identifier type="USC citation">16 U.S.C. 1852</identifier>
+ <identifier type="USC citation">16 U.S.C. 1852(a)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1852(a)(3)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1852(b)(2)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1852(g)(1)(B)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1852(i)(2)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1853a(c)(6)(D)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1853</identifier>
+ <identifier type="USC citation">16 U.S.C. 1854(a)(2)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1854(b)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1854(d)(2)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1854(e)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1854(e)(1)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1855(c)(3)(B)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1855(e)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1856(a)(3)(C)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1856(b)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1861a</identifier>
+ <identifier type="USC citation">16 U.S.C. 1861a(1)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1861a(a)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1861a(d)(2)(B)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1867</identifier>
+ <identifier type="USC citation">16 U.S.C. 1881a(b)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1881c</identifier>
+ <identifier type="USC citation">16 U.S.C. 1881(g)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1881et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1883</identifier>
+ <identifier type="USC citation">16 U.S.C. 431et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 4321et seq.</partNumber>
+  <partNumber>Title 42 Section 4371et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 4321et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 4371et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 46 Section 53702</partNumber>
+  <partNumber>Title 46 Section 53702(b)(2)</partNumber>
+  <partNumber>Title 46 Section 53735</partNumber>
+  <partNumber>Title 46 Section 53735(c)(4)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">46 U.S.C. 53702</identifier>
+ <identifier type="USC citation">46 U.S.C. 53702(b)(2)</identifier>
+ <identifier type="USC citation">46 U.S.C. 53735</identifier>
+ <identifier type="USC citation">46 U.S.C. 53735(c)(4)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 117 Page 80</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">117 Stat.	80</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 105-277</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 105-277</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-7</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-7</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-141</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-141</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 542</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr4742rh</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>4742</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle>Strengthening Fishing Communities and Increasing Flexibility in Fisheries Management Act</shortTitle>
+ <action date="2014-05-23">Mr. Hastings of Washington introduced the following bill; which was referred to the Committee on Natural Resources</action>
+ <action date="2014-12-22">Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action>
+ <congCommittee authorityId="hsii00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="512" bioGuideId="H000329" chamber="H" congress="113" gpoId="8208" party="R" role="SPONSOR" state="WA">
+                      <name type="parsed">Mr. Hastings of Washington</name>
+                      <name type="authority-fnf">Doc Hastings</name>
+                      <name type="authority-lnf">Hastings, Doc</name>
+                </congMember>
+ <law congress="105" isPrivate="false" number="277"></law>
+ <law congress="108" isPrivate="false" number="7"></law>
+ <law congress="112" isPrivate="false" number="141"></law>
+ <congCalendar congress="113" number="542" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section number="661"></section>
+                </USCode>
+ <USCode title="5">
+                      <section detail="et seq." number="601"></section>
+                </USCode>
+ <USCode title="15">
+                      <section number="713c-3"></section>
+                </USCode>
+ <USCode title="16">
+                      <section detail="et seq." number="1431"></section>
+                      <section detail="et seq." number="1531"></section>
+                      <section number="1801"></section>
+                      <section detail="(b)(3)" number="1801"></section>
+                      <section detail="et seq." number="1801"></section>
+                      <section number="1802"></section>
+                      <section number="1803"></section>
+                      <section number="1851"></section>
+                      <section detail="note" number="1851"></section>
+                      <section number="1852"></section>
+                      <section detail="(a)" number="1852"></section>
+                      <section detail="(a)(3)" number="1852"></section>
+                      <section detail="(b)(2)" number="1852"></section>
+                      <section detail="(g)(1)(B)" number="1852"></section>
+                      <section detail="(i)(2)" number="1852"></section>
+                      <section detail="(c)(6)(D)" number="1853a"></section>
+                      <section number="1853"></section>
+                      <section detail="(a)(2)" number="1854"></section>
+                      <section detail="(b)" number="1854"></section>
+                      <section detail="(d)(2)" number="1854"></section>
+                      <section detail="(e)" number="1854"></section>
+                      <section detail="(e)(1)" number="1854"></section>
+                      <section detail="(c)(3)(B)" number="1855"></section>
+                      <section detail="(e)" number="1855"></section>
+                      <section detail="(a)(3)(C)" number="1856"></section>
+                      <section detail="(b)" number="1856"></section>
+                      <section number="1861a"></section>
+                      <section detail="(1)" number="1861a"></section>
+                      <section detail="(a)" number="1861a"></section>
+                      <section detail="(d)(2)(B)" number="1861a"></section>
+                      <section number="1867"></section>
+                      <section detail="(b)" number="1881a"></section>
+                      <section number="1881c"></section>
+                      <section detail="(g)" number="1881"></section>
+                      <section detail="et seq." number="1881"></section>
+                      <section number="1883"></section>
+                      <section detail="et seq." number="431"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="4321"></section>
+                      <section detail="et seq." number="4371"></section>
+                </USCode>
+ <USCode title="46">
+                      <section number="53702"></section>
+                      <section detail="(b)(2)" number="53702"></section>
+                      <section number="53735"></section>
+                      <section detail="(c)(4)" number="53735"></section>
+                </USCode>
+ <statuteAtLarge volume="117">
+                      <pages pages="80"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

@@ -1,0 +1,180 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-29T17:58:00-04:00", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "The House Committee on Rules reported an original measure, H. Rept. 113-566, by Mr. Nugent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-29T17:58:00-04:00", 
+      "bill_ids": [
+        "hres676-113", 
+        "hr935-113"
+      ], 
+      "references": [], 
+      "text": "The resolution provides for consideration of both H. Res. 676 and H.R. 935 in the House. Both measures are debatable for one hour.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-29T17:58:00-04:00", 
+      "calendar": "House", 
+      "number": "131", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the House Calendar, Calendar No. 131.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-07-30T12:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7058-7070", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30T12:45:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 694.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30T14:05:00-04:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 694, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Ms. Slaughter demanded the yeas and nays, and the Chair postponed further proceedings on ordering the previous question until later in the legislative day.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30T15:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7085-7086", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30T16:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7085-7086", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On ordering the previous question Agreed to by the Yeas and Nays: 227 - 195 (Roll no. 465).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30T16:34:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7058-7059", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "466", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 196 (Roll no. 466).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres694-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-29T17:58:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-07-30T16:34:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-29", 
+  "number": "694", 
+  "official_title": "Providing for consideration of the resolution (H. Res. 676) providing for authority to initiate litigation for actions by the President or other executive branch officials inconsistent with their duties under the Constitution of the United States; providing for consideration of the bill (H.R. 935) to amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes; and providing for proceedings during the period from August 1, 2014, through September 5, 2014.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres676-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres676-113", 
+      "reason": "rule", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres676-113", 
+      "reason": "ruled-by", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr935-113", 
+      "reason": "ruled-by", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "11", 
+    "name": "Nugent, Richard B.", 
+    "state": "FL", 
+    "thomas_id": "02001", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-07-30T16:34:00-04:00", 
+  "subjects": [
+    "Congress", 
+    "House of Representatives", 
+    "Legislative rules and procedure"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-29", 
+    "text": "Sets forth the rule for consideration of the resolution (H. Res. 676) providing for authority to initiate litigation for actions by the President or other executive branch officials inconsistent with their duties under the Constitution of the United States; providing for consideration of the bill (H.R. 935) to amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes; and providing for proceedings during the period from August 1, 2014, through September 5, 2014."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the resolution (H. Res. 676) providing for authority to initiate litigation for actions by the President or other executive branch officials inconsistent with their duties under the Constitution of the United States; providing for consideration of the bill (H.R. 935) to amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes; and providing for proceedings during the period from August 1, 2014, through September 5, 2014.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:18:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE694:@@@L&summ2=m&"
+}

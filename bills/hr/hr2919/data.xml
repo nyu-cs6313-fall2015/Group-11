@@ -1,0 +1,88 @@
+<bill session="113" type="h" number="2919" updated="2015-09-01T10:19:55-04:00">
+  <state datetime="2014-05-06T18:10:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-05-06T18:10:00-04:00"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Open Book on Equal Access to Justice Act</title>
+    <title type="short" as="reported to house">Open Book on Equal Access to Justice Act</title>
+    <title type="short" as="passed house">Open Book on Equal Access to Justice Act</title>
+    <title type="official" as="introduced">To amend titles 5 and 28, United States Code, to require annual reports to Congress on, and the maintenance of databases on, awards of fees and other expenses to prevailing parties in certain administrative proceedings and court cases to which the United States is a party, and for other purposes.</title>
+  </titles>
+  <sponsor id="412294"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2014-03-13"/>
+    <cosponsor id="412236" joined="2013-08-01"/>
+    <cosponsor id="412531" joined="2013-08-01"/>
+    <cosponsor id="412549" joined="2013-10-16"/>
+    <cosponsor id="412530" joined="2013-08-01"/>
+    <cosponsor id="400316" joined="2014-03-13"/>
+    <cosponsor id="412315" joined="2013-10-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2014-02-04">
+      <text>Subcommittee on the Constitution and Civil Justice Discharged.</text>
+    </action>
+    <action datetime="2014-02-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-02-05" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-05-06T14:25:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 113-434.</text>
+    </action>
+    <calendar datetime="2014-05-06T14:26:00-04:00" calendar="Union" number="322">
+      <text>Placed on the Union Calendar, Calendar No. 322.</text>
+    </calendar>
+    <action datetime="2014-05-06T17:55:00-04:00">
+      <text>Mr. Chabot moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-05-06T17:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3430-3433" label="consideration"/>
+    </action>
+    <action datetime="2014-05-06T17:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2919.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-05-06T18:10:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3430-3431" label="text"/>
+    </vote>
+    <action datetime="2014-05-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="2770"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Government liability"/>
+    <term name="Legal fees and court costs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2014--Passed House without amendment.
+Open Book on Equal Access to Justice Act - Amends the Equal Access to Justice Act and the federal judicial code to require the Chairman of the Administrative Conference of the United States to report to Congress annually on the amount of fees and other expenses awarded to prevailing parties other than the United States in certain administrative proceedings and civil action court cases (excluding tort cases) to which the United States is a party, including settlement agreements.
+
+Requires that such reports: (1) describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information that may aid Congress in evaluating the scope and impact of such awards; and (2) be made available to the public online.
+
+Directs the Chairman to create and maintain online a searchable database containing specified information with respect to each award including the name of the agency involved, the name of each party to whom the award was made, the amount of the award, and the basis for finding that the position of the agency concerned was not substantially justified.
+
+Directs the head of each agency (including, with respect to court cases, the Attorney General [DOJ] and the Director of the Administrative Office of the United States Courts) to provide the Chairman all information requested to produce such reports.</summary>
+</bill>

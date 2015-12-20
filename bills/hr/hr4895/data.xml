@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="4895" updated="2015-09-01T10:20:46-04:00">
+  <state datetime="2014-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-18"/>
+  </status>
+  <introduced datetime="2014-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Microbead-Free Waters Act of 2014</title>
+    <title type="official" as="introduced">To prohibit the sale or distribution of cosmetics containing synthetic plastic microbeads.</title>
+  </titles>
+  <sponsor id="400308"/>
+  <cosponsors>
+    <cosponsor id="412571" joined="2014-07-22"/>
+    <cosponsor id="412272" joined="2014-09-09"/>
+    <cosponsor id="400295" joined="2014-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-06-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="2902"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Marine pollution"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2014--Introduced.
+Microbead-Free Waters Act of 2014 - Amends the Federal Food, Drug, and Cosmetic Act to prohibit, beginning January 1, 2018, the distribution of a cosmetic that contains synthetic plastic microbeads.</summary>
+</bill>

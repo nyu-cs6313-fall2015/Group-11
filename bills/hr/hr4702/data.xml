@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="4702" updated="2015-09-01T10:20:40-04:00">
+  <state datetime="2014-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-21"/>
+  </status>
+  <introduced datetime="2014-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Space Protection Strategy Extension Act</title>
+    <title type="official" as="introduced">To extend until 2030 the time period required to be covered by the United States Space Protection Strategy.</title>
+  </titles>
+  <sponsor id="412276"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-05-21" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-05-21">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2014-05-21">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2014-06-20">
+      <text>Referred to the Subcommittee on Strategic Forces.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS29" subcommittee="Strategic Forces" name="House Armed Services"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Military readiness"/>
+    <term name="Spacecraft and satellites"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2014--Introduced.
+Space Protection Strategy Extension Act - Amends the National Defense Authorization Act for FY2008 to extend the time period required to be covered by the United States Space Protection Strategy through FY2030 (currently, FY2025).</summary>
+</bill>

@@ -1,0 +1,215 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18a592f9c">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Internal Revenue Code of 1986 to extend certain expiring provisions and make technical corrections, and for other purposes.;
+   		H.R. 5771 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-12-02</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Internal Revenue Code of 1986 to extend certain expiring provisions and make technical corrections, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5771 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-12-01</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>123 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18a592f9c</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5771ih</identifier>
+<identifier type="preferred citation">H.R. 5771</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5771_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5771ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5771ih/html/BILLS-113hr5771ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5771ih/pdf/BILLS-113hr5771ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr5771ih/xml/BILLS-113hr5771ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-12-02</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2014-12-02</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr5771ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Dave Camp</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Budget</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 431et seq.</partNumber>
+  <partNumber>Title 2 Section 432(e)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 431et seq.</identifier>
+ <identifier type="USC citation">2 U.S.C. 432(e)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 1055(g)(3)(B)</partNumber>
+  <partNumber>Title 29 Section 1056(g)</partNumber>
+  <partNumber>Title 29 Section 1056(g)(9)</partNumber>
+  <partNumber>Title 29 Section 1083(c)</partNumber>
+  <partNumber>Title 29 Section 1083(h)</partNumber>
+  <partNumber>Title 29 Section 1084(d)(1)(C)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 1055(g)(3)(B)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1056(g)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1056(g)(9)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1083(c)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1083(h)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1084(d)(1)(C)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1324(b)</partNumber>
+  <partNumber>Title 31 Section 1324(b)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1324(b)</identifier>
+ <identifier type="USC citation">31 U.S.C. 1324(b)(2)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 52 Section 30101</partNumber>
+  <partNumber>Title 52 Section 30102(e)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">52 U.S.C. 30101</identifier>
+ <identifier type="USC citation">52 U.S.C. 30102(e)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr5771ih</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5771</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <action date="2014-12-01">Mr. Camp introduced the following bill; which was referred to the Committee on Ways and Means, and in addition to the Committees on Education and the Workforce and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsbu00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on the Budget</name>
+                      <name type="authority-short">The Budget</name>
+                </congCommittee>
+ <congCommittee authorityId="hsed00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congCommittee authorityId="hswm00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="166" bioGuideId="C000071" chamber="H" congress="113" gpoId="7989" party="R" role="SPONSOR" state="MI">
+                      <name type="parsed">Mr. Camp</name>
+                      <name type="authority-fnf">Dave Camp</name>
+                      <name type="authority-lnf">Camp, Dave</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section detail="et seq." number="431"></section>
+                      <section detail="(e)" number="432"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="(g)(3)(B)" number="1055"></section>
+                      <section detail="(g)" number="1056"></section>
+                      <section detail="(g)(9)" number="1056"></section>
+                      <section detail="(c)" number="1083"></section>
+                      <section detail="(h)" number="1083"></section>
+                      <section detail="(d)(1)(C)" number="1084"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="(b)" number="1324"></section>
+                      <section detail="(b)(2)" number="1324"></section>
+                </USCode>
+ <USCode title="52">
+                      <section number="30101"></section>
+                      <section detail="(e)" number="30102"></section>
+                </USCode>
+</extension>
+</mods>

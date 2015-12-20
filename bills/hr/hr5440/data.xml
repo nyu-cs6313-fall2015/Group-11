@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="5440" updated="2015-09-01T10:21:00-04:00">
+  <state datetime="2014-09-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-09-10"/>
+  </status>
+  <introduced datetime="2014-09-10"/>
+  <titles>
+    <title type="short" as="introduced">Verified And Legitimate ID (VALID) Act of 2014</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, to prohibit the Transportation Security Administration from accepting as valid identification an I-862 Notice to Appear form.</title>
+  </titles>
+  <sponsor id="400656"/>
+  <cosponsors>
+    <cosponsor id="400206" joined="2014-09-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-10" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2014-09-12">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+    </action>
+    <action datetime="2014-09-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H7539"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Government information and archives"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>9/10/2014--Introduced.
+Verified And Legitimate ID (VALID) Act of 2014 - Prohibits the Transportation Security Administration (TSA) from accepting an I-862 Notice to Appear form as identification in the course of a passenger screening.</summary>
+</bill>

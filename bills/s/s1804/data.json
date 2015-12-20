@@ -1,0 +1,150 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-11", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-23", 
+      "committees": [
+        "SSCM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "committee": "Commerce, Science, and Transportation", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-273.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "calendar": "Senate Legislative", 
+      "number": "598", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 598.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1804-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }, 
+    {
+      "activity": [
+        "other legislative involvement"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2013-12-11", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-11-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-12-11", 
+  "number": "1804", 
+  "official_title": "A bill to amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1204-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1204-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Aviation Security Stakeholder Participation Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Tester, Jon", 
+    "state": "MT", 
+    "thomas_id": "01829", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-07-23", 
+  "subjects": [
+    "Advisory bodies", 
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Executive agency funding and structure", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Reported to Senate amended", 
+    "date": "2014-11-17", 
+    "text": "Aviation Security Stakeholder Participation Act of 2014 - Directs the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA]) to establish in the TSA an aviation security advisory committee.\n\nRequires the Assistant Secretary to consult with the Advisory Committee on aviation security matters.\n\nRequires the Advisory Committee to develop, upon the Assistant Secretary's request, recommendations to improve aviation security.\n\nRequires the Assistant Secretary to appoint to the Advisory Committee members representing up to 34 member organizations, including air carriers, all-cargo air transportation, indirect air carriers, labor organizations representing air carrier employees as well as those representing transportation security officers, aircraft manufacturers, airport operators, airport construction and maintenance contractors as well as labor organizations representing them, general aviation, privacy organizations, the travel industry, airport-based businesses, businesses that conduct security operations at airports, aeronautical repair stations, passenger advocacy groups, the aviation security technology industry (including screening technology and biometrics), victims of terrorist acts against aviation, and law enforcement and security experts.\n\nEstablishes within the Advisory Committee: (1) an air cargo security subcommittee; (2) a general aviation subcommittee; (3) an airport perimeter security and access control subcommittee; and (4) a security technology subcommittee. Requires all subcommittees to consider risk-based security approaches in the performance of their functions with respect to transportation security."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Aviation Security Stakeholder Participation Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Aviation Security Stakeholder Participation Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T17:50:42-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1804:@@@L&summ2=m&"
+}

@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4760-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "19", 
+      "name": "Neugebauer, Randy", 
+      "sponsored_at": "2014-06-02", 
+      "state": "TX", 
+      "thomas_id": "01758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-29", 
+  "number": "4760", 
+  "official_title": "To amend title 38, United States Code, to improve the ability of veterans to receive health care at private medical facilities.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3230-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4841-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Veterans' Health Care Flexibility Act", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Ribble, Reid J.", 
+    "state": "WI", 
+    "thomas_id": "02073", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-05-29", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Health facilities and institutions", 
+    "Public contracts and procurement", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-05-29", 
+    "text": "Veterans' Health Care Flexibility Act - Allows veterans who are eligible to receive hospital care and medical services from the Department of Veterans Affairs (VA) to elect to receive such care and services at non-VA facilities.\n\nDirects the VA Secretary to contract with non-VA facilities to furnish hospital care and medical services to such veterans."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans' Health Care Flexibility Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to improve the ability of veterans to receive health care at private medical facilities.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:42-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4760:@@@L&summ2=m&"
+}

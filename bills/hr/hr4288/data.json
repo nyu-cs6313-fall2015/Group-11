@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-24", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4288-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-24", 
+  "number": "4288", 
+  "official_title": "To provide certain protections from civil liability with respect to the emergency administration of opioid overdose drugs.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2092-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Opioid Overdose Reduction Act of 2014", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Neal, Richard E.", 
+    "state": "MA", 
+    "thomas_id": "00854", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-03-24", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Drug, alcohol, tobacco use", 
+    "Emergency medical services and trauma care", 
+    "Federal preemption", 
+    "Health", 
+    "Health personnel", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-03-24", 
+    "text": "Opioid Overdose Reduction Act of 2014 - Exempts from liability for harm caused by the emergency administration of an opioid overdose drug:\n\n a health care professional who prescribes or provides such a drug to an individual at risk of experiencing an opioid overdose, or to another person in a position to assist such individual, if the individual has been educated about opioid overdose prevention and treatment by the health care professional or as part of a government opioid overdose program; a person who provides such a drug for emergency administration to an individual authorized to receive it as part of an opioid overdose program; and a person who provides for emergency administration of such a drug to an individual who reasonably appears to have suffered an overdose from heroin or another opioid if such person obtained such drug from a health care professional or as part of an opioid overdose program and was educated by such professional or program in the proper administration of such drug. Makes such exemptions inapplicable if the harm was caused by gross negligence or reckless misconduct."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Opioid Overdose Reduction Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide certain protections from civil liability with respect to the emergency administration of opioid overdose drugs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:30-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4288:@@@L&summ2=m&"
+}

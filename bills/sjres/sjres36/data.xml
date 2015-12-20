@@ -1,0 +1,69 @@
+<bill session="113" type="sj" number="36" updated="2015-09-01T10:21:15-04:00">
+  <state datetime="2014-07-31">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-05-22"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution relating to the approval and implementation of the proposed agreement for nuclear cooperation between the United States and the Socialist Republic of Vietnam.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="412582" joined="2014-06-04"/>
+    <cosponsor id="412323" joined="2014-06-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="2014-07-22" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-07-29">
+      <text>Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. With written report No. 113-221.</text>
+    </action>
+    <calendar datetime="2014-07-29" calendar="Senate Legislative" under="General Orders" number="494">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 494.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="2014-07-31" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+      <reference ref="CR 8/1/2014 S5312-5313" label="consideration"/>
+      <reference ref="CR 8/1/2014 S5312-5313" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2014-08-01T10:52:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Congressional oversight"/>
+    <term name="International law and treaties"/>
+    <term name="Licensing and registrations"/>
+    <term name="Nuclear power"/>
+    <term name="Trade restrictions"/>
+    <term name="Vietnam"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2014--Passed Senate amended.
+States that: (1) Congress favors the Agreement for Cooperation Between the Government of the United States of America and the Government of the Socialist Republic of Vietnam Concerning Peaceful Uses of Nuclear Energy, signed on May 6, 2014; and (2) such Agreement becomes effective in accordance with this joint resolution and other applicable law.
+
+Prohibits issuance of any export license pursuant to a civil nuclear cooperation agreement 30 years after the agreement's entry into force unless:
+
+ (1) the President, within the agreement's final five years, has certified to Congress that the party to such agreement has continued to fulfill its terms and conditions and that the agreement continues to be in the interest of the United States; and (2) Congress enacts a joint resolution permitting the continuation of the agreement for an additional period of not more than 30 years. Exempts from such restriction:
+
+ any agreement that had entered into force as of August 1, 2014, any agreement with the Taipei Economic and Cultural Representative Office in the United States (TECRO) or the International Atomic Energy Agency (IAEA), or any amendment to any such agreement. States that the Nuclear Proliferation Assessment Statement required to be submitted by the Secretary State to the President shall also be submitted to Congress and shall be accompanied by a classified annex identifying all classified information related to the agreement to which such Nuclear Proliferation Assessment Statement applies, and shall include the following:
+
+ an assessment of the proposed agreement for cooperation; an assessment of the adequacy of safeguards and other control mechanisms and the peaceful use assurances contained in the agreement for cooperation; a historical assessment of past proliferation activity of the cooperating party; a list of all the treaties and agreements related to non-proliferation of weapons of mass destruction to which the cooperating party is also a party; an assessment of the cooperating party's national laws that govern the non-proliferation of materials or equipment related to weapons of mass destruction; an explanation for the negotiated duration of the agreement; a comparison of the agreement to other existing civil nuclear cooperation agreements between the United States and other states in the region; an assessment of the strategic, security, stability, and regional considerations throughout the negotiation of this agreement; and an assessment of the physical and environmental security of the waste-cycle.</summary>
+</bill>

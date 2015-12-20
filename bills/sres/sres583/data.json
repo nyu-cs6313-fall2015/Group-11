@@ -1,0 +1,135 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-19", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6157", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6220", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sres583-113", 
+  "bill_type": "sres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Chambliss, Saxby", 
+      "sponsored_at": "2014-11-20", 
+      "state": "GA", 
+      "thomas_id": "00188", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-11-20", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-11-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-11-20", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-11-19", 
+  "number": "583", 
+  "official_title": "A resolution designating November 30, 2014, as \"Drive Safer Sunday\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sres302-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Isakson, Johnny", 
+    "state": "GA", 
+    "thomas_id": "01608", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-11-20", 
+  "subjects": [
+    "Commemorative events and holidays", 
+    "Motor carriers", 
+    "Motor vehicles", 
+    "Roads and highways", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2014-11-20", 
+    "text": "Encourages educational institutions, national trucking firms, clergy, law enforcement, motorists, and the general public to promote motor vehicle driving safety.\n\nDesignates November 30, 2014, Drive Safer Sunday."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A resolution designating November 30, 2014, as \"Drive Safer Sunday\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SE583:@@@L&summ2=m&"
+}

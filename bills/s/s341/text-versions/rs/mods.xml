@@ -1,0 +1,208 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee186232ed5">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To designate certain lands in San Miguel, Ouray, and San Juan Counties, Colorado, as wilderness, and for other purposes.;
+   		San Juan Mountains Wilderness Act;S. 341 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-09-11</dateIngested>
+</extension>
+<titleInfo>
+ <title>To designate certain lands in San Miguel, Ouray, and San Juan Counties, Colorado, as wilderness, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>San Juan Mountains Wilderness Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 341 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-09-10</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>14 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee186232ed5</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s341rs</identifier>
+<identifier type="preferred citation">S. 341</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s341_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s341rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s341rs/html/BILLS-113s341rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s341rs/pdf/BILLS-113s341rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s341rs/xml/BILLS-113s341rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-09-11</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s341rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mark Udall</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael F. Bennet</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Energy and Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1132note</partNumber>
+  <partNumber>Title 16 Section 1133(d)(4)</partNumber>
+  <partNumber>Title 16 Section 1600et seq.</partNumber>
+  <partNumber>Title 16 Section 460zzz-6</partNumber>
+  <partNumber>Title 16 Section 460zzz-7</partNumber>
+  <partNumber>Title 16 Section 460zzz</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1132note</identifier>
+ <identifier type="USC citation">16 U.S.C. 1133(d)(4)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1600et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 460zzz-6</identifier>
+ <identifier type="USC citation">16 U.S.C. 460zzz-7</identifier>
+ <identifier type="USC citation">16 U.S.C. 460zzz</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1782(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1782(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 107 Page 756</partNumber>
+  <partNumber>Volume 107 Page 762</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">107 Stat.	756</identifier>
+ <identifier type="Statute citation">107 Stat.	762</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 103-77</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 103-77</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-11</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-11</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 177</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s341rs</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>341</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle>San Juan Mountains Wilderness Act</shortTitle>
+ <action date="2013-02-14">Mr. Udall of Colorado (for himself and Mr. Bennet) introduced the following bill; which was read twice and referred to the Committee on Energy and Natural Resources</action>
+ <action date="2013-09-10">Reported by Mr. Wyden, with amendments</action>
+ <congCommittee authorityId="sseg00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Energy and Natural Resources</name>
+                      <name type="authority-short">Energy and Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="1595" bioGuideId="U000038" chamber="S" congress="113" gpoId="8259" party="D" role="SPONSOR" state="CO">
+                      <name type="parsed">Mr. Udall of Colorado</name>
+                      <name type="authority-fnf">Mark Udall</name>
+                      <name type="authority-lnf">Udall, Mark</name>
+                </congMember>
+ <congMember authorityId="1965" bioGuideId="B001267" chamber="S" congress="113" gpoId="8302" party="D" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Bennet</name>
+                      <name type="authority-fnf">Michael F. Bennet</name>
+                      <name type="authority-lnf">Bennet, Michael F.</name>
+                      <name type="authority-other">Michael Bennet</name>
+                </congMember>
+ <law congress="103" isPrivate="false" number="77"></law>
+ <law congress="111" isPrivate="false" number="11"></law>
+ <congCalendar congress="113" number="177" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section detail="note" number="1132"></section>
+                      <section detail="(d)(4)" number="1133"></section>
+                      <section detail="et seq." number="1600"></section>
+                      <section number="460zzz-6"></section>
+                      <section number="460zzz-7"></section>
+                      <section number="460zzz"></section>
+                </USCode>
+ <USCode title="43">
+                      <section detail="(c)" number="1782"></section>
+                </USCode>
+ <statuteAtLarge volume="107">
+                      <pages pages="756"></pages>
+                      <pages pages="762"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

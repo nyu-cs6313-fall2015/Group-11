@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-15", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5037-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Financial Institutions and Consumer Credit", 
+      "subcommittee_id": "15"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "18", 
+      "name": "Murphy, Patrick", 
+      "sponsored_at": "2014-07-09", 
+      "state": "FL", 
+      "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-09", 
+  "number": "5037", 
+  "official_title": "To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to improve the transparency, accountability, governance, and operations of the Office of Financial Research, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Office of Financial Research Accountability Act of 2014", 
+  "sponsor": {
+    "district": "39", 
+    "name": "Royce, Edward R.", 
+    "state": "CA", 
+    "thomas_id": "00998", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-09", 
+  "subjects": [
+    "Advisory bodies", 
+    "Banking and financial institutions regulation", 
+    "Business records", 
+    "Computer security and identity theft", 
+    "Department of the Treasury", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Performance measurement"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-09", 
+    "text": "The Office of Financial Research Accountability Act of 2014 - Amends the Dodd-Frank Wall Street Reform and Consumer Protection Act to require the Director of the Office of Financial Research to publish annually, after a period of 60 days for public notice and comment, a detailed work plan concerning the Office priorities for the upcoming fiscal year.\n\nRequires the Office to develop and implement a cybersecurity plan using adequate safeguards to protect the integrity and confidentiality of the data in Office possession.\n\nDirects the Comptroller General (GAO) to audit annually the cybersecurity plan and its implementation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Office of Financial Research Accountability Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to improve the transparency, accountability, governance, and operations of the Office of Financial Research, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5037:@@@L&summ2=m&"
+}

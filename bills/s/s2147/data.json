@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-13", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1667", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1667", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-03-14T10:31:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-14", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-14T14:37:00-04:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2147-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Nelson, Bill", 
+      "sponsored_at": "2014-03-13", 
+      "state": "FL", 
+      "thomas_id": "00859", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "sponsored_at": "2014-03-13", 
+      "state": "FL", 
+      "thomas_id": "02084", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-13", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-03-13", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-13", 
+  "number": "2147", 
+  "official_title": "A bill to amend Public Law 112-59 to provide for the display of the congressional gold medal awarded to the Montford Point Marines, United States Marine Corps, by the Smithsonian Institution and at other appropriate locations.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Hagan, Kay R.", 
+    "state": "NC", 
+    "thomas_id": "01902", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2014-03-13", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional tributes", 
+    "Military history", 
+    "Military personnel and dependents", 
+    "North Carolina", 
+    "Racial and ethnic relations", 
+    "Smithsonian Institution"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2014-03-13", 
+    "text": "Requires the congressional gold medal awarded in honor of the Montford Point Marines, U. S. Marine Corps, in recognition of their dedicated service during World War II, to be given to the Smithsonian Institution where it will be displayed and made available for research.\n\nExpresses the sense of Congress that the Smithsonian Institution should make the medal available for display elsewhere, particularly at other appropriate locations associated with the Montford Point Marines."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend Public Law 112-59 to provide for the display of the congressional gold medal awarded to the Montford Point Marines, United States Marine Corps, by the Smithsonian Institution and at other appropriate locations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2147:@@@L&summ2=m&"
+}

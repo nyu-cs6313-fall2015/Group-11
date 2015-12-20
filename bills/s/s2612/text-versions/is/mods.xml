@@ -1,0 +1,224 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18990ae82">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To simplify and improve the Federal student loan program through income-contingent repayment to provide stronger protections for borrowers, encourage responsible borrowing, and save money for taxpayers.;
+   		Dynamic Repayment Act of 2014;S. 2612 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-07-23</dateIngested>
+</extension>
+<titleInfo>
+ <title>To simplify and improve the Federal student loan program through income-contingent repayment to provide stronger protections for borrowers, encourage responsible borrowing, and save money for taxpayers.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Dynamic Repayment Act of 2014</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2612 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-07-16</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>56 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18990ae82</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s2612is</identifier>
+<identifier type="preferred citation">S. 2612</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2612_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s2612is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2612is/html/BILLS-113s2612is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2612is/pdf/BILLS-113s2612is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s2612is/xml/BILLS-113s2612is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-07-23</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s2612is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mark R. Warner</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marco Rubio</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Finance</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 2174(f)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 2174(f)(2)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 1671et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 1671et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1070</partNumber>
+  <partNumber>Title 20 Section 1078-10</partNumber>
+  <partNumber>Title 20 Section 1078</partNumber>
+  <partNumber>Title 20 Section 1082(m)(1)(D)</partNumber>
+  <partNumber>Title 20 Section 1087e(a)</partNumber>
+  <partNumber>Title 20 Section 1087f</partNumber>
+  <partNumber>Title 20 Section 1087h(a)(3)</partNumber>
+  <partNumber>Title 20 Section 1087j</partNumber>
+  <partNumber>Title 20 Section 1091</partNumber>
+  <partNumber>Title 20 Section 1092</partNumber>
+  <partNumber>Title 20 Section 1232g</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1070</identifier>
+ <identifier type="USC citation">20 U.S.C. 1078-10</identifier>
+ <identifier type="USC citation">20 U.S.C. 1078</identifier>
+ <identifier type="USC citation">20 U.S.C. 1082(m)(1)(D)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1087e(a)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1087f</identifier>
+ <identifier type="USC citation">20 U.S.C. 1087h(a)(3)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1087j</identifier>
+ <identifier type="USC citation">20 U.S.C. 1091</identifier>
+ <identifier type="USC citation">20 U.S.C. 1092</identifier>
+ <identifier type="USC citation">20 U.S.C. 1232g</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 37 Section 310</partNumber>
+</titleInfo>
+ <identifier type="USC citation">37 U.S.C. 310</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 653(j)</partNumber>
+  <partNumber>Title 42 Section 653(j)(12)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 653(j)</identifier>
+ <identifier type="USC citation">42 U.S.C. 653(j)(12)</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s2612is</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2612</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Dynamic Repayment Act of 2014</shortTitle>
+ <action date="2014-07-16">Mr. Warner (for himself and Mr. Rubio) introduced the following bill; which was read twice and referred to the Committee on Finance</action>
+ <congCommittee authorityId="ssfi00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Finance</name>
+                      <name type="authority-short">Finance</name>
+                </congCommittee>
+ <congMember authorityId="1897" bioGuideId="W000805" chamber="S" congress="113" gpoId="8269" party="D" role="SPONSOR" state="VA">
+                      <name type="parsed">Mr. Warner</name>
+                      <name type="authority-fnf">Mark R. Warner</name>
+                      <name type="authority-lnf">Warner, Mark R.</name>
+                      <name type="authority-other">Mark Warner</name>
+                </congMember>
+ <congMember authorityId="2084" bioGuideId="R000595" chamber="S" congress="113" gpoId="8242" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Rubio</name>
+                      <name type="authority-fnf">Marco Rubio</name>
+                      <name type="authority-lnf">Rubio, Marco</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section detail="(f)(2)" number="2174"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="et seq." number="1671"></section>
+                </USCode>
+ <USCode title="20">
+                      <section number="1070"></section>
+                      <section number="1078-10"></section>
+                      <section number="1078"></section>
+                      <section detail="(m)(1)(D)" number="1082"></section>
+                      <section detail="(a)" number="1087e"></section>
+                      <section number="1087f"></section>
+                      <section detail="(a)(3)" number="1087h"></section>
+                      <section number="1087j"></section>
+                      <section number="1091"></section>
+                      <section number="1092"></section>
+                      <section number="1232g"></section>
+                </USCode>
+ <USCode title="37">
+                      <section number="310"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(j)" number="653"></section>
+                      <section detail="(j)(12)" number="653"></section>
+                </USCode>
+</extension>
+</mods>

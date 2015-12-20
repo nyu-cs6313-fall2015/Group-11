@@ -1,0 +1,124 @@
+<bill session="113" type="s" number="2086" updated="2015-09-01T10:22:13-04:00">
+  <state datetime="2014-06-30">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-06-30"/>
+  </status>
+  <introduced datetime="2014-03-06"/>
+  <titles>
+    <title type="short" as="introduced">Reliable Home Heating Act</title>
+    <title type="short" as="passed house">Reliable Home Heating Act</title>
+    <title type="short" as="reported to senate">Reliable Home Heating Act</title>
+    <title type="short" as="enacted">Reliable Home Heating Act</title>
+    <title type="official" as="introduced">A bill to address current emergency shortages of propane and other home heating fuels and to provide greater flexibility and information for Governors to address such emergencies in the future.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2014-03-12"/>
+    <cosponsor id="400034" joined="2014-03-06"/>
+    <cosponsor id="300021" joined="2014-03-12"/>
+    <cosponsor id="402675" joined="2014-03-06"/>
+    <cosponsor id="412556" joined="2014-03-12"/>
+    <cosponsor id="412494" joined="2014-03-10"/>
+    <cosponsor id="300058" joined="2014-03-13"/>
+    <cosponsor id="412242" joined="2014-03-06"/>
+    <cosponsor id="412243" joined="2014-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2014-04-09" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-05-20">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-162.</text>
+    </action>
+    <calendar datetime="2014-05-20" calendar="Senate Legislative" under="General Orders" number="379">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 379.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-05-21" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S3243" label="consideration"/>
+      <reference ref="CR S3243" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2014-05-22T09:17:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-05-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-05-22">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-05-22">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-05-22">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-05-23">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2014-05-23">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="2014-06-23T16:00:00-04:00">
+      <text>Mr. Petri moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-06-23T16:00:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5602-5604" label="consideration"/>
+    </action>
+    <action datetime="2014-06-23T16:01:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2086.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2014-06-23T16:13:00-04:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5602" label="text"/>
+    </vote>
+    <topresident datetime="2014-06-25">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-06-30" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-125" type="public" datetime="2014-06-30">
+      <text>Became Public Law No: 113-125.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2085"/>
+    <bill relation="unknown" session="113" type="h" number="4076"/>
+    <bill relation="unknown" session="113" type="h" number="4076"/>
+    <bill relation="unknown" session="113" type="s" number="2085"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Transportation"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Labor standards"/>
+    <term name="Lighting and heating"/>
+    <term name="Motor carriers"/>
+    <term name="Oil and gas"/>
+    <term name="Roads and highways"/>
+    <term name="State and local government operations"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/2014--Public Law.
+Reliable Home Heating Act - Directs the Federal Motor Carrier Safety Administration (FMCSA) to recognize any 30-day emergency period declared by a state governor due to a shortage of residential heating fuel (and up to two additional 30-day periods) as one during which FMCSA federal motor carrier safety regulations shall not apply to any motor carrier or driver operating a commercial motor vehicle providing residential heating fuel in a geographic area designated as under a state of emergency.
+
+Defines the term "residential heating fuel" to include heating oil, natural gas, and propane.
+
+Directs the Administrator of the Energy Information Administration, using data compiled from the Administration's Weekly Petroleum Status Reports, to notify the governor of each state in a Petroleum Administration for Defense District if that district's inventory of residential heating fuel has been below the most recent five-year average for more than three consecutive weeks. Directs the Secretary of Transportation (DOT) to study the impacts on safety from the extension of exemptions issued by the state governors.</summary>
+</bill>

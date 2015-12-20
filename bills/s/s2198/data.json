@@ -1,0 +1,272 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-01", 
+      "references": [], 
+      "text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "calendar": "Senate Legislative", 
+      "number": "344", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 344.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "references": [
+        {
+          "reference": "CR S3308", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-22", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2014-05-23", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-23T15:03:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-23T16:53:00-04:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3227-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3227"
+    }, 
+    {
+      "amendment_id": "samdt3228-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3228"
+    }
+  ], 
+  "bill_id": "s2198-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2014-04-01", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2014-04-02", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-04-01", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heller, Dean", 
+      "sponsored_at": "2014-04-01", 
+      "state": "NV", 
+      "thomas_id": "01863", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2014-05-22", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2014-04-01", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reid, Harry", 
+      "sponsored_at": "2014-04-01", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rockefeller, John D., IV", 
+      "sponsored_at": "2014-04-01", 
+      "state": "WV", 
+      "thomas_id": "01424", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2014-04-01", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "sponsored_at": "2014-04-01", 
+      "state": "OR", 
+      "thomas_id": "01247", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-05-22", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-01", 
+  "number": "2198", 
+  "official_title": "A bill to direct the Secretary of the Interior, the Secretary of Commerce, the Secretary of Agriculture, and the Administrator of the Environmental Protection Agency to take actions to provide additional water supplies to the State of California due to drought, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4039-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4239-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2016-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Emergency Drought Relief Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feinstein, Dianne", 
+    "state": "CA", 
+    "thomas_id": "01332", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2014-05-22", 
+  "subjects": [
+    "Agricultural practices and innovations", 
+    "Arizona", 
+    "California", 
+    "Disaster relief and insurance", 
+    "Emergency management", 
+    "Endangered and threatened species", 
+    "Environmental assessment, monitoring, research", 
+    "Environmental technology", 
+    "Food assistance and relief", 
+    "Hawaii", 
+    "Hydrology and hydrography", 
+    "Lakes and rivers", 
+    "Licensing and registrations", 
+    "Mental health", 
+    "Natural disasters", 
+    "Nevada", 
+    "Oregon", 
+    "Unemployment", 
+    "Water quality", 
+    "Water resources funding", 
+    "Water storage", 
+    "Water use and supply", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2014-05-22", 
+    "text": "Emergency Drought Relief Act of 2014 - (Sec. 4) Requires the Administrator of the Environmental Protection Agency (EPA), the Secretary of Agriculture, the Secretary of Commerce, and the Secretary of the Interior (Secretaries), in response to the declaration of a state of drought emergency in California, to provide the maximum quantity of water supplies possible to Central Valley Project (CVP) agricultural, municipal and industrial, and refuge service and repayment contractors, State Water Project (SWP) contractors, and any other locality or municipality in California by approving projects and operations to provide additional water supplies as quickly as possible to address the emergency conditions. Applies such requirement to projects or operations involving the Klamath Project that would benefit federal water contractors in California.\n\nSets forth actions to be taken by the Secretaries to increase water supply, including:\n\n ensuring that the Delta Cross Channel Gates remain open to the greatest extent possible; requiring the Director of the National Marine Fisheries Service to recommend revisions to operations of the CVP and the SWP; implementing turbidity control strategies that allow for increased water deliveries while avoiding jeopardy to adult Delta smelt due to entrainment at CVP and SWP pumping plants; managing reverse flow in the Old and Middle Rivers for Delta smelt and salmonids to minimize water supply reductions for the CVP and SWP; adopting a 1:1 inflow to export ratio for the increased flow of the San Joaquin River; issuing all necessary permit decisions within 30 days of receiving a completed application by California to place and use temporary barriers or operable gates in Delta channels to improve water quantity and quality for SWP and CVP water contractors and other water users; requiring the Director of the U.S. Fish and Wildlife Service (FWS) and the Commissioner of the Bureau of Reclamation to complete all requirements under the National Environmental Policy Act of 1969 (NEPA) and the Endangered Species Act of 1973 necessary to make final permit decisions on water transfer requests within 30 days; requiring the FWS Director to allow any water transfer request associated with fallowing to maximize the quantity of water supplies available for nonhabitat uses, in compliance with federal law; participating in or otherwise providing funding for pilot projects to increase water in reservoirs in regional river basins experiencing extreme, exceptional, or sustained drought that have a direct impact on California's water supply; maintaining all rescheduled water supplies held in the San Luis Reservoir and Millerton Reservoir for all water users for delivery in the immediately following contract water year, unless precluded by reservoir storage capacity limitations; meeting contract water supply needs of CVP refuges through the improvement or installation of water conservation measures, water conveyance facilities, and wells to use groundwater resources and make a quantity of CVP surface water obtained from such measures available to CVP contractors; entering into an agreement with the National Academy of Sciences to study the effectiveness and environmental impacts of saltcedar biological control efforts on increasing water supplies and improving riparian habitats of the Colorado River and its principal tributaries; making WaterSMART grant funding allocated to California available on a priority and expedited basis for projects that provide emergency drinking and municipal water supplies to localities to meet minimum public health and safety needs, prevent the loss of permanent crops, minimize economic losses resulting from drought conditions, or provide innovative water conservation tools and technology for agriculture and urban water use that can have immediate water supply benefits; implement offsite upstream projects in the Delta and upstream Sacramento River and San Joaquin basins that offset the effects of actions taken under this Act on species listed as threatened or endangered; and using all available scientific tools to identify any changes to real-time operations of Bureau of Reclamation, state, and local water projects that could result in the availability of additional water supplies. Sets forth requirements for expedited procedures to be used by federal agencies, at California's request, to make final decisions relating to a federal project or operation to provide additional water supplies or address emergency drought conditions.\n\n(Sec. 5) Requires federal agency heads, in order to minimize the time spent carrying out environmental reviews and to deliver water quickly, to consult with the Council on Environmental Quality to develop alternative arrangements to comply with NEPA during the emergency.\n\n(Sec. 6) Directs the EPA to require California to prioritize projects under state water pollution control and drinking water treatment revolving funds to provide water most expeditiously to areas at risk of having an inadequate\u00a0supply of water for\u00a0public health and safety purposes or to improve resiliency to drought.\n\n(Sec. 7) Provides that nothing in this Act preempts state law in effect on the date of enactment, including area of origin and other water rights protections.\n\n(Sec. 8) Terminates specified authorities under this Act on the date on which the governor of California suspends the state of drought emergency declaration."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Emergency Drought Relief Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Emergency Drought Relief Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to direct the Secretary of the Interior, the Secretary of Commerce, and the Administrator of the Environmental Protection Agency to take actions to provide additional water supplies and disaster assistance to the State of California and other Western States due to drought, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by senate", 
+      "is_for_portion": false, 
+      "title": "A bill to direct the Secretary of the Interior, the Secretary of Commerce, the Secretary of Agriculture, and the Administrator of the Environmental Protection Agency to take actions to provide additional water supplies to the State of California due to drought, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:22:15-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2198:@@@L&summ2=m&"
+}

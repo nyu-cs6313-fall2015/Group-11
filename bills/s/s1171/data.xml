@@ -1,0 +1,79 @@
+<bill session="113" type="s" number="1171" updated="2015-09-01T10:21:51-04:00">
+  <state datetime="2014-01-08">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-01-08"/>
+  </status>
+  <introduced datetime="2013-06-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Controlled Substances Act to allow a veterinarian to transport and dispense controlled substances in the usual course of veterinary practice outside of the registered location.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2013-06-17"/>
+    <cosponsor id="400054" joined="2013-12-19"/>
+    <cosponsor id="300023" joined="2013-06-17"/>
+    <cosponsor id="300025" joined="2013-07-16"/>
+    <cosponsor id="300038" joined="2013-11-12"/>
+    <cosponsor id="300041" joined="2013-06-17"/>
+    <cosponsor id="412556" joined="2013-07-11"/>
+    <cosponsor id="412223" joined="2013-06-17"/>
+    <cosponsor id="300048" joined="2013-06-17"/>
+    <cosponsor id="412545" joined="2013-06-17"/>
+    <cosponsor id="300083" joined="2013-07-09"/>
+    <cosponsor id="300093" joined="2013-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-01-08">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S185" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-01-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S185" label="text"/>
+    </vote>
+    <action datetime="2014-01-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-01-09T12:30:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-01-10">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-03-20">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1528"/>
+    <bill relation="unknown" session="113" type="s" number="950"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Licensing and registrations"/>
+    <term name="Veterinary medicine and animal diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2014--Passed Senate without amendment.
+Amends the Controlled Substances Act to prohibit a veterinarian who is registered to manufacture or distribute controlled substances from being required to have a separate registration in order to transport and dispense controlled substances in the usual course of veterinary practice at a site other than such veterinarian's principal place of business or professional practice, as long as the site of transporting and dispensing is located in a state where the veterinarian is licensed to practice.</summary>
+</bill>

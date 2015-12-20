@@ -1,0 +1,134 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-14", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-14", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-01-14", 
+      "references": [
+        {
+          "reference": "Permanent Select", 
+          "type": null
+        }
+      ], 
+      "text": "Referred to House Intelligence", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-20", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3875-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-01-14", 
+  "number": "3875", 
+  "official_title": "To amend the Foreign Intelligence Surveillance Act of 1978 to reform the telephone metadata program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Telephone Metadata Reform Act", 
+  "sponsor": {
+    "district": "28", 
+    "name": "Schiff, Adam B.", 
+    "state": "CA", 
+    "thomas_id": "01635", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-01-14", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Business records", 
+    "Congressional oversight", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal procedure and sentencing", 
+    "Evidence and witnesses", 
+    "Government information and archives", 
+    "Intelligence activities, surveillance, classified information", 
+    "Right of privacy", 
+    "Specialized courts", 
+    "Telephone and wireless communication", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-01-14", 
+    "text": "Telephone Metadata Reform Act - Amends the Foreign Intelligence Surveillance Act of 1978 (FISA) to exclude call data records from the categories of tangible things (commonly referred to as \"business records\") that the Federal Bureau of Investigation (FBI) may seek in an application to a FISA court for a production order under the current standard requiring reasonable grounds to believe that the things sought are relevant to an authorized investigation to obtain foreign intelligence information not concerning a U.S. person or to protect against international terrorism or clandestine intelligence activities.\n\nSets forth a separate framework for call data production orders that authorizes the FBI to apply for an order directing a telecommunications carrier to search call data records, using a call data record as the basis of such search, and to produce the search results within 12 hours if the application: (1) specifies each telecommunications carrier that the applicant requests be directed to produce call data records; and (2) includes facts showing a reasonable suspicion, based on specific and articulable facts, that the call data record to be used as the basis for the search is associated with a specific foreign terrorist organization, clandestine intelligence activity, or foreign intelligence not concerning a U.S. person.\n\nAuthorizes the FBI, without a court order, to direct a telecommunications carrier to search call data records and produce results within 6 hours (such an FBI directive is referred to as an \"emergency directive\") if: (1) the records sought are required due to exigent circumstances and obtaining an order would substantially delay an investigation, (2) a FISA judge is notified within 24 hours, and (3) an application for a FISA court order is made within five days after the FBI exercises such authority.\n\nRequires, if the court denies an application for an order requiring the production of the call data records acquired under such an FBI emergency directive, or if the directive is terminated and an order is not issued to approve the production, that: (1) the call data records be destroyed, including records obtained from a subsequent search based on the initial search; (2) no information obtained or evidence derived from the search be received in evidence or disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a state, or a political subdivision; and (3) no information concerning a U.S. person be used or disclosed by federal officers or employees without the consent of such person.\n\nPermits the FBI to require a telecommunications carrier to: (1) conduct a subsequent search using the results of an initial search conducted pursuant to an order or an emergency directive, and (2) produce the results within 12 hours.\n\nProhibits a person from disclosing that the FBI has sought or obtained call data records pursuant to an order or directive.\n\nProhibits the federal government from retaining for more than five years call data records obtained pursuant to an order, directive, or subsequent authorized search if such records contain call records pertaining to a U.S. person: (1) unless, upon application to a FISA judge, the judge finds probable cause that such records are evidence of a crime (that has been, is being, or is about to be committed) and contain information to be retained or disseminated for law enforcement purposes; or (2) except to the extent any portion of such records is lawfully used in a finished intelligence product.\n\nRequires the government to compensate telecommunications carriers for providing call data records."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Telephone Metadata Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Foreign Intelligence Surveillance Act of 1978 to reform the telephone metadata program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:21-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3875:@@@L&summ2=m&"
+}

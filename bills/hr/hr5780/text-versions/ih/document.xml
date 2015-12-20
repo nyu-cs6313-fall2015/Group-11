@@ -1,0 +1,852 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H629DAF0DB6F34894ADEA0A1C349AFFEB" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>113 HR 5780 IH: Protecting the Integrity of Medicare Act of 2014</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2014-12-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 5780</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20141202">December 2, 2014</action-date>
+			<action-desc><sponsor name-id="B000755">Mr. Brady of Texas</sponsor> (for himself, <cosponsor name-id="M000404">Mr. McDermott</cosponsor>, <cosponsor name-id="C000071">Mr. Camp</cosponsor>, <cosponsor name-id="L000263">Mr. Levin</cosponsor>, <cosponsor name-id="R000053">Mr. Rangel</cosponsor>, <cosponsor name-id="L000287">Mr. Lewis</cosponsor>, <cosponsor name-id="J000174">Mr. Sam Johnson of Texas</cosponsor>, <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>, <cosponsor name-id="P000096">Mr. Pascrell</cosponsor>, <cosponsor name-id="G000549">Mr. Gerlach</cosponsor>, <cosponsor name-id="B001255">Mr. Boustany</cosponsor>, <cosponsor name-id="B001260">Mr. Buchanan</cosponsor>, <cosponsor name-id="R000580">Mr. Roskam</cosponsor>, <cosponsor name-id="R000585">Mr. Reed</cosponsor>, <cosponsor name-id="B001273">Mrs. Black</cosponsor>, <cosponsor name-id="G000567">Mr. Griffin of Arkansas</cosponsor>, <cosponsor name-id="K000376">Mr. Kelly of Pennsylvania</cosponsor>, <cosponsor name-id="R000586">Mr. Renacci</cosponsor>, and <cosponsor name-id="V000128">Mr. Van Hollen</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the  <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend title XVIII of the Social Security Act to improve the integrity of the Medicare program,
+			 and for other purposes.</official-title>
+	</form>
+	<legis-body id="H21ED71114B824B21A900259A441E7B8A" style="OLC">
+		<section id="H831D0E97A704429F9DAE2704030B1AF2" section-type="section-one"><enum>1.</enum><header>Short title; table of contents</header>
+			<subsection id="H9FB74EACEADC4623A2D4C9F70FC4D48E"><enum>(a)</enum><header>Short title</header><text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Protecting the Integrity of Medicare Act of 2014</short-title></quote>.</text>
+			</subsection><subsection id="H6F338FF9E06147318859238932BBC302">
+				<enum>(b)</enum><header>Table of contents</header><text>The table of contents for this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration"><toc-entry idref="H831D0E97A704429F9DAE2704030B1AF2" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="H027A68CE75CC453DA12DAA92D22FD262" level="section">Sec. 2. Prohibition of inclusion of Social Security account numbers on Medicare cards.</toc-entry>
+					<toc-entry idref="H515E79F0A01741A8896B8A31AC992665" level="section">Sec. 3. Preventing wrongful Medicare payments for items and services furnished to incarcerated
+			 individuals, individuals not lawfully present, and deceased individuals.</toc-entry>
+					<toc-entry idref="HFD967E5EDC4F421DB4D3B9F67887A0AB" level="section">Sec. 4. Consideration of measures regarding Medicare beneficiary smart cards.</toc-entry>
+					<toc-entry idref="HB9F9C7F096E04533A86C3E16E3C512F4" level="section">Sec. 5. Modifying medicare durable medical equipment face-to-face encounter documentation
+			 requirement.</toc-entry>
+					<toc-entry idref="HFB2DAD52AF07431C960F0F858BA4B7B4" level="section">Sec. 6. Reducing improper Medicare payments.</toc-entry>
+					<toc-entry idref="H7A59BA0D8A434144B75A5D72F2B6D732" level="section">Sec. 7. Improving senior Medicare patrol and fraud reporting rewards.</toc-entry>
+					<toc-entry idref="HD778C1B9A0C7410BB381FEFE9674052A" level="section">Sec. 8. Requiring valid prescriber National Provider Identifiers on pharmacy claims.</toc-entry>
+					<toc-entry idref="HDD7F7BA449D14D8689FBAF859601BBA7" level="section">Sec. 9. Option to receive Medicare Summary Notice electronically.</toc-entry>
+					<toc-entry idref="H90355F3BA29547929EE432DD3B213104" level="section">Sec. 10. Renewal of MAC contracts.</toc-entry>
+					<toc-entry idref="H9377F376EFB247FA9E9647B19AE20872" level="section">Sec. 11. Study on pathway for incentives to States for State participation in medicaid data match
+			 program.</toc-entry>
+					<toc-entry idref="H5809060EA60D4BA681F6AFBAD99FBA92" level="section">Sec. 12. Programs to prevent prescription drug abuse under Medicare part D.</toc-entry>
+					<toc-entry idref="H2D6CC46E480A4585A6EDA822C90CE64F" level="section">Sec. 13. Guidance on application of Common Rule to clinical data registries.</toc-entry>
+					<toc-entry idref="HA29A06B45F06459C8CA2758133E0F9AE" level="section">Sec. 14. Eliminating certain civil money penalties; gainsharing study and report.</toc-entry>
+					<toc-entry idref="HFEBC1C51D66D41AE94F10E7BB65314BB" level="section">Sec. 15. Modification of Medicare home health surety bond condition of participation requirement.</toc-entry>
+					<toc-entry idref="H57926D2D426D4288BEEEC52D4C4E89AA" level="section">Sec. 16. Oversight of Medicare coverage of manual manipulation of the spine to correct subluxation.</toc-entry>
+					<toc-entry idref="HFC2BBBA99E914B5B8148FDD5930EAC39" level="section">Sec. 17. Limiting payment amount under Medicare program for vacuum erection systems.</toc-entry>
+					<toc-entry idref="H7FD0E2097FA441E3B1940C40C3E8CDBD" level="section">Sec. 18. National expansion of prior authorization model for repetitive scheduled non-emergent
+			 ambulance transport.</toc-entry>
+					<toc-entry idref="HB818AD0FABF94ABCB7CBFFBBE17CF72C" level="section">Sec. 19. Repealing duplicative Medicare secondary payor provision.</toc-entry>
+					<toc-entry idref="HA94C2FC8601B43E381B1043924EE58BB" level="section">Sec. 20. Plan for expanding data in annual CERT report.</toc-entry>
+					<toc-entry idref="HD7DF8949B06347FEB6633E7D34222C2E" level="section">Sec. 21. Rule of construction.</toc-entry>
+				</toc></subsection></section><section id="H027A68CE75CC453DA12DAA92D22FD262"><enum>2.</enum><header>Prohibition of inclusion of Social Security account numbers on Medicare cards</header>
+			<subsection id="HE08BFE2EA8C74684BD4D04CED006F6D8"><enum>(a)</enum><header>In general</header><text>Section 205(c)(2)(C) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/405">42 U.S.C. 405(c)(2)(C)</external-xref>) is amended—</text>
+				<paragraph id="HC7261AE573514599B23BEDA350D3F419"><enum>(1)</enum><text display-inline="yes-display-inline">by moving clause (x), as added by section 1414(a)(2) of the Patient Protection and Affordable Care
+			 Act, 6 ems to the left;</text>
+				</paragraph><paragraph id="H56606E2FE3C64ED480D1E58D7E448B3C"><enum>(2)</enum><text display-inline="yes-display-inline">by redesignating clause (x), as added by section 2(a)(1) of the Social Security Number Protection
+			 Act of 2010, and clause (xi) as clauses (xi) and (xii), respectively; and</text>
+				</paragraph><paragraph id="H34732388180F40E68A3E865DD35DADDF"><enum>(3)</enum><text>by adding at the end the following new clause:</text>
+					<quoted-block id="HFA30A68D0FA541D88820E1C14DCB84E2" style="OLC">
+						<clause id="id4AC0DAD8598B4333A0A74E9B58A84AD2" indent="up3"><enum>(xiii)</enum><text>The Secretary of Health and Human Services, in consultation with the Commissioner of Social
+			 Security, shall establish cost-effective procedures to ensure that a
+			 Social Security account number (or derivative thereof) is not displayed,
+			 coded, or embedded on the Medicare card issued to an individual who is
+			 entitled to benefits under part A of title XVIII or enrolled under part B
+			 of title XVIII and that any other identifier displayed on such card is not
+			 identifiable as a Social Security account number (or derivative thereof).</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H4053406E70424901924BA4A711AFDBAC"><enum>(b)</enum><header>Implementation</header><text display-inline="yes-display-inline">In implementing clause (xiii) of section 205(c)(2)(C) of the Social Security Act (42 U.S.C.
+			 405(c)(2)(C)), as added by subsection (a)(3), the Secretary of Health and
+			 Human Services shall do the following:</text>
+				<paragraph id="H4617FAC3DE6E49E88A300C61CC385B02"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Establish a cost-effective process that involves the least amount of disruption to, as well as
+			 necessary assistance for, Medicare beneficiaries and health care
+			 providers, such as a process that provides such beneficiaries with access
+			 to assistance through a toll-free telephone number and provides outreach
+			 to providers.</text>
+				</paragraph><paragraph id="HBBEC23F0F5EC42AF84C80D4934451A5C"><enum>(2)</enum><header>Consideration of Medicare beneficiary identified</header><text>Consider implementing a process, similar to the process involving Railroad Retirement Board
+			 beneficiaries, under which a Medicare beneficiary identifier which is not
+			 a Social Security account number (or derivative thereof) is used external
+			 to the Department of Health and Human Services and is convertible over to
+			 a Social Security account number (or derivative thereof) for use internal
+			 to such Department and the Social Security Administration.</text>
+				</paragraph></subsection><subsection id="H537FE46865DA4042997D63C5B772C176"><enum>(c)</enum><header>Funding for implementation</header><text display-inline="yes-display-inline">For purposes of implementing the provisions of and the amendments made by this section, the
+			 Secretary of Health and Human Services shall provide for the following
+			 transfers from the Federal Hospital Insurance Trust Fund under section
+			 1817 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395i">42 U.S.C. 1395i</external-xref>) and from the Federal
+			 Supplementary Medical Insurance Trust Fund established under section 1841
+			 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395t">42 U.S.C. 1395t</external-xref>), in such proportions as the Secretary
+			 determines appropriate:</text>
+				<paragraph id="HCE2C78AA3ED640679753B3CAA0106480"><enum>(1)</enum><text>To the Centers for Medicare &amp; Medicaid Program Management Account, transfers of the following amounts:</text>
+					<subparagraph id="H0CB8C29D08984A4DA686EDDF4CF06C8F"><enum>(A)</enum><text display-inline="yes-display-inline">For fiscal year 2015, $65,000,000, to be made available through fiscal year 2018.</text>
+					</subparagraph><subparagraph id="H7E9EC84CC4594387A274DBCD8B3E5A93"><enum>(B)</enum><text>For each of fiscal years 2016 and 2017, $53,000,000, to be made available through fiscal year 2018.</text>
+					</subparagraph><subparagraph id="H43A10B8528434D5C94C030A75880725C"><enum>(C)</enum><text>For fiscal year 2018, $48,000,000, to be made available until expended.</text>
+					</subparagraph></paragraph><paragraph id="HA618BADA28FD488E9AD248B4D5B9E616"><enum>(2)</enum><text display-inline="yes-display-inline">To the Social Security Administration Limitation on Administration Account, transfers of the
+			 following amounts:</text>
+					<subparagraph id="H0107016E6F674AFE947EC2A077ABAE58"><enum>(A)</enum><text>For fiscal year 2015, $27,000,000, to be made available through fiscal year 2018.</text>
+					</subparagraph><subparagraph id="HFE3B841AADD14B119B57655B5CA58B30"><enum>(B)</enum><text>For each of fiscal years 2016 and 2017, $22,000,000, to be made available through fiscal year 2018.</text>
+					</subparagraph><subparagraph id="H7848322226B142C4B2A2C3F977E2CD2D"><enum>(C)</enum><text>For fiscal year 2018, $27,000,000, to be made available until expended.</text>
+					</subparagraph></paragraph><paragraph id="H4158CC0CC61F400389AB2504E1AB882A"><enum>(3)</enum><text display-inline="yes-display-inline">To the Railroad Retirement Board Limitation on Administration Account, the following amount:</text>
+					<subparagraph id="H3809B1A9835044D197C0D4CF762BCDBA"><enum>(A)</enum><text>For fiscal year 2015, $3,000,000, to be made available until expended.</text>
+					</subparagraph></paragraph></subsection><subsection id="HAB5FA448786C422F98565FFD4D0E2A40"><enum>(d)</enum><header>Effective date</header>
+				<paragraph id="H48D775130A8B4654AAEB9E95BE72AF35"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Clause (xiii) of section 205(c)(2)(C) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/405">42 U.S.C. 405(c)(2)(C)</external-xref>), as added
+			 by subsection (a)(3), shall apply with respect to Medicare cards issued on
+			 and after an effective date specified by the Secretary of Health and Human
+			 Services, but in no case shall such effective date be later than the date
+			 that is four years after the date of the enactment of this Act.</text>
+				</paragraph><paragraph id="H1E3E213ABBA7440DBF36B8D125F28058"><enum>(2)</enum><header>Reissuance</header><text display-inline="yes-display-inline">The Secretary shall provide for the reissuance of Medicare cards that comply with the requirements
+			 of such clause not later than four years after the effective date
+			 specified by the Secretary under paragraph (1).</text>
+				</paragraph></subsection></section><section id="H515E79F0A01741A8896B8A31AC992665"><enum>3.</enum><header>Preventing wrongful Medicare payments for items and services furnished to incarcerated individuals,
+			 individuals not lawfully present, and deceased individuals</header>
+			<subsection id="H1FA318FFEF9441E9B9B08A59AA6099EC"><enum>(a)</enum><header>Requirement for the Secretary To establish policies and claims edits relating to incarcerated
+			 individuals, individuals not lawfully present, and deceased individuals</header><text display-inline="yes-display-inline">Section 1874 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395kk">42 U.S.C. 1395kk</external-xref>) is amended by adding at the end the
+			 following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H38428BBE842549ED96B5E3E278F81DF3" style="OLC">
+					<subsection id="HAB76F03877E84592AD6758B386F5DFC9"><enum>(f)</enum><header>Requirement for the Secretary To establish policies and claims edits relating to incarcerated
+			 individuals, individuals not lawfully present, and deceased individuals</header><text display-inline="yes-display-inline">The Secretary shall establish and maintain procedures, including procedures for using claims
+			 processing edits, updating eligibility information to improve provider
+			 accessibility, and conducting recoupment activities such as through
+			 recovery audit contractors, in order to ensure that payment is not made
+			 under this title for items and services furnished to an individual who is
+			 one of the following:</text>
+						<paragraph id="HD195666F53FE42A49609D8F858BB681A"><enum>(1)</enum><text>An individual who is incarcerated.</text>
+						</paragraph><paragraph commented="no" id="H0CC6E205540843A099CC3285914A76CE"><enum>(2)</enum><text display-inline="yes-display-inline">An individual who is not lawfully present in the United States and who is not eligible for coverage
+			 under this title.</text>
+						</paragraph><paragraph id="HEB49F68AF4AF4DA2A8A9189F4D892505"><enum>(3)</enum><text>A deceased individual.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H5D4D92B0BEE84B2691D7C5956C30C81A"><enum>(b)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than 18 months after the date of the enactment of this section, and periodically
+			 thereafter as determined necessary by the Office of Inspector General of
+			 the Department of Health and Human Services, such Office shall submit to
+			 Congress a report on the activities described in subsection (f) of section
+			 1874 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395kk">42 U.S.C. 1395kk</external-xref>), as added by
+			 subparagraph (a), that have been conducted since such date of enactment.</text>
+			</subsection></section><section id="HFD967E5EDC4F421DB4D3B9F67887A0AB"><enum>4.</enum><header>Consideration of measures regarding Medicare beneficiary smart cards</header><text display-inline="no-display-inline">To the extent the Secretary of Health and Human Services determines that it is cost effective and
+			 technologically viable to use electronic Medicare beneficiary and provider
+			 cards (such as cards that use smart card technology, including an embedded
+			 and secure integrated circuit chip), as presented in the Government
+			 Accountability Office report required by the conference report
+			 accompanying the Consolidated Appropriations Act, 2014 (Public Law
+			 113–76), the Secretary shall consider such measures as determined
+			 appropriate by the Secretary to implement such use of such cards for
+			 beneficiary and provider use under title XVIII of the Social Security Act
+			 (<external-xref legal-doc="usc" parsable-cite="usc/42/1395">42 U.S.C. 1395 et seq.</external-xref>). In the case that the Secretary considers
+			 measures under the preceding sentence, the Secretary shall submit to the
+			 Committees on Ways and Means and on Energy and Commerce of the House of
+			 Representatives, and to the Committee on Finance of the Senate, a report
+			 outlining the considerations undertaken by the Secretary under such
+			 sentence.</text>
+		</section><section id="HB9F9C7F096E04533A86C3E16E3C512F4"><enum>5.</enum><header>Modifying medicare durable medical equipment face-to-face encounter documentation requirement</header>
+			<subsection id="H84A2AF02F5C4423E877652188D774EB0"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1834(a)(11)(B)(ii) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m">42 U.S.C. 1395m(a)(11)(B)(ii)</external-xref>) is amended—</text>
+				<paragraph id="H1BFDF18A9BBB4358B0D813652297FB2D"><enum>(1)</enum><text>by striking <quote>the physician documenting that</quote>; and</text>
+				</paragraph><paragraph id="H7CA4BEBFF08C497F94A5DD20BEA921A2"><enum>(2)</enum><text>by striking <quote>has had a face-to-face encounter</quote> and inserting <quote>documenting such physician, physician assistant, practitioner, or specialist has had a face-to-face
+			 encounter</quote>.</text>
+				</paragraph></subsection><subsection id="HB3FBA9A577F74CA78BAAC9FB0DA66B1D"><enum>(b)</enum><header>Implementation</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, the Secretary of Health and Human Services may
+			 implement the amendments made by subsection (a) by program instruction or
+			 otherwise.</text>
+			</subsection></section><section id="HFB2DAD52AF07431C960F0F858BA4B7B4"><enum>6.</enum><header>Reducing improper Medicare payments</header>
+			<subsection id="HA51CEF4584864995A930C3ECEC6150D4"><enum>(a)</enum><header>Medicare administrative contractor improper payment outreach and education program</header>
+				<paragraph id="HFB19EE3E11534609BC8BE07FA2B5D27D"><enum>(1)</enum><header>In general</header><text>Section 1874A of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395kk-1">42 U.S.C. 1395kk–1</external-xref>) is amended—</text>
+					<subparagraph id="HEA10A5525ACA4938BAEE2443453D2860"><enum>(A)</enum><text>in subsection (a)(4)—</text>
+						<clause id="H7C9062B0C5A340BB8248BC413F5666E5"><enum>(i)</enum><text>by redesignating subparagraph (G) as subparagraph (H); and</text>
+						</clause><clause id="HD4201DDD54914867BEDA90AA9EF1B18D"><enum>(ii)</enum><text>by inserting after subparagraph (F) the following new subparagraph:</text>
+							<quoted-block display-inline="no-display-inline" id="H491B2D021C494D57B36759904B8F18DD" style="OLC">
+								<subparagraph id="H6405FC0B5E314C2E9D370ED5D76DC96E"><enum>(G)</enum><header>Improper payment outreach and education program</header><text display-inline="yes-display-inline">Having in place an improper payment outreach and education program described in subsection (h).</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+						</clause></subparagraph><subparagraph id="H5BF8C8BFEB4E4D1BB1B76071CB7DB1E5"><enum>(B)</enum><text display-inline="yes-display-inline">by adding at the end the following new subsection:</text>
+						<quoted-block display-inline="no-display-inline" id="HF6FC1C477B524C18981DB278FA9F39F6" style="OLC">
+							<subsection id="H85A42B743AA549DD82F482766B07D3B2"><enum>(h)</enum><header>Improper payment outreach and education program</header>
+								<paragraph id="H2C50051835DF4FB786CB5CD4D51D4EA8"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">In order to reduce improper payments under this title, each medicare administrative contractor
+			 shall establish and have in place an improper payment outreach and
+			 education program under which the contractor, through outreach, education,
+			 training, and technical assistance or other activities, shall provide
+			 providers of services and suppliers located in the region covered by the
+			 contract under this section with the information described in paragraph
+			 (2). The activities described in the preceding sentence shall be conducted
+			 on a regular basis.</text>
+								</paragraph><paragraph id="H30FB53FBD69D48D2BEFA86C80A1AB67E"><enum>(2)</enum><header>Information to be provided through activities</header><text display-inline="yes-display-inline">The information to be provided under such payment outreach and education program shall include
+			 information the Secretary determines to be appropriate which may include
+			 the following information:</text>
+									<subparagraph id="H014D104702DA48CB97AAA1E368456FA2"><enum>(A)</enum><text display-inline="yes-display-inline">A list of the providers’ or suppliers’ most frequent and expensive payment errors over the last
+			 quarter.</text>
+									</subparagraph><subparagraph id="H99C5043414B248F79364451F94016F01"><enum>(B)</enum><text display-inline="yes-display-inline">Specific instructions regarding how to correct or avoid such errors in the future.</text>
+									</subparagraph><subparagraph id="H3AFB9DF6AE394695901ED02E9CF06C62"><enum>(C)</enum><text display-inline="yes-display-inline">A notice of new topics that have been approved by the Secretary for audits conducted by recovery
+			 audit contractors under section 1893(h).</text>
+									</subparagraph><subparagraph id="H55AE8C28A01C47DDB10342E37D951204"><enum>(D)</enum><text display-inline="yes-display-inline">Specific instructions to prevent future issues related to such new audits.</text>
+									</subparagraph><subparagraph id="H033CEA722507449689D8DC17EF0E8359"><enum>(E)</enum><text display-inline="yes-display-inline">Other information determined appropriate by the Secretary.</text>
+									</subparagraph></paragraph><paragraph id="H5F3F881C92704B1A94FCC64829E18AF2"><enum>(3)</enum><header>Priority</header><text display-inline="yes-display-inline">A medicare administrative contractor shall give priority to activities under such program that will
+			 reduce improper payments that are one or more of the following:</text>
+									<subparagraph id="HD73EE350BCD74056A0B3115692A6BAF8"><enum>(A)</enum><text display-inline="yes-display-inline">Are for items and services that have the highest rate of improper payment.</text>
+									</subparagraph><subparagraph id="H46C56CE13ABB4D33ABB55E8A873E58F5"><enum>(B)</enum><text>Are for items and service that have the greatest total dollar amount of improper payments.</text>
+									</subparagraph><subparagraph id="HD6BA4A2849CA4EF28A3BFF96B18A261E"><enum>(C)</enum><text>Are due to clear misapplication or misinterpretation of Medicare policies.</text>
+									</subparagraph><subparagraph id="H8E32965AEEEE42EBA53EC1854B55FDB2"><enum>(D)</enum><text>Are clearly due to common and inadvertent clerical or administrative errors.</text>
+									</subparagraph><subparagraph id="H506DFD17B28549F0860D4E6505FE6AB1"><enum>(E)</enum><text>Are due to other types of errors that the Secretary determines could be prevented through
+			 activities under the program.</text>
+									</subparagraph></paragraph><paragraph id="H989AD89B29ED451F84B95509C3DCA63F"><enum>(4)</enum><header>Information on improper payments from recovery audit contractors</header>
+									<subparagraph id="H1392BD41F4B745BFAEB8F8ED9736330D"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">In order to assist medicare administrative contractors in carrying out improper payment outreach
+			 and education programs, the Secretary shall provide each contractor with a
+			 complete list of the types of improper payments identified by recovery
+			 audit contractors under section 1893(h) with respect to providers of
+			 services and suppliers located in the region covered by the contract under
+			 this section. Such information shall be provided on a time frame the
+			 Secretary determines appropriate which may be on a quarterly basis.</text>
+									</subparagraph><subparagraph id="H58F4C730E1024666AC5E01711C8F9A8F"><enum>(B)</enum><header>Information</header><text display-inline="yes-display-inline">The information described in subparagraph (A) shall include information such as the following:</text>
+										<clause id="HAFA4471C826B496BBF4990BD2EB1244C"><enum>(i)</enum><text>Providers of services and suppliers that have the highest rate of improper payments.</text>
+										</clause><clause id="HD6842C49442241DF8FC5489216B55844"><enum>(ii)</enum><text>Providers of services and suppliers that have the greatest total dollar amounts of improper
+			 payments.</text>
+										</clause><clause id="H14DAE09BE9314ADFB7EB8C3B2F1E8405"><enum>(iii)</enum><text>Items and services furnished in the region that have the highest rates of improper payments.</text>
+										</clause><clause id="HCFEEC28293104830978A312B4A3A7F1F"><enum>(iv)</enum><text>Items and services furnished in the region that are responsible for the greatest total dollar
+			 amount of improper payments.</text>
+										</clause><clause id="H913DE1856FE6457A9D1A9BA4AEA9B9D8"><enum>(v)</enum><text>Other information the Secretary determines would assist the contractor in carrying out the program.</text>
+										</clause></subparagraph></paragraph><paragraph id="H289DE3B917944379A3EFFA4192FAA266"><enum>(5)</enum><header>Communications</header><text display-inline="yes-display-inline">Communications with providers of services and suppliers under an improper payment outreach and
+			 education program are subject to the standards and requirements of
+			 subsection (g).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph></paragraph></subsection><subsection id="H9DDF09045AD244B7898D7CD74F72CC0F"><enum>(b)</enum><header>Use of certain funds recovered by RACs</header><text display-inline="yes-display-inline">Section 1893(h) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ddd">42 U.S.C. 1395ddd(h)</external-xref>) is amended—</text>
+				<paragraph id="H3ADD1E75ACC448EA9791DA21593DBEE2"><enum>(1)</enum><text display-inline="yes-display-inline">in paragraph (2), by inserting <quote>or section 1874(h)(6)</quote> after <quote>paragraph (1)(C)</quote>; and</text>
+				</paragraph><paragraph id="HFF4E80F461544918BFA504E9320FE24F"><enum>(2)</enum><text>by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H9C940965DA654AD0A444548BA18D2D93" style="OLC">
+						<paragraph id="HBCCB0F4C2DDE46DAB7ED587BCF6B99DD"><enum>(10)</enum><header>Use of certain recovered funds</header>
+							<subparagraph id="HC224546061204960921D168D97A44CEB"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">After application of paragraph (1)(C), the Secretary shall retain a portion of the amounts
+			 recovered by recovery audit contractors for each year under this section
+			 which shall be available to the program management account of the Centers
+			 for Medicare &amp; Medicaid Services for purposes of, subject to subparagraph (B), carrying out sections 1833(z),
+			 1834(l)(16), and 1874A(a)(4)(G), carrying out section 16(b) of the
+			 Protecting the Integrity of Medicare Act of 2014, and implementing
+			 strategies (such as claims processing edits) to help reduce the error rate
+			 of payments under this title. The amounts retained under the preceding
+			 sentence shall not exceed an amount equal to 15 percent of the amounts
+			 recovered under this subsection, and shall remain available until
+			 expended.</text>
+							</subparagraph><subparagraph id="HC793C0F7C9FD4AB8A61BB8A94AA38988"><enum>(B)</enum><header>Limitation</header><text display-inline="yes-display-inline">Except for uses that support claims processing (including edits) or system functionality for
+			 detecting fraud, amounts retained under subparagraph (A) may not be used
+			 for technological-related infrastructure, capital investments, or
+			 information systems.</text>
+							</subparagraph><subparagraph id="H9F00253FBCC342C69534BE57755BDC68"><enum>(C)</enum><header>No reduction in payments to recovery audit contractors</header><text>Nothing in subparagraph (A) shall reduce amounts available for payments to recovery audit
+			 contractors under this subsection.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection></section><section id="H7A59BA0D8A434144B75A5D72F2B6D732" section-type="subsequent-section"><enum>7.</enum><header>Improving senior Medicare patrol and fraud reporting rewards</header>
+			<subsection id="H50884095984D43339ADD25351A9E1B01"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Health and Human Services (in this section referred to as the <quote>Secretary</quote>) shall develop a plan to revise the incentive program under section 203(b) of the Health Insurance
+			 Portability and Accountability Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/42/1395b-5">42 U.S.C. 1395b–5(b)</external-xref>) to
+			 encourage greater participation by individuals to report fraud and abuse
+			 in the Medicare program. Such plan shall include recommendations for—</text>
+				<paragraph id="H473013981C3C4CF9A78FE30D1E486BFC"><enum>(1)</enum><text>ways to enhance rewards for individuals reporting under the incentive program, including rewards
+			 based on information that leads to an administrative action; and</text>
+				</paragraph><paragraph id="H6C45C5004FB64DF299327C9BFE9E1BF0"><enum>(2)</enum><text>extending the incentive program to the Medicaid program.</text>
+				</paragraph></subsection><subsection id="H7E4A787C7CF64C94950C74E2AA5F5A58"><enum>(b)</enum><header>Public Awareness and Education Campaign</header><text>The plan developed under subsection (a) shall also include recommendations for the use of the
+			 Senior Medicare Patrols authorized under section 411 of the Older
+			 Americans Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/42/3032">42 U.S.C. 3032</external-xref>) to conduct a public awareness and
+			 education campaign to encourage participation in the revised incentive
+			 program under subsection (a).</text>
+			</subsection><subsection id="H59B8534035F24CABB06364CC8AA7E897"><enum>(c)</enum><header>Submission of Plan</header><text>Not later than 180 days after the date of enactment of this Act, the Secretary shall submit to
+			 Congress the plan developed under subsection (a).</text>
+			</subsection></section><section id="HD778C1B9A0C7410BB381FEFE9674052A"><enum>8.</enum><header>Requiring valid prescriber National Provider Identifiers on pharmacy claims</header><text display-inline="no-display-inline">Section 1860D–4(c) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-104">42 U.S.C. 1395w–104(c)</external-xref>) is amended by adding at the
+			 end the following new paragraph:</text>
+			<quoted-block display-inline="no-display-inline" id="H6CD823885141438296344738171E7947" style="OLC">
+				<paragraph id="H21C0D5E6A6A54BF2A7D5AE6E1418A0E2"><enum>(4)</enum><header>Requiring valid prescriber National Provider Identifiers on pharmacy claims</header>
+					<subparagraph id="HBC6DCA72128148BD807C447792C58C81"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">For plan year 2016 and subsequent plan years, the Secretary shall require a claim for a covered
+			 part D drug for a part D eligible individual enrolled in a prescription
+			 drug plan under this part or an MA–PD plan under part C to include a
+			 prescriber National Provider Identifier that is determined to be valid
+			 under the procedures established under subparagraph (B)(i).</text>
+					</subparagraph><subparagraph id="H53ECF4BD6C7049BEA300AE874DE648D8"><enum>(B)</enum><header>Procedures</header>
+						<clause id="H32C3813C46134961A0589B9BB1ED3BFF"><enum>(i)</enum><header>Validity of prescriber National Provider Identifiers</header><text>The Secretary, in consultation with appropriate stakeholders, shall establish procedures for
+			 determining the validity of prescriber National Provider Identifiers under
+			 subparagraph (A).</text>
+						</clause><clause id="H19D5B3B72D4F4E188B1459488566ECD9"><enum>(ii)</enum><header>Informing beneficiaries of reason for denial</header><text display-inline="yes-display-inline">The Secretary shall establish procedures to ensure that, in the case that a claim for a covered
+			 part D drug of an individual described in subparagaph (A) is denied
+			 because the claim does not meet the requirements of this paragraph, the
+			 individual is properly informed at the point of service of the reason for
+			 the denial.</text>
+						</clause></subparagraph><subparagraph id="HE263E3EE9254467B90B88CF75A94A8B3"><enum>(C)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than January 1, 2018, the Inspector General of the Department of Health and Human
+			 Services shall submit to Congress a report on the effectiveness of the
+			 procedures established under subparagraph (B)(i).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section commented="no" id="HDD7F7BA449D14D8689FBAF859601BBA7"><enum>9.</enum><header>Option to receive Medicare Summary Notice electronically</header>
+			<subsection id="H77736C5B8D294665B22B42DB22EDC1B1"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1806 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395b-7">42 U.S.C. 1395b–7</external-xref>) is amended by adding at the end the
+			 following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="HDED4FA4963A248C4A0E81E889A9B3FD8" style="OLC">
+					<subsection id="H3080A19B7010470D9086F0C6998888FB"><enum>(c)</enum><header>Format of statements from Secretary</header>
+						<paragraph id="HC45372DEE5774CF79F3F119DECB7DB1B"><enum>(1)</enum><header>Electronic option beginning in 2016</header><text display-inline="yes-display-inline">Subject to paragraph (2), for statements described in subsection (a) that are furnished for a
+			 period in 2016 or a subsequent year, in the case that an individual
+			 described in subsection (a) elects, in accordance with such form, manner,
+			 and time specified by the Secretary, to receive such statement in an
+			 electronic format, such statement shall be furnished to such individual
+			 for each period subsequent to such election in such a format and shall not
+			 be mailed to the individual.</text>
+						</paragraph><paragraph id="H0DD713EF0AF44B1B8FD5CC438FFA493D"><enum>(2)</enum><header>Limitation on revocation option</header>
+							<subparagraph id="H1CAF66258C6F4CC19BB6E25BC3DC7966"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Subject to subparagraph (B), the Secretary may determine a maximum number of elections described in
+			 paragraph (1) by an individual that may be revoked by the individual.</text>
+							</subparagraph><subparagraph id="HA761C61003CB40998912817F61D302BB"><enum>(B)</enum><header>Minimum of one revocation option</header><text>In no case may the Secretary determine a maximum number under subparagraph (A) that is less than
+			 one.</text>
+							</subparagraph></paragraph><paragraph id="HD4C8C85E17804EDEBC9594020AD05DCC"><enum>(3)</enum><header>Notification</header><text display-inline="yes-display-inline">The Secretary shall ensure that, in the most cost effective manner and beginning January 1, 2017, a
+			 clear notification of the option to elect to receive statements described
+			 in subsection (a) in an electronic format is made available, such as
+			 through the notices distributed under section 1804, to individuals
+			 described in subsection (a). <inline-comment display="no">For notices distributed under section 1804 on or after January 1, 2017, the Secretary shall ensure
+			 that such notice includes a clear notification of the option to elect to
+			 receive statements described in subsection (a) in an electronic format.</inline-comment></text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H2E38944783AB4624A18F409034CEF6E3"><enum>(b)</enum><header>Encouraged expansion of electronic statements</header><text display-inline="yes-display-inline">To the extent to which the Secretary of Health and Human Services determines appropriate, the
+			 Secretary shall—</text>
+				<paragraph id="H4621748E20764B1A83BEB11E241D9300"><enum>(1)</enum><text display-inline="yes-display-inline">apply an option similar to the option described in subsection (c)(1) of section 1806 of the Social
+			 Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395b-7">42 U.S.C. 1395b–7</external-xref>) (relating to the provision of the
+			 Medicare Summary Notice in an electronic format), as added by subsection
+			 (a), to other statements and notifications under title XVIII of such Act
+			 (<external-xref legal-doc="usc" parsable-cite="usc/42/1395">42 U.S.C. 1395 et seq.</external-xref>); and</text>
+				</paragraph><paragraph id="HD41175D789CE4BF5A134C90F89134BEC"><enum>(2)</enum><text display-inline="yes-display-inline">provide such Medicare Summary Notice and any such other statements and notifications on a more
+			 frequent basis than is otherwise required under such title.</text>
+				</paragraph></subsection></section><section commented="no" id="H90355F3BA29547929EE432DD3B213104"><enum>10.</enum><header>Renewal of MAC contracts</header>
+			<subsection id="H0874127E001843238F58B64FD7AD2CBC"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1874A(b)(1)(B) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395kk-1">42 U.S.C. 1395kk–1(b)(1)(B)</external-xref>) is amended by
+			 striking <quote>5 years</quote> and inserting <quote>10 years</quote>.</text>
+			</subsection><subsection id="HE064E8EE9F9A44EAA9DFD2165AE8DDCB"><enum>(b)</enum><header>Application</header><text display-inline="yes-display-inline">The amendments made by subsection (a) shall apply to contracts entered into on or after, and to
+			 contracts in effect as of, the date of the enactment of this Act.</text>
+			</subsection><subsection id="H58934F2DDC7C40F895CE11F730B10F4C"><enum>(c)</enum><header>Contractor performance transparency</header><text display-inline="yes-display-inline">Section 1874A(b)(3)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395kk-1">42 U.S.C. 1395kk–1(b)(3)(A)</external-xref>) is amended by
+			 adding at the end the following new clause:</text>
+				<quoted-block display-inline="no-display-inline" id="H2A9AEC0E9DBA4D2AA04C97702C51EE7F" style="OLC">
+					<clause commented="no" id="HDEB9F8F6D9CC4153A83A0F54DEF0AC56"><enum>(iv)</enum><header>Contractor performance transparency</header><text display-inline="yes-display-inline">To the extent possible without compromising the process for entering into and renewing contracts
+			 with medicare administrative contractors under this section, the Secretary
+			 shall make available to the public the performance of each medicare
+			 administrative contractor with respect to such performance requirements
+			 and measurement standards.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="H9377F376EFB247FA9E9647B19AE20872"><enum>11.</enum><header>Study on pathway for incentives to States for State participation in medicaid data match program</header><text display-inline="no-display-inline">Section 1893(g) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ddd">42 U.S.C. 1395ddd(g)</external-xref>) is amended by adding at the end
+			 the following new paragraph:</text>
+			<quoted-block display-inline="no-display-inline" id="H956ABD2823BB4B559BC8ABC6EFD20709" style="OLC">
+				<paragraph commented="no" id="H3120B436E7E749F89F2C941C75FC5D57"><enum>(3)</enum><header>Incentives for States</header><text display-inline="yes-display-inline">The Secretary shall study and, as appropriate, may specify incentives for States to work with the
+			 Secretary for the purposes described in paragraph (1)(A)(ii). The
+			 application of the previous sentence may include use of the waiver
+			 authority described in paragraph (2).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="H5809060EA60D4BA681F6AFBAD99FBA92" section-type="subsequent-section"><enum>12.</enum><header>Programs to prevent prescription drug abuse under Medicare part D</header>
+			<subsection id="H1E733B2A13A446FABDB644C59332FE10"><enum>(a)</enum><header>Drug management program for at-Risk beneficiaries</header>
+				<paragraph id="H455CBE3CEA4541B6BE9CCB702E0D5BB6"><enum>(1)</enum><header>In general</header><text>Section 1860D–4(c) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-10">42 U.S.C. 1395w–10(c)</external-xref>), as amended by section 8, is
+			 further amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H0E054CDF3EEF4D508D7F55987EA215AF" style="OLC">
+						<paragraph id="HDA7D6F7521524CBE8D659ABE907E278C"><enum>(5)</enum><header>Drug management program for at-risk beneficiaries</header>
+							<subparagraph id="H3C2C9255FF894C46BA1669C3BCFCEE79"><enum>(A)</enum><header>Authority to establish</header><text display-inline="yes-display-inline">A PDP sponsor may establish a drug management program for at-risk beneficiaries under which,
+			 subject to <internal-xref idref="H34B80A9B3AC5411F8E6DF46A809903B9" legis-path="(4)(B)">subparagraph (B)</internal-xref>, the PDP sponsor may, in the case of an at-risk beneficiary for prescription drug abuse who is an
+			 enrollee in a prescription drug plan of such PDP sponsor, limit such
+			 beneficiary’s access to coverage for frequently abused drugs under such
+			 plan to frequently abused drugs that are prescribed for such beneficiary
+			 by a prescriber selected under subparagraph (D), and dispensed for such
+			 beneficiary by a pharmacy selected under such subparagraph.</text>
+							</subparagraph><subparagraph id="H34B80A9B3AC5411F8E6DF46A809903B9"><enum>(B)</enum><header>Requirement for notices</header>
+								<clause id="H59453B6E04F84C2D817D67D47C310AA6"><enum>(i)</enum><header>In general</header><text>A PDP sponsor may not limit the access of an at-risk beneficiary for prescription drug abuse to
+			 coverage for frequently abused drugs under a prescription drug plan until
+			 such sponsor—</text>
+									<subclause id="HF94C853BAF974F0B98279BBBEB131E02"><enum>(I)</enum><text>provides to the beneficiary an initial notice described in clause (ii) and a second notice
+			 described in clause (iii); and</text>
+									</subclause><subclause id="H3E61965907FB4EC6822FD333C8741D13"><enum>(II)</enum><text display-inline="yes-display-inline">verifies with the providers of the beneficiary that the beneficiary is an at-risk beneficiary for
+			 prescription drug abuse.</text>
+									</subclause></clause><clause commented="no" id="HE28DD284140041EF8281049BAF7A5A34"><enum>(ii)</enum><header>Initial notice</header><text display-inline="yes-display-inline">An initial notice described in this clause is a notice that provides to the beneficiary—</text>
+									<subclause commented="no" id="HA1F24AC2F2F24C1FA52B8C12188D6E83"><enum>(I)</enum><text>notice that the PDP sponsor has identified the beneficiary as potentially being an at-risk
+			 beneficiary for prescription drug abuse;</text>
+									</subclause><subclause commented="no" id="H4B7DF0258A2D46FABBE94C0386687E13"><enum>(II)</enum><text display-inline="yes-display-inline">information describing all State and Federal public health resources that are designed to address
+			 prescription drug abuse to which the beneficiary has access, including
+			 mental health services and other counseling services;</text>
+									</subclause><subclause id="H289D80C393DE44A5B05F126ABCFC5C6B"><enum>(III)</enum><text display-inline="yes-display-inline">notice of, and information about, the right of the beneficiary to appeal such identification under
+			 subsection (h) and the option of an automatic escalation to external
+			 review;</text>
+									</subclause><subclause id="H23BA486143B94C5793B3F0C045A40F02"><enum>(IV)</enum><text display-inline="yes-display-inline">a request for the beneficiary to submit to the PDP sponsor preferences for which prescribers and
+			 pharmacies the beneficiary would prefer the PDP sponsor to select under
+			 subparagraph (D) in the case that the beneficiary is identified as an
+			 at-risk beneficiary for prescription drug abuse as described in clause
+			 (iii)(I);</text>
+									</subclause><subclause id="H414B73F73DE8495985025F3CE77235F0"><enum>(V)</enum><text display-inline="yes-display-inline">an explanation of the meaning and consequences of the identification of the beneficiary as
+			 potentially being an at-risk beneficiary for prescription drug abuse,
+			 including an explanation of the drug management program established by the
+			 PDP sponsor pursuant to subparagraph (A);</text>
+									</subclause><subclause id="H3F39BC15A3984AC191A55217284373AA"><enum>(VI)</enum><text display-inline="yes-display-inline">clear instructions that explain how the beneficiary can contact the PDP sponsor in order to submit
+			 to the PDP sponsor the preferences described in subclause (IV) and any
+			 other communications relating to the drug management program for at-risk
+			 beneficiaries established by the PDP sponsor; and</text>
+									</subclause><subclause id="H14A631B115E741E09A03828B665E4640"><enum>(VII)</enum><text display-inline="yes-display-inline">contact information for other organizations that can provide the beneficiary with assistance
+			 regarding such drug management program (similar to the information
+			 provided by the Secretary in other standardized notices provided to part D
+			 eligible individuals enrolled in prescription drug plans under this part).</text>
+									</subclause></clause><clause id="H3BD173C76F42443B9F827BCEA03F4C72"><enum>(iii)</enum><header>Second notice</header><text>A second notice described in this clause is a notice that provides to the beneficiary notice—</text>
+									<subclause id="HD743108F129B402A96DE517DCDEDDF8B"><enum>(I)</enum><text display-inline="yes-display-inline">that the PDP sponsor has identified the beneficiary as an at-risk beneficiary for prescription drug
+			 abuse;</text>
+									</subclause><subclause id="H5D6E4D726EB84C17927F5C75EC28E25D"><enum>(II)</enum><text display-inline="yes-display-inline">that such beneficiary is subject to the requirements of the drug management program for at-risk
+			 beneficiaries established by such PDP sponsor for such plan;</text>
+									</subclause><subclause id="HE3D6D6A9B8CC4EF185082094A85BE006"><enum>(III)</enum><text display-inline="yes-display-inline">of the prescriber and pharmacy selected for such individual under <internal-xref idref="HA762203F956F4E508317C52624430EC5" legis-path="(4)(D)">subparagraph (D)</internal-xref>;</text>
+									</subclause><subclause id="H64834B6BD97A4D8CAD0A371809E1957B"><enum>(IV)</enum><text display-inline="yes-display-inline">of, and information about, the beneficiary’s right to appeal such identification under subsection
+			 (h) and the option of an automatic escalation to external review;</text>
+									</subclause><subclause commented="no" id="H4EBED387DD914ECBAAC1FB8A787DA0CE"><enum>(V)</enum><text display-inline="yes-display-inline">that the beneficiary can, in the case that the beneficiary has not previously submitted to the PDP
+			 sponsor preferences for which prescribers and pharmacies the beneficiary
+			 would prefer the PDP sponsor select under subparagraph (D), submit such
+			 preferences to the PDP sponsor; and</text>
+									</subclause><subclause id="H727C3D494454457A995F3BA19ED60A17"><enum>(VI)</enum><text display-inline="yes-display-inline">that includes clear instructions that explain how the beneficiary can contact the PDP sponsor.</text>
+									</subclause></clause><clause id="H7321F227A8FE4A37B1A40CF03519C2E6"><enum>(iv)</enum><header>Timing of notices</header>
+									<subclause id="H244EF68B2E144CE085D10ABB28FF797F"><enum>(I)</enum><header>In general</header><text>Subject to subclause (II), a second notice described in clause (iii) shall be provided to the
+			 beneficiary on a date that is not less than 60 days after an initial
+			 notice described in clause (ii) is provided to the beneficiary.</text>
+									</subclause><subclause id="HE8EFC27566DF4CE38A8A6BD3BCE01022"><enum>(II)</enum><header>Exception</header><text display-inline="yes-display-inline">In the case that the PDP sponsor, in conjunction with the Secretary, determines that concerns
+			 identified through rulemaking by the Secretary regarding the health or
+			 safety of the beneficiary or regarding significant drug diversion
+			 activities require the PDP sponsor to provide a second notice described in
+			 clause (iii) to the beneficiary on a date that is earlier than the date
+			 described in subclause (II), the PDP sponsor may provide such second
+			 notice on such earlier date.</text>
+									</subclause></clause></subparagraph><subparagraph id="H1711069A7C3E446B9F63434279FC7228"><enum>(C)</enum><header>At-risk beneficiary for prescription drug abuse</header>
+								<clause id="H30E80D8580404C639EFC8A67F257CDEC"><enum>(i)</enum><header>In general</header><text>For purposes of this paragraph, the term <quote>at-risk beneficiary for prescription drug abuse</quote> means a part D eligible individual who is not an exempted individual described in clause (ii) and—</text>
+									<subclause display-inline="no-display-inline" id="H938E4C8377F04845AB809509FA2C1D93"><enum>(I)</enum><text display-inline="yes-display-inline">who is identified through the use of guidelines developed by the Secretary in consultation with PDP
+			 sponsors and other stakeholders described in section 12(f)(2)(A) of the
+			 Protecting the Integrity of Medicare Act of 2014; or <inline-comment display="no">who is identified [by a PDP sponsor that enrolls such individual in a prescription drug plan?],
+			 through the use of guidelines developed by the Secretary in consultation
+			 with PDP sponsors and other stakeholders, [as posing a high risk with
+			 respect to the abuse of frequently abused prescription drugs?]</inline-comment></text>
+									</subclause><subclause id="HEB27DC5E7F2840E0A8FF4D39A4A92C76"><enum>(II)</enum><text display-inline="yes-display-inline">with respect to whom the PDP sponsor of a prescription drug plan, upon enrolling such individual in
+			 such plan, received notice from the Secretary that such individual was
+			 identified under this paragraph to be an at-risk beneficiary for
+			 prescription drug abuse under the prescription drug plan in which such
+			 individual was most recently previously enrolled and such identification
+			 has not been terminated under subparagraph (F).</text>
+									</subclause></clause><clause id="H84878971636544FFABE04B6DB69FCE00"><enum>(ii)</enum><header>Exempted individual described</header><text>An exempted individual described in this clause is an individual who—</text>
+									<subclause id="HB7FE705949C143FFBDB60EFFB7D6790A"><enum>(I)</enum><text display-inline="yes-display-inline">receives hospice care under this title; or</text>
+									</subclause><subclause commented="no" id="HF18149485E824CBA972956E657E72D03"><enum>(II)</enum><text>the Secretary elects to treat as an exempted individual for purposes of clause (i).</text>
+									</subclause></clause></subparagraph><subparagraph id="HA762203F956F4E508317C52624430EC5"><enum>(D)</enum><header>Selection of prescribers</header>
+								<clause id="H5810989E58E74D7EB8B5F696944036EF"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">With respect to each at-risk beneficiary for prescription drug abuse enrolled in a prescription
+			 drug plan offered by such sponsor, a PDP sponsor shall, based on the
+			 preferences submitted to the PDP sponsor by the beneficiary pursuant to
+			 clauses (ii)(IV) and (iii)(V) of subparagraph (B), select—</text>
+									<subclause id="H3FB15BECD3A540D0A88226A954D979EE"><enum>(I)</enum><text display-inline="yes-display-inline">one or more individuals who are authorized to prescribe frequently abused drugs (referred to in
+			 this paragraph as <quote>prescribers</quote>) who may write prescriptions for such drugs for such beneficiary; and</text>
+									</subclause><subclause id="H7F74F124EBEE4DCD894D1DDFCAEAF9A0"><enum>(II)</enum><text>one or more pharmacies that may dispense such drugs to such beneficiary.</text>
+									</subclause></clause><clause id="H1A11EBB44BA94FDBA628B2D9E5E15982"><enum>(ii)</enum><header>Reasonable access</header><text display-inline="yes-display-inline">In making the selection under this subparagraph, a PDP sponsor shall ensure that the beneficiary
+			 continues to have reasonable access to drugs described in subparagraph
+			 (G), taking into account geographic location, beneficiary preference,
+			 affordability, and reasonable travel time.</text>
+								</clause><clause id="H336D0E2F4E824BCBBF95E85296701367"><enum>(iii)</enum><header>Beneficiary preferences</header>
+									<subclause id="HF441FA501B5447389C73F65C433958AF"><enum>(I)</enum><header>In general</header><text>If an at-risk beneficiary for prescription drug abuse submits preferences for which in-network
+			 prescribers and pharmacies the beneficiary would prefer the PDP sponsor
+			 select in response to a notice under subparagraph (B), the PDP sponsor
+			 shall—</text>
+										<item id="H746926BB1DDD4490A61E8B894727A5A5"><enum>(aa)</enum><text>review such preferences;</text>
+										</item><item id="HD3C992615B234A15AF4BB5551CF31D73"><enum>(bb)</enum><text>select or change the selection of a prescriber or pharmacy for the beneficiary based on such
+			 preferences; and</text>
+										</item><item id="H1BBC3203B2384539A4A860050F80D3DE"><enum>(cc)</enum><text>inform the beneficiary of such selection or change of selection.</text>
+										</item></subclause><subclause id="HB1201678A45C4693817AB7FFB6A76879"><enum>(II)</enum><header>Exception</header><text display-inline="yes-display-inline">In the case that the PDP sponsor determines that a change to the selection of a prescriber or
+			 pharmacy under item (bb) by the PDP sponsor is contributing or would
+			 contribute to prescription drug abuse or drug diversion by the
+			 beneficiary, the PDP sponsor may change the selection of a prescriber or
+			 pharmacy for the beneficiary without regard to the preferences of the
+			 beneficiary described in subclause (I).</text>
+									</subclause></clause><clause id="H94A44F16DCD14B1BBB221C5C682EF8C8"><enum>(iv)</enum><header>Confirmation</header><text display-inline="yes-display-inline">Before selecting a prescriber or pharmacy under this subparagraph, a PDP sponsor must request and
+			 receive confirmation from the prescriber or pharmacy acknowledging and
+			 accepting that the beneficiary involved is in the drug management program
+			 for at-risk beneficiaries.</text>
+								</clause></subparagraph><subparagraph id="H84CFB4E85722482C8DFF49C9E1C952FA"><enum>(E)</enum><header>Terminations and appeals</header><text display-inline="yes-display-inline">The identification of an individual as an at-risk beneficiary for prescription drug abuse under
+			 this paragraph, a coverage determination made under a drug management
+			 program for at-risk beneficiaries, and the selection of a prescriber or
+			 pharmacy under subparagraph (D) with respect to such individual shall be
+			 subject to reconsideration and appeal under subsection (h) and the option
+			 of an automatic escalation to external review to the extent provided by
+			 the Secretary.</text>
+							</subparagraph><subparagraph id="HD36ACC349E634940890B32676A0282FB"><enum>(F)</enum><header>Termination of identification</header>
+								<clause id="HC929037A6F8E4EDFA50137EE6C6179B3"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall develop standards for the termination of identification of an individual as an
+			 at-risk beneficiary for prescription drug abuse under this paragraph.
+			 Under such standards such identification shall terminate as of the earlier
+			 of—</text>
+									<subclause id="H4999EF337A594EDB8EBA05E279576D5E"><enum>(I)</enum><text display-inline="yes-display-inline">the date the individual demonstrates that the individual is no longer likely, in the absence of the
+			 restrictions under this paragraph, to be an at-risk beneficiary for
+			 prescription drug abuse described in subparagraph (C)(i); or</text>
+									</subclause><subclause id="HE69EF5C0A625443A929AF2A65848D854"><enum>(II)</enum><text>the end of such maximum period of identification as the Secretary may specify.</text>
+									</subclause></clause><clause id="H04F7AC3CC53244779FD9CBCC4F49C02F"><enum>(ii)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Nothing in clause (i) shall be construed as preventing a plan from identifying an individual as an
+			 at-risk beneficiary for prescription drug abuse under subparagraph (C)(i)
+			 after such termination on the basis of additional information on drug use
+			 occurring after the date of notice of such termination.</text>
+								</clause></subparagraph><subparagraph id="HD64818DEE5B54EF789AFD45B7E31EBA8"><enum>(G)</enum><header>Frequently abused drug</header><text display-inline="yes-display-inline">For purposes of this subsection, the term <term>frequently abused drug</term> means a drug that is determined by the Secretary to be frequently abused or diverted and that is—</text>
+								<clause id="H97D40F157DF144F3B0DDE97901ED812C"><enum>(i)</enum><text display-inline="yes-display-inline">a Controlled Drug Substance in Schedule CII–CIV;</text>
+								</clause><clause id="H4CA64776111544D88163BA223E4CE1AF"><enum>(ii)</enum><text>within the same class or category of drugs as a Controlled Drug Substance in Schedule CII–CIV; or</text>
+								</clause><clause id="HF06DEEC176D7445E8563FC7A61E9598A"><enum>(iii)</enum><text display-inline="yes-display-inline">within another class or category of drugs that the Secretary determines, in consultation with the
+			 Inspector General of the Department of Health and Human Services, is at
+			 high risk for diversion or abuse.</text>
+								</clause></subparagraph><subparagraph id="H308F15E9F1944E769DF0C2CEF4956E48"><enum>(H)</enum><header>Data disclosure</header><text display-inline="yes-display-inline">In the case of an at-risk beneficiary for prescription drug abuse whose access to coverage for
+			 frequently abused drugs under a prescription drug plan has been limited by
+			 a PDP sponsor under this paragraph, such PDP sponsor shall disclose data,
+			 including any necessary individually identifiable health information, in a
+			 form and manner specified by the Secretary, about the decision to impose
+			 such limitations and the limitations imposed by the sponsor under this
+			 part.</text>
+							</subparagraph><subparagraph id="HE3846FAA60AC4E4B85A85E20ED2C4941"><enum>(I)</enum><header>Education</header><text display-inline="yes-display-inline">The Secretary shall provide education to enrollees in prescription drug plans of PDP sponsors and
+			 providers regarding the drug management program for at-risk beneficiaries
+			 described in this paragraph, including education—</text>
+								<clause id="HB70F0516382F405DBD802A29489FC74B"><enum>(i)</enum><text>provided by medicare administrative contractors through the improper payment outreach and education
+			 program described in section 1874A(h); and</text>
+								</clause><clause id="HEEE12730DD274EFA924BB5A03B4C3BF8"><enum>(ii)</enum><text display-inline="yes-display-inline">through current education efforts (such as State health insurance assistance programs described in
+			 subsection (a)(1)(A) of section 119 of the Medicare Improvements for
+			 Patients and Providers Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/42/1395b-3">42 U.S.C. 1395b–3</external-xref> note)) and materials
+			 directed toward such enrollees.</text>
+								</clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="H087C6E4496914CA081792D2862D91BA6"><enum>(2)</enum><header>Information for consumers</header><text display-inline="yes-display-inline">Section 1860D–4(a)(1)(B) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-104">42 U.S.C. 1395w–104(a)(1)(B)</external-xref>) is amended by
+			 adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H1C1AF51ABC88499183F690DF801E783B" style="OLC">
+						<clause id="H764C50ABFF13463DA1B2617CA1D9F95E"><enum>(v)</enum><text display-inline="yes-display-inline">The drug management program for at-risk beneficiaries under subsection (c)(5).</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H073EFA9495BD4CE68F6B922F3C249A4E"><enum>(b)</enum><header>Utilization management programs</header><text display-inline="yes-display-inline">Section 1860D–4(c) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-104">42 U.S.C. 1395w–104(c)</external-xref>), as amended by subsection
+			 (a) and section 8, is further amended—</text>
+				<paragraph id="HDA054DDF8D7E435BB337ECD2189964C0"><enum>(1)</enum><text display-inline="yes-display-inline">in paragraph (1), by inserting after subparagraph (D) the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="HC9E16993B00743F1866D3BC97726C4AA" style="OLC">
+						<subparagraph id="HA5B112E4BA234543BB9A18B9415FCA93"><enum>(E)</enum><text display-inline="yes-display-inline">A utilization management tool to prevent drug abuse (as described in paragraph (6)(A)).</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="HCB482E480C9E477A8F1A3A331801A9A0"><enum>(2)</enum><text display-inline="yes-display-inline">by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H23EA0491B6334F9586C59C1DB52173C5" style="OLC">
+						<paragraph id="H1F65A2DCBEF644D292C82D57016D31D9"><enum>(6)</enum><header>Utilization management tool to prevent drug abuse</header>
+							<subparagraph id="HDF002DDFB2784425BC2BA3AE5752DF25"><enum>(A)</enum><header>In general</header><text>A tool described in this paragraph is any of the following:</text>
+								<clause id="H10D107D4D14D44F5A891B28F0E294C25"><enum>(i)</enum><text>A utilization tool designed to prevent the abuse of frequently abused drugs by individuals and to
+			 prevent the diversion of such drugs at pharmacies.</text>
+								</clause><clause id="H99ABAD4FA6CC4CFA93A87467E135F96B"><enum>(ii)</enum><text>Retrospective utilization review to identify—</text>
+									<subclause id="H9879F85C72A24F4DB24FF928D0731D42"><enum>(I)</enum><text display-inline="yes-display-inline">individuals that receive frequently abused drugs at a frequency or in amounts that are not
+			 clinically appropriate; and</text>
+									</subclause><subclause id="HB5CBAD66DCC149AABC587776CA0F7066"><enum>(II)</enum><text>providers of services or suppliers that may facilitate the abuse or diversion of frequently abused
+			 drugs by beneficiaries.</text>
+									</subclause></clause><clause id="H7C34C21BCD8C4F4399EE3E90A8C5804B"><enum>(iii)</enum><text>Consultation with the Contractor described in subparagraph (B) to verify if an individual enrolling
+			 in a prescription drug plan offered by a PDP sponsor has been previously
+			 identified by another PDP sponsor as an individual described in clause
+			 (ii)(I).</text>
+								</clause></subparagraph><subparagraph id="HCC4A79C4684048DFB596BEB5772CD6F4"><enum>(B)</enum><header>Reporting</header><text>A PDP sponsor offering a prescription drug plan in a State shall submit to the Secretary and the
+			 Medicare drug integrity contractor with which the Secretary has entered
+			 into a contract under section 1893 with respect to such State a report, on
+			 a monthly basis, containing information on—</text>
+								<clause id="H7EFD7B4005BF41CD81C4B69500BAB90B"><enum>(i)</enum><text>any provider of services or supplier described in subparagraph (A)(ii)(II) that is identified by
+			 such plan sponsor during the 30-day period before such report is
+			 submitted; and</text>
+								</clause><clause id="HC06FBADEE1C2413D9F243A122589C43D"><enum>(ii)</enum><text>the name and prescription records of individuals described in paragraph (5)(C).</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="HCC5EDB58494A4398B9E078BB4482256A"><enum>(c)</enum><header>Expanding Activities of Medicare Drug Integrity Contractors (MEDICs)</header><text display-inline="yes-display-inline">Section 1893 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ddd">42 U.S.C. 1395ddd</external-xref>) is amended by adding at the end the
+			 following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="HBAB94A5D44224F6FA65070DAB1AAE30E" style="OLC">
+					<subsection id="H68D5341C52A24788B93C416935FB44B7"><enum>(j)</enum><header>Expanding Activities of Medicare Drug Integrity Contractors (MEDICs)</header>
+						<paragraph id="H90F4E2BEB52841F9A4F6C4229D6274E1"><enum>(1)</enum><header>Access to information</header><text display-inline="yes-display-inline">Under contracts entered into under this section with Medicare drug integrity contractors, the
+			 Secretary shall authorize such contractors to directly accept prescription
+			 and necessary medical records from entities such as pharmacies,
+			 prescription drug plans, and physicians with respect to an individual in
+			 order for such contractors to provide information relevant to the
+			 determination of whether such individual is an at-risk beneficiary for
+			 prescription drug abuse, as defined in section 1860D–4(c)(5)(C).</text>
+						</paragraph><paragraph commented="no" id="H6F2520BDBF9B4D21AA8DAECB081BA14A"><enum>(2)</enum><header>Requirement for acknowledgment of referrals</header><text display-inline="yes-display-inline">If a PDP sponsor refers information to a contractor described in paragraph (1) in order for such
+			 contractor to assist in the determination described in such paragraph, the
+			 contractor shall—</text>
+							<subparagraph commented="no" id="H2A4CA5B83F2F40F094AC297711E00CAC"><enum>(A)</enum><text>acknowledge to the PDP sponsor receipt of the referral; and</text>
+							</subparagraph><subparagraph commented="no" id="H485E96BC97BF4244BF43B8AD4C61B286"><enum>(B)</enum><text>in the case that any PDP sponsor contacts the contractor requesting to know the determination by
+			 the contractor of whether or not an individual has been determined to be
+			 an individual described such paragraph, shall inform such PDP sponsor of
+			 such determination on a date that is not later than 15 days after the date
+			 on which the PDP sponsor contacts the contractor.</text>
+							</subparagraph></paragraph><paragraph id="H2BEEE6EA48A74049B5EFC701F7483957"><enum>(3)</enum><header>Making data available to other entitiessect</header>
+							<subparagraph id="HBA3371A079FA4B20A69E2A559D5E4848"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">For purposes of carrying out this subsection, subject to subparagraph (B), the Secretary shall
+			 authorize MEDICs to respond to requests for information from PDP sponsors,
+			 State prescription drug monitoring programs, and other entities delegated
+			 by PDP sponsors using available programs and systems in the effort to
+			 prevent fraud, waste, and abuse.</text>
+							</subparagraph><subparagraph id="H05030102E23A462AA5BC2B2409204799"><enum>(B)</enum><header>HIPAA compliant information only</header><text display-inline="yes-display-inline">Information may only be disclosed by a MEDIC under subparagraph (A) if the disclosure of such
+			 information is permitted under the Federal regulations (concerning the
+			 privacy of individually identifiable health information) promulgated under
+			 section 264(c) of the Health Insurance Portability and Accountability Act
+			 of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/42/1320d-2">42 U.S.C. 1320d–2</external-xref> note).</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" id="HB63DBF42CF5A494497ED38063B12F72D"><enum>(d)</enum><header>Treatment of certain complaints for purposes of quality or performance assessment</header><text display-inline="yes-display-inline">Section 1860D–42 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-152">42 U.S.C. 1395w–152</external-xref>) is amended by adding at the end
+			 the following new subsection: <inline-comment display="no">The star ratings system in 1853(o)(4)(A) is in part C; PDP sponsors are in part D. Do these somehow
+			 overlap?</inline-comment></text>
+				<quoted-block display-inline="no-display-inline" id="HD24EC7ECE5FA45349A5E47F68E3E4BE2" style="OLC">
+					<subsection id="H1F6C2E7435A94F65A6EC43B9B434EF39"><enum>(d)</enum><header>Treatment of certain complaints for purposes of quality or performance assessment</header><text display-inline="yes-display-inline">In conducting a quality or performance assessment of a PDP sponsor, the Secretary shall develop or
+			 utilize existing screening methods for reviewing and considering
+			 complaints that are received from enrollees in a prescription drug plan
+			 offered by such PDP sponsor and that are complaints regarding the lack of
+			 access by the individual to prescription drugs due to a drug management
+			 program for at-risk beneficiaries.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H94209B24A55C4441852B33223056A76C"><enum>(e)</enum><header>GAO studies and reports</header>
+				<paragraph id="HC7EA5188F22446F7A962A62A641B5F4F"><enum>(1)</enum><header>Studies</header><text display-inline="yes-display-inline">The Comptroller General of the United States shall conduct a study on each of the following:</text>
+					<subparagraph id="H9607AA268DDC4DE6B5AE738A484593D8"><enum>(A)</enum><text display-inline="yes-display-inline">The implementation of the amendments made by this section.</text>
+					</subparagraph><subparagraph id="HFA2F1B36643B4E4DA192541CDCF62899"><enum>(B)</enum><text display-inline="yes-display-inline">The effectiveness of the at-risk beneficiaries for prescription drug abuse drug management programs
+			 authorized by section 1860D–4(c)(5) of the Social Security Act (42 U.S.C.
+			 1395w–10(c)(5)), as added by subsection (a)(1), including an analysis of—</text>
+						<clause id="HF6F83D35CC004C4A9FBFDA4F3234F590"><enum>(i)</enum><text>the impediments, if any, that impair the ability of individuals described in subparagraph (C) of
+			 such section 1860D–4(c)(5) to access clinically appropriate levels of
+			 prescription drugs; and</text>
+						</clause><clause id="H285393516B8F42C8AB224B084217F7B5"><enum>(ii)</enum><text>the types of—</text>
+							<subclause id="H09B78348E93E4AF3BE5170956CE56025"><enum>(I)</enum><text>individuals who, in the implementation of such section, are determined to be individuals described
+			 in such subparagraph; and</text>
+							</subclause><subclause id="HD9AEC61CF8C447C4B3DE6F7C5D591369"><enum>(II)</enum><text display-inline="yes-display-inline">prescribers and pharmacies that are selected under subparagraph (D) of such section.</text>
+							</subclause></clause></subparagraph></paragraph><paragraph id="HA2197970AA444D8AA7AE3D9B4835902D"><enum>(2)</enum><header>Reports</header><text display-inline="yes-display-inline">Not later than January 1, 2016, the Comptroller General of the United States shall begin work, with
+			 respect to each study described in paragraph (1), on a report that
+			 describes the result of such study. Upon the completion of each such
+			 report, such Comptroller General shall submit the report to each of the
+			 committees described in paragraph (3).</text>
+				</paragraph><paragraph id="H7E0218C495A448699D58E86525877AFC"><enum>(3)</enum><header>Committees described</header><text>The committees described in this paragraph are the following:</text>
+					<subparagraph id="H26E20F2818824A00984D9E3752CF0CC2"><enum>(A)</enum><text display-inline="yes-display-inline">The Committee on Ways and Means of the House of Representatives.</text>
+					</subparagraph><subparagraph id="H64BA7E2882AC4E1AB1555217707CFC51"><enum>(B)</enum><text display-inline="yes-display-inline">The Committee on Energy and Commerce of the House of Representatives.</text>
+					</subparagraph><subparagraph id="H95906D71C0F14F2C88E212663342812B"><enum>(C)</enum><text>The Committee on Finance of the Senate.</text>
+					</subparagraph><subparagraph id="H1013D6E3766E4A8389AD5A05949C3DE4"><enum>(D)</enum><text>The Committee on Health, Education, Labor, and Pensions of the Senate.</text>
+					</subparagraph><subparagraph id="HC1931F60660F4529B297CC77C8DBFAA1"><enum>(E)</enum><text>The Special Committee on Aging of the Senate.</text>
+					</subparagraph></paragraph></subsection><subsection id="H7C01F28D92654F3B9908D9ACC28EAD50"><enum>(f)</enum><header>Effective date</header>
+				<paragraph id="H8922AAA8B8904581B404CEBE0CE94C82"><enum>(1)</enum><header>In general</header><text>The amendments made by this section shall apply to prescription drug plans for plan years beginning
+			 on or after January 1, 2017.</text>
+				</paragraph><paragraph id="HE11746247B164E5E8257C23836C7A10F"><enum>(2)</enum><header>Stakeholder meetings prior to effective date</header>
+					<subparagraph id="H9A26EC4477AD4CE891D39C5BBCC1B302"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than January 1, 2016, the Secretary shall convene stakeholders, including individuals
+			 entitled to benefits under part A of title XVIII of the Social Security
+			 Act or enrolled under part B of such title of such Act, advocacy groups
+			 representing such individuals, clinicians, plan sponsors, and entities
+			 delegated by plan sponsors, for input regarding the topics described in
+			 subparagraph (B).</text>
+					</subparagraph><subparagraph commented="no" id="HA45779511FD34AB28D5CF2F247FA46DA"><enum>(B)</enum><header>Topics described</header><text display-inline="yes-display-inline">The topics described in this subparagraph are the topics of—</text>
+						<clause id="H1965DA6423FD4972899ADDB68D6B6401"><enum>(i)</enum><text>ensuring affordability and accessibility to prescription drugs for enrollees in prescription drug
+			 plans of PDP sponsors who are at-risk beneficiaries for prescription drug
+			 abuse (as defined in paragraph (5)(C) of section 1860D–4(c) of the Social
+			 Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-10">42 U.S.C. 1395w–10(c)</external-xref>));</text>
+						</clause><clause id="H0AFCE811F641427A8DC82A07D691B91B"><enum>(ii)</enum><text>the use of an expedited appeals process under which such an enrollee may appeal an identification
+			 of such enrollee as an at-risk beneficiary for prescription drug abuse
+			 under such paragraph (similar to the processes established under the
+			 Medicare Advantage program under part C of title XVIII of the Social
+			 Security Act that allow an automatic escalation to external review of
+			 claims submitted under such part);</text>
+						</clause><clause id="H4A7B02F45D244E2CA8A344EE6C6B6CF8"><enum>(iii)</enum><text>the types of enrollees that should be treated as exempted individuals, as described in clause (ii)
+			 of such paragraph;</text>
+						</clause><clause id="H1C9957667AFB4E0E8AB87DCE5D07CD05"><enum>(iv)</enum><text display-inline="yes-display-inline">the manner in which terms and definitions in paragraph (5) of such section 1860D–4(c) should be
+			 applied, such as the use of clinical appropriateness in determining
+			 whether an enrollee is an at-risk beneficiary for prescription drug abuse
+			 as defined in subparagraph (C) of such paragraph (5);</text>
+						</clause><clause id="HD85045985EB54142A537D554F816869B"><enum>(v)</enum><text>the information to be included in the notices described in subparagraph (B) of such section and the
+			 standardization of such notices; and</text>
+						</clause><clause id="H4684933C2D14476281F83462BBC3EA4F"><enum>(vi)</enum><text display-inline="yes-display-inline">with respect to a PDP sponsor that establishes a drug management program for at-risk beneficiaries
+			 under such paragraph (5), the responsibilities of such PDP sponsor with
+			 respect to the implementation of such program.</text>
+						</clause></subparagraph><subparagraph id="H7B65F7A483F54AE49C93BFF767DAEEDF"><enum>(C)</enum><header>Rulemaking</header><text display-inline="yes-display-inline">The Secretary shall promulgate regulations based on the input gathered pursuant to subparagraph
+			 (A).</text>
+					</subparagraph></paragraph></subsection></section><section id="H2D6CC46E480A4585A6EDA822C90CE64F"><enum>13.</enum><header>Guidance on application of Common Rule to clinical data registries</header><text display-inline="no-display-inline">Not later than one year after the date of the enactment of this section, the Secretary of Health
+			 and Human Services shall issue a clarification or modification with
+			 respect to the application of subpart A of part 46 of title 45, Code of
+			 Federal Regulations, governing the protection of human subjects in
+			 research (and commonly known as the <quote>Common Rule</quote>), to activities, including quality improvement activities, involving clinical data registries,
+			 including entities that are qualified clinical data registries pursuant to
+			 section 1848(m)(3)(E) of the Social Security Act (42 U.S.C.
+			 1395w–4(m)(3)(E)).</text>
+		</section><section id="HA29A06B45F06459C8CA2758133E0F9AE"><enum>14.</enum><header>Eliminating certain civil money penalties; gainsharing study and report</header>
+			<subsection id="H5B2B7B5A704D45A1B06BBEDA70D68751"><enum>(a)</enum><header>Eliminating civil money penalties for inducements to physicians To limit services that are not
+			 medically necessary</header>
+				<paragraph id="H15BAB4337E3B43029BE282581C9A467B"><enum>(1)</enum><header>In general</header><text>Section 1128A(b)(1) of the Social Security Act (42 U.S.C. 1320a–7a(b)(1)) is amended by inserting <quote>medically necessary</quote> after <quote>reduce or limit</quote>.</text>
+				</paragraph><paragraph id="H87A4347FB8C34E3BB51248E5E935BB1D"><enum>(2)</enum><header>Effective date</header><text>The amendment made by paragraph (1) shall apply to payments made on or after the date of the
+			 enactment of this Act.</text>
+				</paragraph></subsection><subsection id="H75654E8300484F4CA88FCD3F7E279B71"><enum>(b)</enum><header>Gainsharing study and report</header><text display-inline="yes-display-inline">Not later than 12 months after the date of the enactment of this Act, the Secretary of Health and
+			 Human Services, in consultation with the Inspector General of the
+			 Department of Health and Human Services, shall submit to Congress a report
+			 with options for amending existing fraud and abuse laws in, and
+			 regulations related to, titles XI and XVIII of the Social Security Act (42
+			 U.S.C. 301 et seq.), through exceptions, safe harbors, or other narrowly
+			 targeted provisions, to permit gainsharing arrangements that otherwise
+			 would be subject to the civil money penalties described in paragraphs (1)
+			 and (2) of section 1128A(b) of such Act (42 U.S.C. 1320a–7a(b)), or
+			 similar arrangements between physicians and hospitals, and that improve
+			 care while reducing waste and increasing efficiency. The report shall—</text>
+				<paragraph id="H418298B1AF624743BC5861174AF06195"><enum>(1)</enum><text>consider whether such provisions should apply to ownership interests, compensation arrangements, or
+			 other relationships;</text>
+				</paragraph><paragraph id="H0673DF90F2184D5B8066BFEEBD72A30E"><enum>(2)</enum><text>describe how the recommendations address accountability, transparency, and quality, including how
+			 best to limit inducements to stint on care, discharge patients
+			 prematurely, or otherwise reduce or limit medically necessary care; and</text>
+				</paragraph><paragraph id="HC74EA5D8C9BA43D2B46D8E44511116EE"><enum>(3)</enum><text>consider whether a portion of any savings generated by such arrangements (as compared to an
+			 historical benchmark or other metric specified by the Secretary to
+			 determine the impact of delivery and payment system changes under such
+			 title XVIII on expenditures made under such title) should accrue to the
+			 Medicare program under title XVIII of the Social Security Act.</text>
+				</paragraph></subsection></section><section id="HFEBC1C51D66D41AE94F10E7BB65314BB"><enum>15.</enum><header>Modification of Medicare home health surety bond condition of participation requirement</header><text display-inline="no-display-inline">Section 1861(o)(7) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(o)(7)</external-xref>) is amended to read as
+			 follows:</text>
+			<quoted-block display-inline="no-display-inline" id="HACA17762202F4440B28E60BE1BF2FBA2" style="OLC">
+				<paragraph id="HEC65907E428943D9B19A17BCD43869D6"><enum>(7)</enum><text display-inline="yes-display-inline">provides the Secretary with a surety bond—</text>
+					<subparagraph id="H65BD6125642145B29B6A46F099D3758B"><enum>(A)</enum><text display-inline="yes-display-inline">in a form specified by the Secretary and in an amount that is not less than the minimum of $50,000;
+			 and</text>
+					</subparagraph><subparagraph id="H7808DC3DCF8445B5963431C113B943AF"><enum>(B)</enum><text>that the Secretary determines is commensurate with the volume of payments to the home health
+			 agency; and</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="H57926D2D426D4288BEEEC52D4C4E89AA" section-type="subsequent-section"><enum>16.</enum><header>Oversight of Medicare coverage of manual manipulation of the spine to correct subluxation</header>
+			<subsection id="H6445D1235BD94E668DE0422A7C569C17"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1833 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395l">42 U.S.C. 1395l</external-xref>) is amended by adding at the end the
+			 following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H178D80C1A99E48579C46205D1516883D" style="OLC">
+					<subsection id="H31CD7B2BE0614140936A7AF96FC05AC4"><enum>(z)</enum><header>Medical review of spinal subluxation services</header>
+						<paragraph id="H75AECC71B3EB49899BB7E83433F623BC"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall implement a process for the medical review (as described in paragraph (2)) of
+			 treatment by a chiropractor described in section 1861(r)(5) by means of
+			 manual manipulation of the spine to correct a subluxation (as described in
+			 such section) of an individual who is enrolled under this part and apply
+			 such process to such services furnished on or after January 1, 2017,
+			 focusing on services such as—</text>
+							<subparagraph id="H3DE90191D0E844C2BE9338647FED2E50"><enum>(A)</enum><text display-inline="yes-display-inline">services furnished by a such a chiropractor whose pattern of billing is aberrant compared to peers;
+			 and</text>
+							</subparagraph><subparagraph id="HACAC9455633E46B5A5C381C93D26223D"><enum>(B)</enum><text display-inline="yes-display-inline">services furnished by such a chiropractor who, in a prior period, has a services denial percentage
+			 in the 85th percentile or greater, taking into consideration the extent
+			 that service denials are overturned on appeal.</text>
+							</subparagraph></paragraph><paragraph id="H0185D6042E7E4C14931642C5C793E1B2"><enum>(2)</enum><header>Medical review</header>
+							<subparagraph id="HC48D8F62BE8A4536BD1197CC6DB612E7"><enum>(A)</enum><header>Prior authorization medical review</header>
+								<clause id="H56663A9EE30541D1BEDF33F7E8381C77"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">Subject to clause (ii), the Secretary shall use prior authorization medical review for services
+			 described in paragraph (1) that are furnished to an individual by a
+			 chiropractor described in section 1861(r)(5) that are part of an episode
+			 of treatment that includes more than 12 services. For purposes of the
+			 preceding sentence, an episode of treatment shall be determined by the
+			 underlying cause that justifies the need for services, such as a diagnosis
+			 code.</text>
+								</clause><clause id="H151C9628D14E4D9281594EB004A9294D"><enum>(ii)</enum><header>Ending application of prior authorization medical review</header><text display-inline="yes-display-inline">The Secretary shall end the application of prior authorization medical review under clause (i) to
+			 services described in paragraph (1) by such a chiropractor if the
+			 Secretary determines that the chiropractor has a low denial rate under
+			 such prior authorization medical review. The Secretary may subsequently
+			 reapply prior authorization medical review to such chiropractor if the
+			 Secretary determines it to be appropriate and the chiropractor has, in the
+			 time period subsequent to the determination by the Secretary of a low
+			 denial rate with respect to the chiropractor, furnished such services
+			 described in paragraph (1).</text>
+								</clause><clause id="HA288F65A494C48E08EA8A31CC26E3E91"><enum>(iii)</enum><header>Early request for prior authorization review permitted</header><text display-inline="yes-display-inline">Nothing in this subsection shall be construed to prevent such a chiropractor from requesting prior
+			 authorization for services described in paragraph (1) that are to be
+			 furnished to an individual before the chiropractor furnishes the twelfth
+			 such service to such individual for an episode of treatment.</text>
+								</clause></subparagraph><subparagraph id="H12E9602044C0419DADA7B6AAB0B6C989"><enum>(B)</enum><header>Type of review</header><text display-inline="yes-display-inline">The Secretary may use pre-payment review or post-payment review of services described in section
+			 1861(r)(5) that are not subject to prior authorization medical review
+			 under subparagraph (A).</text>
+							</subparagraph><subparagraph id="H2F70BF14FD594BD48D38A25FE1A537A9"><enum>(C)</enum><header>Relationship to law enforcement activities</header><text>The Secretary may determine that medical review under this subsection does not apply in the case
+			 where potential fraud may be involved.</text>
+							</subparagraph></paragraph><paragraph id="HAA14DB895994478AB8E517786131D08C"><enum>(3)</enum><header>No payment without prior authorization</header><text display-inline="yes-display-inline">With respect to a service described in paragraph (1) for which prior authorization medical review
+			 under this subsection applies, the following shall apply:</text>
+							<subparagraph id="HA8EF9F74F44948208D4AC48C0F42801A"><enum>(A)</enum><header>Prior authorization determination</header><text>The Secretary shall make a determination, prior to the service being furnished, of whether the
+			 service would or would not meet the applicable requirements of section
+			 1862(a)(1)(A).</text>
+							</subparagraph><subparagraph id="HA53BE85BE48342F6A131B040344584EA"><enum>(B)</enum><header>Denial of payment</header><text display-inline="yes-display-inline">Subject to paragraph (5), no payment may be made under this part for the service unless the
+			 Secretary determines pursuant to subparagraph (A) that the service would
+			 meet the applicable requirements of such section 1862(a)(1)(A).</text>
+							</subparagraph></paragraph><paragraph id="H2C33400773BF4388835274F55AE8447C"><enum>(4)</enum><header>Submission of information</header><text display-inline="yes-display-inline">A chiropractor described in section 1861(r)(5) may submit the information necessary for medical
+			 review by fax, by mail, or by electronic means. The Secretary shall make
+			 available the electronic means described in the preceding sentence as soon
+			 as practicable.</text>
+						</paragraph><paragraph id="H8EB41ED204B44868872FEBB4B3109FBA"><enum>(5)</enum><header>Timeliness</header><text>If the Secretary does not make a prior authorization determination under paragraph (3)(A) within 14
+			 business days of the date of the receipt of medical documentation needed
+			 to make such determination, paragraph (3)(B) shall not apply.</text>
+						</paragraph><paragraph commented="no" id="H4EBA0646E3D54431939BB86C21A83DB8"><enum>(6)</enum><header>Application of limitation on beneficiary liability</header><text>Where payment may not be made as a result of the application of paragraph (2)(B), section 1879
+			 shall apply in the same manner as such section applies to a denial that is
+			 made by reason of section 1862(a)(1).</text>
+						</paragraph><paragraph commented="no" id="HD9FEA84F30CC4449BD05A9F0D8B174BE"><enum>(7)</enum><header>Review by contractors</header><text display-inline="yes-display-inline">The medical review described in paragraph (2) may be conducted by medicare administrative
+			 contractors pursuant to section 1874A(a)(4)(G) or by any other contractor
+			 determined appropriate by the Secretary that is not a recovery audit
+			 contractor.</text>
+						</paragraph><paragraph commented="no" id="HD64CFB4491F4430492D2AE35E149D466"><enum>(8)</enum><header>Multiple services</header><text>The Secretary shall, where practicable, apply the medical review under this subsection in a manner
+			 so as to allow an individual described in paragraph (1) to obtain, at a
+			 single time rather than on a service-by-service basis, an authorization in
+			 accordance with paragraph (3)(A) for multiple services.</text>
+						</paragraph><paragraph id="H124A5F820B584A88BDBCC4AC0FA73CFB"><enum>(9)</enum><header>Construction</header><text>With respect to a service described in paragraph (1) that has been affirmed by medical review under
+			 this subsection, nothing in this subsection shall be construed to preclude
+			 the subsequent denial of a claim for such service that does not meet other
+			 applicable requirements under this Act.</text>
+						</paragraph><paragraph id="H4BC68AF901714A4EB0A45496D7D7CF24"><enum>(10)</enum><header>Implementation</header>
+							<subparagraph id="H10C75C5A158546AFB21216056D2E3BB1"><enum>(A)</enum><header>Authority</header><text display-inline="yes-display-inline">The Secretary may implement the provisions of this subsection by interim final rule with comment
+			 period.</text>
+							</subparagraph><subparagraph id="HFBA9F3669D104D3B80DD40401024B467"><enum>(B)</enum><header>Administration</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">Chapter 35</external-xref> of title 44, United States Code, shall not apply to medical review under this
+			 subsection.</text>
+							</subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H365906F465CE46BB9EC121554CEFE652"><enum>(b)</enum><header>Improving documentation of services</header>
+				<paragraph id="H3E13D25FEFDD4C91B0C03BF2BF34993B"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Health and Human Services shall, in consultation with stakeholders (including the
+			 American Chiropractic Association) and representatives of medicare
+			 administrative contractors (as defined in section 1874A(a)(3)(A) of the
+			 Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395kk-1">42 U.S.C. 1395kk–1(a)(3)(A)</external-xref>)), develop educational
+			 and training programs to improve the ability of chiropractors to provide
+			 documentation to the Secretary of services described in section 1861(r)(5)
+			 in a manner that demonstrates that such services are, in accordance with
+			 section 1862(a)(1) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395y">42 U.S.C. 1395y(a)(1)</external-xref>), reasonable and
+			 necessary for the diagnosis or treatment of illness or injury or to
+			 improve the functioning of a malformed body member.</text>
+				</paragraph><paragraph id="HC49E86C252F14550A32482BAFBE8187A"><enum>(2)</enum><header>Timing</header><text>The Secretary shall make the educational and training programs described in paragraph (1) publicly
+			 available not later than January 1, 2016.</text>
+				</paragraph><paragraph id="H712378A3EBD24136AB14351D69876DE5"><enum>(3)</enum><header>Funding</header><text display-inline="yes-display-inline">The Secretary shall use funds made available under section 1893(h)(10) of the Social Security Act
+			 (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ddd">42 U.S.C. 1395ddd(h)(10)</external-xref>), as added by section 6, to carry out this
+			 subsection.</text>
+				</paragraph></subsection><subsection id="H8B4FB012E6F34CA588C04E3BD2B4C01B"><enum>(c)</enum><header>GAO study and report</header>
+				<paragraph id="HDDE4BEDD3B854A0FA84473A726958BCC"><enum>(1)</enum><header>Study</header><text display-inline="yes-display-inline">The Comptroller General of the United States shall conduct a study on the effectiveness of the
+			 process for medical review of services furnished as part of a treatment by
+			 means of manual manipulation of the spine to correct a subluxation
+			 implemented under subsection (z) of section 1833 of the Social Security
+			 Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395l">42 U.S.C. 1395l</external-xref>), as added by subsection (a). Such study shall
+			 include an analysis of—</text>
+					<subparagraph id="H26364D2DCABD4B91BA75BF64F1E6CD47"><enum>(A)</enum><text>aggregate data on—</text>
+						<clause id="H96A9261F973C45AEB2549691AF86F336"><enum>(i)</enum><text display-inline="yes-display-inline">the number of individuals, chiropractors, and claims for services subject to such review; and</text>
+						</clause><clause id="HA9A94F5F69B248D7895D68990F24FCA0"><enum>(ii)</enum><text>the number of reviews conducted under such section; and</text>
+						</clause></subparagraph><subparagraph id="HFF5642BC8B584BE985A76F4153704FF4"><enum>(B)</enum><text>the outcomes of such reviews.</text>
+					</subparagraph></paragraph><paragraph id="HB66B0AE96D764AE89E2F3820620A2AEC"><enum>(2)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than four years after the date of enactment of this Act, the Comptroller General shall
+			 submit to Congress a report containing the results of the study conducted
+			 under paragraph (1), including recommendations for such legislation and
+			 administrative action with respect to the process for medical review
+			 implemented under subsection (z) of section 1833 of the Social Security
+			 Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395l">42 U.S.C. 1395l</external-xref>) as the Comptroller General determines appropriate.</text>
+				</paragraph></subsection></section><section id="HFC2BBBA99E914B5B8148FDD5930EAC39" section-type="subsequent-section"><enum>17.</enum><header>Limiting payment amount under Medicare program for vacuum erection systems</header>
+			<subsection id="H6A16F5AC160840D7A9FB7EC90254769C"><enum>(a)</enum><header>Inclusion in Program</header><text>Section 1847(a)(2) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-3">42 U.S.C. 1395w–3(a)(2)</external-xref>) is amended by adding at the
+			 end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H03654FC41AD74A39A1B23F861EB41CA8" style="OLC">
+					<subparagraph id="H28175987F94B4D67838A21085B727DB0"><enum>(D)</enum><header>Vacuum erection systems</header><text display-inline="yes-display-inline">Vacuum erection systems covered as prosthetic devices described in section 1861(s)(8) for which
+			 payment would otherwise be made under section 1834(h).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H9819127B539943F0AD248C10FD578360"><enum>(b)</enum><header>National Mail Order Program</header><text>Section 1847(a)(1)(D) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-3">42 U.S.C. 1395w–3(a)(1)(D)</external-xref>) is amended by adding
+			 at the end the following new clause:</text>
+				<quoted-block display-inline="no-display-inline" id="H6BC2A6CAF33943D3819C87F87FD78577" style="OLC">
+					<clause id="H3DFC88C916EF4AEF976348F2FC7CF241"><enum>(iv)</enum><header>National mail order program for vacuum erection systems</header><text display-inline="yes-display-inline">The Secretary shall phase in a national mail order program under this section for vacuum erection
+			 systems described in paragraph (2)(D). The first round of competition for
+			 such program shall occur in 2016, with contracts taking effect after the
+			 competition is completed. <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">Chapter 35</external-xref> of title 44, United States Code
+			 (commonly referred to as the <quote>Paperwork Reduction Act of 1995</quote>) shall not apply to the first round competition for such program.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="H7FD0E2097FA441E3B1940C40C3E8CDBD"><enum>18.</enum><header>National expansion of prior authorization model for repetitive scheduled non-emergent ambulance
+			 transport</header>
+			<subsection id="HC35A0ED008B846FAADD8F1DA29B9995E"><enum>(a)</enum><header>Initial expansion</header>
+				<paragraph id="H7C539B390D3F4C989673F56B5E0F70EE"><enum>(1)</enum><header>In general</header><text>In implementing the model described in paragraph (2) proposed to be tested under subsection (b) of
+			 section 1115A of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1315a">42 U.S.C. 1315a</external-xref>), the Secretary
+			 of Health and Human Services shall revise the testing under subsection (b)
+			 of such section to cover, effective January 1, 2016, States located in
+			 medicare administrative contractor (MAC) regions L and 11 (consisting of
+			 Delaware, the District of Columbia, Maryland, New Jersey, Pennsylvania,
+			 North Carolina, South Carolina, West Virginia, and Virginia).</text>
+				</paragraph><paragraph id="H441A19A880724249BA5BF93D30A31269"><enum>(2)</enum><header>Model described</header><text display-inline="yes-display-inline">The model described in this paragraph is the testing of a model of prior authorization for
+			 repetitive scheduled non-emergent ambulance transport proposed to be
+			 carried out in New Jersey, Pennsylvania, and South Carolina.</text>
+				</paragraph><paragraph id="H7D6435044D5747F387219DAFE3DA4F5A"><enum>(3)</enum><header>Funding</header><text>The Secretary shall allocate funds made available under section 1115A(f)(1)(B) of the Social
+			 Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1315a">42 U.S.C. 1315a(f)(1)(B)</external-xref>) to carry out this subsection.</text>
+				</paragraph></subsection><subsection id="H8BC7CF9256CC4C4C80B3F25977E18FBE"><enum>(b)</enum><header>National expansion</header><text display-inline="yes-display-inline">Section 1834(l) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m">42 U.S.C. 1395m(l)</external-xref>) is amended by adding at the end the
+			 following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H9E434FF260894A4C90E8D186B2FEC3C9" style="OLC">
+					<paragraph id="H7D7BDCC995D644438CD3BEB8253B02D0"><enum>(16)</enum><header>Prior authorization for repetitive scheduled non-emergency ambulance transports</header>
+						<subparagraph id="H2E76E2C8834E434B910207061ABF5F1F"><enum>(A)</enum><header>In general</header><text>Beginning January 1, 2017, the Secretary shall apply the prior authorization program described in
+			 subparagraph (B) to all States.</text>
+						</subparagraph><subparagraph id="H8513B2BE632541F880736ED662847AC2"><enum>(B)</enum><header>Program described</header><text display-inline="yes-display-inline">The prior authorization program described in this subparagraph is a prior authorization program for
+			 repetitive scheduled ambulance services consisting of non-emergency basic
+			 life support services involving transport of an individual furnished other
+			 than on an emergency basis. In carrying out the program, the Secretary
+			 shall determine in advance of the provision of items and services related
+			 to the provision of such an ambulance service whether payment for such
+			 items or services may not be made because the item or service is not
+			 covered or because of the application of section 1862(a)(1).</text>
+						</subparagraph><subparagraph id="H26ED8BF894B54F7D8ECA4178152CB041"><enum>(C)</enum><header>Implementation</header><text display-inline="yes-display-inline">The program described in subparagraph (B) shall be implemented in a manner that is consistent with
+			 the terms and conditions for the testing of a model of prior authorization
+			 for repetitive scheduled non-emergent ambulance transport proposed by the
+			 Centers for Medicare &amp; Medicaid Services to be implemented in New Jersey, Pennsylvania, and South Carolina under section
+			 1115A.</text>
+						</subparagraph><subparagraph id="H5D41A306E96C41A8AE416913AA9F7DF6"><enum>(D)</enum><header>Funding</header><text display-inline="yes-display-inline">The Secretary shall use funds made available under section 1893(h)(10) to carry out this paragraph.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="HB818AD0FABF94ABCB7CBFFBBE17CF72C"><enum>19.</enum><header>Repealing duplicative Medicare secondary payor provision</header>
+			<subsection id="H394737B9020D48F6AA811F59760BC114"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1862(b)(5) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395y">42 U.S.C. 1395y(b)(5)</external-xref>) is amended by inserting at
+			 the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H5404194941E1402E8CB669F3F7DE4858" style="OLC">
+					<subparagraph id="H550933F11F0A45CE97D58401C5C38C07"><enum>(E)</enum><header>End date</header><text display-inline="yes-display-inline">The provisions of this paragraph shall not apply to information required to be provided on or after
+			 July 1, 2016.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H5C508B5D181E4C95A0BB39FE07E767FB"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall take effect on the date of the enactment of this Act and
+			 shall apply to information required to be provided on or after January 1,
+			 2016.</text>
+			</subsection></section><section display-inline="no-display-inline" id="HA94C2FC8601B43E381B1043924EE58BB"><enum>20.</enum><header>Plan for expanding data in annual CERT report</header><text display-inline="no-display-inline">Not later than March 25, 2015, the Secretary of Health and Human Services shall submit to the
+			 Committee on Finance of the Senate, and to the Committees on Energy and
+			 Commerce and on Ways and Means of the House of Representatives—</text>
+			<paragraph id="H21F894E9EAC84E018E3892D2D8B23493"><enum>(1)</enum><text>a plan for including, in the annual report of the Comprehensive Error Rate Testing (CERT) program,
+			 data on services (or groupings of services) (other than medical visits)
+			 paid under the physician fee schedule under section 1848 of the Social
+			 Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">42 U.S.C. 1395w–4</external-xref>) where the fee schedule amount is in
+			 excess of 250 dollars and where the error rate is in excess of 20 percent;
+			 and</text>
+			</paragraph><paragraph id="HDF8F564BF157467EB15EB70EA58ED86B"><enum>(2)</enum><text>to the extent practicable by such date, specific examples of services described in paragraph (1).</text>
+			</paragraph></section><section id="HD7DF8949B06347FEB6633E7D34222C2E"><enum>21.</enum><header>Rule of construction</header><text display-inline="no-display-inline">Except as explicitly provided in this Act, nothing in this Act, including the amendments made by
+			 this Act, shall be construed as preventing the use of notice and comment
+			 rulemaking in the implementation of the provisions of, and the amendments
+			 made by, this Act.</text>
+		</section></legis-body>
+</bill>
+
+

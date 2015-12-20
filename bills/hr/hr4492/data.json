@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-28", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4492-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2014-05-15", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-28", 
+  "number": "4492", 
+  "official_title": "To amend title 10, United States Code, to provide for the availability of breastfeeding support, supplies, and counseling under the TRICARE program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1994-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2410-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "TRICARE Moms Improvement Act of 2014", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-28", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Health technology, devices, supplies", 
+    "Military medicine", 
+    "Military personnel and dependents", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-28", 
+    "text": "TRICARE Moms Improvement Act of 2014 - Requires the contracts entered into by the Secretary of Defense (DOD) for medical care for military dependents (e.g., TRICARE) to provide for breastfeeding support, supplies, and counseling as appropriate during pregnancy and the postpartum period."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "TRICARE Moms Improvement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to provide for the availability of breastfeeding support, supplies, and counseling under the TRICARE program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:35-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4492:@@@L&summ2=m&"
+}

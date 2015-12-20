@@ -1,0 +1,208 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1895b36d1">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To improve the administration of programs in the insular areas, and for other purposes.;
+   		Omnibus Territories Act of 2013;S. 1237 (ES)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-06-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To improve the administration of programs in the insular areas, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Omnibus Territories Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1237 (ES)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2014-06-18</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>14 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee1895b36d1</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s1237es</identifier>
+<identifier type="preferred citation">S. 1237</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1237_es.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s1237es/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1237es/html/BILLS-113s1237es.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1237es/pdf/BILLS-113s1237es.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s1237es/xml/BILLS-113s1237es.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-06-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s1237es</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 8 Section 1356</partNumber>
+</titleInfo>
+ <identifier type="USC citation">8 U.S.C. 1356</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 21 Section 1703(b)(13)(B)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">21 U.S.C. 1703(b)(13)(B)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 206(a)(1)</partNumber>
+  <partNumber>Title 29 Section 206note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 206(a)(1)</identifier>
+ <identifier type="USC citation">29 U.S.C. 206note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1436a(a)(7)</partNumber>
+  <partNumber>Title 42 Section 8624(b)(2)(B)(i)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1436a(a)(7)</identifier>
+ <identifier type="USC citation">42 U.S.C. 8624(b)(2)(B)(i)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 46 Section 12113</partNumber>
+</titleInfo>
+ <identifier type="USC citation">46 U.S.C. 12113</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 48 Section 1492</partNumber>
+</titleInfo>
+ <identifier type="USC citation">48 U.S.C. 1492</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Section 30301note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. 30301note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 90 Page 263</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">90 Stat.	263</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 122 Page 854</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">122 Stat.	854</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 94-241</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 94-241</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-13</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-13</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s1237es</accessId>
+ <congress>113</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1237</billNumber>
+ <billVersion reprint="false">es</billVersion>
+ <fileSuffix>es</fileSuffix>
+ <shortTitle>Omnibus Territories Act of 2013</shortTitle>
+ <law congress="94" isPrivate="false" number="241"></law>
+ <law congress="109" isPrivate="false" number="13"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="8">
+                      <section number="1356"></section>
+                </USCode>
+ <USCode title="21">
+                      <section detail="(b)(13)(B)" number="1703"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="(a)(1)" number="206"></section>
+                      <section detail="note" number="206"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(a)(7)" number="1436a"></section>
+                      <section detail="(b)(2)(B)(i)" number="8624"></section>
+                </USCode>
+ <USCode title="46">
+                      <section number="12113"></section>
+                </USCode>
+ <USCode title="48">
+                      <section number="1492"></section>
+                </USCode>
+ <USCode title="49">
+                      <section detail="note" number="30301"></section>
+                </USCode>
+ <statuteAtLarge volume="90">
+                      <pages pages="263"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="122">
+                      <pages pages="854"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

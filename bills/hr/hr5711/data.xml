@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="5711" updated="2015-09-01T10:21:05-04:00">
+  <state datetime="2014-11-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-11-14"/>
+  </status>
+  <introduced datetime="2014-11-14"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 18, United States Code, to extend the coverage of the Federal prohibition against hate crimes in order to provide greater protections to persons who are gay, lesbian, bisexual, or transgender.</title>
+  </titles>
+  <sponsor id="400047"/>
+  <cosponsors>
+    <cosponsor id="400130" joined="2014-11-14"/>
+    <cosponsor id="412466" joined="2014-11-14"/>
+    <cosponsor id="400647" joined="2014-11-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-12-09">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Hate crimes"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+</bill>

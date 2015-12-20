@@ -1,0 +1,319 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-05-21", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-11-18T14:35:00-05:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-270.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-18T14:35:00-05:00", 
+      "calendar": "Union", 
+      "number": "193", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 193.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2013-11-18T17:01:00-05:00", 
+      "references": [], 
+      "text": "Mr. Issa moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-18T17:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7157-7162", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-18T17:02:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2061.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-18T17:14:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-18T18:31:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7167-7168", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-18T18:58:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7157-7160", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "588", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 1 (Roll no. 588).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2013-11-19", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2061-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "45", 
+      "name": "Campbell, John", 
+      "sponsored_at": "2013-08-01", 
+      "state": "CA", 
+      "thomas_id": "01816", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Chaffetz, Jason", 
+      "sponsored_at": "2013-06-27", 
+      "state": "UT", 
+      "thomas_id": "01956", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "sponsored_at": "2013-06-27", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2013-05-21", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2013-07-11", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2013-11-18", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Patrick", 
+      "sponsored_at": "2013-08-01", 
+      "state": "FL", 
+      "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "sponsored_at": "2013-07-11", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2013-08-01", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2013-06-27", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-05-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2013-11-18T18:58:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-05-21", 
+  "number": "2061", 
+  "official_title": "To expand the Federal Funding Accountability and Transparency Act of 2006 to increase accountability and transparency in Federal spending, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s994-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s994-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Digital Accountability and Transparency Act of 2013", 
+  "sponsor": {
+    "district": "49", 
+    "name": "Issa, Darrell E.", 
+    "state": "CA", 
+    "thomas_id": "01640", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2013-11-18T18:58:00-05:00", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Appropriations", 
+    "Budget process", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Department of the Treasury", 
+    "Disaster relief and insurance", 
+    "Executive agency funding and structure", 
+    "Fraud offenses and financial crimes", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Office of Management and Budget (OMB)", 
+    "Performance measurement", 
+    "Poverty and welfare assistance", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2013-11-18", 
+    "text": "Digital Accountability and Transparency Act of 2013 - (Sec. 2) States as the purposes of this Act to: (1) expand the Federal Funding Accountability and Transparency Act of 2006 by disclosing direct federal agency expenditures and linking federal contract, loan, and grant spending information to programs of federal agencies to enable taxpayers and policy makers to track federal spending more effectively; (2) provide consistent, reliable, and searchable government-wide spending data that is displayed accurately for taxpayers and policy makers on the USASpending.gov website; (3) analyze federal spending data to proactively prevent waste, fraud, abuse, and improper payments; (4) simplify reporting for entities receiving federal funds by streamlining reporting requirements and reducing compliance costs while improving transparency; and (5) improve the quality of data submitted to USASpending.gov by holding federal agencies accountable for the completeness and accuracy of the data submitted.\n\n(Sec. 3) Amends the Federal Funding Accountability and Transparency Act of 2006 to transfer from the Director of the Office of Management and Budget (OMB) to the Secretary of the Treasury the responsibility for maintaining the website established by such Act (i.e., USASpending.gov) to provide public information about awards of federal funds.\n\nExpands sources from which USASpending.gov will incorporate data, including the Payment Automation Manager and Financial Information Repository and other data or databases from the Department of the Treasury, the MAX Information System of OMB, and other federal agencies identified by OMB.\n\nExpands agency reporting requirements for all agency funds to include: (1) the amount of budget authority available, (2) the amount obligated, (3) the amount of outlays, (4) the amount of any federal funds reprogrammed or transferred, and (5) the amount of expired and unexpired unobligated balances. Requires such reporting to be updated not less than once each quarter.\n\nDirects the Secretary to establish government-wide financial data standards for federal funds, including common data elements such as codes, unique award identifiers, and fields. Requires the Secretary to: (1) issue guidance on such data standards, (2) make such data standards publicly available, and (3) consult with public and private stakeholders in establishing such standards.\n\nRequires the OMB Director to review agency financial reporting requirements to consolidate and simplify such requirements.\n\nRequires the Inspector General of each federal agency to review a sampling of the financial data submitted by the agency and report on the completeness, timeliness, quality, and accuracy of the sampled data and the implementation and use of consistent data standards by each agency.\n\nDirects the Recovery Accountability and Transparency Board to: (1) develop and test information technology resources and oversight mechanisms to identify and remediate waste, fraud, and abuse in federal spending for Inspectors General; (2) maintain a website to inform the public of such activities; and (3) establish and maintain a Recovery Operations Center to incorporate data reported by this Act, other data from federal, state, local, and foreign government agencies, and other commercially and publicly available information.\n\n(Sec. 4) Requires the Board to establish a three-year pilot program relating to reporting by recipients of federal funds for the purpose of increasing financial transparency to: (1) display the full cycle of federal funds, (2) improve the accuracy of federal financial data, and (3) develop recommendations for reducing reporting requirements by consolidating and automating financial reporting requirements across the federal government. Requires such pilot program to include: (1) a combination of contract and grant recipients with an aggregate value of not less than $1 billion, (2) a diverse group of contract and grant recipients, and (3) recipients that receive federal awards from multiple programs across multiple agencies. Requires all information collected by the Board to be made publicly available and searchable on the Board's website. Terminates the pilot program three years after its establishment by the Board.\n\nRequires the Board to submit to OMB and appropriate congressional committees a report on the pilot program not later than 90 days after its termination. Requires OMB to determine whether the pilot program reporting requirements should be extended government-wide to all award recipients.\n\n(Sec. 5) Expands protections against disclosure of information under the Federal Funding Accountability and Transparence Act of 2006 to classified information protected by the Freedom of Information Act (FOIA) and to information protected by the Privacy Act of 1974 or the Internal Revenue Code.\n\n(Sec. 6) Amends the American Recovery and Reinvestment Act of 2009 to terminate on December 30, 2013: (1) reporting requirements relating to the use of funds under such Act, (2) oversight functions of the Recovery Accountability and Transparency Board, and (3) the requirement that the Board maintain a public website. Extends the termination date for such Board until September 30, 2017.\n\n(Sec. 7) Amends the Disaster Relief Appropriations Act, 2013 to repeal the the monitoring and reporting requirements of the Recovery Accountability and Transparency Board related to the impact of Hurricane Sandy.\n\n(Sec. 8) Requires the OMB Director to make available on the OMB website: (1) OMB's report to Congress on its five-year financial management plan for the executive branch, and (2) a report on specific goals for implementing the Federal Funding Accountability and Transparency Act of 2006 and the status and progress achieved toward each goal.\n\n(Sec. 9) Requires each federal agency to post on its public website detailed information on any presentation made by any employee of that agency at a conference (excluding information relating to national security), including: (1) the prepared text of any verbal presentation; and (2) any visual, digital, video, or audio materials presented, including photographs, slides, and audio-visual recordings. Limits agency expenditures on any single conference to $500,000. Allows a waiver of such limitation if the head of the agency determines that a greater expenditure is justified as the most cost-effective option to achieve a compelling purpose and submits a justification for the waiver to appropriate congressional committees.\n\nProhibits an agency from paying the travel expenses for more than 50 agency employees who are stationed in the United States for any international conference, unless the Secretary of State determines that attendance by agency employees is in the national interest or the agency head determines that such attendance is critical to the agency's mission. Requires the Secretary and the agency head to report on any waiver of such requirement and the justification for such waiver.\n\nRequires each agency to post on its public website for 5 years a report on each conference that costs more than $10,000 for which the agency paid travel expenses during the preceding 3 months. Requires such report to include the itemized expenses paid by the agency, the primary sponsor of the conference, the location and date of the conference, and a brief explanation of how employee participation in such conference advanced the mission of the agency.\n\nLimits agency travel expenses for FY2014-FY2018 to 70% of the aggregate amount of agency travel expenses for FY2010. Allows an agency to exclude travel expenses from such limitation if the agency head determines that the inclusion of such expenses would undermine national security, international diplomacy, health and safety inspections, law enforcement, or site visits required for oversight or investigatory purposes. Requires agency heads to report to the House Committee on Oversight and Government Reform and the Senate Committee on Homeland Security and Governmental Affairs in FY2014-FY2018 on the justification for any expenses excluded from the spending limitation and the positive or negative impacts, if any, of such limitation on the agency's mission, cost-effectiveness, efficiency, and ability to perform core functions.\n\nRequires the OMB Director, not later than January 1, 2014, to establish guidelines for determining what expenses constitute travel expenses, which shall identify specific expenses and classes of expenses. Excludes military travel expenses, including expenses involving military combat and the training or deployment of uniformed military personnel, from such identification requirement."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Digital Accountability and Transparency Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Digital Accountability and Transparency Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Digital Accountability and Transparency Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To expand the Federal Funding Accountability and Transparency Act of 2006 to increase accountability and transparency in Federal spending, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:19:35-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR2061:@@@L&summ2=m&"
+}

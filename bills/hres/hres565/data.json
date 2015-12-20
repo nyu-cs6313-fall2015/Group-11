@@ -1,0 +1,371 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-02", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-03", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-06T22:32:00-04:00", 
+      "bill_ids": [
+        "hres568-113"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 568 Reported to House. Rule provides for consideration of H. Res. 565 with 40 minutes of general debate. H. Res. 568 also provides for consideration of House Report 113-415 and an accompanying resolution under a closed rule. If such a resolution is considered, the rule provides for 50 minutes of debate on said resolution followed by one motion to refer, if offered by Representative Cummings or his designee and is debatable for 10 minutes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-07T15:49:00-04:00", 
+      "bill_ids": [
+        "hres568-113"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 568 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-07T17:28:00-04:00", 
+      "bill_ids": [
+        "hres568-113"
+      ], 
+      "references": [
+        {
+          "reference": "CR H3909-3919", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 568.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-07T17:28:00-04:00", 
+      "bill_ids": [
+        "hres568-113"
+      ], 
+      "references": [], 
+      "text": "Rule provides for consideration of H. Res. 565 with 40 minutes of general debate. H. Res. 568 also provides for consideration of House Report 113-415 and an accompanying resolution under a closed rule. If such a resolution is considered, the rule provides for 50 minutes of debate on said resolution followed by one motion to refer, if offered by Representative Cummings or his designee and is debatable for 10 minutes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-07T17:28:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 565.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-07T18:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3919", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-07T18:16:00-04:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 565, the Chair put the question on adoption of the resolution and by voice vote, announced that the ayes prevailed. Ms. Jackson Lee (TX) demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the resolution until later in the legislative day.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-07T19:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3922-3923", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-07T19:11:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3909-3910", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "204", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 250 - 168 (Roll no. 204).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-05-07T19:11:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres565-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Bentivolio, Kerry L.", 
+      "sponsored_at": "2014-05-06", 
+      "state": "MI", 
+      "thomas_id": "02135", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2014-05-02", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Camp, Dave", 
+      "sponsored_at": "2014-05-02", 
+      "state": "MI", 
+      "thomas_id": "00166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Chaffetz, Jason", 
+      "sponsored_at": "2014-05-02", 
+      "state": "UT", 
+      "thomas_id": "01956", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Collins, Doug", 
+      "sponsored_at": "2014-05-06", 
+      "state": "GA", 
+      "thomas_id": "02121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "DeSantis, Ron", 
+      "sponsored_at": "2014-05-06", 
+      "state": "FL", 
+      "thomas_id": "02116", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DesJarlais, Scott", 
+      "sponsored_at": "2014-05-06", 
+      "state": "TN", 
+      "thomas_id": "02062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2014-05-06", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2014-05-02", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2014-05-06", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gowdy, Trey", 
+      "sponsored_at": "2014-05-02", 
+      "state": "SC", 
+      "thomas_id": "02058", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2014-05-02", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2014-05-07", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lankford, James", 
+      "sponsored_at": "2014-05-06", 
+      "state": "OK", 
+      "thomas_id": "02050", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lummis, Cynthia M.", 
+      "sponsored_at": "2014-05-06", 
+      "state": "WY", 
+      "thomas_id": "01960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "sponsored_at": "2014-05-06", 
+      "state": "NC", 
+      "thomas_id": "02142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "sponsored_at": "2014-05-02", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-06T22:32:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-05-07T19:11:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-02", 
+  "number": "565", 
+  "official_title": "Calling on Attorney General Eric H. Holder, Jr., to appoint a special counsel to investigate the targeting of conservative nonprofit groups by the Internal Revenue Service.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres568-113", 
+      "reason": "rule", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "sres487-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Jordan, Jim", 
+    "state": "OH", 
+    "thomas_id": "01868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-05-07T19:11:00-04:00", 
+  "subjects": [
+    "Criminal investigation, prosecution, interrogation", 
+    "Department of Justice", 
+    "Department of the Treasury", 
+    "Federal officials", 
+    "First Amendment rights", 
+    "Government ethics and transparency, public corruption", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Internal Revenue Service (IRS)", 
+    "Political movements and philosophies", 
+    "Tax administration and collection, taxpayers", 
+    "Tax-exempt organizations"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2014-05-07", 
+    "text": "Expresses the sense of the House of Representatives, with respect to the targeting by the Internal Revenue Service (IRS) of conservative nonprofit advocacy groups, that: (1) the statements and actions of the IRS, the Department of Justice (DOJ), and the Obama Administration have served to undermine DOJ's investigation of this matter; (2) the Administration's efforts to undermine the investigation, and the appointment of a person who has donated almost $7,000 to President Obama and the Democratic National Committee in a lead investigative role, have created a conflict of interest for DOJ that warrants removal of the investigation from its normal processes; (3) further investigation of the matter is warranted due to the apparent criminal activity by Lois G. Lerner, former IRS Director, Exempt Organizations, and the ongoing disclosure of internal communications showing potentially unlawful conduct by executive branch personnel; (4) given DOJ's conflict of interest, as well as the strong public interest in ensuring that public officials who inappropriately targeted American citizens for exercising their right to free expression are held accountable, appointment of a special counsel would be in the public interest; and (5) Attorney General Eric H. Holder, Jr., should appoint a special counsel, without further delay, to investigate the targeting of conservative nonprofit advocacy groups by the IRS."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Calling on Attorney General Eric H. Holder, Jr., to appoint a special counsel to investigate the targeting of conservative nonprofit groups by the Internal Revenue Service.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:18:42-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE565:@@@L&summ2=m&"
+}

@@ -1,0 +1,99 @@
+<bill session="113" type="s" number="404" updated="2015-09-01T10:21:37-04:00">
+  <state datetime="2014-04-15">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-04-15"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="short" as="introduced">Green Mountain Lookout Heritage Protection Act</title>
+    <title type="short" as="passed house">Green Mountain Lookout Heritage Protection Act</title>
+    <title type="short" as="reported to senate" partial="1">Green Mountain Lookout Heritage Protection Act</title>
+    <title type="short" as="passed senate">Green Mountain Lookout Heritage Protection Act</title>
+    <title type="short" as="enacted">Green Mountain Lookout Heritage Protection Act</title>
+    <title type="official" as="introduced">A bill to preserve the Green Mountain Lookout in the Glacier Peak Wilderness of the Mount Baker-Snoqualmie National Forest.</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors>
+    <cosponsor id="300018" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2013-07-30">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 113-85.</text>
+    </action>
+    <calendar datetime="2013-12-19" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-03-31">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment. With written report No. 113-140.</text>
+    </action>
+    <calendar datetime="2014-03-31" calendar="Senate Legislative" under="General Orders" number="338">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 338.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-04-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S2151-2152" label="consideration"/>
+      <reference ref="CR S2152" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2014-04-03T17:31:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-04-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-04-03T18:04:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2014-04-07T17:08:00-04:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-04-07T17:08:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2977-2980" label="consideration"/>
+    </action>
+    <action datetime="2014-04-07T17:08:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 404.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2014-04-07T17:26:00-04:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2977-2978" label="text"/>
+    </vote>
+    <topresident datetime="2014-04-09">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-04-15" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-99" type="public" datetime="2014-04-15">
+      <text>Became Public Law No: 113-99.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands, Forests, and Mining" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="908"/>
+    <bill relation="unknown" session="113" type="h" number="908"/>
+    <bill relation="unknown" session="113" type="h" number="2954"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land use and conservation"/>
+    <term name="Washington State"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2014--Public Law.
+Green Mountain Lookout Heritage Protection Act - Amends the Washington State Wilderness Act of 1984, with respect to certain lands in the Mount Baker-Snoqualmie and Wenatchee National Forests in the state of Washington designated as part of the Glacier Peak Wilderness, to specifically allow the operation and maintenance of Green Mountain Lookout.
+
+Prohibits the Secretary of Agriculture (USDA), through the Forest Service, from moving the Lookout from its current location on Green Mountain in the Mount Baker-Snoqualmie National Forest unless the Secretary determines that its move is necessary to preserve the Lookout or to ensure the safety of individuals on or around Green Mountain. Requires the Secretary, if such a determination is made, to move the Lookout to a location outside of the lands specified in this Act and designated as a wilderness area.
+
+ Directs the Secretary of the Interior to approve the Alaska Native Veteran Allotment application numbered AA-084021-B and to issue the applicant a patent for the 80 acres of federal land identified as Lot 2.
+
+Limits the patent to surface rights only and subjects it to the terms and conditions of any certificate issued under the Alaska Native Claims Settlement Act (ANCSA) with respect to the conveyance of certain federal lands in Alaska to certain Alaska Native veterans, including those providing that: (1) the patent is subject to valid existing rights, including any U.S. right to income derived from a lease, license, permit, right-of-way, or easement on the federal land; and (2) the United States shall reserve an interest in deposits of oil, gas, and coal on the land, including the right to explore, mine, and remove the minerals on parts of the land that are prospectively valuable for development.</summary>
+</bill>

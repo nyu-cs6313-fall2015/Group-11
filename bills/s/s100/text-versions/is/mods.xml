@@ -1,0 +1,267 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb891a">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Financial Stability Act of 2010 to repeal certain designation authority of the Financial Stability Oversight Council, to repeal the Payment, Clearing, and Settlement Supervision Act of 2010, and for other purposes.;
+   		Terminating the Expansion of Too-Big-To-Fail Act of 2013;S. 100 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Financial Stability Act of 2010 to repeal certain designation authority of the Financial Stability Oversight Council, to repeal the Payment, Clearing, and Settlement Supervision Act of 2010, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Terminating the Expansion of Too-Big-To-Fail Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 100 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-23</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>24 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee183eb891a</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s100is</identifier>
+<identifier type="preferred citation">S. 100</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s100_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">http://www.gpo.gov/fdsys/pkg/BILLS-113s100is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s100is/html/BILLS-113s100is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s100is/pdf/BILLS-113s100is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s100is/xml/BILLS-113s100is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2015-01-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s100is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>David Vitter</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 1820(b)(3)</partNumber>
+  <partNumber>Title 12 Section 1841et seq.</partNumber>
+  <partNumber>Title 12 Section 1850a(a)(4)(B)</partNumber>
+  <partNumber>Title 12 Section 1851</partNumber>
+  <partNumber>Title 12 Section 1852(a)</partNumber>
+  <partNumber>Title 12 Section 248</partNumber>
+  <partNumber>Title 12 Section 5311</partNumber>
+  <partNumber>Title 12 Section 5322</partNumber>
+  <partNumber>Title 12 Section 5323</partNumber>
+  <partNumber>Title 12 Section 5324</partNumber>
+  <partNumber>Title 12 Section 5325</partNumber>
+  <partNumber>Title 12 Section 5326</partNumber>
+  <partNumber>Title 12 Section 5327</partNumber>
+  <partNumber>Title 12 Section 5329(a)</partNumber>
+  <partNumber>Title 12 Section 5330</partNumber>
+  <partNumber>Title 12 Section 5331</partNumber>
+  <partNumber>Title 12 Section 5345(d)</partNumber>
+  <partNumber>Title 12 Section 5361</partNumber>
+  <partNumber>Title 12 Section 5362</partNumber>
+  <partNumber>Title 12 Section 5363</partNumber>
+  <partNumber>Title 12 Section 5364</partNumber>
+  <partNumber>Title 12 Section 5365</partNumber>
+  <partNumber>Title 12 Section 5366</partNumber>
+  <partNumber>Title 12 Section 5367</partNumber>
+  <partNumber>Title 12 Section 5369</partNumber>
+  <partNumber>Title 12 Section 5370</partNumber>
+  <partNumber>Title 12 Section 5371(b)</partNumber>
+  <partNumber>Title 12 Section 5381(a)</partNumber>
+  <partNumber>Title 12 Section 5390(o)(1)(A)</partNumber>
+  <partNumber>Title 12 Section 5461et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 1820(b)(3)</identifier>
+ <identifier type="USC citation">12 U.S.C. 1841et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 1850a(a)(4)(B)</identifier>
+ <identifier type="USC citation">12 U.S.C. 1851</identifier>
+ <identifier type="USC citation">12 U.S.C. 1852(a)</identifier>
+ <identifier type="USC citation">12 U.S.C. 248</identifier>
+ <identifier type="USC citation">12 U.S.C. 5311</identifier>
+ <identifier type="USC citation">12 U.S.C. 5322</identifier>
+ <identifier type="USC citation">12 U.S.C. 5323</identifier>
+ <identifier type="USC citation">12 U.S.C. 5324</identifier>
+ <identifier type="USC citation">12 U.S.C. 5325</identifier>
+ <identifier type="USC citation">12 U.S.C. 5326</identifier>
+ <identifier type="USC citation">12 U.S.C. 5327</identifier>
+ <identifier type="USC citation">12 U.S.C. 5329(a)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5330</identifier>
+ <identifier type="USC citation">12 U.S.C. 5331</identifier>
+ <identifier type="USC citation">12 U.S.C. 5345(d)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5361</identifier>
+ <identifier type="USC citation">12 U.S.C. 5362</identifier>
+ <identifier type="USC citation">12 U.S.C. 5363</identifier>
+ <identifier type="USC citation">12 U.S.C. 5364</identifier>
+ <identifier type="USC citation">12 U.S.C. 5365</identifier>
+ <identifier type="USC citation">12 U.S.C. 5366</identifier>
+ <identifier type="USC citation">12 U.S.C. 5367</identifier>
+ <identifier type="USC citation">12 U.S.C. 5369</identifier>
+ <identifier type="USC citation">12 U.S.C. 5370</identifier>
+ <identifier type="USC citation">12 U.S.C. 5371(b)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5381(a)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5390(o)(1)(A)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5461et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 8305(i)(1)</partNumber>
+  <partNumber>Title 15 Section 8323(i)</partNumber>
+  <partNumber>Title 15 Section 8343(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 8305(i)(1)</identifier>
+ <identifier type="USC citation">15 U.S.C. 8323(i)</identifier>
+ <identifier type="USC citation">15 U.S.C. 8343(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 313(c)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 313(c)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes At large</title>
+  <partNumber>Volume 124 Page 1519</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">124 Stat.	1519</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-203</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-203</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s100is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>100</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>IS</fileSuffix>
+ <shortTitle>Terminating the Expansion of Too-Big-To-Fail Act of 2013</shortTitle>
+ <action date="2013-01-23" legislativeDay="2013-01-03">Mr. Vitter introduced the following bill; which was read twice and referred to the Committee on Banking, Housing, and Urban Affairs</action>
+ <congCommittee authorityId="ssbk00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+                      <name type="authority-short">Banking</name>
+                </congCommittee>
+ <congMember authorityId="1609" bioGuideId="V000127" chamber="S" congress="113" gpoId="8267" party="R" role="SPONSOR" state="LA">
+                      <name type="parsed">Mr. Vitter</name>
+                      <name type="authority-fnf">David Vitter</name>
+                      <name type="authority-lnf">Vitter, David</name>
+                </congMember>
+ <law congress="111" isPrivate="false" number="203"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="12">
+                      <section detail="(b)(3)" number="1820"></section>
+                      <section detail="et seq." number="1841"></section>
+                      <section detail="(a)(4)(B)" number="1850a"></section>
+                      <section number="1851"></section>
+                      <section detail="(a)" number="1852"></section>
+                      <section number="248"></section>
+                      <section number="5311"></section>
+                      <section number="5322"></section>
+                      <section number="5323"></section>
+                      <section number="5324"></section>
+                      <section number="5325"></section>
+                      <section number="5326"></section>
+                      <section number="5327"></section>
+                      <section detail="(a)" number="5329"></section>
+                      <section number="5330"></section>
+                      <section number="5331"></section>
+                      <section detail="(d)" number="5345"></section>
+                      <section number="5361"></section>
+                      <section number="5362"></section>
+                      <section number="5363"></section>
+                      <section number="5364"></section>
+                      <section number="5365"></section>
+                      <section number="5366"></section>
+                      <section number="5367"></section>
+                      <section number="5369"></section>
+                      <section number="5370"></section>
+                      <section detail="(b)" number="5371"></section>
+                      <section detail="(a)" number="5381"></section>
+                      <section detail="(o)(1)(A)" number="5390"></section>
+                      <section detail="et seq." number="5461"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="(i)(1)" number="8305"></section>
+                      <section detail="(i)" number="8323"></section>
+                      <section detail="(a)" number="8343"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="(c)(1)" number="313"></section>
+                </USCode>
+ <statuteAtLarge volume="124">
+                      <pages pages="1519"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

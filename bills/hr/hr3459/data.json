@@ -1,0 +1,164 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-12", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-11-14", 
+      "references": [
+        {
+          "reference": "CR H7059-7060", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3459-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "sponsored_at": "2013-11-12", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2013-12-12", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2013-11-12", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "sponsored_at": "2013-11-12", 
+      "state": "PA", 
+      "thomas_id": "02052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tsongas, Niki", 
+      "sponsored_at": "2013-11-12", 
+      "state": "MA", 
+      "thomas_id": "01884", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-11-12", 
+  "number": "3459", 
+  "official_title": "To amend title 10, United States Code, to provide for preliminary hearings on alleged offenses under the Uniform Code of Military Justice.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3360-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1644-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Article 32 Reform Act", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Speier, Jackie", 
+    "state": "CA", 
+    "thomas_id": "01890", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2013-11-12", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Criminal procedure and sentencing", 
+    "Evidence and witnesses", 
+    "Military law"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-11-12", 
+    "text": "Article 32 Reform Act - Revises requirements relating to an Article 32 investigative hearing under the Uniform Code of Military Justice (UCMJ) to require a judge advocate to conduct a preliminary hearing prior to referring a charge or specification to a general court-martial for trial. Requires such judge advocate to have a grade equal to or higher than the grade of the trial counsel and any defense counsel who is representing the accused at the preliminary hearing. Limits the preliminary hearing to the purpose of determining whether there is probable cause to believe an offense has been committed and whether the accused committed it.\n\nRequires the judge advocate conducting the preliminary hearing to prepare a report which shall include: (1) determinations as to the court-martial jurisdiction over the offense and the accused and as to probable cause, (2) a consideration of the form of charges, and (3) a recommendation as to the disposition of the case.\n\nAllows a victim of the alleged offense to decline to testify at the preliminary hearing. Requires the preliminary hearing to be recorded by a court reporter or by a suitable recording device."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Article 32 Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to provide for preliminary hearings on alleged offenses under the Uniform Code of Military Justice.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3459:@@@L&summ2=m&"
+}

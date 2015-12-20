@@ -1,0 +1,152 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-28", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-28", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to House Armed Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-28", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Intelligence, Emerging Threats & Capabilities.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4505-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Intelligence, Emerging Threats & Capabilities", 
+      "subcommittee_id": "26"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2014-04-28", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Kilmer, Derek", 
+      "sponsored_at": "2014-04-28", 
+      "state": "WA", 
+      "thomas_id": "02169", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "sponsored_at": "2014-04-28", 
+      "state": "WA", 
+      "thomas_id": "01675", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-28", 
+  "number": "4505", 
+  "official_title": "To direct the Comptroller General of the United States and the Chief Information Officer of the Department of Defense to assess the cloud security requirements of the Department of Defense.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "DOD Cloud Security Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Tsongas, Niki", 
+    "state": "MA", 
+    "thomas_id": "01884", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-28", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Computer security and identity theft", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Government studies and investigations", 
+    "Licensing and registrations", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-04-28", 
+    "text": "DOD Cloud Security Act - Directs the Comptroller General to: (1) review and summarize the best practices relating to cloud security by reviewing the practices of other federal agencies and commercial cloud providers, (2) assess the cloud capacity of the Department of Defense (DOD) and other departments by assessing how and to what extent DOD has adopted commercial cloud practices, and (3) assess the opportunities for DOD to utilize cloud computing in lieu of or in addition to conventional computing.\n\nRequires the Chief Information Officer of DOD to: (1) determine the security requirements that are necessary for any cloud service to store DOD information; (2) conduct a threat-based assessment of whether security controls resident in commercial cloud services and the cloud services of other federal agencies meet DOD's security requirements; (3) require any government-owned, operated, or unique system that is or will be designed to provide cloud capabilities for DOD to be certified and accredited through the same process used for commercial service providers; (4) ensure that, as part of any DOD pilot demonstrations with commercial cloud vendors, an analysis is conducted of the Defense Information Systems Agency working with commercial service providers operating for DOD; and (5) ensure that a briefing is provided to specified congressional committees within 30 days after the conclusion of such pilot demonstrations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "DOD Cloud Security Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Comptroller General of the United States and the Chief Information Officer of the Department of Defense to assess the cloud security requirements of the Department of Defense.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:36-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4505:@@@L&summ2=m&"
+}

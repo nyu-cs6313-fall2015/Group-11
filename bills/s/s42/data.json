@@ -1,0 +1,194 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-01-22", 
+      "references": [
+        {
+          "reference": "CR S156", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-01-22", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [
+        {
+          "reference": "CR S156-157", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-10-31", 
+      "committees": [
+        "SSJU"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-10-31", 
+      "committee": "the Judiciary", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "text": "Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2013-10-31", 
+      "calendar": "Senate Legislative", 
+      "number": "233", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 233.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2013-11-04", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7799-7800", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7799-7800", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2013-11-05", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-12T14:11:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-12T20:33:00-05:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s42-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "sponsored_at": "2013-01-22", 
+      "state": "IA", 
+      "thomas_id": "00457", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-10-31", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2013-11-04", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-01-22", 
+  "number": "42", 
+  "official_title": "A bill to provide anti-retaliation protections for antitrust whistleblowers.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Criminal Antitrust Anti-Retaliation Act of 2013", 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2013-11-04", 
+  "subjects": [
+    "Administrative remedies", 
+    "Civil actions and liability", 
+    "Commerce", 
+    "Competition and antitrust", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Employment discrimination and employee rights"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2013-11-04", 
+    "text": "(This measure has not been amended since it was reported to the Senate on October 31, 2013. The summary of that version is repeated here.)\n\nCriminal Antitrust Anti-Retaliation Act of 2013 - Amends the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 to prohibit an employer from discharging, demoting, suspending, harassing, or in any other manner discriminating against an employee, contractor, subcontractor, or agent of such employer who: (1) provided information to the employer or the federal government concerning a violation of antitrust law or of another criminal law committed in conjunction with a potential violation of antitrust law or in conjunction with an antitrust investigation by the Department of Justice (DOJ); or (2) filed, testified, participated, or otherwise assisted in an investigation relating to such a violation. Excludes from such protection any individual who planned and initiated such a violation or an obstruction to the investigation of such a violation.\n\nAuthorizes an individual who alleges discharge or other discrimination by an employer in violation of such prohibition to seek relief: (1) by filing a complaint with the Secretary of Labor; or (2) if the Secretary has not issued a final decision within 180 days of such filing, by bringing an action at law or equity in the appropriate U.S. district court. Entitles an individual who prevails in any such action to all relief necessary to make such individual whole, including reinstatement with the same status, back pay plus interest, and compensation for special damages sustained."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Criminal Antitrust Anti-Retaliation Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Criminal Antitrust Anti-Retaliation Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Criminal Antitrust Anti-Retaliation Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide anti-retaliation protections for antitrust whistleblowers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:28-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN42:@@@L&summ2=m&"
+}

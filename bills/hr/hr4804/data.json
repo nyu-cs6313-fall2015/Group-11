@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-05", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 33 - 26.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4804-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-06-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-05", 
+  "number": "4804", 
+  "official_title": "To amend the Consumer Financial Protection Act of 2010 to provide requirements that must be followed by the Bureau of Consumer Financial Protection when carrying out certain examinations.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Bureau Examination Fairness Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Mulvaney, Mick", 
+    "state": "SC", 
+    "thomas_id": "02059", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-06-11", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Banking and financial institutions regulation", 
+    "Business records", 
+    "Consumer Financial Protection Bureau", 
+    "Consumer credit", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Government information and archives"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-05", 
+    "text": "Bureau Examination Fairness Act - Amends the Consumer Financial Protection Act of 2010 to prohibit the Consumer Financial Protection Bureau (CFPB) from including enforcement attorneys when examining entities under its jurisdiction.\n\nRequires the CFPB, when requesting data from such entities, to: (1) ensure that the different divisions of the CFPB coordinate with each other before the data is requested, (2) accompany each request with a written statement of its intended use, and (3) use peer-reviewed data sampling based upon limited data sets rather than requesting full data sets (unless the Director determines, in writing, that requesting full data sets is necessary).\n\nDirects the CFPB also, with respect to a data request whose cost of compliance is anticipated to exceed $50,000 per company, to give the entity the Director's written approval for the request.\n\nRequires the CFPB to: (1) complete examination field work and conduct an exit interview with the entity being examined within 60 days after the examination begins, and (2) produce a report of examination or supervisory letter within 120 days after the examination is completed.\n\nRestricts the CFPB to performing only one limited-scope examination of an entity at any one time."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bureau Examination Fairness Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Consumer Financial Protection Act of 2010 to provide requirements that must be followed by the Bureau of Consumer Financial Protection when carrying out certain examinations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4804:@@@L&summ2=m&"
+}

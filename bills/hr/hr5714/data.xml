@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="5714" updated="2015-09-01T10:21:05-04:00">
+  <state datetime="2014-12-02T12:32:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-12-02T12:32:00-05:00"/>
+  </status>
+  <introduced datetime="2014-11-14"/>
+  <titles>
+    <title type="short" as="introduced">Pest Management Records Modernization Act</title>
+    <title type="short" as="passed house">Pest Management Records Modernization Act</title>
+    <title type="official" as="introduced">To permit commercial applicators of pesticides to create, retain, submit, and convey pesticide application-related records, reports, data, and other information in electronic form.</title>
+  </titles>
+  <sponsor id="412315"/>
+  <cosponsors>
+    <cosponsor id="412317" joined="2014-11-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-11-14" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2014-12-02T12:25:00-05:00">
+      <text>Mr. Thompson (PA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-12-02T12:26:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8231-8232" label="consideration"/>
+    </action>
+    <action datetime="2014-12-02T12:26:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5714.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-12-02T12:32:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8231" label="text"/>
+    </vote>
+    <action datetime="2014-12-02T12:32:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-12-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="3001"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Business records"/>
+    <term name="Computers and information technology"/>
+    <term name="Government information and archives"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Pest management"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/2014--Passed House without amendment.
+Pest Management Records Modernization Act - Amends the Food, Agriculture, Conservation, and Trade Act of 1990 to authorize commercial applicators of pesticides to create, retain, submit, and convey a pesticide application-related record, report, data, or other information in electronic form to satisfy any federal, state, or local law.</summary>
+</bill>

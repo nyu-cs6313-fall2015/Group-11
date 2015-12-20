@@ -1,0 +1,225 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-09", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-12-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-31T15:29:00-05:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-338.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-31T15:29:00-05:00", 
+      "calendar": "Union", 
+      "number": "251", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 251.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-03-11T17:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2280-2281", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Walden moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T17:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2280-2284", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T17:33:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3675.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-11T17:47:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2281-2282", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-03-11T17:47:00-04:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-12", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3675-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "sponsored_at": "2013-12-09", 
+      "state": "IL", 
+      "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-12-10", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-03-11T17:47:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-12-09", 
+  "number": "3675", 
+  "official_title": "To amend the Communications Act of 1934 to provide for greater transparency and efficiency in the procedures followed by the Federal Communications Commission, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1989-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Federal Communications Commission Process Reform Act of 2014", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Walden, Greg", 
+    "state": "OR", 
+    "thomas_id": "01596", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-03-11T17:47:00-04:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Atmospheric science and weather", 
+    "Census and government statistics", 
+    "Congressional oversight", 
+    "Consumer affairs", 
+    "Economic performance and conditions", 
+    "Emergency communications systems", 
+    "Executive agency funding and structure", 
+    "Federal Communications Commission (FCC)", 
+    "Freedom of information", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Licensing and registrations", 
+    "Performance measurement", 
+    "Science, technology, communications", 
+    "Telecommunication rates and fees", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-03-11", 
+    "text": "Federal Communications Commission Process Reform Act of 2014 - (Sec. 2) Amends the Communications Act of 1934 to require the Federal Communications Commission (FCC) to complete a rulemaking proceeding to adopt rules establishing:\n\n minimum comment and reply periods for rulemakings; policies to ensure that the public has notice and an opportunity to respond to comments, ex parte communications, or materials submitted toward the end of, or after, the comment period; procedures for publishing the status of open rulemakings and items circulated for Commissioners' review; deadlines for public notice, and guidelines for disposition, of certain petitions; and procedures to include the specific language of proposed rules or amendments in proposed rulemaking notices. Requires performance measures to be included in notices of proposed rulemakings or orders that would create or substantially change a program activity. Defines \"program activity\" as a specific activity or project as listed in the program and financing schedules of the U.S. annual budget, including any annual collection or distribution or related series of collections or distributions by the FCC of $100 million or more. Directs the FCC to seek public comment regarding whether the FCC should: (1) establish procedures for allowing a bipartisan majority of Commissioners to place items on an open meeting agenda and for publishing in advance of such meetings the text of agenda items on which the FCC will vote; (2) establish deadlines for the disposition of certain license applications; and (3) publish orders, decisions, reports, and actions within 30 days after adoption. Requires the FCC to initiate a new rulemaking proceeding every five years to continue its consideration of procedural rule changes. Allows a bipartisan majority of Commissioners to hold a nonpublic meeting, including a meeting to collaborate with joint boards or conferences, if: (1) no votes or actions are taken, and (2) an attorney from the FCC's Office of General Counsel is present. Requires such a closed meeting to be disclosed within two business days after the meeting, along with a list of persons in attendance and a summary of discussed matters, provided that such matters are not classified or otherwise exempt from disclosure.\n\nDirects the FCC to provide on its website: (1) information regarding the FCC's budget, appropriations, and total number of full-time equivalent employees; (2) the FCC's annual performance plan; and (3) information about consumer complaints in a publicly available, searchable database.\n\nDirects the FCC to complete actions necessary for the required publication of documents in the Federal Register within specified time frames.\n\nRequires the FCC to inform the public about its performance and efficiency in meeting disclosure and other requirements under the Freedom of Information Act (FOIA), including by: (1) publishing on the FCC website its logs for managing FOIA requests and associated fees, (2) releasing decisions to grant or deny requests, and (3) presenting information about the number of FOIA requests received and granted or denied by the FCC in its annual budget estimates and annual performance and financial reports.\n\nDirects the FCC, by January 15th of each year, to publish on its website and in other required formats an anticipated release schedule for all statistical reports and reports to Congress.\n\nRequires annual reports to Congress on the FCC's performance in conducting its proceedings and meeting the deadlines and guidelines established by this Act.\n\n(Sec. 3) Prohibits the FCC, in compiling its quarterly report with respect to informal consumer inquiries and complaints, from categorizing an inquiry or complaint under the Telephone Consumer Protection Act of 1991 (places restrictions on telephone solicitations and automatic dialing systems) as a wireline or wireless inquiry or complaint unless a wireline or wireless carrier was the subject of the inquiry or complaint.\n\n(Sec. 5) Amends the Universal Service Antideficiency Temporary Suspension Act to extend through December 31, 2020, the waiver of certain limitations on: (1) expending, obligating, or apportioning appropriations with respect to federal universal service contributions collected or received under the Communications Act of 1934; and (2) expending or obligating funds attributable to such contributions for universal service support programs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Communications Commission Process Reform Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Federal Communications Commission Process Reform Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Federal Communications Commission Process Reform Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Communications Act of 1934 to provide for greater transparency and efficiency in the procedures followed by the Federal Communications Commission.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "To amend the Communications Act of 1934 to provide for greater transparency and efficiency in the procedures followed by the Federal Communications Commission, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3675:@@@L&summ2=m&"
+}

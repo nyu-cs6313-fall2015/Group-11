@@ -1,0 +1,76 @@
+<bill session="113" type="h" number="5471" updated="2015-09-01T10:21:00-04:00">
+  <state datetime="2014-12-02T14:07:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-12-02T14:07:00-05:00"/>
+  </status>
+  <introduced datetime="2014-09-15"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Commodity Exchange Act and the Securities Exchange Act of 1934 to specify how clearing requirements apply to certain affiliate transactions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400661"/>
+  <cosponsors>
+    <cosponsor id="412327" joined="2014-09-15"/>
+    <cosponsor id="412453" joined="2014-09-15"/>
+    <cosponsor id="412461" joined="2014-09-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-09-15" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2014-09-15">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-09-22">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+    </action>
+    <action datetime="2014-12-02T13:49:00-05:00">
+      <text>Mr. Luetkemeyer moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-12-02T13:49:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8240-8244" label="consideration"/>
+    </action>
+    <action datetime="2014-12-02T13:49:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5471.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-12-02T14:07:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8240" label="text"/>
+    </vote>
+    <action datetime="2014-12-02T14:07:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-12-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2014-12-10">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2014-12-10">
+      <text>Referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG16" subcommittee="General Farm Commodities and Risk Management" name="House Agriculture"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Discharged"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="4413"/>
+    <bill relation="unknown" session="113" type="h" number="5405"/>
+    <bill relation="unknown" session="113" type="s" number="2976"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Commodities markets"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/2014--Passed House without amendment.
+Amends the Commodity Exchange Act and the Securities Exchange Act of 1934 to revise the treatment of affiliate transactions that may be exempt from clearing requirements to authorize such an exemption only if the affiliate enters into the swap to hedge or mitigate the commercial risk of the person that is not a financial entity (as under current law), provided that an appropriate credit support measure or other mechanism must be used if the hedge or mitigation of commercial risk is addressed by entering into a swap with either: (1) a swap dealer or major swap participant, or (2) a security-based swap with a security- based swap dealer or major security-based swap participant.</summary>
+</bill>

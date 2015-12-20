@@ -1,0 +1,265 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-10", 
+      "references": [
+        {
+          "reference": "CR S2387", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-10", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [
+        {
+          "reference": "CR S2387", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-05-20", 
+      "committees": [
+        "SSFR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Foreign Relations. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-05-20", 
+      "committee": "Foreign Relations", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-05-20", 
+      "calendar": "Senate Legislative", 
+      "number": "381", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 381.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2014-05-21", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3243", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sres421-113", 
+  "bill_type": "sres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2014-04-29", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Burr, Richard", 
+      "sponsored_at": "2014-05-05", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Chambliss, Saxby", 
+      "sponsored_at": "2014-05-06", 
+      "state": "GA", 
+      "thomas_id": "00188", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cornyn, John", 
+      "sponsored_at": "2014-05-21", 
+      "state": "TX", 
+      "thomas_id": "01692", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "sponsored_at": "2014-05-20", 
+      "state": "GA", 
+      "thomas_id": "01608", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johanns, Mike", 
+      "sponsored_at": "2014-05-08", 
+      "state": "NE", 
+      "thomas_id": "01899", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Landrieu, Mary L.", 
+      "sponsored_at": "2014-04-10", 
+      "state": "LA", 
+      "thomas_id": "01546", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Manchin, Joe, III", 
+      "sponsored_at": "2014-05-01", 
+      "state": "WV", 
+      "thomas_id": "01983", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Moran, Jerry", 
+      "sponsored_at": "2014-05-06", 
+      "state": "KS", 
+      "thomas_id": "01507", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murkowski, Lisa", 
+      "sponsored_at": "2014-05-08", 
+      "state": "AK", 
+      "thomas_id": "01694", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "sponsored_at": "2014-05-20", 
+      "state": "FL", 
+      "thomas_id": "02084", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Shaheen, Jeanne", 
+      "sponsored_at": "2014-05-20", 
+      "state": "NH", 
+      "thomas_id": "01901", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Shelby, Richard C.", 
+      "sponsored_at": "2014-05-20", 
+      "state": "AL", 
+      "thomas_id": "01049", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-05-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-05-21", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-10", 
+  "number": "421", 
+  "official_title": "A resolution expressing the gratitude and appreciation of the Senate for the acts of heroism and military achievement by the members of the United States Armed Forces who participated in the June 6, 1944, amphibious landing at Normandy, France, and commending them for leadership and valor in an operation that helped bring an end to World War II.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Boozman, John", 
+    "state": "AR", 
+    "thomas_id": "01687", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-05-21", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Commemorative events and holidays", 
+    "Conflicts and wars", 
+    "Congressional tributes", 
+    "Europe", 
+    "France", 
+    "Historic sites and heritage areas", 
+    "Military history", 
+    "Military operations and strategy", 
+    "Military personnel and dependents"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2014-05-21", 
+    "text": "Recognizes: (1) the 70th anniversary of the Allied amphibious landing on D-Day, June 6, 1944, at Normandy, France, during World War II; and (2) the efforts of the government of France and the people of Normandy to preserve, for future generations, the unique world heritage represented by the Normandy beaches and the sunken material remains of the Normandy landing by inscribing them on the United Nations Educational, Scientific, and Cultural Organization (UNESCO) World Heritage List.\n\nExpresses appreciation to the members of the U.S. Armed Forces who participated in the D-day operations.\n\nThanks the young people of Normandy and the United States for their involvement in recognizing and celebrating the 70th Anniversary of the Normandy landings with the aim of making future generations aware of the acts of heroism and sacrifice performed by the Allied forces."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A resolution expressing the gratitude and appreciation of the Senate for the acts of heroism and military achievement by the members of the United States Armed Forces who participated in the June 6, 1944, amphibious landing at Normandy, France, and commending them for leadership and valor in an operation that helped bring an end to World War II.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:21:23-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SE421:@@@L&summ2=m&"
+}

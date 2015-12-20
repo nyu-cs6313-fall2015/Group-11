@@ -1,0 +1,64 @@
+<bill session="113" type="sr" number="312" updated="2015-09-01T10:21:21-04:00">
+  <state datetime="2014-01-09">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2014-01-09"/>
+  </status>
+  <introduced datetime="2013-12-09"/>
+  <titles>
+    <title type="official" as="introduced">A resolution calling on the government of Iran to fulfill their promises of assistance in this case of Robert Levinson, one of the longest held United States civilians in our Nation's history.</title>
+    <title type="official" as="amended by senate">A resolution urging the Government of Iran to fulfill their promises of assistance in this case of Robert Levinson, one of the longest held United States civilians in our Nation's history.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="412491" joined="2013-12-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-09" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S8572-8573" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2013-12-18" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2013-12-18">
+      <text>Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2013-12-18" calendar="Senate Legislative" under="General Orders" number="271">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 271.</text>
+    </calendar>
+    <action datetime="2014-01-09">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S259" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-01-09" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment and an amendment to the Title and an amended preamble by Unanimous Consent.</text>
+      <reference ref="CR S259" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="hr" number="435"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2638"/>
+    <amendment number="s2639"/>
+  </amendments>
+  <summary>1/9/2014--Passed Senate without amendment.
+Recognizes that Robert Levinson is one of the longest held U.S. civilians in our nation's history.
+
+ Notes recent pledges by newly appointed Iranian officials to provide their government's assistance in the Robert Levinson case.
+
+Urges Iran, as a humanitarian gesture, to intensify its cooperation in the Levinson case and to share the results of its investigation with the United States.
+
+ Urges the President and U.S. allies to continue to raise the Robert Levinson case with Iranian officials at every opportunity.
+
+ Expresses sympathy to Robert Levinson's family for their anguish and expresses hope that their ordeal can be brought to an end in the near future.</summary>
+</bill>

@@ -1,0 +1,99 @@
+<bill session="113" type="h" number="1501" updated="2015-09-01T10:19:23-04:00">
+  <state datetime="2014-04-28T17:51:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-04-28T17:51:00-04:00"/>
+  </status>
+  <introduced datetime="2013-04-11"/>
+  <titles>
+    <title type="short" as="introduced">Prison Ship Martyrs' Monument Preservation Act</title>
+    <title type="short" as="reported to house">Prison Ship Martyrs' Monument Preservation Act</title>
+    <title type="short" as="passed house">Prison Ship Martyrs' Monument Preservation Act</title>
+    <title type="official" as="introduced">To direct the Secretary of the Interior to study the suitability and feasibility of designating the Prison Ship Martyrs' Monument in Fort Greene Park, in the New York City borough of Brooklyn, as a unit of the National Park System.</title>
+  </titles>
+  <sponsor id="412561"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2013-10-11"/>
+    <cosponsor id="400087" joined="2013-04-11"/>
+    <cosponsor id="400184" joined="2013-10-11"/>
+    <cosponsor id="412559" joined="2013-11-18"/>
+    <cosponsor id="400195" joined="2013-04-11"/>
+    <cosponsor id="400209" joined="2013-10-30"/>
+    <cosponsor id="400219" joined="2013-10-11"/>
+    <cosponsor id="412521" joined="2013-10-11"/>
+    <cosponsor id="412560" joined="2013-11-18"/>
+    <cosponsor id="400333" joined="2013-10-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-11" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-04-19">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-02-26">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-03-13" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-04-01T14:49:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-392.</text>
+    </action>
+    <calendar datetime="2014-04-01T14:50:00-04:00" calendar="Union" number="291">
+      <text>Placed on the Union Calendar, Calendar No. 291.</text>
+    </calendar>
+    <action datetime="2014-04-28T17:42:00-04:00">
+      <text>Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-04-28T17:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3218-3219" label="consideration"/>
+    </action>
+    <action datetime="2014-04-28T17:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1501.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-04-28T17:51:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3218" label="text"/>
+    </vote>
+    <action datetime="2014-04-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-23">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1389"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Conflicts and wars"/>
+    <term name="Europe"/>
+    <term name="Government studies and investigations"/>
+    <term name="Military history"/>
+    <term name="Monuments and memorials"/>
+    <term name="New York City"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="United Kingdom"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2014--Passed House amended.
+Prison Ship Martyrs' Monument Preservation Act - Directs the Secretary of the Interior to study the suitability and feasibility of designating the Prison Ship Martyr's Monument in Fort Greene Park in the New York City borough of Brooklyn as a unit of the National Park System (NPS).
+
+Requires the study to include: (1) an analysis of operational issues that should be considered if the Monument were to be designated as an NPS unit; (2) an analysis of the feasibility of administering the Monument, considering its size, configuration, and other factors including an annual cost estimate; (3) an analysis of the economic, educational, and other impacts of the designation of the Monument as an NPS unit; (4) an analysis of the effect of such designation on existing commercial and recreational activities, and on the authorization, construction, operation, maintenance, or improvement of energy production and transmission infrastructure, and the authority of state and local governments to manage those activities; and (5) an identification of any authorities, including condemnation, that will compel or permit the Secretary to influence or participate in local land use decisions (such as zoning) or place restrictions on non-federal lands if the Monument is designated as an NPS unit.
+
+Requires, upon commencement of the study, owners of private property in or adjacent to the Monument to be notified of the study's commencement and scope.</summary>
+</bill>

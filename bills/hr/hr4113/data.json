@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-27", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4113-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-27", 
+  "number": "4113", 
+  "official_title": "To amend the Federal Water Pollution Control Act to direct the Administrator of the Environmental Protection Agency to consider projects involving rural communities in the selection of alternative water source projects, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2228-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Community Water Enhancement Act of 2014", 
+  "sponsor": {
+    "district": "9", 
+    "name": "McNerney, Jerry", 
+    "state": "CA", 
+    "thomas_id": "01832", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-02-27", 
+  "subjects": [
+    "Environmental protection", 
+    "Rural conditions and development", 
+    "Water quality", 
+    "Water resources funding", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-02-27", 
+    "text": "Community Water Enhancement Act of 2014 - Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to require the Administrator of the Environmental Protection Agency (EPA), in making grants under the pilot program for alternative water source projects to meet critical water supply needs, to consider the location and benefits of projects in rural communities (including whether the area is served by a public water system with fewer than 3,000 connections or is located in an area with no public water system).\n\nIncludes among such projects: (1) the conjunctive management of groundwater supplies by delivery of surface water instead of groundwater, and (2) water treatment or distribution facilities if the project requires such facilities to deliver the alternative water supply. Authorizes funding for the program through FY2018."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Community Water Enhancement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Water Pollution Control Act to direct the Administrator of the Environmental Protection Agency to consider projects involving rural communities in the selection of alternative water source projects, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-09-01T10:20:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4113:@@@L&summ2=m&"
+}
