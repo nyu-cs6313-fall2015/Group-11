@@ -1,4 +1,4 @@
-var margin = { top: 20, right: 50, bottom: 100, left: 100 },
+var margin = { top: 35, right: 50, bottom: 100, left: 85 },
           width = 450 - margin.left - margin.right,
           height = 450 - margin.top - margin.bottom, scatterplot2;
 
@@ -50,15 +50,15 @@ function sc(width, height, margin, data)
             _this=this;
             // setup x
             this.xValue = function(d) { return d.moneyGivenInSupport == 0 ? d.moneyGivenInSupport + 0 : d.moneyGivenInSupport;}; // data -> value
-            this.xScale = d3.scale.linear().range([0,width]); // value -> display
+            this.xScale = d3.scale.log().range([0,width]);
             this.xMap = function(d) { return this.xScale(this.xValue(d));}.bind(this); // data -> display
-            this.xAxis = d3.svg.axis().scale(this.xScale).orient("bottom").tickFormat(function(d){return "$" + +d/1000 + "k"});
+            this.xAxis = d3.svg.axis().scale(this.xScale).orient("bottom").ticks(5, ",.1s").tickSize(6, 0);
 
             // setup y
             this.yValue = function(d) { return d.moneySpentInOppose == 0 ? d.moneySpentInOppose + 0 : d.moneySpentInOppose;}; // data -> value
-            this.yScale = d3.scale.linear().range([height, 0]), // value -> display
+            this.yScale = d3.scale.log().range([height, 0]),
             this.yMap = function(d) { return this.yScale(this.yValue(d));}.bind(this), // data -> display
-            this.yAxis = d3.svg.axis().scale(this.yScale).orient("left").tickFormat(function(d){return "$" + +d/1000 + "k"});
+            this.yAxis = d3.svg.axis().scale(this.yScale).orient("left").ticks(5, ",.1s").tickSize(6, 0);
 
             // setup fill color
             this.cValue = function(d) { return d.legVote;};
