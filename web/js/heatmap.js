@@ -1,6 +1,6 @@
-var margin = { top: 40, right: 20, bottom: 100, left: 70 },
-          width = 300 - margin.left - margin.right,
-          height = 300 - margin.top - margin.bottom, scatterplot2;
+var margin = { top: 10, right: 20, bottom: 100, left: 70 },
+          width = 450 - margin.left - margin.right,
+          height = 450 - margin.top - margin.bottom, scatterplot2;
 
 function loadHeatMapData(tsvFile) {
         d3.csv('/proxy.php?url='+tsvFile,
@@ -91,7 +91,7 @@ function sc(width, height, margin, data)
               .attr("class", "label")
               .attr("transform", "rotate(-90)")
               .attr("x", -width/2)
-              .attr("y", -60)
+              .attr("y", -80)
               .attr("dy", ".71em")
               .style("text-anchor", "middle")
               .text("Funding From Opposers");
