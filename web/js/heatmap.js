@@ -1,4 +1,5 @@
 var margin = { top: 40, right: 20, bottom: 100, left: 70 },
+	  width = 600 - margin.left - margin.right,
           height = 600 - margin.top - margin.bottom;
 
 function loadHeatMapData(tsvFile) {
