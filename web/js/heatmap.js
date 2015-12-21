@@ -52,14 +52,14 @@ function sc(width, height, margin, data)
             this.xValue = function(d) { return d.moneyGivenInSupport == 0 ? d.moneyGivenInSupport + 0 : d.moneyGivenInSupport;}; // data -> value
             this.xScale = d3.scale.linear().range([0,width]); // value -> display
             this.xMap = function(d) { return this.xScale(this.xValue(d));}.bind(this); // data -> display
-            this.xAxis = d3.svg.axis().scale(this.xScale).orient("bottom").tickFormat(function(d){return "$" + +d/1000 + "k"});
+            this.xAxis = d3.svg.axis().scale(this.xScale).orient("bottom").tickFormat(function(d){return "$" + +d/1000000 + "M"});
 
 
             // setup y
             this.yValue = function(d) { return d.moneySpentInOppose == 0 ? d.moneySpentInOppose + 0 : d.moneySpentInOppose;}; // data -> value
             this.yScale = d3.scale.linear().range([height, 0]), // value -> display
             this.yMap = function(d) { return this.yScale(this.yValue(d));}.bind(this), // data -> display
-            this.yAxis = d3.svg.axis().scale(this.yScale).orient("left").tickFormat(function(d){return "$" + +d/1000 + "k"});
+            this.yAxis = d3.svg.axis().scale(this.yScale).orient("left").tickFormat(function(d){return "$" + +d/1000000 + "M"});
 
             // setup fill color
             this.cValue = function(d) { return d.legVote;};
