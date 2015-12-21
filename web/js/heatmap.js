@@ -35,7 +35,6 @@ function transformData(data)
                         ORDER BY 1 ASC',[supported, opposed]);
     
     var partyFilter = loadFilter2('#partyFilter', function(e, d) {return d.party == e.party;}, function(d){return d.party}, 'party');
-    scatterplot.init(width, height, margin);
     partyFilter.init();
     partyFilter.onDataUpdate(fres);
    
