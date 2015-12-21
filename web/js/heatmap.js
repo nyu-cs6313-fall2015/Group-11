@@ -1,6 +1,6 @@
 var margin = { top: 40, right: 20, bottom: 100, left: 70 },
-          width = 500 - margin.left - margin.right,
-          height = 500 - margin.top - margin.bottom;
+          width = 300 - margin.left - margin.right,
+          height = 300 - margin.top - margin.bottom;
 
 function loadHeatMapData(tsvFile) {
         d3.csv('/proxy.php?url='+tsvFile,
