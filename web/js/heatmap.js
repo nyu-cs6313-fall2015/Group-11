@@ -70,7 +70,7 @@ function sc(width, height, margin, data)
             // setup fill color
             this.cValue = function(d) { return d.legVote;};
             this.color = d3.scale.category10()
-                .range(["#22BF04", "#8C3F11"]);
+                .range(["#22BF04", "#181FCA"]);
 
             this.svg =d3.select("#chart").append("svg")
                 .attr("width", width + margin.left + margin.right)
