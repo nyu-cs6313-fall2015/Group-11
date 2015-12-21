@@ -1,6 +1,6 @@
 var margin = { top: 40, right: 20, bottom: 100, left: 70 },
-          width = 300 - margin.left - margin.right,
-          height = 300 - margin.top - margin.bottom;
+          width = 600 - margin.left - margin.right,
+          height = 600 - margin.top - margin.bottom, scatterplot2;
 
 function loadHeatMapData(tsvFile) {
         d3.csv('/proxy.php?url='+tsvFile,
@@ -34,13 +34,18 @@ function transformData(data)
                         FROM ? AS Supported OUTER JOIN ? AS Opposed on Supported.leg = Opposed.leg \
                         ORDER BY 1 ASC',[supported, opposed]);
 
+    var partyFilter = loadFilter2('#partyFilter', function(e, d) {return d.party == e.party;}, function(d){return d.party}, 'party');
+    partyFilter.init();
+    partyFilter.onDataUpdate(fres);
+
     sc(width, height, margin, fres);
 
 }
 
 function sc(width, height, margin, data)
 {
-    var scatterplot2 = {
+    // var scatterplot2 = {
+    scatterplot2 = {
         init: function(width, height, margin) {
             _this=this;
             // setup x
@@ -92,6 +97,8 @@ function sc(width, height, margin, data)
               .text("Funding From Opposers");
 
           // diagonal line
+          // this.diagonal = this.svg.append("line")
+
           this.diagonal = this.svg.append("line")
             .attr("x1", 0)
             .attr("y1", 0)
@@ -157,6 +164,13 @@ function sc(width, height, margin, data)
                 .attr("data-style-padding",10)
                 .call(d3.legend)
             },1000);*/
+    //     }
+    // };
+
+        },
+        removeLegends: function()
+        {
+            this.svg.selectAll("g.legend").remove();
         }
     };
 
@@ -169,4 +183,56 @@ function getKey(d,KeyStr)
 {
     var cl = _.find(Object.keys(d),function(key){ return _.startsWith(key, KeyStr);});
     return d[cl];
+}
+
+
+function loadFilter2(filterId, filterFn, filterValueFn, filterName)
+{
+    return {
+        init: function() {
+            this.list = d3.select(filterId);
+        },
+
+        getElement: function(d){
+            return this.list.selectAll("option").filter(filterFn);
+        },
+
+        onDataUpdate :function(data) {
+            this.selection = this.list.selectAll("option").data(data, filterValueFn);
+            this.selection.enter().append("option").text(filterValueFn).attr('value', filterValueFn);
+
+            //this.selection.on('click', function(d){dispatcher.notify('click',d);});
+
+            this.selection.exit().remove();
+
+            $(function(){
+                $(filterId).multipleSelect({
+                    placeholder: 'Search',
+                    filter: true,
+                    onClick:function() {
+                        this.filteredData = _.findByValues(data,filterName, $(filterId).multipleSelect('getSelects'));
+                        scatterplot2.removeLegends();
+                        scatterplot2.onDataUpdate(this.filteredData);
+
+                    },
+                    onCheckAll : function(){
+                        scatterplot2.removeLegends();
+                        scatterplot2.onDataUpdate(data);
+                    },
+                    onUncheckAll :function(){
+                        scatterplot2.removeLegends();
+                        scatterplot2.onDataUpdate({});
+
+                    }
+                });
+
+                $(filterId).multipleSelect('checkAll');
+            });
+        },
+
+        mouseover : function(d){},
+        mousemove : function(d){},
+        mouseout : function(d){},
+        click : function(d){}
+    };
 }
