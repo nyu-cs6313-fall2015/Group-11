@@ -1,0 +1,50 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="container-fluid" style="padding-left: 40px;">
+  <div class="row">
+    <div class="col-md-12" id="myGroup">
+      <strong> Bill Vote Outcomes & Campaign Funding </strong> | Senate Session 113
+      <button type="button" class="filter btn btn-link" data-toggle="collapse" data-target="#filters" style="padding-left: 10px;">
+       <span class="glyphicon glyphicon-collapse-down"></span> Filters
+      </button>
+      <button type="button" class="howTo btn btn-link" data-toggle="collapse" data-target="#howto" style="padding-left: 10px;">
+       <span class="glyphicon glyphicon-collapse-down"></span> How To Read The Visualization
+      </button>
+      <div id="howto" class="collapse indent">
+        <p><strong>For the graph on the left: </strong>Each circle represents a bill. The color indicates whether the bill was passed, not passed, or unopposed (passed unanimously). The Y-axis is the amount of funding legislators in total received from organizations that opposed the bill and the X-axis indicates the amount from supporters. </p>
+        <p><strong>For the graph on the right: </strong>The graph on the right provides a details for the selected bill. Each circle represents a legislator. The color indicates whether the voted in favor of their funders who supported the bill or opposed the bill.</p>
+      </div>
+      <div id="filters" class="collapse" style="padding-top: 10px;">
+        <label style="font-weight: normal" class="control-label">Bill</label>
+        <select id='billFilter' class="" style="width: 120px;" multiple="multiple"></select>
+        <label style="font-weight: normal" class="control-label">Bill Status</label>
+        <select id='billStatusFilter' class="" style="width: 120px;" multiple="multiple"></select>
+        <label style="font-weight: normal" class="control-label">Bill Type</label>
+        <select id='billTypeFilter' class="" style="width: 120px;" multiple="multiple"></select>
+     </div>
+    </div>
+  </div>
+  <hr>
+</div>
+
+<div class="container-fluid" style="padding-left: 40px;">
+  <div class="row">
+      <div class="col-md-6">
+        <!-- <p> truInfluence is a web based data visualization that provides a holistic view of federal campaign financing influence on the political system. </p> -->
+        <div sv='#scatterplot'>
+            <svg></svg>
+        </div>
+        <div id="infoDiv" class="info" style="padding-bottom: 25px; padding-top: 5px; visibility: hidden;">
+          <div style="font-size:24px">Bill - <span id="BillName"></span></div>
+          <span id="BillStatus"></span><br>
+          <span id="InSupport"></span> From Funders Who Support<br>
+          <span id="InOppose"></span> From Funders Who Oppose
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div id="chart" style="height:600px; width:600px; overflow:auto;"></div>
+      </div>
+</div>
+
+{% endblock %}
