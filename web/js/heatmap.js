@@ -50,15 +50,15 @@ function sc(width, height, margin, data)
             _this=this;
             // setup x
             this.xValue = function(d) { return d.moneyGivenInSupport == 0 ? d.moneyGivenInSupport + 0 : d.moneyGivenInSupport;}; // data -> value
-            this.xScale = d3.scale.log().range([0,width]);
+            this.xScale = d3.scale.linear().range([0,width]); // value -> display
             this.xMap = function(d) { return this.xScale(this.xValue(d));}.bind(this); // data -> display
-            this.xAxis = d3.svg.axis().scale(this.xScale).orient("bottom").ticks(5, ",.1s").tickSize(6, 0);
+            this.xAxis = d3.svg.axis().scale(this.xScale).orient("bottom").tickFormat(function(d){return "$" + +d/1000 + "k"});
 
             // setup y
             this.yValue = function(d) { return d.moneySpentInOppose == 0 ? d.moneySpentInOppose + 0 : d.moneySpentInOppose;}; // data -> value
-            this.yScale = d3.scale.log().range([height, 0]),
+            this.yScale = d3.scale.linear().range([height, 0]), // value -> display
             this.yMap = function(d) { return this.yScale(this.yValue(d));}.bind(this), // data -> display
-            this.yAxis = d3.svg.axis().scale(this.yScale).orient("left").ticks(5, ",.1s").tickSize(6, 0);
+            this.yAxis = d3.svg.axis().scale(this.yScale).orient("left").tickFormat(function(d){return "$" + +d/1000 + "k"});
 
             // setup fill color
             this.cValue = function(d) { return d.legVote;};
@@ -100,10 +100,10 @@ function sc(width, height, margin, data)
           // this.diagonal = this.svg.append("line")
 
           this.diagonal = this.svg.append("line")
-            .attr("x1", 0)
+            .attr("x1", 450)
             .attr("y1", 0)
-            .attr("x2", 100)
-            .attr("y2", 100)
+            .attr("x2", 0)
+            .attr("y2", 450)
             .attr("stroke-width", 2)
             .attr("stroke", "grey")
             .attr("stroke-dasharray", "2")
@@ -154,7 +154,7 @@ function sc(width, height, margin, data)
 
             this.legend = this.svg.append("g")
               .attr("class","legend")
-              .attr("transform","translate(360,390)")
+              .attr("transform","translate(360,0)")
               .style("font-size","12px")
               .call(d3.legend);
 
