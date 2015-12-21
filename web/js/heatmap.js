@@ -1,4 +1,4 @@
-var margin = { top: 35, right: 85, bottom: 100, left: 85 },
+var margin = { top: 35, right: 0, bottom: 100, left: 85 },
           width = 450 - margin.left - margin.right,
           height = 450 - margin.top - margin.bottom, scatterplot2;
 
