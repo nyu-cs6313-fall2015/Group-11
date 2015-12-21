@@ -1,4 +1,4 @@
-var margin = { top: 35, right: 35, bottom: 100, left: 85 },
+var margin = { top: 40, right: 40, bottom: 100, left: 85 },
           width = 450 - margin.left - margin.right,
           height = 450 - margin.top - margin.bottom, scatterplot2;
 
@@ -70,7 +70,7 @@ function sc(width, height, margin, data)
             // setup fill color
             this.cValue = function(d) { return d.legVote;};
             this.color = d3.scale.category10()
-                .range(["#D63A32", "#0A417C"]);
+                .range(["#22BF04", "#8C3F11"]);
 
             this.svg =d3.select("#chart").append("svg")
                 .attr("width", width + margin.left + margin.right)
@@ -161,7 +161,7 @@ function sc(width, height, margin, data)
 
             this.legend = this.svg.append("g")
               .attr("class","legend")
-              .attr("transform","translate(280,0)")
+              .attr("transform","translate(280,290)")
               .style("font-size","12px")
               .call(d3.legend);
 
