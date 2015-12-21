@@ -161,7 +161,7 @@ function sc(width, height, margin, data)
 
             this.legend = this.svg.append("g")
               .attr("class","legend")
-              .attr("transform","translate(280,240)")
+              .attr("transform","translate(280,270)")
               .style("font-size","12px")
               .call(d3.legend);
 
