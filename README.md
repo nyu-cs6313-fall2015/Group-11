@@ -15,9 +15,7 @@ The difficulty in finding correlations in the dense data that exist is a problem
 http://www.youtube.com/watch?v=9JYbff-fTZA
 
 <h3>Live Demo</h3>
-
 https://truinfluence.herokuapp.com/
 
-<h3>Final Report</h3>
+<h3>Final Documentation</h3>
 
-<h3>The Data</h3>
