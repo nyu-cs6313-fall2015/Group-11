@@ -259,12 +259,12 @@ function loadVisualization() {
               .style("font-size","12px")
               .call(d3.legend);
 
-            setTimeout(function() {
-              this.legend = this.svg.append("circle")
-                .style("font-size","20px")
-                .attr("data-style-padding",10)
-                .call(d3.legend)
-            },1000);
+            // setTimeout(function() {
+            //   this.legend = this.svg.append("circle")
+            //     .style("font-size","20px")
+            //     .attr("data-style-padding",10)
+            //     .call(d3.legend)
+            // },1000);
         }
     };
 
