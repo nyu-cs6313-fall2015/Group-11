@@ -1,6 +1,6 @@
 var margin = { top: 40, right: 20, bottom: 100, left: 70 },
-          width = 600 - margin.left - margin.right,
-          height = 600 - margin.top - margin.bottom;
+          width = 500 - margin.left - margin.right,
+          height = 500 - margin.top - margin.bottom;
 
 function loadHeatMapData(tsvFile) {
         d3.csv('/proxy.php?url='+tsvFile,
@@ -25,17 +25,17 @@ function transformData(data)
                         FROM ? \
                         GROUP BY leg, party, legVote, igSupported \
                         ORDER BY leg ASC',[data]);
-    
+
     var supported = _.filter(res,{'igSupported': 'Support'});
     var opposed = _.filter(res,{'igSupported': 'Oppose'});
-    
-    
+
+
     var fres = alasql('SELECT COALESCE(Supported.leg,Opposed.leg) as leg, COALESCE(Supported.party,Opposed.party) as party, COALESCE(Supported.legVote,Opposed.legVote) as legVote, COALESCE(Supported.money,0) as moneyGivenInSupport, COALESCE(Opposed.money,0) as moneySpentInOppose \
                         FROM ? AS Supported OUTER JOIN ? AS Opposed on Supported.leg = Opposed.leg \
                         ORDER BY 1 ASC',[supported, opposed]);
-   
+
     sc(width, height, margin, fres);
-    
+
 }
 
 function sc(width, height, margin, data)
@@ -158,8 +158,8 @@ function sc(width, height, margin, data)
                 .call(d3.legend)
             },1000);*/
         }
-    };   
-    
+    };
+
     scatterplot2.init(width, height, margin);
     scatterplot2.onDataUpdate(data);
 }
