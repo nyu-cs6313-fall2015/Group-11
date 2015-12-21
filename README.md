@@ -2,7 +2,7 @@
 <p>Ayanna Seals, Bijil Babu, Janhavi Bagwe</p>
 
 <h3>Screenshot</h3>
-https://drive.google.com/uc?export=view&id=0BwfofHuPcxWQenRVMHdHRFRBVXc"
+<img src="https://drive.google.com/uc?export=view&id=0BwfofHuPcxWQenRVMHdHRFRBVXc"></img>
 
 <h3>Description</h3>
 
