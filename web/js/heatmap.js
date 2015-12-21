@@ -1,4 +1,4 @@
-var margin = { top: 35, right: 50, bottom: 100, left: 85 },
+var margin = { top: 35, right: 100, bottom: 100, left: 85 },
           width = 450 - margin.left - margin.right,
           height = 450 - margin.top - margin.bottom, scatterplot2;
 
@@ -102,8 +102,8 @@ function sc(width, height, margin, data)
 
           this.diagonal = this.svg.append("line")
             .attr("x1", 370)
-            .attr("y1", 0)
-            .attr("x2", 0)
+            .attr("y1", 35)
+            .attr("x2", 35)
             .attr("y2", 370)
             .attr("stroke-width", 2)
             .attr("stroke", "grey")
