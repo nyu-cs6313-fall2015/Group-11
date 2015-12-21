@@ -1,4 +1,4 @@
-var margin = { top: 35, right: 200, bottom: 100, left: 85 },
+var margin = { top: 35, right: 85, bottom: 100, left: 85 },
           width = 450 - margin.left - margin.right,
           height = 450 - margin.top - margin.bottom, scatterplot2;
 
@@ -155,7 +155,7 @@ function sc(width, height, margin, data)
 
             this.legend = this.svg.append("g")
               .attr("class","legend")
-              .attr("transform","translate(360,0)")
+              .attr("transform","translate(280,0)")
               .style("font-size","12px")
               .call(d3.legend);
 
