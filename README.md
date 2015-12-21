@@ -2,7 +2,7 @@
 <p>Ayanna Seals, Bijil Babu, Janhavi Bagwe</p>
 
 <h3>Screenshot</h3>
-http://truinfluence.herokuapp.com/web/views/truInfluence.png
+https://drive.google.com/uc?export=view&id=0BwfofHuPcxWQenRVMHdHRFRBVXc"
 
 <h3>Description</h3>
 
