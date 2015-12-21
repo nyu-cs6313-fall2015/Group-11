@@ -12,6 +12,7 @@ Exploring a candidate’s campaign funding’s influence on the political system
 The difficulty in finding correlations in the dense data that exist is a problem for individuals, activists, researchers, and journalist who are interested in exploring the topic and creating legislation to protect the system against potential corruption. Solving this problem is important because it would help researchers analyze with quantitative data if the issue is real and serious enough to attempt to fix, as well as provide an interface to later measure if the solutions are effective. The goal of truInfluence is to create a data visualization that serves this purpose.
 
 <h3>Video</h3>
+http://www.youtube.com/watch?v=9JYbff-fTZA
 
 <h3>Live Demo</h3>
 
