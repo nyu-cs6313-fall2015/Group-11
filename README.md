@@ -19,6 +19,6 @@ http://www.youtube.com/watch?v=9JYbff-fTZA
 http://truinfluence.herokuapp.com/
 
 <h3>Final Report</h3>
-[here](http://truinfluence.herokuapp.com/web/views/truInfluence.pdf).
+https://drive.google.com/file/d/0B0tiOZdBrlMVN2VGRlVpLWd2RjQ/view?usp=sharing
 
 <h3>The Data</h3>
