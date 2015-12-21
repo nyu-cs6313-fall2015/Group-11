@@ -70,7 +70,7 @@ function sc(width, height, margin, data)
             // setup fill color
             this.cValue = function(d) { return d.legVote;};
             this.color = d3.scale.category10()
-                .range(["#22BF04", "#181FCA"]);
+                .range(["#22BF04", "#181FCA", "#000000" ]);
 
             this.svg =d3.select("#chart").append("svg")
                 .attr("width", width + margin.left + margin.right)
@@ -161,7 +161,7 @@ function sc(width, height, margin, data)
 
             this.legend = this.svg.append("g")
               .attr("class","legend")
-              .attr("transform","translate(280,290)")
+              .attr("transform","translate(280,240)")
               .style("font-size","12px")
               .call(d3.legend);
 
